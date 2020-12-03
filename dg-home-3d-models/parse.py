@@ -6,6 +6,7 @@ import json
 import time
 from pprint import pprint
 from os import mkdir
+from os import listdir
 # import cssutils
 from datetime import datetime
 from time import sleep
@@ -20,24 +21,13 @@ firefox_profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'fal
 driver = webdriver.Firefox(firefox_profile=firefox_profile)
 # driver = webdriver.Firefox()
 
-
-
-
-#todo Спарсить все ссылки на погрузчики
-
-#! БЛОКИ НА ПАРСИНГ:
-#! Категория
-#! Главное фото
-#! Описание
-#! Цена
-#! Характеристики HTML
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('wb')
 
 now = datetime.now()
 current_time = now.strftime("%y%m%d-%H0000")
 print('TIME: ' + current_time)
+
 
 class Client:
 	ParseResult = {
@@ -230,6 +220,12 @@ class Client:
 				print(e)
 
 if __name__ == '__main__':
+	# получаем список имен скачанных файлов
+	dl_files_list = listdir('./download')
+	print(dl_files_list)
+	exit()
+
+
 	# Берем json из файла и загоняем в словарь
 	user_login = 'mamirov3d+dg-home.ru@gmail.com'
 	user_psw = 'xbQI7240'

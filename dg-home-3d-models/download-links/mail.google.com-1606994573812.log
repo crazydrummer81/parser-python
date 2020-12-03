@@ -1,19 +1,4 @@
-links = document.querySelectorAll('a');
-
-res = [];
-resStr = '';
-
-links.forEach(link => {
-	// console.log(link.innerText.toLowerCase().indexOf('скачать'));
-	if (link.innerText.toLowerCase().indexOf('скачать') >= 0) {
-		res.push(link.getAttribute('href'));
-		resStr += link.getAttribute('href') + '\n';
-	}
-});
-
-// console.log(res);
-console.log(resStr)
-VM17423:15 https://files.dg-home.ru/process/3d-download.php?time=1607052786&code=mebel&article=050187&h3d=f62db4d2b60f46bdbb1a315589fb4af5&h=538bd46d5329fcb14b9f68c865e4f080
+https://files.dg-home.ru/process/3d-download.php?time=1607052786&code=mebel&article=050187&h3d=f62db4d2b60f46bdbb1a315589fb4af5&h=538bd46d5329fcb14b9f68c865e4f080
 https://files.dg-home.ru/process/3d-download.php?time=1607052810&code=mebel&article=050039&h3d=6b9e562cf20948e0b28380b4b7abfb2d&h=6ec29205ba9cf21790dcc61f52a045f8
 https://files.dg-home.ru/process/3d-download.php?time=1607052802&code=mebel&article=050124&h3d=f5de44774f5748efaf35936305580acd&h=de9c57d7fde221a242f5ccd8817de6b8
 https://files.dg-home.ru/process/3d-download.php?time=1607052842&code=mebel&article=049983&h3d=6088099d60cc453fa109fdff2ede5cd0&h=22515ffb9b5d9bed189d1d0d4538da17
@@ -88,5 +73,3 @@ https://files.dg-home.ru/process/3d-download.php?time=1607071155&code=mebel&arti
 https://files.dg-home.ru/process/3d-download.php?time=1607071199&code=mebel&article=050795&h3d=0f06eb7ca66f440e8980a977ebbc7e31&h=37f339f4a2346b2809cf9aa2f4e4c6ba
 https://files.dg-home.ru/process/3d-download.php?time=1607071181&code=mebel&article=123500&h3d=9b0bb303f8f149fd8312710ba1fcbc63&h=5c2860d0ac0b4ae6179125b380b770dc
 https://files.dg-home.ru/process/3d-download.php?time=1607071234&code=mebel&article=192147&h3d=19c63cc90cad43d6ab87529be809caa5&h=cd4e8a63b930f320425d398c1fa95653
-
-undefined
