@@ -1,0 +1,100 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-huawei-wal-ct025-freebuds-3i-ceramic-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-syb/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "HUAWEI"
+  ],
+  "product_name": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)",
+  "product_code": "260001614",
+  "product_price": {
+    "full": 59990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f3/f3ce4132-b065-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4132-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4133-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4134-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4135-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4136-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4137-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4138-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce4139-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce413a-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Ceramic White)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Радиус действия в помещении, м": "10",
+      "Совместимость со смартфономи": "Android / iOS",
+      "Диаметр мембран, мм": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "1 час 40 мин",
+      "Время в режиме разговора, ч": "3,5",
+      "Емкость аккумулятора, мАч": "37",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.011"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

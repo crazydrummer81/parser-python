@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-lightning-to-usb-c-cable-2-m-mkq42zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона APPLE Lightning to USB-C Cable 2 m (MKQ42ZM/A)",
+  "product_code": "260000582",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5c/5cfab584-83a7-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 2 m (MKQ42ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5c/5cfab584-83a7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 2 m (MKQ42ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5c/5cfab585-83a7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 2 m (MKQ42ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5c/5cfab586-83a7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 2 m (MKQ42ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "2",
+      "Штекер": "Lightning / USB Type C"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

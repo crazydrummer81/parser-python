@@ -1,0 +1,107 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-prestigio-muze-h5-lte-psp5523-black/",
+  "product_category": {
+    "name": "PRESTIGIO",
+    "url": "/section/prestigio-ajb/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black",
+  "product_code": "83338",
+  "product_price": {
+    "full": 29890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/62/6293da5c-ddbe-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da5c-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da5d-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da5e-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da5f-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da60-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/6293da61-ddbe-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый PRESTIGIO Muze H5 LTE (PSP5523) Black"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6739",
+      "Процессор, (МГц, количество ядер)": "1300 МГц, 4 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,2 (13,2 см)",
+      "Разрешение дисплея, пикс": "1280х720",
+      "Сенсорный дисплей": "да"
+    },
+    "Память": {
+      "Встроенная память, Гб": "16",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Типы передачи данных": {
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "есть",
+      "Wi-Fi": "есть",
+      "GPS": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13 + 0.3",
+      "Режим видеосъемки": "есть",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "2500",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Сканер отпечатка пальца": "есть"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "13.8х7.2х0.9",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.15"
+    },
+    "Разное": {
+      "Бренд": "PRESTIGIO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "зарядное устройство/USB-кабель/защитная пленка"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y5-2019-amber-brown/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "HUAWEI"
+  ],
+  "product_name": "Телефон сотовый HUAWEI Y5 2019 (amber brown)",
+  "product_code": "81637",
+  "product_price": {
+    "full": 54890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5e/5e891852-7ab2-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891852-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891853-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891854-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891855-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891856-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891857-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891858-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891859-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891862-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5e/5e891863-7ab2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6761",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 4 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,71 (14,5 см)",
+      "Разрешение дисплея, пикс": "1520х720",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13",
+      "Режим видеосъемки": "1920 x 1080 30 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": "f/2.2",
+      "Особенности тыловой камеры": "f/1.8/ автофокус/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3020",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Cканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,7х7,1х0,84",
+      "Цвет": "коричневый",
+      "Вес без упаковки (нетто), кг": "0.146"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "Y5 2019 ",
+      "Комплектация": "зарядное устройство/USB-кабель "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/1c0/1c04dba3024bbc9deef6df1f74d10ec4.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\">5,71-дюймовый дисплей из искусственной кожи с каплями росы</h3> <p style=\"text-align: center;\"> </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/051/051edf62389ebcddab290289ae1d9aba.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"> Посмотреть большой мир</h3> <p style=\"text-align: center;\"> HUAWEI Y5 2019 демонстрирует дизайн, вдохновленный природой, на 5,71-дюймовом дисплее Росинка drop . Красивый, яркий экран с широким соотношением экрана к телу 84,6% демонстрирует большой мир для ваших развлечений или игровых потребностей. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/9de/9de9b5ff411f04e587c867c443e6b269.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Так же уникален, как и вы</h3> <p style=\"text-align: center;\"> Отделка из искусственной кожи на HUAWEI Y5 2019 приятно держать и трогать. Этот экологически чистый материал - это сочетание функциональности и искусства. Вы можете почувствовать уровень мастерства в искусственной коже и увидеть красоту соединения моды с технологиями. И этот материал также защищен от отпечатков пальцев, износостойкий и грязный, так что вы можете меньше беспокоиться и наслаждаться жизнью. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/7d6/7d6442037b013414fe281473258e8ab6.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Зажги свои моменты</h3> <p style=\"text-align: center;\"> Ваша фотография будет освещена на 50% больше света на объективе с большой диафрагмой f / 1,8 в основной камере 13 Мп. Запечатлейте лучшие моменты с большей ясностью и наблюдайте более четкие детали на всех ваших фотографиях. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a22/a22ed277e36aab11340c3eb1dd043c4a.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Сохраните ваши воспоминания</h3> <p style=\"text-align: center;\"> Внутренний 32 ГБ ROM хранения обеспечивает больше места для музыки, фотографий и приложения. Вы можете хранить то, что хотите, и собирать свои воспоминания с большим объемом памяти. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ebb/ebbc3aecd6d799d33f5c2e357fa0ab34.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Более уверенные Селфи</h3> <p style=\"text-align: center;\"> Будьте уверены в своих селфи с HUAWEI Y5 2019. Эта тонизирующая фотовспышка для селфи с 5 Мп камерой улучшит ваше лицо, чтобы выглядеть лучше. Ваши потрясающие селфи покажут вашу естественную красоту на каждой фотографии с помощью функции Smart Beauty. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/958/9582e33d99e40ca38dff3fe5c5134fa8.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Быть признанным быстрее</h3> <p style=\"text-align: center;\"> HUAWEI Y5 2019 автоматически начнет распознавать ваше лицо, как только вы поднимите трубку. Используя 1024 точек черты лица, чтобы разумно нанести на карту ваше лицо, вы можете удобно разблокировать ваше устройство за считанные секунды, даже при слабом освещении. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/954/954295f736e0e6182faff4aa6d0553a9.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Многозадачность с легкостью</h3> <p style=\"text-align: center;\"> EMUI 9.0 в сочетании с усовершенствованным Android 9 обеспечивает повышение скорости работы системы и интеллектуальный диспетчер телефона для более плавной работы. Кроме того, HUAWEI Y5 2019 оснащен 12-нм чипсетом, чтобы быть умнее и эффективнее, чем предыдущее поколение. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d7f/d7f51db5780a44e59727da5b20101a85.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h2></h2> <h3 style=\"text-align: center;\">Продолжительное веселье</h3> <p style=\"text-align: center;\"> Большая батарея емкостью 3020 мАч и интеллектуальная технология энергосбережения обеспечивают больше времени для развлечений и игр. HUAWEI Y5 2019 обеспечивает до 16 часов воспроизведения видео, до 74 часов для прослушивания музыки и до 10 часов для просмотра 4G в Интернете. </p> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a1a/a1aca185e8f7728705f90cd718ded3fc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Давайте начнем вечеринку</h3> <p style=\"text-align: center;\"> Функция режима вечеринки позволяет вам создавать вечеринки или присоединяться к ним в любое время и в любом месте. Вы можете настроить разные телефоны Huawei на одновременное воспроизведение одной и той же песни, чтобы получить уникальный трюк для вечеринки, который непременно впечатлит. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/672/6729ed6fd8e910ff1c0de92f4e9b9075.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Двойная SIM-карта,больше доступности</h3> <p style=\"text-align: center;\"> Уникальный независимый дизайн трехслойного слота позволяет использовать две SIM-карты и поддерживает карты Micro SD объемом до 512 ГБ. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/213/213c262eb6cbb81d5500302b4853b0f6.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h2></h2> <h3 style=\"text-align: center;\">Сертифицировано для Eye Comfort</h3> <p style=\"text-align: center;\"> HUAWEI Y5 2019 заботится о ваших глазах с помощью режима Eye Comfort, который обеспечивает более комфортное чтение. И экран сертифицирован TÜV Rheinland, чтобы блокировать вредный синий свет. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/1c0/1c04dba3024bbc9deef6df1f74d10ec4.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/051/051edf62389ebcddab290289ae1d9aba.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/9de/9de9b5ff411f04e587c867c443e6b269.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/7d6/7d6442037b013414fe281473258e8ab6.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/a22/a22ed277e36aab11340c3eb1dd043c4a.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/ebb/ebbc3aecd6d799d33f5c2e357fa0ab34.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/958/9582e33d99e40ca38dff3fe5c5134fa8.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/954/954295f736e0e6182faff4aa6d0553a9.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/d7f/d7f51db5780a44e59727da5b20101a85.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/a1a/a1aca185e8f7728705f90cd718ded3fc.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/672/6729ed6fd8e910ff1c0de92f4e9b9075.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      },
+      {
+        "url": "/upload/iblock/213/213c262eb6cbb81d5500302b4853b0f6.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5 2019 (amber brown)"
+      }
+    ]
+  }
+}

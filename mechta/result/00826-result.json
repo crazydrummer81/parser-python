@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-05-mm-dlya-huawei-p-smart-z-prozrachnyy-36837/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона BoraSCO 0,5 мм для Huawei P Smart Z (прозрачный) (36837)",
+  "product_code": "82656",
+  "product_price": {
+    "full": 1390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/37/374e06c0-af7d-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO 0,5 мм для Huawei P Smart Z (прозрачный) (36837)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/37/374e06c0-af7d-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO 0,5 мм для Huawei P Smart Z (прозрачный) (36837)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "P Smart Z"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "прозрачный",
+      "Вес без упаковки (нетто), кг": "0,025"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

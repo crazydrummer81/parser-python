@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-plantronics-backbeat-go-810-bt-211820-99-chernyy/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics-ljg/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "PLANTRONICS"
+  ],
+  "product_name": "Наушники PLANTRONICS BACKBEAT GO 810 BT (211820-99) (черный)",
+  "product_code": "82316",
+  "product_price": {
+    "full": 69980,
+    "discounted": 37990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dd/dda536e9-a2c0-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники PLANTRONICS BACKBEAT GO 810 BT (211820-99) (черный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dd/dda536e9-a2c0-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT GO 810 BT (211820-99) (черный)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dd/dda536e8-a2c0-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT GO 810 BT (211820-99) (черный)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "50 - 20000",
+      "Чувствительность, дБ": "92"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2",
+      "Время работы от аккумулятора, ч": "до 22 ч."
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и металл"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.189"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a21/a21e41624b1b6998c1695a23750d9a7c.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6c8/6c87815303c7c189a0a82724993abcbb.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2c7/2c79d0cfdda9b3286b24eb38e8efe049.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e6d/e6dce71e96b44b1933adefccdef32cc2.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e6d/e6dce71e96b44b1933adefccdef32cc2.jpg",
+        "alt": "Наушники PLANTRONICS BACKBEAT GO 810 BT (211820-99) (черный)"
+      }
+    ]
+  }
+}

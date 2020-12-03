@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t110-bt-blue/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL T110 BT (blue)",
+  "product_code": "72990",
+  "product_price": {
+    "full": 12990,
+    "discounted": 8990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/84/84d8a21c-f6b7-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Наушники JBL T110 BT (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/84/84d8a21c-f6b7-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Наушники JBL T110 BT (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "96"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

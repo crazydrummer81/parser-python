@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-hje-125-e-a/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-sub/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "PANASONIC"
+  ],
+  "product_name": "Наушники PANASONIC RP HJE 125 E A",
+  "product_code": "18838",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d0/d0200bb4-a035-11e3-89c5-14dae972ca6d.jpeg",
+    "alt": "Наушники PANASONIC RP HJE 125 E A"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d0/d0200bb4-a035-11e3-89c5-14dae972ca6d.jpeg",
+      "alt": "Наушники PANASONIC RP HJE 125 E A"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.1",
+      "Штекер": "mini jack 3.5 mm"
+    },
+    "Звук": {
+      "Микрофон": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.04",
+      "Габариты в упаковке (ВхШхГ), см": "16.7х5.5х3"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

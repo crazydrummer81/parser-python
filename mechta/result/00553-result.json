@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/karaoke-mikrofon-dlya-telefona-sound-wave-q9-chernyy/",
+  "product_category": {
+    "name": "SOUNDWAVE",
+    "url": "/section/soundwave/",
+    "parent_name": "Караоке микрофоны",
+    "parent_url": "/section/karaoke-mikrofony/"
+  },
+  "product_name": "Караоке-микрофон для телефона SOUND WAVE Q9 (черный)",
+  "product_code": "81699",
+  "product_price": {
+    "full": 8990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a1/a1ca6237-7ac7-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Караоке-микрофон для телефона SOUND WAVE Q9 (черный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a1/a1ca6237-7ac7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Караоке-микрофон для телефона SOUND WAVE Q9 (черный)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a1/a1ca6238-7ac7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Караоке-микрофон для телефона SOUND WAVE Q9 (черный)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия, м": "10",
+      "Диапазон частот, Гц": "30-20000"
+    },
+    "Типы передачи данных": {
+      "USB": "1 x Micro USB"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "4 часа",
+      "Емкость аккумулятора, мАч": "2600",
+      "Тип аккумулятора": "Li (литиевый)",
+      "Время работы от аккумулятора, ч": "до 14 ч"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.52",
+      "Габариты в упаковке (ВхШхГ), см": "27х14х8"
+    },
+    "Разное": {
+      "Бренд": "SOUND WAVE",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

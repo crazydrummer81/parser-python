@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-auto-focus-leather-case-iphone-6-6012/",
+  "product_category": {
+    "name": "AUTO FOCUS",
+    "url": "/section/auto-focus/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "AUTO FOCUS"
+  ],
+  "product_name": "Чехол для телефона AUTO FOCUS Leather Case IPhone 6 (6012)",
+  "product_code": "78984",
+  "product_price": {
+    "full": 1190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d4/d4323414-14c9-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона AUTO FOCUS Leather Case IPhone 6 (6012)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d4/d4323414-14c9-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона AUTO FOCUS Leather Case IPhone 6 (6012)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "IPhone 6"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "AUTO FOCUS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

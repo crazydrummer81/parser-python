@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-jr-300-blue/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-14o/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники JBL JR 300 (blue)",
+  "product_code": "73176",
+  "product_price": {
+    "full": 14990,
+    "discounted": 8990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/da/da600ceb-04cd-11e8-80cb-1866daf08915.jpeg",
+    "alt": "Наушники JBL JR 300 (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/da/da600ceb-04cd-11e8-80cb-1866daf08915.jpeg",
+      "alt": "Наушники JBL JR 300 (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "85"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "голубой"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

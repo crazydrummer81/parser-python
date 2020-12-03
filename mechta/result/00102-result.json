@@ -1,0 +1,170 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-f-700-galaxy-z-flip-512gb-fzdds-gold/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)",
+  "product_code": "260000535",
+  "product_price": {
+    "full": 699890,
+    "discounted": 419890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/be/bebfa65a-95ba-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/be/bebfa65a-95ba-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/be/bebfa65b-95ba-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/be/bebfa65c-95ba-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b78-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b79-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b7a-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b7b-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b7c-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14550b7d-98e0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 855 Plus",
+      "Процессор, (МГц, количество ядер)": "2950 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "21.9:9",
+      "Диагональ экрана, дюйм": "6,7 (17 см) + 1,1(2,7 см)",
+      "Разрешение дисплея, пикс": "2636х1080 / 300х112",
+      "Сенсорный дисплей": "емкостный, мультитач",
+      "Технология изготовления дисплея": "Dynamic AMOLED/ Super AMOLED",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "одна, Nano-SIM + eSIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2.4+ 5ГГц, VHT80 MU-MIMO ",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+12",
+      "Режим видеосъемки": "UHD 4K (3840 x 2160)  60 кадров/ сек",
+      "Фронтальная камера (для видеозвонков), Мпикс": "10",
+      "Особенности фронтальной камеры": "f/2.4 / Разблокировка по лицу/ автофокус/ HDR",
+      "Особенности тыловой камеры": "Широкоугольная/ Оптич.стаб/ Цифровой зум/ HDR10+ "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3300",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "есть",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав, стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,7х7,3х0,72",
+      "Цвет": "золотистый",
+      "Вес без упаковки (нетто), кг": "0,183"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Корея",
+      "Модель": "Z"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b><span style=\"color: #000000;\">Galaxy Z Flip</span></b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2d6/2d666366caecea1b1b7662b37fd40f51.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c10/c10dc91e5ae4232c4a02f66c9cc0978c.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Красота в руках держащего</b></h3> Уникальная форма Galaxy Z Flip превосходно сочетается с дизайном, который невозможно не заметить, и дополнена цветом, от которого невозможно оторваться. Выберите идеальный оттенок, который подходит именно вам.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/55c/55c05fc046e21182f7af678d209c7532.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Камера</b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Уникальный взгляд на мир</b></h3> <h3></h3> <b> </b><b> </b> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/dad/dadc2ba000b722bc1f912b5bedbfed10.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/48d/48dd75f13712bafde60dfadb185dda3f.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Свобода рук - свобода творчества</b></h3> <p style=\"text-align: center;\"> Режим камеры hands-free позволит вам совершать видеозвонки и делать селфи в совершенно новом ракурсе без необходимости держать смартфон в руках. Откройте новые, ранее недоступные возможности мобильной съемки. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/c63/c63a7113a9523f00388c0c51a70d6f63.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Переходите на новый уровень съемки</b></h3> <p style=\"text-align: center;\"> Galaxy Z Flip с гибким экраном способен фиксировать положение под любым углом, позволяя вам делать впечатляющие снимки с недоступных ранее ракурсов и играть с перспективой, удивляя ваших подписчиков. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a4f/a4fe0f6f7dd065e375f14379320baa07.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Готов к съемке даже ночью</b></h3> <p style=\"text-align: center;\"> Камера Galaxy Z Flip позаботится о том, чтобы ваши снимки получались превосходными даже ночью. Длинная выдержка превратит каждое видео в произведение искусства. А Ночной Гиперлапс в сочетании с механизмом фиксации экрана, выполняющим роль штатива, позволит вам по-новому взглянуть на ночную съемку. Вы должны это попробовать. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Взаимодействие </b></h3> <b> </b> <h3 style=\"text-align: center;\"><b>Видеосвязь под новым углом</b></h3> <p style=\"text-align: center;\"> Перейдите на новый уровень видеозвонков с Google Duo и наслаждайтесь более четким качественным изображением благодаря фронтальной камере 10МП. </p> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/807/8075574ac152bfcaaf744c38fb673a24.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/5ea/5eaf03a21c2c10e90566adfffeb8147e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Оптимизированная работа на гибком экране</b></h3> <p style=\"text-align: center;\"> Когда вы наполовину складываете ваш смартфон, он автоматически переходит в режим Flex и делит экран на две части: верхняя превращается в зону просмотра, а нижняя - в панель управления. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b5f/b5f6d1e004e1c96b5a86fc230686b805.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Делайте все. Одновременно.</b></h3> <p style=\"text-align: center;\"> Перейдите на новый уровень работы с приложениями: теперь вы можете одновременно переписываться с друзьями в любимом мессенджере и вести прямую трансляцию в своем аккаунте. Большой 6.7'' экран просто создан для продуктивной работы в режиме многозадачности. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d0a/d0a901beb0b25acdb9e303684229970c.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Внешний экран для самого важного</b></h3> <p style=\"text-align: center;\"> Управляйте смартфоном даже в сложенном состоянии. Нажмите дважды боковую клавишу и вы увидите превью вашего селфи на внешнем экране. Также он покажет ваши уведомления и позволит сразу перейти к нужному приложению на раскрытом экране. </p> </div> </div> <div class=\"aa_markfull_text\"><h3><b>Заряжен на целый день</b></h3> Двойной аккумулятор вмещает в себя еще больше энергии, которой точно хватит даже на целый день интенсивной работы. Энергосбережение под управлением искусственного интеллекта и емкость 3300 мАч позволят вам взять максимум от каждого дня.*<br/> <h6>*Данные получены на основе среднестатистического пользования смартфоном. Установлено центром стратегической аналитики 17.07.2019 - 02.08.2019 в США и Великобритании на основе предварительных версий SM N970 и SM N975. Фактический срок работы аккумулятора зависит от окружающих условий, используемых функций и приложений, частоты звонков и сообщений, количества зарядок и многих других факторов.</h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f3b/f3baa61c2cec5b42f2b2677d1c7a7173.jpg\"/></div> <div class=\"aa_markfull_text\"><h3>Все лучшее от смартфонов Galaxy</h3> <b>Беспроводная зарядка Powershare</b><br/> Заряжайте носимые устройства и делитесь с друзьями.<br/> <b>Память</b><br/> Храните больше с памятью 256<b>/</b>512 ГБ.<br/> <b>Процессор и оперативная память</b><br/> Медленная загрузка? Нет, не слышали. Мощный 7нм процессор и 8 ГБ оперативной памяти обеспечат стремительный cтриминг и работу в режиме многозадачности без малейших задержек.<br/> <b>Bixby</b><br/> Всегда готов прийти на помощь.<br/> <b>Bixby Vision</b><br/> Ваша камера стала вашим умным личным ассистентом, который предоставит информацию обо всем, что вас окружает, в любой момент.<br/> <b>Кинотеатр у вас на ладони</b><br/> Просмотр в стандарте HDR10+<br/> <b>Заботится о вашем зрении</b><br/> Уменьшает воздействие на глаза без потери цветопередачи.<br/> <b>Samsung Knox</b><br/> Защита на всех уровнях<br/> <b>Аутентификация</b><br/> Распознавание лица, сканер отпечатка пальца, PIN-код или пароль - все, чтобы вы могли получать доступ к смартфону так, как удобно именно вам.<br/> <b>Съемка 4К UHD видео</b><br/> Снимайте видео в рекордно высоком качестве, с потрясающим уровнем детализации.<br/> <b>Фото и видео</b><br/> Размывайте фон и добавляйте эффект боке, чтобы получить неповторимые художественные фото и видео.<br/> <b>Суперстабилизация</b><br/> Суперстабилизация сглаживает движения на ваших видео, делая их невероятно плавными.<br/> <b>Ультраширокая камера</b><br/> Роскошные пейзажи и необъятные панорамы? Ультраширокая 12 МП камера с углом обзора 123º создана, чтобы раскрыть их красоту на ваших снимках.<br/> <b>Уникальные фильтры</b><br/> Создавайте ваши собственные фильтры для любимых фотографий.<br/> <b>В</b><b>озможности соединения</b><br/> Стримьте и загружайте контент моментально со скоростью соединения LTE 1.0 Гбит/с.11</div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/48d/48dd75f13712bafde60dfadb185dda3f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/c63/c63a7113a9523f00388c0c51a70d6f63.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/a4f/a4fe0f6f7dd065e375f14379320baa07.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/5ea/5eaf03a21c2c10e90566adfffeb8147e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/b5f/b5f6d1e004e1c96b5a86fc230686b805.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/d0a/d0a901beb0b25acdb9e303684229970c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      },
+      {
+        "url": "/upload/iblock/f3b/f3baa61c2cec5b42f2b2677d1c7a7173.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 700 Galaxy Z Flip 256GB FZDDS (gold)"
+      }
+    ]
+  }
+}

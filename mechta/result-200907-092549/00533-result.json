@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-naushnikov-a-case-for-airpods-pro-silikonovyy-chernyy/",
+  "product_category": {
+    "name": "A CASE",
+    "url": "/section/a-case-jli/",
+    "parent_name": "Чехол для наушников",
+    "parent_url": "/section/chehol-dlya-naushnikov-8uy/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Чехол для наушников",
+    "A CASE"
+  ],
+  "product_name": "Чехол для наушников A CASE for Airpods PRO силиконовый (чёрный)",
+  "product_code": "260001108",
+  "product_price": {
+    "full": 2290,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/51/51e76a56-b08e-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Чехол для наушников A CASE for Airpods PRO силиконовый (чёрный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/51/51e76a56-b08e-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Чехол для наушников A CASE for Airpods PRO силиконовый (чёрный)"
+    }
+  ],
+  "product_params": {
+    "Корпус": {
+      "Материал корпуса": "силикон"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "A CASE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

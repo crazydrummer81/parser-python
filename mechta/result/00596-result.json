@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-306-blue/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники HARPER HB 306 (blue)",
+  "product_code": "84062",
+  "product_price": {
+    "full": 7890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5d/5d1f0769-e022-11e9-a227-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 306 (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d1f0769-e022-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 306 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d1f076a-e022-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 306 (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "89"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "до 2 часов",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 8 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "голубой"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

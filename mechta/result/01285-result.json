@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/remeshok-apple-40mm-midnight-blue-sport-band-zkmtph2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-qc9/",
+    "parent_name": "Ремешки для смарт часов",
+    "parent_url": "/section/remeshki-dlya-smart-chasov/"
+  },
+  "product_name": "Ремешок APPLE 40mm Midnight Blue Sport Band (ZKMTPH2ZMA)",
+  "product_code": "78637",
+  "product_price": {
+    "full": 26990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c7/c7886ab1-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Ремешок APPLE 40mm Midnight Blue Sport Band (ZKMTPH2ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c7/c7886ab1-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm Midnight Blue Sport Band (ZKMTPH2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c7/c7886ab2-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm Midnight Blue Sport Band (ZKMTPH2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c7/c7886ab3-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm Midnight Blue Sport Band (ZKMTPH2ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Размер ремешка, см": "обхватом 13–20 см.",
+      "Ремешок": "Спортивный ремешок "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай",
+      "Для корпуса размером, мм": "40"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

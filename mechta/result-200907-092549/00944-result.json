@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-soft-touch-s-mikrofibroy-dlya-iphone-11-chernyy-37662/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Soft Touch с микрофиброй для IPhone 11 черный (37662)",
+  "product_code": "00261",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/73/73f8f833-15b3-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Soft Touch с микрофиброй для IPhone 11 черный (37662)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/73/73f8f833-15b3-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Soft Touch с микрофиброй для IPhone 11 черный (37662)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone 11"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

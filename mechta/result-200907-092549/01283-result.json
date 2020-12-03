@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/remeshok-apple-40mm-white-sport-band---sm--ml-zkmtp52zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-qc9/",
+    "parent_name": "Ремешки для смарт часов",
+    "parent_url": "/section/remeshki-dlya-smart-chasov/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Гаджеты",
+    "Ремешки для смарт часов",
+    "APPLE"
+  ],
+  "product_name": "Ремешок APPLE 40mm White Sport Band - S/M & M/L (ZKMTP52ZMA)",
+  "product_code": "79652",
+  "product_price": {
+    "full": 24990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a9/a9f1c164-33fd-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Ремешок APPLE 40mm White Sport Band - S/M & M/L (ZKMTP52ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a9/a9f1c164-33fd-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm White Sport Band - S/M & M/L (ZKMTP52ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a9/a9f1c165-33fd-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm White Sport Band - S/M & M/L (ZKMTP52ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a9/a9f1c166-33fd-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 40mm White Sport Band - S/M & M/L (ZKMTP52ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Размер ремешка, см": "обхватом 13–20 см.",
+      "Ремешок": "Спортивный ремешок "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай",
+      "Для корпуса размером, мм": "40",
+      "Материал": "фторэластомер"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-borasco-micro-usb-3a-1m-metallicheskaya-opletka-35102/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-ek5/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "BoraSCO"
+  ],
+  "product_name": "Кабель для телефона BoraSCO micro USB, 3A. 1m металлическая оплетка (35102)",
+  "product_code": "79171",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ce/ce9e2333-22bd-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BoraSCO micro USB, 3A. 1m металлическая оплетка (35102)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce9e2333-22bd-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO micro USB, 3A. 1m металлическая оплетка (35102)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce9e2334-22bd-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO micro USB, 3A. 1m металлическая оплетка (35102)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "mini USB-USB",
+      "Тип кабеля (шнура)": "телефонный"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-g-985-galaxy-s20-plus-bts-edition-128gb-fzpds-purple/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)",
+  "product_code": "260002165",
+  "product_price": {
+    "full": 499890,
+    "discounted": 449890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c9/c93d8b32-da0b-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b32-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b33-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b34-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b35-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b36-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b37-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c9/c93d8b38-da0b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP68"
+    },
+    "Процессор": {
+      "Модель процессора": "Exynos 990",
+      "Процессор, (МГц, количество ядер)": "2600 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,7 (17 см)",
+      "Разрешение дисплея, пикс": "3200х1440",
+      "Сенсорный дисплей": "емкостный, мультитач",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "120"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "microSD, microSDHC, microSDXC",
+      "Максимальная емкость карты памяти, Гб": "до 1ТБ"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G77 MP11"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "USB Type C",
+      "Bluetooth": "есть",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+12+12",
+      "Режим видеосъемки": "есть, видео 4K с частотой 30 кадров/с",
+      "Фронтальная камера (для видеозвонков), Мпикс": "10",
+      "Особенности тыловой камеры": "авто-фокус/вспышка/стабилизатор/зум(30х)"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "есть",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав, стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Cканер отпечатка пальца": "есть"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,4х0,7",
+      "Цвет": "фиолетовый",
+      "Вес без упаковки (нетто), кг": "0,188"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Модель": "S",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Представляем смартфон Galaxy S20+ с дизайном, созданным при участии группы BTS</b></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1c6/1c6f5171a1ae25ecfc226f86267dde8d.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Пользуясь смартфоном Galaxy S20+ BTS Edition, вы сможете оценить все великолепие нового революционного смартфона потрясающего фиолетового цвета. В сотрудничестве с членами группы BTS, дизайнеры Samsung создали эксклюзивный дизайн телефона Galaxy S20+, декорированный эксклюзивными стикерами, графикой и другими элементами. Оцените инновационную камеру и дизайн смартфона Galaxy S20+, оформленный с участием группы BTS..</h3> <p style=\"text-align: center;\"> </p> <h6 style=\"text-align: center;\">*BTS версия доступна только для смартфона Galaxy S20+.</h6> <h6></h6></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">ЦВЕТ</h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Цвет любви</b></h3> <p style=\"text-align: center;\"> Один из наиболее узнаваемых символов группы BTS - это фиолетовое сеpдце - главный атрибут этой группы. Телефон Galaxy S20+ окрашен в уникальный яркий фиолетовый цвет с металлическим оттенком. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/77c/77cc050aeabfbcdd13f1113bdfd99e29.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">СИМВОЛ СЕРДЦА</h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Великолепные фотоснимки, сделанные с любовью</b></h3> <p style=\"text-align: center;\"> Изображение тыловой камеры телефона Galaxy S20+ BTS Edition с акцентом на фиолетовое сердце. Размещение изображения сердца на фотоснимках тыловой камеры подчеркивает всемирную любовь людей к группе BTS. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1cc/1cc6baf9243b8f62b7a6cedfcbc3ae5e.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">УПАКОВКА</h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Ощутите прилив драйва с первого взгляда</b></h3> <p style=\"text-align: center;\"> В каждом элементе оформления Galaxy S20+ BTS Edition ощущается символика группы BTS. Коробка украшена семью изображениями сердца, по числу участников группы BTS и привлекающей взгляд игрой металлического блеска. Внутри упаковки вы найдете стикеры с фотографиями членов группы. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/bbb/bbb2eb2462d18b4d9c1de65c817a882a.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">ТЕМА</h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>BTS изнутри</b></h3> <p style=\"text-align: center;\"> Для полной гармонии фиолетового экстерьера телефона Galaxy S20+ BTS Edition в комплект включена эксклюзивная BTS тема для главного экрана с иконками приложений и экрана блокировки, подчеркивающая BTS версию телефона. При каждом включении или выключении телефона вас будет приветствовать специальная анимация. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e97/e97e6e266afb46bab0d9cd24f6688e3a.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e97/e97e6e266afb46bab0d9cd24f6688e3a.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 985 Galaxy S20 Plus BTS Edition 128GB FZPDS (Purple)"
+      }
+    ]
+  }
+}

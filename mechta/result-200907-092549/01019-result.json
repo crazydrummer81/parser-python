@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/podstavka-dji-dlya-ronin-s-part-2-extended-griptripod/",
+  "product_category": {
+    "name": "DJI",
+    "url": "/section/dji-dzf/",
+    "parent_name": "Стэдикамы для смартфонов",
+    "parent_url": "/section/stedikamy-dlya-smartfonov-nwb/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Стэдикамы для смартфонов",
+    "DJI"
+  ],
+  "product_name": "Подставка DJI для Ronin-S (Part 2) Extended Grip/Tripod ",
+  "product_code": "82077",
+  "product_price": {
+    "full": 24990,
+    "discounted": 17990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ea/ea6aa022-9240-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Подставка DJI для Ronin-S (Part 2) Extended Grip/Tripod "
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa022-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Подставка DJI для Ronin-S (Part 2) Extended Grip/Tripod "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa023-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Подставка DJI для Ronin-S (Part 2) Extended Grip/Tripod "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa024-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Подставка DJI для Ronin-S (Part 2) Extended Grip/Tripod "
+    }
+  ],
+  "product_params": {
+    "Корпус": {
+      "Материал корпуса": "металл"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,1×3,5×3,5",
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "DJI"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

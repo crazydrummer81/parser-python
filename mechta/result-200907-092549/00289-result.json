@@ -1,0 +1,199 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-reno-3-sky-white/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO RENO 3 Sky White",
+  "product_code": "260001304",
+  "product_price": {
+    "full": 249990,
+    "discounted": 179990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/15/15f23d73-a09b-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d73-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d96-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d97-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d98-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d99-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d9a-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d9b-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d9c-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d9d-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6779V (P90)",
+      "Процессор, (МГц, количество ядер)": "2200 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,4 (16,3 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GM 9446"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, Wi-Fi IEEE 802.11ac",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+13+8+2",
+      "Режим видеосъемки": "4K 30fps/1080p 60fps/30fps/ 720p 60fps/30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "44",
+      "Особенности фронтальной камеры": " f/2.4 / портретный режим/ ночные селфи ",
+      "Особенности тыловой камеры": "Цифровой зум/Телеобъектив/Макро/Ночной режим"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4025",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, два / Dolby Atmos"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16х7,3х0,8",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,170"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>OPPO RENO3</b></h2> <h2 style=\"text-align: center;\"><b>Вызывает иZOOMление </b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/80c/80cc8be67c32f4166eec22f954b6f022.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a6b/a6b80544c5dc755581bd78aa2e7f6e2e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"></h3> <h3 style=\"text-align: left;\"><b>108 Мп в режиме Ultra Clear</b></h3> <p style=\"text-align: left;\"> </p> <p style=\"text-align: left;\"> Используйте режим Ultra Clear, который обеспечивает разрешение 108 Мп и автоматически делает более отчетливыми некоторые объекты, например, лица людей или текст, особенно при ярком освещении. </p> <h4 style=\"text-align: left;\">На основе таких фотографий можно создавать огромные плакаты шириной до 4,3 м и высотой до 3,2 м.</h4> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/957/9572153ea89c0ed11d8b63844f9a3498.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Даже при увеличении изображения все детали на фотографии будут хорошо видны.</h3> <h4>Режим Ultra Clear реализован программно, максимальное разрешение изображения - 108 Мп. Фотографии, сделанные в режиме Ultra Clear с разрешением 108 Мп соответствуют плакату размером 4,3 х 3,2 метра при плотности печати 72 точки на дюйм.</h4> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7bd/7bdc642b62bf041d02ac4c028f2811c2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>5-кратное гибридное увеличение, </b></h3> <h3><b>20-кратное цифровое увеличение</b></h3> Теперь вам доступно любое значение фокусного расстояния благодаря функции, которая комбинирует картинку объективов разрешением 13 Мп, 48 Мп и 8 Мп. Выбирайте самый подходящий ракурс на любой дистанции.<br/> <h4>Сверхширокоугольный объектив обеспечивает снимки с углом обзора 109° после устранения искажений.</h4> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/edd/edd71503e12f36ccccbe0f5485ad3209.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим Ultra Dark</b></h3> Режим Ultra Dark в смартфоне Reno3 позволяет создавать ночные фотографии исключительного качества. Это стало возможным благодаря мощному нейронному процессору, который формирует изображение еще быстрее, и технологии шумоподавления, основанной на объединении нескольких кадров с помощью искусственного интеллекта.<br/> <h4>Режим Ultra Dark включается автоматически, когда освещенность падает ниже 1 люкс, и показывает наилучшие результаты при освещенности 0,3–1 люкс.</h4> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/58e/58e86b0bd9e825bf8daa16fd1be5504a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Макросъемка</b><b> на расстоянии трех см</b></h3> Запечатлейте мельчайшие детали<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c9e/c9e9db1cb877f2c46ebdb3f9e318dd9e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фронтальная камера на 44 Мп</b></h3> Фронтальная камера 44 Мп с несколькими объективами позволит заснять вас в мельчайших подробностях. Она превосходно передает текстуры, делая волосы, кожу и ресницы на снимках более привлекательными.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bd0/bd0415f11b1596be74130dc2229714c4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим Ultra Steady Video 2.0</b></h3> <b><span style=\"color: #262626;\">Невероятная стабилизация видео</span></b><br/> OPPO Reno3 задает новые стандарты стабилизации видео.<br/> Благодаря двойной коррекции с использованием сверхширокоугольного объектива вы сможете снимать первоклассные ролики как в повседневных, так и в экстремальных условиях.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/234/234f8bbb3da343704635fadd65915742.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Кинематографическое качество</b></h3> <b><span style=\"color: #262626;\">Видео с эффектом боке</span></b><br/> Без труда выделяйте объект в кадре, как в кино.<br/> <b><span style=\"color: #262626;\">Оптимизация видео на основе искусственного интеллекта</span></b><br/> Теперь эффекты профессионального уровня доступны прямо в вашем смартфоне. Мы добились этого благодаря камерам с высоким разрешением и новаторским алгоритмам обработки видео, которые основаны на искусственном интеллекте.<br/> <b><span style=\"color: #262626;\">Изменение фокусного расстояния в видео</span></b><br/> Снимайте невероятные виды крупным планом.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0ef/0efa1ed40e71aa02ffab3f8d063ec0ee.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Небесное сияние</b></h3> <b><span style=\"color: #262626;\">Вдохновение от природы</span></b><br/> Неизмеримая глубина космического пространства дарит нам чувство гармонии и покоя. Разнообразие небесных оттенков, послужило нам вдохновением при выборе вариантов цвета для Reno3 в этом сезоне.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5c3/5c31c4363a60df288d45d76fc2017c10.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Экранный сканер отпечатков пальцев Unlock 3.0</b></h3> <b><span style=\"color: #262626;\">Разблокировка одним касанием</span></b><br/> Кроме того, мы подумали о вашей безопасности и усовершенствовали систему защиты от разблокировки незарегистрированными пользователями.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/407/407c04f39a180ca2df3fc3ed120e8fe6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Более высокая производительность</b></h3> <b><span style=\"color: #262626;\">Процессор</span> </b> MTK P90<br/> <b><span style=\"color: #262626;\">Память </span></b> 8 Гб+128 Гб<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d45/d450910aa8533c2150b86a416eb251e9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Аудио высокого качества</b><b> и Dolby Atmos®</b></h3> В OPPO Reno3 видео и аудиотехнологии работают вместе, так что ролики и музыка будут неизменно впечатляющими.<br/> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/a6b/a6b80544c5dc755581bd78aa2e7f6e2e.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/957/9572153ea89c0ed11d8b63844f9a3498.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/7bd/7bdc642b62bf041d02ac4c028f2811c2.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/edd/edd71503e12f36ccccbe0f5485ad3209.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/58e/58e86b0bd9e825bf8daa16fd1be5504a.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/c9e/c9e9db1cb877f2c46ebdb3f9e318dd9e.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/bd0/bd0415f11b1596be74130dc2229714c4.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/234/234f8bbb3da343704635fadd65915742.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/0ef/0efa1ed40e71aa02ffab3f8d063ec0ee.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/5c3/5c31c4363a60df288d45d76fc2017c10.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/407/407c04f39a180ca2df3fc3ed120e8fe6.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/d45/d450910aa8533c2150b86a416eb251e9.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      },
+      {
+        "url": "/upload/iblock/80c/80cc8be67c32f4166eec22f954b6f022.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Sky White"
+      }
+    ]
+  }
+}

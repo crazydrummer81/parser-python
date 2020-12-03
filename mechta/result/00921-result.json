@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-knijka-samsung-a01-blue-38811/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона BoraSCO Книжка Samsung A01 Blue (38811)",
+  "product_code": "260001034",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4f/4fa40d18-94ec-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Книжка Samsung A01 Blue (38811)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4f/4fa40d18-94ec-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Книжка Samsung A01 Blue (38811)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A01"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

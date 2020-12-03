@@ -1,0 +1,180 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-realme-6-4128gb-white/",
+  "product_category": {
+    "name": "Realme",
+    "url": "/section/realme/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый REALME 6 (4/128GB) White",
+  "product_code": "260001714",
+  "product_price": {
+    "full": 128890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ba/baf2e52a-b458-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52a-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52b-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52c-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52d-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52e-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e52f-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e530-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/baf2e531-b458-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G90T",
+      "Процессор, (МГц, количество ядер)": "2050 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "90"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G76 MС4"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+8+2+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps/720p 30, 60fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.0 / портретный режим /эффект боке ",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4300",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик приближ",
+      "Сканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,5х0,9",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,191"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h3 style=\"text-align: center;\"><b>REALME 6</b></h3> <h3 style=\"text-align: center;\">Квадрокамера 64 Мп | Экран 90 Гц</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/504/504a177b4f05f007a31d4b0f48865ee6.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cf5/cf5dbf203784277de2266dd62eabfe0a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Экран 90 Гц </b></h3> <h3>Плавное и четкое изображение</h3> Частота обновления экрана 90 Гц обеспечивает отсутствие задержек и подвисаний изображения. Каждое действие на экране realme 6 становится более плавным и естественным. В сочетании с большой диагональю и высокой полезной площадью экрана, частота 90 кадров в секунду позволит получить максимальное удовольствие от игрового процесса и просмотра видео.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/031/03183b631c375e6a4014a7df923a7c3f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фронтальная камера 16 Мп </b></h3> <h3>Естественные и выразительные селфи</h3> Фронтальная камера 16 Мп с апертурой F 2.0 поддерживает AI-бьютификацию и эффект Боке. Алгоритм индивидуальной обработки фотографий подчеркивает естественную красоту и помогает создать качественные выразительные селфи.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5b7/5b74688a057dbd1155c27bc012e428d6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Сверхширокоугольный модуль 119°</b><b> </b></h3> <h3>Панорамные снимки одним нажатием</h3> Сверхширокоугольный модуль 119° на realme 6 увеличивает угол обзора до 4 раз и дает возможность делать панорамные снимки высокой четкости одним нажатием.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b9d/b9df4cab0502bd5ee32faa18f52bb711.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Ультраночной режим 2.0</b><b> </b></h3> <h3>Художественные ночные фото</h3> Квадрокамера realme 6 оснащена компонентами с высокой светосилой. Продвинутые алгоритмы обработки и оптимизации изображений снижают уровень шумов и повышают детализацию.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6ea/6eaae656053e1064fd666eba6d373e99.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Helio G90T</b> </h3> <h3>Высокая производительность в играх</h3> Процессор Helio G90T был разработан специально для игр. Сочетание обновленных CPU, GPU и алгоритмов искусственного интеллекта выводят игровой процесс на новый уровень.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a12/a12aff806e491f03ead5cc784936ebb6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Hyper Boost</b><b> </b></h3> <h3>Оптимизированный игровой процесс</h3> Режим Hyper Boost повышает производительность и стабильность смартфона во время запуска игровых приложений. Технология анализирует статус смартфона в режиме реального времени и эффективно распределяет имеющиеся ресурсы, избегая возможных задержек.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/702/702c0ad581f6bc6b73ccbf0df4e16abb.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Быстрая зарядка 30 Вт</b><b> </b></h3> <h3>До 100% за час</h3> Технология усовершенствованной быстрой зарядки в realme 6 с мощностью 30 Вт полностью заряжает аккумулятор 4300 мАч всего за 1 час. В системе предусмотрены 5 уровней защиты, предотвращающие нагревание смартфона и износ батареи.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8db/8db6068807e234008a4d6ee8986e7e9f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Дизайн realme</b><b> </b></h3> <h3>Вдохновленный космосом</h3> Градиентный дизайн realme 6 отражает динамику движения кометы в ночном небе. Сочетание цветов предает корпусу эффект космической текстуры и создает магию переливов.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8a9/8a9993bbd920fe4713b5e48341ee5946.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Сканер отпечатков сбоку</b><b> </b></h3> <h3>Разблокировка за 0,29 секудны</h3> realme 6 оснащен боковым сканером отпечатков пальцев, который в то же время выполняет роль кнопки активации устройства. Разблокировка смартфона происходит невероятно быстро и с гарантией безопасности.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/653/653b897431e37072de9bea1012a9661e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>3 отдельных слота</b><b> </b></h3> <h3>2 SIM-карты + карта памяти</h3> realme 6 поддерживает одновременное использование 2 SIM-карт и карты памяти объемом до 256 ГБ.<br/> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/cf5/cf5dbf203784277de2266dd62eabfe0a.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/031/03183b631c375e6a4014a7df923a7c3f.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/5b7/5b74688a057dbd1155c27bc012e428d6.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/b9d/b9df4cab0502bd5ee32faa18f52bb711.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/6ea/6eaae656053e1064fd666eba6d373e99.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/a12/a12aff806e491f03ead5cc784936ebb6.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/702/702c0ad581f6bc6b73ccbf0df4e16abb.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/8db/8db6068807e234008a4d6ee8986e7e9f.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/8a9/8a9993bbd920fe4713b5e48341ee5946.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/653/653b897431e37072de9bea1012a9661e.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/504/504a177b4f05f007a31d4b0f48865ee6.jpg",
+        "alt": "Телефон сотовый REALME 6 (4/128GB) White"
+      }
+    ]
+  }
+}

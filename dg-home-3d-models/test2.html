@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<script>
+		function start() {
+			res = fetch('https://files.dg-home.ru/process/3d-download.php?time=1606973319&code=mebel&article=050365&h3d=9b86eb485d554345a02e87a50244db91&h=0cb48578ff2c0c7dbbf41cfbd14f069f')
+				.then(res => (
+					console.log(res)
+				));
+		}
+	</script>
+</head>
+<body>
+	<div id="start" onclick="start()">
+		Тестировать!!!
+	</div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-borasco-usb-quick-charge-30-white-37260/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-7zg/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "BoraSCO"
+  ],
+  "product_name": "Зарядное устройство для телефонов BoraSCO USB Quick Charge 3.0 White (37260)",
+  "product_code": "84382",
+  "product_price": {
+    "full": 5990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/23/234e3348-f54e-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов BoraSCO USB Quick Charge 3.0 White (37260)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/23/234e3348-f54e-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BoraSCO USB Quick Charge 3.0 White (37260)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/23/234e3349-f54e-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BoraSCO USB Quick Charge 3.0 White (37260)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В/3А"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

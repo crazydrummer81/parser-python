@@ -1,0 +1,70 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-vipe-twins-10-000mah-black/",
+  "product_category": {
+    "name": "VIPE",
+    "url": "/section/vipe-z5m/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Портативные Power Bank",
+    "VIPE"
+  ],
+  "product_name": "Портативное зарядное устройство VIPE Twins 10 000mAh black",
+  "product_code": "81137",
+  "product_price": {
+    "full": 16990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7d/7db6bc36-76c6-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство VIPE Twins 10 000mAh black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7d/7db6bc36-76c6-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство VIPE Twins 10 000mAh black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7d/7db6bc37-76c6-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство VIPE Twins 10 000mAh black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7d/7db6bc38-76c6-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство VIPE Twins 10 000mAh black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000",
+      "Число USB портов": "2",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Время зарядки ": "3.5 - 5 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик ABS и алюминий"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "13.5х6.9х1.4",
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "VIPE"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_title ifont130 icolor1\">Портативное зарядное устройство VIPE Twins </div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/fec/fec32a17d7794c1fb59e509f3527feb9.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a83/a83d0404c35c21c589612167dec0d91e.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/a83/a83d0404c35c21c589612167dec0d91e.jpg",
+        "alt": "Портативное зарядное устройство VIPE Twins 10 000mAh black"
+      }
+    ]
+  }
+}

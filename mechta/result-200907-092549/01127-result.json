@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-sony-xperia-xa2-chehol-podstavka-chernyy-scsh10/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-nf5/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "SONY"
+  ],
+  "product_name": "Чехол для телефона SONY Xperia XA2 чехол-подставка (черный) SCSH10",
+  "product_code": "74411",
+  "product_price": {
+    "full": 17990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/56/56944918-4f75-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона SONY Xperia XA2 чехол-подставка (черный) SCSH10"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/56/56944918-4f75-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SONY Xperia XA2 чехол-подставка (черный) SCSH10"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/56/56944919-4f75-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SONY Xperia XA2 чехол-подставка (черный) SCSH10"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/56/5694491a-4f75-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SONY Xperia XA2 чехол-подставка (черный) SCSH10"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Sony",
+      "Материал сумки/чехла": "Полиуретановая кожа, поликарбонат",
+      "Для моделей": "Xperia XA2"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.06"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnyy-derjatel-borasco-ch-7-36488/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-a0t/",
+    "parent_name": "Держатели",
+    "parent_url": "/section/derjateli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Держатели",
+    "BoraSCO"
+  ],
+  "product_name": "Автомобильный держатель BoraSCO CH-7 (36488)",
+  "product_code": "84376",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/23/234e334a-f54e-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Автомобильный держатель BoraSCO CH-7 (36488)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/23/234e334a-f54e-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель BoraSCO CH-7 (36488)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/23/234e334b-f54e-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель BoraSCO CH-7 (36488)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0,285"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

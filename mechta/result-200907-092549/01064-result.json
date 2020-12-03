@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-x-a1763-mth62zma-satin-silver/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "BEATS"
+  ],
+  "product_name": "Наушники BEATS X A1763 MTH62ZM/A Satin Silver",
+  "product_code": "79692",
+  "product_price": {
+    "full": 58990,
+    "discounted": 46990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8d/8d315db1-2f4b-11e9-a21d-005056b6dbd7.jpeg",
+    "alt": "Наушники BEATS X A1763 MTH62ZM/A Satin Silver"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8d/8d315db1-2f4b-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS X A1763 MTH62ZM/A Satin Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8d/8d315db2-2f4b-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS X A1763 MTH62ZM/A Satin Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8d/8d315db3-2f4b-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS X A1763 MTH62ZM/A Satin Silver"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.13",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "BEATS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-lightning-usb-for-apple-cne-cfi1w-white/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "CANYON"
+  ],
+  "product_name": "Кабель для телефона CANYON Lightning USB for Apple CNE-CFI1W White",
+  "product_code": "76973",
+  "product_price": {
+    "full": 990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dd/dd3fa4fb-b59a-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON Lightning USB for Apple CNE-CFI1W White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dd/dd3fa4fb-b59a-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON Lightning USB for Apple CNE-CFI1W White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "CANYON"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

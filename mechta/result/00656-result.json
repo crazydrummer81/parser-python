@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-knijka-vivo-y11y12y17-black-37888/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона BoraSCO Книжка Vivo Y11/Y12/Y17 Black (37888)",
+  "product_code": "00343",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/73/73f8f839-15b3-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Книжка Vivo Y11/Y12/Y17 Black (37888)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/73/73f8f839-15b3-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Книжка Vivo Y11/Y12/Y17 Black (37888)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Vivo",
+      "Для моделей": "Y11/Y12/Y17"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

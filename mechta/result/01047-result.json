@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha05w-usb-output/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA05W USB output",
+  "product_code": "80099",
+  "product_price": {
+    "full": 5490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/658fe184-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA05W USB output"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe184-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA05W USB output"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe185-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA05W USB output"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe186-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA05W USB output"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "110-240 В",
+      "я удален": "4,2A"
+    },
+    "Типы передачи данных": {
+      "USB": "3"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "3,6х8х17,8",
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

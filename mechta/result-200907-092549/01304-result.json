@@ -1,0 +1,89 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiotelefon-dect-panasonic-kx-tge-110-ucb/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-p6t/",
+    "parent_name": "Радиотелефоны DECT",
+    "parent_url": "/section/radiotelefony-dect/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Стационарные телефоны",
+    "Радиотелефоны DECT",
+    "PANASONIC"
+  ],
+  "product_name": "Радиотелефон DECT PANASONIC KX TGE 110 UCB",
+  "product_code": "46691",
+  "product_price": {
+    "full": 16990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/64/64bdf3f6-d653-11e6-9f30-2c768a5d3551.jpeg",
+    "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/64/64bdf3f6-d653-11e6-9f30-2c768a5d3551.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/64/64bdf3f7-d653-11e6-9f30-2c768a5d3551.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Определитель номера": "есть, АОН Caller ID",
+      "Память принятых вызовов": "20 номеров",
+      "Рабочая частота, МГц": "1880-1900",
+      "Телефонная книга": "50 номеров"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "до 7",
+      "Время в режиме ожидания, ч": "200",
+      "Время в режиме разговора, ч": "10",
+      "Тип аккумулятора": "Ni-Mh (никель-металлгидридный)",
+      "Питание": "от батареек",
+      "Размер аккумулятора": "ААА"
+    },
+    "Комплектация": {
+      "Количество трубок в комплекте": "1",
+      "Количество аккумуляторов в трубке": "2"
+    },
+    "Цвет, размеры и вес": {
+      "Размер трубки (ВхШхГ), мм": "180х54х28",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.26",
+      "Размер базы (ВхШхГ), мм": "113x101x60",
+      "Вес трубки, гр": "150"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b23/b23124b2b4afee4b1f4a5959d69978fb.jpg')\"></div> <div class=\"aa_markvtwo_text\"> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/394/394f8b942ef42a3ab05c7f5d3ccad91e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ec3/ec348cd99289e7da2430b9bc23e86639.jpg')\"></div> <div class=\"aa_markvtwo_text\"> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6f9/6f98991b801e28cd1a49e7bb59fd201c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/b23/b23124b2b4afee4b1f4a5959d69978fb.jpg",
+        "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+      },
+      {
+        "url": "/upload/iblock/394/394f8b942ef42a3ab05c7f5d3ccad91e.jpg",
+        "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+      },
+      {
+        "url": "/upload/iblock/ec3/ec348cd99289e7da2430b9bc23e86639.jpg",
+        "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+      },
+      {
+        "url": "/upload/iblock/6f9/6f98991b801e28cd1a49e7bb59fd201c.jpg",
+        "alt": "Радиотелефон DECT PANASONIC KX TGE 110 UCB"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-parrot-zik-3-eu3-charger-red-croc/",
+  "product_category": {
+    "name": "PARROT",
+    "url": "/section/parrot-wcg/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "PARROT"
+  ],
+  "product_name": "Наушники PARROT Zik 3 EU3 Charger Red Croc",
+  "product_code": "73159",
+  "product_price": {
+    "full": 129990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/38/380c3d2f-9f71-11e8-a217-005056b6dbd7.jpeg",
+    "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/38/380c3d2f-9f71-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/38/380c3d30-9f71-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/38/380c3d31-9f71-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/38/380c3d32-9f71-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/38/380c3d33-9f71-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники PARROT Zik 3 EU3 Charger Red Croc"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "10 - 22000",
+      "Чувствительность наушников, дБ/В": "60"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "18х20х4",
+      "Цвет": "красный",
+      "Вес без упаковки (нетто), кг": "0.3",
+      "Вес в упаковке (брутто), кг": "0.6"
+    },
+    "Разное": {
+      "Бренд": "PARROT",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

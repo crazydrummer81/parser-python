@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-samsung-leather-cover-f-700-black-ef-vf700lbegru/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-ufj/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона SAMSUNG Leather Cover F 700 black (EF-VF700LBEGRU)",
+  "product_code": "260000460",
+  "product_price": {
+    "full": 29990,
+    "discounted": 19990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4f/4f5a5277-6352-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона SAMSUNG Leather Cover F 700 black (EF-VF700LBEGRU)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4f/4f5a5277-6352-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover F 700 black (EF-VF700LBEGRU)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4f/4f5a5278-6352-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover F 700 black (EF-VF700LBEGRU)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4f/4f5a5279-6352-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover F 700 black (EF-VF700LBEGRU)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy Z Flip"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

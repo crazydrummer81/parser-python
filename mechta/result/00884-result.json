@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-plantronics-backbeat-fit-305-209059-99-goluboy/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics-ljg/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники PLANTRONICS BACKBEAT FIT 305 (209059-99) (голубой)",
+  "product_code": "73169",
+  "product_price": {
+    "full": 27980,
+    "discounted": 22990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/da/da600cea-04cd-11e8-80cb-1866daf08915.jpeg",
+    "alt": "Наушники PLANTRONICS BACKBEAT FIT 305 (209059-99) (голубой)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/da/da600cea-04cd-11e8-80cb-1866daf08915.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT FIT 305 (209059-99) (голубой)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

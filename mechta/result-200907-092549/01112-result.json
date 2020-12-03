@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-borasco-apple-8-pin-3a-1m-neylonovaya-opletka-chernyy-34451/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-ek5/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "BoraSCO"
+  ],
+  "product_name": "Кабель для телефона BoraSCO Apple 8 pin, 3A. 1m нейлоновая оплетка. черный (34451)",
+  "product_code": "76917",
+  "product_price": {
+    "full": 3490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/98/98054208-bbbe-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BoraSCO Apple 8 pin, 3A. 1m нейлоновая оплетка. черный (34451)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/98/98054208-bbbe-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO Apple 8 pin, 3A. 1m нейлоновая оплетка. черный (34451)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

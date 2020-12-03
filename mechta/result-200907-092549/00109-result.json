@@ -1,0 +1,172 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y6-2019-modern-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "HUAWEI"
+  ],
+  "product_name": "Телефон сотовый HUAWEI Y6 2019 (modern black)",
+  "product_code": "82463",
+  "product_price": {
+    "full": 59890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ec/ec590ac4-a20b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac4-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac5-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac6-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac7-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac8-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590ac9-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590aca-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ec590acb-a20b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6761",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 4 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,09 (15,4 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Технология изготовления дисплея": "IPS"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE-class"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ A-GPS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f2.0/ вспышка скрытая",
+      "Особенности тыловой камеры": "f/1.8/ автофокус/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3020",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,6х7,3х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.15"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "Y6 2019",
+      "Комплектация": "зарядное устройство/USB-кабель ",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e1a/e1a9a7694b19aae344bf630d07a9a82c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Безрамочный экран</h3> <p style=\"text-align: center;\"> Откройте новые возможности с безрамочным экраном 6,09 дюйма с разрешением HD+ и отношением к передней панели¹ 87%. Вы сможете с комфортом смотреть видео и фотографии и читать любимые книги. HUAWEI Y6 2019 также оснащен режимом защиты зрения, сертифицированным TÜV Rheinland.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/917/917897729fa57e005de5e633e8418dc5.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Камера 8 МП для ярких селфи</h3> <p style=\"text-align: center;\"> 8-мегапиксельная фронтальная камера смартфона HUAWEI Y6 2019, оснащенная экранной вспышкой с эффектом тонирования, позволяет делать качественные и четкие портретные фотографии даже при тусклом освещении. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/fc0/fc052e8f058fa6e88c18aa0e1adcfba8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Фотосъемка при низком освещении</h3> <p style=\"text-align: center;\"> Основная камера 13 МП с диафрагмой f/1.8 пропускает на 50% больше света² и создает качественные фотографии в условиях недостаточного освещения.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1c8/1c8d05822f08c18856d30d4314a36037.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Новый уровень прослушивания музыки</h3> <p style=\"text-align: center;\"> <b>Встроенное FM-радио | Аудиоэффекты HUAWEI Histen 5.0 | Режим Вечеринка</b><br/> Благодаря повышенной³ на 6 дБ громкости звука и усиленным басам HUAWEI Y6 2019 станет вашим портативным динамиком: вы сможете слушать музыку дома, на вечеринке с друзьями или на пляже. Кроме того, вам доступно встроенное FM-радио, которое работает без подключения наушников.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e15/e15e3037ba6bfedab6d9a1218d4d01c1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Мультизадачность</h3> <p style=\"text-align: center;\"> HUAWEI Y6 2019 оснащен 12-нм процессором, имеет 2 ГБ оперативной и 32 ГБ встроенной памяти с возможностью ее расширения⁴. В смартфоне достаточно памяти для хранения всех ваших личных файлов и выполнения несколько задач одновременно.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e5e/e5ee6c470200b0b1f7f7d0769f4e0c30.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Оптимизация работы батареи</h3> <p style=\"text-align: center;\"> HUAWEI Y6 2019 оснащен мощной батареей емкостью 3 020 мА*ч. Функция оптимизации работы батареи на аппаратном и программном уровнях позволит вам использовать смартфон в течение всего дня без подзарядки.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ea7/ea7a41c3d6afe5fb87aae0cda6ea39bf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Интерфейс EMUI 9.0 и Android™ 9.0 Pie</h3> <p style=\"text-align: center;\"> <b>Простой режим | Диспетчер телефона</b><br/> EMUI 9.0 – это простой и интуитивно понятный интерфейс. Функция управления жестами обеспечивает удобство использования смартфона, а умный Диспетчер телефона ускоряет работу системы.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b54/b54480aa0bfaf228c73935c59f4a16ab.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Безопасность данных</h3> <p style=\"text-align: center;\"> HUAWEI Y6 2019 надежно защитит ваши данные. Разблокируйте смартфон при помощи сканера отпечатков пальцев или функции распознавания лица, которая срабатывает быстро и четко, адаптируясь к условиям освещения. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e1a/e1a9a7694b19aae344bf630d07a9a82c.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/917/917897729fa57e005de5e633e8418dc5.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/fc0/fc052e8f058fa6e88c18aa0e1adcfba8.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/1c8/1c8d05822f08c18856d30d4314a36037.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/e15/e15e3037ba6bfedab6d9a1218d4d01c1.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/e5e/e5ee6c470200b0b1f7f7d0769f4e0c30.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/ea7/ea7a41c3d6afe5fb87aae0cda6ea39bf.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      },
+      {
+        "url": "/upload/iblock/b54/b54480aa0bfaf228c73935c59f4a16ab.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6 2019 (modern black)"
+      }
+    ]
+  }
+}

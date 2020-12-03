@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-mate-dlya-huawei-mate-y5-2019-chernyy-matovyy-36808/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Mate для Huawei Mate Y5 2019 черный матовый (36808)",
+  "product_code": "81866",
+  "product_price": {
+    "full": 1390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6e/6e71954c-80f7-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Mate для Huawei Mate Y5 2019 черный матовый (36808)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6e/6e71954c-80f7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Mate для Huawei Mate Y5 2019 черный матовый (36808)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "Mate Y5"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.08",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х2"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

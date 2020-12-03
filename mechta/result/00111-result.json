@@ -1,0 +1,171 @@
+{
+	"source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-redmi-8-32gb-blue/",
+	"product_category": {
+		"name": "XIAOMI",
+		"url": "/section/xiaomi-mik/",
+		"parent_name": "Смартфоны",
+		"parent_url": "/section/smartfony/"
+	},
+	"product_name": "Телефон сотовый XIAOMI Redmi 8 32GB Blue",
+	"product_code": "00541",
+	"product_price": {
+		"full": 59890,
+		"discounted": 59790
+	},
+	"main_image": {
+		"url": "/export/1cbitrix/import_files/fe/fee56bde-1260-11ea-a22b-005056b6dbd7.jpeg",
+		"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+	},
+	"additional_images": [
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56bde-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56bdf-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be0-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be1-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be2-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be3-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be4-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be5-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		},
+		{
+			"url": "/export/1cbitrix/import_files/fe/fee56be6-1260-11ea-a22b-005056b6dbd7.jpeg",
+			"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+		}
+	],
+	"product_params": {
+		"Основные характеристики": {
+			"Защита от воды и пыли": "нет"
+		},
+		"Процессор": {
+			"Модель процессора": "Qualcomm Snapdragon 439",
+			"Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+		},
+		"Экран": {
+			"Диагональ экрана, дюйм": "6,22 (15,8 см)",
+			"Разрешение дисплея, пикс": "1520х720",
+			"Технология изготовления дисплея": "IPS"
+		},
+		"Стандарт": {
+			"Стандарты сети": "2G, 3G, 4G LTE"
+		},
+		"Память": {
+			"Встроенная память, Гб": "32",
+			"Объем оперативной памяти, Гб": "3",
+			"Тип карты памяти": "microSD",
+			"Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+		},
+		"Видеокарта": {
+			"Графический процессор": "Adreno 505"
+		},
+		"SIM карта": {
+			"SIM-карта": "две, Nano-SIM"
+		},
+		"Операционная система ": {
+			"Мобильная ОС": "Android"
+		},
+		"Типы передачи данных": {
+			"NFC": "нет",
+			"Поддержка 4G (LTE)": "есть",
+			"USB": "1 х USB Type-C",
+			"Bluetooth": "4.2",
+			"Wi-Fi": "есть, 802.11b/g/n",
+			"GPS": "есть, Glonass/ A-GPS"
+		},
+		"Фотокамера": {
+			"Разрешение фотокамеры, Мпикс": "12+2",
+			"Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+			"Фронтальная камера (для видеозвонков), Мпикс": "8",
+			"Особенности фронтальной камеры": " f/2.0 / портретный режим",
+			"Особенности тыловой камеры": " f/1.8 двойная/ фазовый фокус/ вспышка"
+		},
+		"Питание": {
+			"Емкость аккумулятора, мАч": "5000",
+			"Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+			"Беспроводная зарядка": "нет",
+			"Быстрая зарядка": "есть"
+		},
+		"Корпус": {
+			"Материал корпуса": "пластик и стекло Corning Gorilla Glass 5"
+		},
+		"Функции": {
+			"Система стабилизации изображения": "нет",
+			"Сканер отпечатка пальца": "есть",
+			"Распознавание лица": "есть"
+		},
+		"Звук": {
+			"Встроенные динамики": "есть, один"
+		},
+		"Интерфейсы": {
+			"Разъем для наушников": "есть, 3,5 мм"
+		},
+		"Цвет, размеры и вес": {
+			"Габариты устройства (ВхШхГ), см": "15,6х7,5х0,9",
+			"Цвет": "синий",
+			"Вес без упаковки (нетто), кг": "0,190"
+		},
+		"Разное": {
+			"Бренд": "XIAOMI",
+			"Гарантия": "1 год",
+			"Страна производитель": "Китай"
+		}
+	},
+	"product_description": {
+		"content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><span style=\"color: #363636;\">XIAOMI REDMI 8</span></h2> <h3 style=\"text-align: center;\">Аккумулятор ёмкостью 5000 мАч</h3> <span style=\"color: #363636;\"><br/> </span></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/b8a/b8aed34046cb1fd6b229e0b55e349a63.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/936/936dba69f7c8d2dcc78063bd39babba0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> ОСНОВНАЯ КАМЕРА<br/> Двойная камера Xiaomi Redmi 8 делает отличные снимки. В камере установлен алгоритм AI. Большой размер пикселя 1.4 μm и 2 МП камера глубины позволяют делать шикарные фото. Датчик Sony IMX 363 улучшает отображение тона кожи, помогая лучше передать вашу истинную красоту. Портретный режим смартфона поможет вам пополнить фотогалерею. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/882/88213c580cff08996274f77e8d01996d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> СЕЛФИ КАМЕРА<br/> Передняя камера Xiaomi Redmi 8 позволит вам разблокировать смартфон не используя рук. Селфи-камера поддерживает AI алгоритм и портретный режим фото. Снимайте потрясающие портреты с интеллектуальной 8-мегапиксельной камерой. Наслаждайтесь моментом, ведь каждый кадр подарит вам идеальное фото. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/767/767e423ff0037cee17a73b60cb9a02d1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> МОЩНАЯ БАТАРЕЯ<br/> Благодаря высокой емкости батареи Xiaomi Redmi 8 в 5 000 мАч вы можете просматривать больше видео и картинок, играть в высоко нагруженные онлайн игры без подзарядки весь день. Быстрая зарядка 18 Вт поможет в кратчайшие сроки вернуть ваш смартфон к жизни. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1f9/1f96b6734096104b7894a89bbbe0a88a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> ЯРКИЙ ДИСПЛЕЙ<br/> Еще одна гордость Xiaomi Redmi 8 большой 6.22\" дисплей высокого разрешения. Corning Gorilla Glass 5 защищает смартфон от царапин и ударов, не собирая на себе отпечатки ваших пальцев. Безупречный дизайн продуман до мелочей. Улучшенное качество изображения увеличивает радость от просмотра. Такой большой обзор дисплея позволяет выполнять много задач одновременно. Используйте функцию разделения экрана и смотрите видео, в то время как отвечаете друзьям в чате. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a33/a33c50664d6e308aae28c59c473ee2e2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <p style=\"text-align: center;\"> ВЫСОКАЯ ПРОИЗВОДИТЕЛЬНОСТЬ<br/> Xiaomi Redmi 8 построен на основе чипсета Qualcomm Snapdragon 439 частотой до 2,0 ГГц. Мощный процессор совместно с большим объемом оперативной памяти гарантируют быструю и плавную работу. Память представлена в вариантах 3/32 Гб и 4/64 Гб. Так же вы можете расширить объем памяти до 512 ГБ при помощи microSD карты. Redmi 8 позволяет с легкостью просматривать картинки и видео высокого разрешения, играть в HD-игры. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/815/8159409b265f4e26e76f67d17fc1c65e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <p style=\"text-align: center;\"> СТИЛЬНЫЙ ДИЗАЙН<br/> Задняя панель смартфона переливается на свету. Зеркальный дизайн придает особую красоту Xiaomi Redmi 8. Сканер отпечатков пальцев удобно расположен по центру, сразу под двойной камерой. Защитное нанопокрытие от влаги и пыли P2i продлит срок службы вашего смартфона. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/bf8/bf8f4a40cbbc0a71e5a10204ebf16194.jpg')\"></div> <div class=\"aa_markvthree_text\"> <p style=\"text-align: center;\"> БЕСПРОВОДНОЕ FM-РАДИО<br/> Для всех меломанов в смартфон Xiaomi Redmi 8 добавлено беспроводное FM-радио. Мощные динамики помогут вам поделиться хорошим настроением и музыкой с окружающими. В смартфоне встроена акустическая камера 0.82CC для более громкого и чистого звука.<br/> ИК ПОРТ<br/> При помощи инфракрасного порта вы можете использовать Xiaomi Redmi 8 как пульт дистанционного управления для умных устройств вашего дома. </p> </div> </div> ",
+		"images": [
+			{
+				"url": "/upload/iblock/936/936dba69f7c8d2dcc78063bd39babba0.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/882/88213c580cff08996274f77e8d01996d.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/767/767e423ff0037cee17a73b60cb9a02d1.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/1f9/1f96b6734096104b7894a89bbbe0a88a.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/a33/a33c50664d6e308aae28c59c473ee2e2.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/815/8159409b265f4e26e76f67d17fc1c65e.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/bf8/bf8f4a40cbbc0a71e5a10204ebf16194.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			},
+			{
+				"url": "/upload/iblock/b8a/b8aed34046cb1fd6b229e0b55e349a63.jpg",
+				"alt": "Телефон сотовый XIAOMI Redmi 8 32GB Blue"
+			}
+		]
+	}
+}

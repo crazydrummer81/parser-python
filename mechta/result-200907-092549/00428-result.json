@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-xiaomi-wireless-charger-10-000mah-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Портативные Power Bank",
+    "XIAOMI"
+  ],
+  "product_name": "Портативное зарядное устройство XIAOMI Wireless charger 10 000mAh White",
+  "product_code": "260000126",
+  "product_price": {
+    "full": 14990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/81abe899-51fd-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство XIAOMI Wireless charger 10 000mAh White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe899-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Wireless charger 10 000mAh White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe89a-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Wireless charger 10 000mAh White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe89b-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Wireless charger 10 000mAh White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,7х7,1х1,8",
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.5"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

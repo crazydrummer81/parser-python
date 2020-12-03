@@ -1,0 +1,172 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-715-galaxy-a71-fzkus-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)",
+  "product_code": "260000325",
+  "product_price": {
+    "full": 199890,
+    "discounted": 149890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/48/485b0eb7-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0eb7-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0eb8-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0eb9-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0eba-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0ebb-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/48/485b0ebc-5d0d-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 730",
+      "Процессор, (МГц, количество ядер)": "2200/ 1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,7 (17 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "Super AMOLED Plus",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 618"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2.4+ 5ГГц, VHT80",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+12+5+5",
+      "Режим видеосъемки": "UHD 4K (3840 x 2160)  30 кадров/ сек",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.2/ Селфи фокус",
+      "Особенности тыловой камеры": "Четыре камеры/ Сверхширик/ Макро/ Сенсор глубины"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,6х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,179"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/5a0/5a0fcec5c40d813a581f76d2cf7d68ef.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>Экран без границ для максимального погружения</b></h2> <p style=\"text-align: center;\"> Безграничный 6.7-дюймовый sAMOLED Plus экран Galaxy A71 обеспечивает естественную цветопередачу изображения в любой момент: во время игр, при просмотре фильмов и серфинге в интернете. Наслаждайся эффектом максимального погружения во время всех своих любимых занятий. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2b7/2b7c19c93257ef8e8d3e650056eff868.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Дизайн, продуманный до мелочей: яркие цвета с динамическим узором</b></h2> <p style=\"text-align: center;\"> Смартфон Galaxy A71 притягивает взгляд. Гладкие плавные линии корпуска позволяют комфортно держать его в руке, а уникальный дизайн задней панели с динамическим узором выделит тебя из толпы. Подчеркни свою индвидиуальность с одним из ярких призматических оттенков Черного, Серебряного или Голубого цвета. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/301/3016b29bd1174f42f8d7d60f335b31e3.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d15/d1505d69dce588fe51504cf07f31919c.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Смотри на мир шире</b></h3> <p style=\"text-align: center;\"> Снимай мир во всей полноте красок с помощью сверхширокоугольной камеры 12МП. Объектив камеры позволяет фотографировать с углом обзора 123°, что аналогично зрению человека, благодаря чему у тебя легко получится передать всю красоту панорамных снимков природы или городского пейзажа. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/6be/6bea9638c9c7e78b4ff6f7c2927b40b3.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мельчайшие детали крупным планом</b></h3> <p style=\"text-align: center;\"> 5МП камера для макросъемки (F=40мм) открывает невероятные возможности для снимков крупным планом. Выбирай режим \"Живой фокус\" и регулируй степень размытия фона, чтобы выделить главный объект съемки и запечатлеть его мельчайшие детали и оттенки. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2a0/2a0020c58a3953a440e439b58e4ca7d9.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Режим суперстабилизации: динамическая съемка на высоком уровне</b></h3> <p style=\"text-align: center;\"> Записывай видео профессионального качества с помощью сверхширокоугольной камеры Galaxy A71 и интеллектуального ПО. Режим суперстабилизации делает яркие и динамичные кадры более плавными, давая тебе возможность съемки на уровне экшн-камеры во время твоих самых удивительных приключений. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/000/000bc644afbfcd2387b6ba32370a2cf9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Твой объект в центре внимания</b></h3> <p style=\"text-align: center;\"> 5МП Камера с датчиком глубины позволяет регулировать уровень резкости как до, так и после съемки. Улучшенная конструкция 5МП Камеры с датчиком глубины поможет устранить нежелательные фоновые шумы с твоих снимков, чтобы они выглядели более профессиональными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/097/0972e1ecf2b7412c96dfa2204f49f26e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Яркие эмоции, яркие селфи</b></h3> <p style=\"text-align: center;\"> Добавь новых красок в свои селфи. Фронтальная камера Galaxy A71 на 32МП гарантирует яркие и четкие снимки в высоком разрешении. Выделяй себя и своих друзей на фотографии с помощью режима \"Селфи-фокус\" и яркие эмоции вам точно обеспечены. </p> </div> </div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Мощный смартфон для работы и развлечений</b></h2> <p style=\"text-align: center;\"> Galaxy A71 оснащен быстрым процессором и вместительным объемом памяти для хранения всего самого важного. Плавная и быстрая работа смартфона обеспечивается усовершенствованным восьмиядерным процессором и 6ГБ оперативной памяти. Встроенная память 128ГБ и возможность ее расширения до 512ГБ с помощью microSD карты позволит тебе хранить еще больше фотографий, видео, игр и приложений. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/175/17589d932a0e721b51f7961d84cfbb0e.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Приложение Game Booster - будь на шаг впереди</b></h2> <p style=\"text-align: center;\"> Максимизируй производительность своего Galaxy A71 в играх с помощью приложения Game Booster. Удобный интерфейс программы позволяет легко контролировать весь игровой процесс. Game Booster обеспечивает плавность графики и более естественные движения объектов в играх. А с помощью анализа твоих действий приложение оптимизирует расход аккумулятора и ускоряет загрузку игр, чтобы ты мог дольше наслаждаться игровым процессом. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/5fe/5fec7abbbf9690481fdce6dc9c6aa619.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a02/a02ff8629de0ef8a483bca20473e353d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Надежная система защиты теперь доступна каждому</b></h3> <p style=\"text-align: center;\"> Абсолютная безопасность данных с Samsung Knox Многоуровневая система безопасности Samsung Knox защищает ваши личные данные от вирусов и вредоносных атак как на аппаратном, так и на программном уровне. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/042/04240f06622355ac618241ecf3948159.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Отпечаток пальца - надежная защита твоего смартфона</b></h3> <p style=\"text-align: center;\"> Galaxy A71 оснащен высокотехнологичной биометрической системой идентификации пользователя. Экранный сканер отпечатков распознает твой уникальный отпечаток пальца. Разблокируй смартфон всего одним движением и не переживай за сохранность своей информации. Доступ к контенту получишь только ты. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ab5/ab5532b8149d7d7c7f20c5cfe4674d47.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сосредоточься на важном</b></h3> <p style=\"text-align: center;\"> Пользовательский интерфейс \"One UI\" поможет тебе сконцентрироваться на том, что действительно важно. Аппаратное и программное обеспечение работают настолько слаженно, что ты получаешь доступ ко всем функциям и контенту быстрее, чем прежде. Используй Ночной режим для более комфортной работы в темное время суток, а интуитивно понятный интерфейс сделает твой смартфон продолжением тебя. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a65/a65bca449967eb4258d816958f38329f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мы подскажем, как сохранить твое устройство в отличном состоянии</b></h3> <p style=\"text-align: center;\"> Наслаждайся быстрой и оптимизированной работой смартфона вместе с нашим приложением Samsung Members. Интерактивная диагностика и оптимизация приложения позволяет легко настроить производительность устройства. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/d15/d1505d69dce588fe51504cf07f31919c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/6be/6bea9638c9c7e78b4ff6f7c2927b40b3.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/2a0/2a0020c58a3953a440e439b58e4ca7d9.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/000/000bc644afbfcd2387b6ba32370a2cf9.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/097/0972e1ecf2b7412c96dfa2204f49f26e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/a02/a02ff8629de0ef8a483bca20473e353d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/042/04240f06622355ac618241ecf3948159.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/ab5/ab5532b8149d7d7c7f20c5cfe4674d47.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/a65/a65bca449967eb4258d816958f38329f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      },
+      {
+        "url": "/upload/iblock/5fe/5fec7abbbf9690481fdce6dc9c6aa619.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 715 Galaxy A71 FZKUS (black)"
+      }
+    ]
+  }
+}

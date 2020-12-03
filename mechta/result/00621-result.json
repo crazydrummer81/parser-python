@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-hf-400-bgck/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-hlj/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники PANASONIC RP HF 400 BGCK",
+  "product_code": "71243",
+  "product_price": {
+    "full": 16990,
+    "discounted": 9990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/70/7031d0e2-b311-11e7-80c0-1866daf08915.jpeg",
+    "alt": "Наушники PANASONIC RP HF 400 BGCK"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/70/7031d0e2-b311-11e7-80c0-1866daf08915.jpeg",
+      "alt": "Наушники PANASONIC RP HF 400 BGCK"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.13"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

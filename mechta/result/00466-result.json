@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-e55-bt-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL E55 BT (black)",
+  "product_code": "74469",
+  "product_price": {
+    "full": 39990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4d/4d4b7094-4865-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL E55 BT (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d4b7094-4865-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL E55 BT (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной/ беспроводной",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

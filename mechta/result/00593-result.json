@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-powerbeats-pro-wireless-mv6y2zma-black/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)",
+  "product_code": "84266",
+  "product_price": {
+    "full": 124990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f1/f1f808d9-e674-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f1/f1f808d9-e674-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f1/f1f808da-e674-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f1/f1f808db-e674-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f1/f1f808dc-e674-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS Powerbeats PRO Wireless MV6Y2ZMA (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "Lightning",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 9 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BEATS",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

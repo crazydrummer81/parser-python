@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-olmio-deluxe-microusb-1m-blue/",
+  "product_category": {
+    "name": "OLMIO",
+    "url": "/section/olmio/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "OLMIO"
+  ],
+  "product_name": "Кабель для телефона OLMIO Deluxe microUSB 1m. (blue)",
+  "product_code": "82698",
+  "product_price": {
+    "full": 2490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2f/2fce187c-ae91-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона OLMIO Deluxe microUSB 1m. (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2f/2fce187c-ae91-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона OLMIO Deluxe microUSB 1m. (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB / Micro USB",
+      "Тип кабеля (шнура)": "USB 2.0"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий"
+    },
+    "Разное": {
+      "Бренд": "OLMIO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

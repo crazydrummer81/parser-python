@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-naushnikov-usams-bh475-kojannyy-chernyy/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-47j/",
+    "parent_name": "Чехол для наушников",
+    "parent_url": "/section/chehol-dlya-naushnikov-8uy/"
+  },
+  "product_name": "Чехол для наушников USAMS BH475 кожанный (черный)",
+  "product_code": "83597",
+  "product_price": {
+    "full": 5490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/66/661b5975-db5b-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Чехол для наушников USAMS BH475 кожанный (черный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/66/661b5975-db5b-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Чехол для наушников USAMS BH475 кожанный (черный)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/661b5976-db5b-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Чехол для наушников USAMS BH475 кожанный (черный)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,150"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

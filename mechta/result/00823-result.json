@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnoe-zar-ustroystvo-xiaomi-mi-car-charger-pro/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-h6k/",
+    "parent_name": "Зарядные устройства в автомобиль",
+    "parent_url": "/section/zaryadnye-ustroystva-v-avtomobil/"
+  },
+  "product_name": "Автомобильное зар. устройство XIAOMI Mi Car Charger PRO",
+  "product_code": "83451",
+  "product_price": {
+    "full": 5990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f7/f7a22acb-c878-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Автомобильное зар. устройство XIAOMI Mi Car Charger PRO"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f7/f7a22acb-c878-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство XIAOMI Mi Car Charger PRO"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f7/f7a22acc-c878-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство XIAOMI Mi Car Charger PRO"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f7/f7a22acd-c878-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство XIAOMI Mi Car Charger PRO"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "2.4х2.4х5.6",
+      "Цвет": "серый"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

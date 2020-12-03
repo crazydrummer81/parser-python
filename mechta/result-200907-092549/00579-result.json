@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-borasco-type-c---type-c-3a-1m-power-delivery-38526/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-ek5/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "BoraSCO"
+  ],
+  "product_name": "Кабель для телефона BoraSCO Type-C - Type-C, 3A, 1m Power Delivery (38526)",
+  "product_code": "260000396",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/62/62ce09a8-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BoraSCO Type-C - Type-C, 3A, 1m Power Delivery (38526)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/62/62ce09a8-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO Type-C - Type-C, 3A, 1m Power Delivery (38526)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/62ce09a9-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO Type-C - Type-C, 3A, 1m Power Delivery (38526)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB Type C - USB Type C",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

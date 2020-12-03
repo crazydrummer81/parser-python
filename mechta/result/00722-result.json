@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-inkax-micro-usb-cd01/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax-a4n/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов INKAX micro USB (CD01)",
+  "product_code": "71310",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/90/906f7b3d-fccb-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Зарядное устройство для телефонов INKAX micro USB (CD01)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/90/906f7b3d-fccb-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Зарядное устройство для телефонов INKAX micro USB (CD01)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 2.1А "
+    },
+    "Опции": {
+      "Дополнительные опции": "быстрая зарядка"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

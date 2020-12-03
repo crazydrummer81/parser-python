@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/monopod-huawei-cf-33-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-shr/",
+    "parent_name": "Моноподы",
+    "parent_url": "/section/monopody/"
+  },
+  "product_name": "Монопод HUAWEI CF 33 Black",
+  "product_code": "74299",
+  "product_price": {
+    "full": 11990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/659028d5-6963-11e8-a211-005056b6dbd7.jpeg",
+    "alt": "Монопод HUAWEI CF 33 Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/659028d5-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Монопод HUAWEI CF 33 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/659028d6-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Монопод HUAWEI CF 33 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/659028d7-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Монопод HUAWEI CF 33 Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Максимальная высота, см": "61",
+      "Минимальная высота, см": "18.5",
+      "Управление через bluetooth": "есть",
+      "Управление через аудио линейный порт телефона": "нет"
+    },
+    "Опции": {
+      "Дополнительные опции": "фонарик для селфи 3 уровня яркости"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.13"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

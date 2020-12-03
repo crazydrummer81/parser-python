@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-urbeats-b0547-mk9w2zma-space-gray/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats-j41/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "BEATS"
+  ],
+  "product_name": "Наушники BEATS urBeats B0547 MK9W2ZM/A (space gray)",
+  "product_code": "43211",
+  "product_price": {
+    "full": 39990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/1c/1c8d8165-4d97-11e6-9405-2c768a5d3551.jpeg",
+    "alt": "Наушники BEATS urBeats B0547 MK9W2ZM/A (space gray)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/1c/1c8d8165-4d97-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Наушники BEATS urBeats B0547 MK9W2ZM/A (space gray)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый"
+    },
+    "Разное": {
+      "Бренд": "BEATS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

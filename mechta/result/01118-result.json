@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-xea20-xperia-ear-duo-gold/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY XEA20 Xperia EAR DUO (gold)",
+  "product_code": "76358",
+  "product_price": {
+    "full": 89990,
+    "discounted": 77990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fc/fcdfef52-9ed7-11e8-a217-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY XEA20 Xperia EAR DUO (gold)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fc/fcdfef52-9ed7-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY XEA20 Xperia EAR DUO (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fc/fcdfef53-9ed7-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY XEA20 Xperia EAR DUO (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fc/fcdfef54-9ed7-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY XEA20 Xperia EAR DUO (gold)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "1.7x6x1 каждое устройство",
+      "Цвет": "золотистый",
+      "Вес без упаковки (нетто), кг": "0.07",
+      "Вес в упаковке (брутто), кг": "0.15",
+      "Габариты в упаковке (ВхШхГ), см": "8.9x8.9x2.5 кейс"
+    },
+    "Разное": {
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

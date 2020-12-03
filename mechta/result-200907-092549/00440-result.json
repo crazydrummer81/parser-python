@@ -1,0 +1,90 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-517-white/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "HARPER"
+  ],
+  "product_name": "Наушники HARPER HB 517 (white)",
+  "product_code": "260001331",
+  "product_price": {
+    "full": 17890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f2/f2ddbe42-9f01-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 517 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe42-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe43-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe44-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe45-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe46-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f2/f2ddbe47-9f01-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 517 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "microUSB",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность, дБ": "95"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "1 час",
+      "Емкость аккумулятора, мАч": "40мАч (наушник), 600мАч (зарядный бокс)",
+      "Время работы от аккумулятора, ч": "5 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "заряда батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть",
+      "Кнопки управления": "кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

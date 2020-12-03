@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-samsung-leather-cover-g-985-silver-ef-vg985lsegru/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-ufj/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "SAMSUNG"
+  ],
+  "product_name": "Чехол для телефона SAMSUNG Leather Cover G 985 silver (EF-VG985LSEGRU)",
+  "product_code": "260000204",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/24/24c79639-5486-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона SAMSUNG Leather Cover G 985 silver (EF-VG985LSEGRU)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/24/24c79639-5486-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover G 985 silver (EF-VG985LSEGRU)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/24/24c7963a-5486-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover G 985 silver (EF-VG985LSEGRU)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/24/24c7963b-5486-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона SAMSUNG Leather Cover G 985 silver (EF-VG985LSEGRU)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Материал сумки/чехла": "кожа",
+      "Для моделей": "Galaxy S20 Plus"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

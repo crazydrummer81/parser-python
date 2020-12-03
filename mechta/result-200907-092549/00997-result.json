@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-usams-aluminum-magnetic-cable-type-c-1m-grey-us-sj327-u28/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-wwg/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "USAMS"
+  ],
+  "product_name": "Кабель для телефона USAMS Aluminum Magnetic Cable Type-C 1m (grey) US-SJ327 U28",
+  "product_code": "83657",
+  "product_price": {
+    "full": 2970,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/30/309336cd-e408-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона USAMS Aluminum Magnetic Cable Type-C 1m (grey) US-SJ327 U28"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/30/309336cd-e408-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона USAMS Aluminum Magnetic Cable Type-C 1m (grey) US-SJ327 U28"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB A - USB Type C",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Опции": {
+      "Дополнительные опции": "Светодиод"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-baseus-3d-for-iphone-78-white/",
+  "product_category": {
+    "name": "Baseus",
+    "url": "/section/baseus-yid/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_name": "Защитная пленка для дисплея Baseus 3D for IPhone 7/8 White",
+  "product_code": "79472",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a8/a88b095b-2862-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея Baseus 3D for IPhone 7/8 White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a8/a88b095b-2862-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея Baseus 3D for IPhone 7/8 White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone 8/7"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х0.3"
+    },
+    "Разное": {
+      "Бренд": "Baseus",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t500-bt-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL T500 BT (black)",
+  "product_code": "79662",
+  "product_price": {
+    "full": 24990,
+    "discounted": 19990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e6/e68f9ad0-2e76-11e9-a21d-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T500 BT (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9ad0-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9acf-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9ad1-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "100"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.15",
+      "Вес в упаковке (брутто), кг": "0.3",
+      "Габариты в упаковке (ВхШхГ), см": "20.5х22.5х5"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

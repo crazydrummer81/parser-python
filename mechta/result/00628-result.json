@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-samsung-eo-bg920bfegru-gold/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-un6/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона SAMSUNG Level U EO-BG920BFEGRU (gold)",
+  "product_code": "37980",
+  "product_price": {
+    "full": 21990,
+    "discounted": 15890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/eb/eb7703fc-8381-11e5-a909-2c768a5d3551.jpeg",
+    "alt": "Наушники для телефона SAMSUNG Level U EO-BG920BFEGRU (gold)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/eb/eb7703fc-8381-11e5-a909-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона SAMSUNG Level U EO-BG920BFEGRU (gold)"
+    }
+  ],
+  "product_params": {
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "золотистый",
+      "Вес в упаковке (брутто), кг": "0.1",
+      "Габариты в упаковке (ВхШхГ), см": "18х16х3"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

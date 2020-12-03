@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-usams-iphone-xr-025mm-soft-black-us-bh459/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-ogs/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "USAMS"
+  ],
+  "product_name": "Защитная пленка для дисплея USAMS IPhone XR 0.25mm Soft black (US-BH459)",
+  "product_code": "83647",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/df/df809ee5-cf92-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея USAMS IPhone XR 0.25mm Soft black (US-BH459)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/df/df809ee5-cf92-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея USAMS IPhone XR 0.25mm Soft black (US-BH459)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone XR"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "прозрачный",
+      "Вес без упаковки (нетто), кг": "0,011",
+      "Вес в упаковке (брутто), кг": "0,014"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

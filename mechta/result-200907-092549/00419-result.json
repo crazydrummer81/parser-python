@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-usams-lu001-wireless-earphone/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "USAMS"
+  ],
+  "product_name": "Наушники для телефона USAMS LU001 Wireless Earphone (белый)",
+  "product_code": "83593",
+  "product_price": {
+    "full": 24990,
+    "discounted": 13990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/54/5456e104-0533-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона USAMS LU001 Wireless Earphone (белый)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/54/5456e104-0533-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона USAMS LU001 Wireless Earphone (белый)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/54/5456e105-0533-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона USAMS LU001 Wireless Earphone (белый)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/54/5456e106-0533-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона USAMS LU001 Wireless Earphone (белый)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "15"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "1 ч. 30 мин.",
+      "Время в режиме разговора, ч": "2 ч. 30 мин.",
+      "Емкость аккумулятора, мАч": "32 мАч",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "3 ч.",
+      "Беспроводная зарядка": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

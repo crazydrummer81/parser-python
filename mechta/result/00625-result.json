@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t110-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-14o/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники JBL T110 (white)",
+  "product_code": "67965",
+  "product_price": {
+    "full": 4490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ce/ce08b1a6-2345-11e7-80c4-2c768a5d3553.jpeg",
+    "alt": "Наушники JBL T110 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce08b1a6-2345-11e7-80c4-2c768a5d3553.jpeg",
+      "alt": "Наушники JBL T110 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

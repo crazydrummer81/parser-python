@@ -1,0 +1,176 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-realme-c3-blue-364gb/",
+  "product_category": {
+    "name": "Realme",
+    "url": "/section/realme/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый REALME C3 (3/64GB) Blue",
+  "product_code": "260001517",
+  "product_price": {
+    "full": 72890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/29/29d6304c-abc6-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/29/29d6304c-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d6304d-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d6304e-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d6304f-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d63050-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d63051-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d63052-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/29/29d63053-abc6-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G70",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MC2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+2+2",
+      "Режим видеосъемки": "1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.4",
+      "Особенности тыловой камеры": "Портретный модуль/Макросъемка/Автофокус"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик света/ датчик приближ/ компас",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "нет"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,4х7,5х0,9",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,195"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>REALME C3</b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Тройная камера</h3> <h3 style=\"text-align: center;\">Емкий аккумулятор</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/61b/61be81fbb2f38f9f07aae9df0d8371b5.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/60d/60dd61d22f07a59ad2fa09805b9379d7.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Эффект Боке на аппаратном уровне</h3> <p style=\"text-align: center;\"> Тройная основная камера realme C3 поддерживает эффект боке на аппаратном уровне, благодаря чему снимки становятся четкими и выразительными. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/162/16241944ba9bee04f6c0636cd5ab54f0.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Модуль для макросъемки</h3> <p style=\"text-align: center;\"> Открой для себя чудеса макросъемки с камерой realme C3, способной создавать фотографии на расстоянии 4 см до объекта. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/5af/5afcdf9247a482e3218a4623dae70aa2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Художественный портрет</h3> <p style=\"text-align: center;\"> Фронтальная камера поддерживает режим AI-бьютификации. Искусственный интеллект подбирает оптимальный алгоритм обработки снимков на основе персонализированных настроек. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/323/323805f133ff15efb9f98718d8f46cf0.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Экран 6,5” с мини-каплевидным вырезом</h3> <p style=\"text-align: center;\"> Экран 6,5” с мини-каплевидным вырезом обеспечивает полное погружение в просмотр видео и гейминг. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d3a/d3a7fa7df1449a7a506cdd985d70ccb2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Емкий аккумулятор 5000 мА·ч </h3> <h3 style=\"text-align: center;\">Поддержка обратной зарядки</h3> <p style=\"text-align: center;\"> С емким аккумулятором на 5000 мАч можно забыть о постоянных подзарядках в течение дня, а с функцией обратной зарядки — заряжать другие устройства. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ff6/ff63f78d7fbf08cb1d9640af34a4f7c5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Helio G70 Высокая производительность</h3> <p style=\"text-align: center;\"> Мощный восьмиядерный процессор Helio G70 с технологией HyperEngine обеспечивает высокую производительность и плавный игровой процесс. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/8d0/8d04f93c89d460f73d51524a33a06950.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Эффектный дизайн</h3> <p style=\"text-align: center;\"> Корпус realme C3 создает визуальный эффект переливающихся световых потоков. Благодаря текстурной поверхности устройство удобно лежит в руке. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2f4/2f4023a2aebd0b64e9bb1dad36fc7ad3.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Моментальная разблокировка по отпечатку</h3> <p style=\"text-align: center;\"> Сканер отпечатков пальцев realme C3 обеспечивает высокий уровень безопасности и скорость разблокировки экрана, всего за 0,27 секунды. Также доступна разблокировка по лицу. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/051/051358893e3b8d515828a2e48ff38271.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">3 отдельных слота</h3> <p style=\"text-align: center;\"> realme C3 поддерживает одновременное использование 2 SIM-карт и карты памяти на 256 ГБ. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/60d/60dd61d22f07a59ad2fa09805b9379d7.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/162/16241944ba9bee04f6c0636cd5ab54f0.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/5af/5afcdf9247a482e3218a4623dae70aa2.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/323/323805f133ff15efb9f98718d8f46cf0.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/d3a/d3a7fa7df1449a7a506cdd985d70ccb2.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/ff6/ff63f78d7fbf08cb1d9640af34a4f7c5.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/8d0/8d04f93c89d460f73d51524a33a06950.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/2f4/2f4023a2aebd0b64e9bb1dad36fc7ad3.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/051/051358893e3b8d515828a2e48ff38271.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      },
+      {
+        "url": "/upload/iblock/61b/61be81fbb2f38f9f07aae9df0d8371b5.jpg",
+        "alt": "Телефон сотовый REALME C3 (3/64GB) Blue"
+      }
+    ]
+  }
+}

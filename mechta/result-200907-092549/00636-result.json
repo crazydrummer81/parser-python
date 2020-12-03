@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-inkax-3-in1-microusb-8pin-type-c-ck-38/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "INKAX"
+  ],
+  "product_name": "Кабель для телефона INKAX 3 in1 microUSB, 8pin, type-c (CK-38)",
+  "product_code": "260001355",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6f/6fc6bbff-b14b-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона INKAX 3 in1 microUSB, 8pin, type-c (CK-38)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fc6bbff-b14b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона INKAX 3 in1 microUSB, 8pin, type-c (CK-38)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fc6bc00-b14b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона INKAX 3 in1 microUSB, 8pin, type-c (CK-38)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fc6bc01-b14b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона INKAX 3 in1 microUSB, 8pin, type-c (CK-38)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

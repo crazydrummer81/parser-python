@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-lightning-to-usb-1m-mxly2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "APPLE"
+  ],
+  "product_name": "Кабель для телефона APPLE Lightning to USB  1m (MXLY2ZM/A)",
+  "product_code": "260000015",
+  "product_price": {
+    "full": 11990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/81abe89e-51fd-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона APPLE Lightning to USB  1m (MXLY2ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe89e-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB  1m (MXLY2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe89d-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB  1m (MXLY2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe89f-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB  1m (MXLY2ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

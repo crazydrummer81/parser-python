@@ -1,0 +1,172 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-p-smart-z-sapphire-blue/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "HUAWEI"
+  ],
+  "product_name": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)",
+  "product_code": "82356",
+  "product_price": {
+    "full": 99890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6c/6c478eb2-9c7b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c478eb2-9c7b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c478eb3-9c7b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c478eb4-9c7b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c478eb5-9c7b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c478eb6-9c7b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 710F",
+      "Процессор, (МГц, количество ядер)": "2200 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,59 (16,7 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "LTPS",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G51 MP4"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, Wi-Fi (802.11a/b/g/n/ac) - 2,4 ГГц и 5 ГГц",
+      "GPS": "есть, Glonass/ A-GPS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "16+2",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": "Выдвижная камера/ f/2.0/ Портретный реж/ HDR",
+      "Особенности тыловой камеры": " f/1,8/ f/2.4 автофокус/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "нет"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,7х0,9",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,197"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "P Smart Z",
+      "Комплектация": "адаптер питания/гарнитура/USB-Type C кабель"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d40/d40abd21003c891c05202ed707411a8d.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3a3/3a36b315bfc221fe837efff64ba3a046.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Обновленный дизайн задней панели</b></h3> <p style=\"text-align: center;\"> Главная отличительная особенность смартфона HUAWEI P smart Z — это уникальный дизайн задней панели. Ее мерцающая поверхность приятная на ощупь и гладкая, как шелк. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7d2/7d2ab3186e2e905e4f6d11de906d4d38.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Безрамочный экран HUAWEI Ultra FullView</b></h3> <p style=\"text-align: center;\"> Безрамочный экран HUAWEI Ultra FullView 6,59 дюйма без темной области вверху обеспечивает максимально широкий обзор. Благодаря почти полному отсутствию рамок вы испытаете еще больше удовольствия от просмотра видео, мобильных игр или чтения электронных книг. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Съемка селфи на базе</b><b> искусственного интеллекта</b></h3> <p style=\"text-align: center;\"> Фронтальная камера 16 МП распознает 8 сценариев съемки и применяет к ним различные настройки и фильтры. HUAWEI P smart Z позволит снимать яркие и запоминающиеся селфи в любых условиях. </p> </div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/ce6/ce69a67b9cfc680c739d5abdf98606c8.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d1a/d1a31be63ed603a01ba0e22ad3936b9d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Дополнительная линза</b><b> для качественных фото</b></h3> <p style=\"text-align: center;\"> Основная камера оснащена линзой 6P, которая позволяет зафиксировать больше света и увеличить разрешение и контрастность снимков. Снимая на камеру смартфона HUAWEI P smart Z, вы сможете получить более четкие, яркие и реалистичные фотографии. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/15b/15bcf5afdeac3bc8812048dd23d06bf2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Съемка </b><b> 3D-портретов</b></h3> <p style=\"text-align: center;\"> HUAWEI P smart Z поддерживает режим съемки 3D-портретов на основную и фронтальную камеру. Используйте эффекты студийного освещения, чтобы получить снимок профессионального качества в любой ситуации. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/0f5/0f54d316f7c5c18843780a2de312320c.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Интеллектуальная съемка</b><b> на основную камеру</b></h3> <p style=\"text-align: center;\"> Благодаря особым алгоритмам искусственного интеллекта основная камера смартфона HUAWEI P smart Z распознает более 500 сценариев съемки в 22 категориях и оптимизирует настройки в режиме реального времени. Фотографии получаются максимально четкими и яркими. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c23/c23be23c8b0fdb58149af8ab791fc097.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Быстрая и </b><b> эффективная работа</b></h3> <p style=\"text-align: center;\"> Усовершенствованный 8-ядерный процессор Kirin 710F повышает скорость обработки данных и снижает энергопотребление смартфона. Вы легко сможете запускать игры с высокими системными требованиями и проводить онлайн-трансляции. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/036/03637afa68a03deb1deb7f0da08056eb.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>4 ГБ RAM /</b><b> 64 ГБ ROM</b></h3> <p style=\"text-align: center;\"> HUAWEI P smart Z предоставляет 64 ГБ внутренней памяти и позволяет хранить все важные фотографии, видео и сообщения на смартфоне. Вы также можете установить карту памяти объемом до 512 ГБ и расширить память смартфона, чтобы сделать каждый момент незабываемым. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1fb/1fbccd9e28a4ead511f8edd7982747ae.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мощная</b><b> батарея</b></h3> <p style=\"text-align: center;\"> Энергоемкая батарея 4 000 мА*ч и функции интеллектуального энергосбережения повышают эффективность работы смартфона. Используйте HUAWEI P smart Z для выполнения любых повседневных задач и не беспокойтесь о зарядке. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/782/782c5e94fb9f77ae33baa0d4f183f708.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Интеллектуальный</b><b> интерфейс EMUI 9.0</b></h3> <p style=\"text-align: center;\"> EMUI 9.0 — это простой и интуитивно понятный интерфейс с множеством интеллектуальных функций. Смартфон, обладающий способностью к самообучению, повышает эффективность выполнения ежедневных задач. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/3a3/3a36b315bfc221fe837efff64ba3a046.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/7d2/7d2ab3186e2e905e4f6d11de906d4d38.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/d1a/d1a31be63ed603a01ba0e22ad3936b9d.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/15b/15bcf5afdeac3bc8812048dd23d06bf2.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/0f5/0f54d316f7c5c18843780a2de312320c.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/c23/c23be23c8b0fdb58149af8ab791fc097.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/036/03637afa68a03deb1deb7f0da08056eb.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/1fb/1fbccd9e28a4ead511f8edd7982747ae.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/782/782c5e94fb9f77ae33baa0d4f183f708.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      },
+      {
+        "url": "/upload/iblock/ce6/ce69a67b9cfc680c739d5abdf98606c8.jpg",
+        "alt": "Телефон сотовый HUAWEI P Smart Z (Sapphire Blue)"
+      }
+    ]
+  }
+}

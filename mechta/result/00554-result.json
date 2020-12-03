@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-olmio-besprovodnoe-qw-10-10-000mah-gray/",
+  "product_category": {
+    "name": "OLMIO",
+    "url": "/section/olmio-mrb/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_name": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)",
+  "product_code": "81677",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/658c1bcb-7851-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bcb-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bcc-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bcd-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000",
+      "Число USB портов": "1",
+      "Макс. входное напряжение": "5В/3А",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "да"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15.2х7.2х1.6",
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.236"
+    },
+    "Разное": {
+      "Бренд": "OLMIO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\">На корпусе повер банка контактная силиконовая площадка, с которой смартфон не будет соскальзывать, поэтому Вы можете просто положить смартфон сверху на внешний аккумулятор и зарядка начнется автоматически. Также можно использовать и обычный способ зарядки, через подключение к USB-порту.<br/> БЫСТРЕЕ БОЛЬШИНСТВА ЗАРЯДНЫХ УСТРОЙСТВ<br/> <br/> Благодаря технологии Power Delivery внешний аккумулятор QW-10 может передавать через разъем Type-C ток с максимальной выходной мощностью 18 Ватт. Это вдвое больше того, что могут предложить другие подобные устройства. QW-10 полностью соответствует требованиям мощных современных смартфонов и даже некоторых ноутбуков. <br/> КАКИЕ НОУТБУКИ ЗАРЯЖАЕТ<br/> <ul> <li> MacBook</li> <li> MacBook Pro</li> <li> MacBook Air </li> </ul> <h3>ПОДДЕРЖИВАЕТ QUICK CHARGE</h3> <br/> Выходной порт QW-10 поддерживает быструю зарядку Quick Charge 3.0, а входной — Quick Charge 2.0. Таким образом портативный аккумулятор быстро заряжает и быстро заряжается.<br/> СОВМЕСТИМЫЕ УСТРОЙСТВА<br/> Повер банк QW-10 с беспроводной зарядкой подходит всем смартфонам, поддерживающим стандарт питания Qi, например: <br/> <ul> <li> iPhone 8/8 Plus/ X/Xs/Xs Max/ Xr</li> <li> Samsung Galaxy S8/S8+/ Note8/ Note9</li> <li> Xiaomi Mi Mix 2S, Mi8 SE</li> <li> LG V30+</li> <li> Sony Xperia XZ2</li> <li> Huawei Mate 20 Pro</li> </ul> Зарядит даже последние модели макбуков.<br/> <br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/baf/baf444e2054393fe04efd1b9f51284fd.jpg\"/></div> <div class=\"aa_markfull_title ifont130 icolor1\">УНИВЕРСАЛЬНОСТЬ</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/584/58488e028016cc4e81741d386007c2be.jpg\"/></div> <div class=\"aa_markfull_title ifont130 icolor1\">ИСПОЛЬЗУЙТЕ ЛЮБОЙ КАБЕЛЬ</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2b3/2b3c195fa660e6edc9c8f723faafbc51.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/2b3/2b3c195fa660e6edc9c8f723faafbc51.jpg",
+        "alt": "Портативное зарядное устройство OLMIO беспроводное QW-10, 10 000mAh (gray)"
+      }
+    ]
+  }
+}

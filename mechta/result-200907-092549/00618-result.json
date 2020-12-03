@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-409-black/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "HARPER"
+  ],
+  "product_name": "Наушники HARPER HB 409 (black)",
+  "product_code": "75516",
+  "product_price": {
+    "full": 8990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/78/78163704-7829-11e8-a213-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 409 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/78/78163704-7829-11e8-a213-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 409 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "114"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "HARPER"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

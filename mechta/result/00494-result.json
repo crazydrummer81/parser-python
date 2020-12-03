@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/mobilnyy-flesh-nakopitel-pqi-iconnect-001-6i01-032gr2001-32gb-seryy/",
+  "product_category": {
+    "name": "PQI",
+    "url": "/section/pqi-yld/",
+    "parent_name": "ALFA MOBIL",
+    "parent_url": "/section/alfa-mobil-g1a/"
+  },
+  "product_name": "Мобильный флеш накопитель PQI iConnect 001 6I01-032GR2001 32GB Серый",
+  "product_code": "42254",
+  "product_price": {
+    "full": 9990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/15/152860e2-4d65-11e6-9405-2c768a5d3551.jpeg",
+    "alt": "Мобильный флеш накопитель PQI iConnect 001 6I01-032GR2001 32GB Серый"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/15/152860e2-4d65-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Мобильный флеш накопитель PQI iConnect 001 6I01-032GR2001 32GB Серый"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/152860e1-4d65-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Мобильный флеш накопитель PQI iConnect 001 6I01-032GR2001 32GB Серый"
+    }
+  ],
+  "product_params": {
+    "Память": {
+      "Объем памяти, ГБ": "32"
+    },
+    "Типы передачи данных": {
+      "USB": "Lightning/ USB 3.0"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "5,4х3,1х0,8",
+      "Цвет": "серый",
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "PQI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

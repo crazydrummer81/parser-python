@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-coverme-xiaomi-mi-a3-steklo-3d/",
+  "product_category": {
+    "name": "CoverMe",
+    "url": "/section/coverme/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_name": "Защитная пленка для дисплея CoverMe Xiaomi Mi A3 стекло 3D",
+  "product_code": "00165",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/db/db13293b-100f-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея CoverMe Xiaomi Mi A3 стекло 3D"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/db/db13293b-100f-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея CoverMe Xiaomi Mi A3 стекло 3D"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Xiaomi",
+      "Для моделей": "Mi A3"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "CoverMe",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

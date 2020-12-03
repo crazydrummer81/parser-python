@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha042bo-type-c/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "CANYON"
+  ],
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA042BO Type C",
+  "product_code": "80096",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/658fe17c-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA042BO Type C"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe17c-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA042BO Type C"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe17d-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA042BO Type C"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe17e-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA042BO Type C"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В",
+      "я удален": "2.1А "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.2",
+      "Габариты в упаковке (ВхШхГ), см": "4х18х15,5"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-belkin-usb-c-cmam-18m-black/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-3g9/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона BELKIN USB-C (CM/AM) 1.8m black",
+  "product_code": "81165",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/00/00df4e60-659e-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BELKIN USB-C (CM/AM) 1.8m black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/00/00df4e60-659e-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BELKIN USB-C (CM/AM) 1.8m black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.8",
+      "Штекер": "USB Type C",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-micro-usb-cne-usbm1w-white/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона CANYON Micro USB CNE-USBM1W White",
+  "product_code": "76971",
+  "product_price": {
+    "full": 990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dd/dd3fa4f9-b59a-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON Micro USB CNE-USBM1W White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dd/dd3fa4f9-b59a-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON Micro USB CNE-USBM1W White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "2",
+      "Штекер": "MicroUSB/USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "CANYON"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

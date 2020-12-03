@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-tcm-115-gc-p/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-sub/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "PANASONIC"
+  ],
+  "product_name": "Наушники PANASONIC RP TCM 115 GC P",
+  "product_code": "00656",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/95/9571e84b-157e-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники PANASONIC RP TCM 115 GC P"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/95/9571e84b-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники PANASONIC RP TCM 115 GC P"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "10 - 24000",
+      "Чувствительность наушников, дБ/В": "109",
+      "Диаметр мембран, мм": "9"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "розовый",
+      "Вес без упаковки (нетто), кг": "0.012"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

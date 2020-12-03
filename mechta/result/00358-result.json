@@ -1,0 +1,172 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-realme-c11-232gb-green/",
+  "product_category": {
+    "name": "Realme",
+    "url": "/section/realme/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый REALME C11 (2/32GB) Green",
+  "product_code": "260002465",
+  "product_price": {
+    "full": 52890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5a/5a90c2e0-e142-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5a/5a90c2e0-e142-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5a/5a90c2e2-e142-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad08-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad09-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad0a-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad0b-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad0c-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6b/6b6aad0d-e1d4-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G35",
+      "Процессор, (МГц, количество ядер)": "2300 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+2",
+      "Режим видеосъемки": "1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.4 / AI Портретный режим",
+      "Особенности тыловой камеры": " f/2.2/ 2.4/ Портретный модуль/Slo-mo/Ночной режим"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ/компас",
+      "Сканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,4х7,5х0,9",
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0,196"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>REALME C11</b> </h3> <h3 style=\"text-align: center;\">Большой аккумулятор. Большой экран.</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0df/0df9dac69ea01c590a9ba20e94751463.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ea3/ea32e4a2f16a452454b53d51bb36216c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Емкий аккумулятор 5000 мАч</h3> <p style=\"text-align: center;\"> Емкая батарея обеспечивает работу realme C11 в режиме<br/> ожидания до 40 дней, а технология обратной зарядки позволяет<br/> делиться зарядом с другими устройствами.<br/> </p> <h6 style=\"text-align: center;\">*для обратной зарядки необходим OTG-кабель</h6> <h6></h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cb9/cb9e7b467e5e6c2ac4800cc007da49fd.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Мини-каплевидный вырез 16,5 см (6,5’’)</h3> <p style=\"text-align: center;\"> Полезная площадь экрана 88,7 процентов обеспечивает полное погружение в происходящее. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/547/54751b6c959648cdf3cb9255be779f11.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">13+2 Мп</h3> <p style=\"text-align: center;\"> Двойная AI-камера </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/75e/75e4e34957632814b8a48437f50fed3c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Режим ночной съемки</h3> <p style=\"text-align: center;\"> Для неповторимых ночных снимков </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c7d/c7d3471aaca63e6fc39382dcb64c1b0a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">AI-селфи</h3> <p style=\"text-align: center;\"> Четкие и выразительные портреты </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8d0/8d02603f2e02125818d83d343ec61573.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Helio G35</h3> <p style=\"text-align: center;\"> Мощный восьмиядерный процессор<br/> Плавный игровой процесс </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/533/5334725255d8aba3283ccd8096f9e087.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Высокие стандарты качества</h3> <p style=\"text-align: center;\"> Надежность и долговечность </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7d9/7d9b1deb20289fc23cf989bcbe6906ef.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">3 слота</h3> <p style=\"text-align: center;\"> 2 SIM + 1 MicroSD<br/> До 256 ГБ расширение памяти </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/ea3/ea32e4a2f16a452454b53d51bb36216c.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/cb9/cb9e7b467e5e6c2ac4800cc007da49fd.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/547/54751b6c959648cdf3cb9255be779f11.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/75e/75e4e34957632814b8a48437f50fed3c.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/c7d/c7d3471aaca63e6fc39382dcb64c1b0a.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/8d0/8d02603f2e02125818d83d343ec61573.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/533/5334725255d8aba3283ccd8096f9e087.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/7d9/7d9b1deb20289fc23cf989bcbe6906ef.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      },
+      {
+        "url": "/upload/iblock/0df/0df9dac69ea01c590a9ba20e94751463.jpg",
+        "alt": "Телефон сотовый REALME C11 (2/32GB) Green"
+      }
+    ]
+  }
+}

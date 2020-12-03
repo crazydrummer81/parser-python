@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-solo3-wireless-a1796-mpxh2zma-asphalt-gray/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "BEATS"
+  ],
+  "product_name": "Наушники BEATS Solo3 Wireless A1796 MPXH2ZM/A (asphalt gray)",
+  "product_code": "77002",
+  "product_price": {
+    "full": 133990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Наушники BEATS Solo3 Wireless A1796 MPXH2ZM/A (asphalt gray)"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Наушники BEATS Solo3 Wireless A1796 MPXH2ZM/A (asphalt gray)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "1.3",
+      "Диапазон воспроизводимых частот, Гц": "20 - 32000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес без упаковки (нетто), кг": "0.2",
+      "Вес в упаковке (брутто), кг": "0.4"
+    },
+    "Разное": {
+      "Бренд": "BEATS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-013-galaxy-a01-core-fzbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)",
+  "product_code": "260002099",
+  "product_price": {
+    "full": 39890,
+    "discounted": 34890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f6/f624cb58-d191-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb58-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb5f-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb60-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb61-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb62-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f6/f624cb63-d191-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6739WW",
+      "Процессор, (МГц, количество ядер)": "1500 МГц, 4 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,3 (13,4 см)",
+      "Разрешение дисплея, пикс": "1480х720",
+      "Технология изготовления дисплея": "PLS TFT LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "16",
+      "Объем оперативной памяти, Гб": "1",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8100"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n",
+      "GPS": "есть, Glonass/ BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "8",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.4",
+      "Особенности тыловой камеры": " f/2.2 / автофоус/ вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3000",
+      "Тип аккумулятора": "Li-lon (литий-ионный) съемный",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Cканер отпечатка пальца": "нет",
+      "Распознавание лица": "нет"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,1х6,7х0,86",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,150"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Большой экран с улучшенным обзором</b></h3> <p style=\"text-align: center;\"> Смартфон Galaxy A01 Core с дисплеем 5.3\" HD+ создает эффект присутствия благодаря широкому экрану большого размера. Комфортный угол обзора превращает просмотр вашего контента в настоящее удовольствие. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f25/f25330e51ecddbf453deaecc1d9b7943.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Тонкий корпус, в который поместилось еще больше</b></h3> <p style=\"text-align: center;\"> Внутри тонкого (всего 8,6мм) корпуса Galaxy A01 Core незаметно размещается емкая батарея, а красоту внешнего дизайна выгодно подчеркивают эффектные полоски. Выбирайте свой цвет: черный, синий или красный. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/748/7489e56de1264c64d96bd811b5b5058f.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Делайте потрясающие фотографии основной и фронтальной камерой</b></h3> <p style=\"text-align: center;\"> Сохраните свои лучшие моменты на красивых, четких снимках, сделанных основной камерой 8МП смартфона Galaxy A01 Core. Или станьте главным героем, повернув смартфон и воспользовавшись фронтальной камерой 5МП. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1ee/1ee6378b4e42fc9a0e8471d62da70dc2.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Создан для оптимальной работы</b></h3> <p style=\"text-align: center;\"> Смартфон Galaxy A01 Core создан для того, чтобы соответствовать вашим повседневным нуждам. В нем 1ГБ оперативной памяти для безупречной работы и внутренняя память объемом 16ГБ. Операционная система Android (версия Go) также сохраняет память свободной благодаря специальным предустановленным приложениям, оптимизированным для быстрой и легкой работы. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/542/542a1252f67bee0c0c8305c28300ff26.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Неиссякаемая энергия</b></h3> <p style=\"text-align: center;\"> Играйте дольше благодаря батарее емкостью 3,000мА·ч (типичное значение). Увеличенная емкость батареи позволяет вам реже заряжать ваш смартфон и дольше заниматься на нем любимыми делами. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2c2/2c2a0300fa202263aa824794c4175778.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/2c2/2c2a0300fa202263aa824794c4175778.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 013 Galaxy A01 Core FZBDS (blue)"
+      }
+    ]
+  }
+}

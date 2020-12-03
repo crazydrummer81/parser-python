@@ -1,0 +1,160 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-honor-10i-phantom-blue/",
+  "product_category": {
+    "name": "HONOR",
+    "url": "/section/honor/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HONOR 10i (Phantom Blue)",
+  "product_code": "84287",
+  "product_price": {
+    "full": 109990,
+    "discounted": 71990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e3/e32e1e5a-ee34-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5a-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5b-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5c-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5d-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5e-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e5f-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e3/e32e1e60-ee34-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 710F",
+      "Процессор, (МГц, количество ядер)": "2200/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,21 (15,7 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Технология изготовления дисплея": "IPS LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G51 MP4"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "4.2 BLE",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "24+8+2  ",
+      "Режим видеосъемки": "Full HD 1920 x 1080  60 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.0/Портретный режим с ИИ/Экранная вспышка/ HDR",
+      "Особенности тыловой камеры": "Тройная камера/ f/1.8, PDAF/ ИИ/ LED вспышка/ HDR"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3400",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "есть, на базе ИИ  ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,4х7,3х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,164"
+    },
+    "Разное": {
+      "Бренд": "HONOR",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/31c/31c88d3efe26df1036ad63dcb5108ad8.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Мир в широком формате</h3> <p style=\"text-align: center;\"> Ультраширокоугольный объектив 17 мм вмещает больше объектов в кадр и позволяет делать широкоформатные пейзажные и портретные снимки. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0a0/0a019d87e912658e8a22fdbf83fecf8b.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/84a/84a4657513e35686f0a2f4a5b47bb855.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Сияющий градиентный корпус с 3D-эффектом</h3> <p style=\"text-align: center;\"> Задняя панель смартфона HONOR 10i с эффектом градиента, созданная на основе технологии 3D-фотолитографии, сияет при взгляде на нее под разными углами. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/513/51385c6a4f45fb37d7a269f0c465f1cd.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">4 ГБ RAM + 128 ГБ ROM и возможность расширения памяти</h3> <p style=\"text-align: center;\"> 12-нм процессор Kirin 710 и 4 ГБ RAM обеспечивают бесперебойную работу игр и приложений.Внутренняя память объемом 128 ГБ позволит хранить до 500 серий любимых сериалов. А если имеющихся ресурсов вам будет недостаточно, вы всегда сможете установить карту памяти объемом до 512 ГБ. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d5f/d5f8b3c365a751e99e7dfd0891458bdf.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Безрамочный экран 6,21 дюйма</h3> <p style=\"text-align: center;\"> HONOR 10i оснащен безрамочным экраном с темной областью каплевидной формы. Соотношение экрана и передней панели смартфона составляет 90%. Экран 6,21 дюйма предоставляет широкое пространство для игр и просмотра видео. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/cd6/cd63670e806e75f125a195a0c131a7ac.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Режим защиты зрения, сертифицированный TÜV Rheinland</h3> <p style=\"text-align: center;\"> Обновленный режим защиты зрения,сертифицированный TÜV Rheinland, снижает УФ-излучение экрана и уменьшает нагрузку на глаза, что особенно важно во время работы со смартфоном при низком освещении. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ea9/ea94b9dff6db7a464dc3fa8169d8ee3e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Мобильные игры на новом уровне с технологией GPU Turbo 2.0</h3> <p style=\"text-align: center;\"> Усовершенствованная технология GPU Turbo 2.0 преобразовывает традиционную схему обработки данных в системе нижнего уровня, оптимизируя работу графического процессора и обеспечивая плавный и бесперебойный игровой процесс. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/306/306ddc4cd38ad8233cdb9ccd968e6582.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Интеллектуальная технология мобильной связи</h3> <p style=\"text-align: center;\"> Поддержка работы двух SIM-карт в режиме 4G, стабильное интернет-соединение, высокое качество вызовов.Благодаря интеллектуальной технологии мобильной связи HONOR 10i способен определить момент, когда вы входите в лифт или покидаете его, и восстановить подключение к сети 4G всего за 3 секунды. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/84a/84a4657513e35686f0a2f4a5b47bb855.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/513/51385c6a4f45fb37d7a269f0c465f1cd.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/d5f/d5f8b3c365a751e99e7dfd0891458bdf.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/cd6/cd63670e806e75f125a195a0c131a7ac.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/ea9/ea94b9dff6db7a464dc3fa8169d8ee3e.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/306/306ddc4cd38ad8233cdb9ccd968e6582.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      },
+      {
+        "url": "/upload/iblock/0a0/0a019d87e912658e8a22fdbf83fecf8b.jpg",
+        "alt": "Телефон сотовый HONOR 10i (Phantom Blue)"
+      }
+    ]
+  }
+}

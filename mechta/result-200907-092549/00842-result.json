@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-dlya-huawei-y6-2019-silikon-prozrachnyy-36450/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO для Huawei Y6 2019 силикон прозрачный (36450)",
+  "product_code": "81187",
+  "product_price": {
+    "full": 1290,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/21/216b8023-64ba-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO для Huawei Y6 2019 силикон прозрачный (36450)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/21/216b8023-64ba-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO для Huawei Y6 2019 силикон прозрачный (36450)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "Y6"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "прозрачный",
+      "Вес в упаковке (брутто), кг": "0.08",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х2"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

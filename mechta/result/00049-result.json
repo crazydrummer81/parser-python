@@ -1,0 +1,163 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-315-galaxy-a31-fzkus-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)",
+  "product_code": "260000946",
+  "product_price": {
+    "full": 139890,
+    "discounted": 89890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b2/b22398ea-8bb2-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b2/b22398ea-8bb2-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b7/b7636d72-8c56-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b7/b7636d73-8c56-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b7/b7636d74-8c56-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b7/b7636d75-8c56-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b7/b7636d76-8c56-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G70",
+      "Процессор, (МГц, количество ядер)": "2000/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,4 (16,3 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "Super AMOLED",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MC2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+5+5",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "20",
+      "Особенности фронтальной камеры": " f/2.2/ Селфи фокус",
+      "Особенности тыловой камеры": "Четыре камеры/ Сверхширик/ Макро/ Сенсор глубины"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,9х7,3х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,185"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c59/c598e82b0f967e79c26307bc86050166.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>Большой и яркий экран: увидеть все и дальше больше</b></h2> <p style=\"text-align: center;\"> Насладись эффектом полного погружения в контент на 6.4-дюймовом безграничном U-экране смартфона Galaxy A31. Смотри видео, играй, веди прямые трансляции на ярком Super AMOLED экране с разрешением FHD+. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/35b/35b858f775868bcad80f9fb6f8b5285d.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Изящный и тонкий снаружи, невероятно функциональный внутри</b></h2> <p style=\"text-align: center;\"> В Galaxy A31 есть все, что ты хочешь получить от смартфона. Корпус толщиной всего 8.6мм оснащен невероятно мощным аккумулятором емкостью 5000 мАч (типичное значение). Смартфон комфортно ощущается в руке благодаря эргономичной форме, а ритмический узор задней панели эффектно дополняет его внешний вид. Ты можешь выбрать смартфон Черного, Белого или Красного цвета. </p> <h6 style=\"text-align: center;\"> *Выбор цвета телефона может зависеть от страны или оператора сотовой связи.<br/> </h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/578/57820c81e765c76e1b193bb3dde3c5a3.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/84e/84e46ba873624e62ac8a6f34f58bb507.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Снимай разные сюжеты не сходя с места</b></h3> <p style=\"text-align: center;\"> Сверхширокоугольная камера позволит тебе запечатлеть мир во всей полноте красок благодаря широкому углу обзора. А благодаря основной 48МП камере твои фотографии будут яркими и четкими как днем, так и ночью. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/673/673df6c0a362932348d6d1a3427d5366.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мельчайшие детали не останутся незамеченными</b></h3> <p style=\"text-align: center;\"> 5 МП камера для Макросъемки (F=40 мм) позволяет делать четкие снимки крупным планом, фиксируя мельчайшие детали объектов. Используй режим «Живой фокус» и регулируй степень размытия фона для того, чтобы выделить основной объект съемки и усилить уровень визуального воздействия. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/f2a/f2abcb78b24de93dc7cb0be109a2314d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сфокусируйся на главном объекте съемки</b></h3> <p style=\"text-align: center;\"> 5МП Камера с датчиком глубины позволяет регулировать уровень резкости как до, так и после съемки. Улучшенная конструкция 5МП Камеры с датчиком глубины поможет устранить нежелательные фоновые шумы с твоих снимков, чтобы они выглядели более профессиональными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b92/b925ebaee920ba8e29a5914956e33196.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Идеальное селфи? Легко!</b></h3> <p style=\"text-align: center;\"> Сделать классное селфи стало гораздо проще. Фронтальная камера Galaxy A31 на 20МП гарантирует яркие и четкие фотографии в высоком разрешении. А режим \"Селфи-фокус\" поможет тебе и твоим друзьям оставаться в центре внимания. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b74/b7427575e53ae9fb22691db27ea5e84c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Оставайся всегда на связи</b></h3> <p style=\"text-align: center;\"> Для динамичного ритма жизни необходим смартфон с большим временем автономной работы. С аккумулятором емкостью 5000 мАч (типичное значение)* ты можешь играть, делиться файлами и пользоваться стриминговыми сервисами часами напролет. А поддержка быстрой зарядки 15Вт позволит быстро пополнить заряд и всегда оставаться на связи. </p> </div> </div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Больше пространства для игр и развлечений</b></h2> <p style=\"text-align: center;\"> Galaxy A31 оснащен быстрым процессором и большим объемом памяти. Современный 8-ядерный процессор и оперативная память 4 ГБ обеспечат плавную и эффективную работу любых игр и приложений. Скачивай больше и удаляй меньше благодаря 64 ГБ и 128 ГБ встроенной памяти. А с помощью microSD карты до 512 ГБ ты сможешь хранить еще больше контента. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/ae9/ae90c1bd478dbda4696149c0fbdea548.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Приложение Game Booster - будь на шаг впереди</b></h2> <p style=\"text-align: center;\"> Максимизируй производительность своего смартфона в играх с помощью приложения Game Booster. Удобный интерфейс программы позволяет легко контролировать весь игровой процесс. Game Booster обеспечивает плавность графики и более естественные движения объектов в играх. А с помощью анализа твоих действий приложение оптимизирует расход аккумулятора и ускоряет загрузку игр, чтобы ты мог дольше наслаждаться игровым процессом. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/96a/96aadc7cec68830de6f051504d84e5f3.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2be/2bee069957a95010c5dbea18970ee441.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Надежная система защиты теперь доступна каждому</b></h3> <p style=\"text-align: center;\"> Абсолютная безопасность данных с Samsung Knox. Многоуровневая система безопасности Samsung Knox защищает ваши личные данные от вирусов и вредоносных атак как на аппаратном, так и на программном уровне. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/1c6/1c66a488940fc029aa7bd0c6addbdc7d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Отпечаток пальца - надежная защита твоего смартфона</b></h3> <p style=\"text-align: center;\"> Galaxy A31 оснащен высокотехнологичной биометрической системой идентификации пользователя. Экранный сканер отпечатков распознает твой уникальный отпечаток пальца. Разблокируй смартфон всего одним движением и не переживай за сохранность своей информации. Доступ к контенту получишь только ты. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/094/094a0c0d1d53d5f8d31690d8c4fde54d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мы подскажем, как сохранить твое устройство в отличном состоянии</b></h3> <p style=\"text-align: center;\"> Наслаждайся быстрой и оптимизированной работой смартфона вместе с нашим приложением Samsung Members. Интерактивная диагностика и оптимизация приложения позволяет легко настроить производительность устройства. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/84e/84e46ba873624e62ac8a6f34f58bb507.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/673/673df6c0a362932348d6d1a3427d5366.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/f2a/f2abcb78b24de93dc7cb0be109a2314d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/b92/b925ebaee920ba8e29a5914956e33196.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/b74/b7427575e53ae9fb22691db27ea5e84c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/2be/2bee069957a95010c5dbea18970ee441.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/1c6/1c66a488940fc029aa7bd0c6addbdc7d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/094/094a0c0d1d53d5f8d31690d8c4fde54d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      },
+      {
+        "url": "/upload/iblock/96a/96aadc7cec68830de6f051504d84e5f3.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 315 Galaxy A31  FZKUS (Black)"
+      }
+    ]
+  }
+}

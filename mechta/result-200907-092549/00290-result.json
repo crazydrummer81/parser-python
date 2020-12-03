@@ -1,0 +1,170 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-redmi-note-9s-64gb-glacier-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-mik/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "XIAOMI"
+  ],
+  "product_name": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White",
+  "product_code": "260000949",
+  "product_price": {
+    "full": 99990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/03/035573d1-9069-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/03/035573d1-9069-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce60ae42-929a-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce60ae43-929a-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce60ae44-929a-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce60ae45-929a-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce60ae46-929a-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "Влагоотталкивающее покрытие P2i"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 720G",
+      "Процессор, (МГц, количество ядер)": "2300 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,67 (16,9 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 618"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+5+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps/720p 30fps/960fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.48 / Портретный режим c ИИ/Селфи эффекты/HDR",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5020",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и стекло Corning Gorilla Glass 5"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Линейный вибромотор/Акселерометр/Гироскоп/Компас ",
+      "Cканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,5х7,6х0,88",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,209"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/eff/eff3374f46c890c03bd98ebe99b1e7da.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/69d/69daf7e2dea3b07384b571528707d31c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3> <b>Процессор Qualcomm® Snapdragon™ 720G.</b><br/> <br/> Встречайте новый процессор Snapdragon 700 серии. Впервые в линейке Redmi Note.<br/> </h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8ba/8ba4595a05e18b5a2f4e4792b0eefb62.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Аккумулятор ёмкостью 5020 мА·ч и 18-ваттная быстрая зарядка.</b></h3> В путешествии, на работе и дома — аккумулятор с большой ёмкостью нужен везде. Новый Redmi Note 9S оснащён аккумулятором на 5020 мА·ч (стандартная), поэтому вы можете пользоваться смартфоном часами и забыть о подзарядке, а при помощи 18-ваттной быстрой зарядки и комплектного 22,5-ваттного зарядного устройства вы всегда быстро зарядите смартфон до 100%.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/180/180eb0736b2f3dbcde4b840e5e2c5b9b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Симметричный дизайн.</b><b> Эстетика и чёткие линии.</b></h3> Закруглённая задняя панель. Удобный хват и максимум комфорта.<b><br/> </b> <h3></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e74/e7435ab67ec22b561c9d7d51504ed392.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Встроенный в кнопку питания сканер отпечатков пальцев.</b></h3> Встроенный в кнопку питания сканер отпечатков пальцев позволяет удобно разблокировать ваше устройство.<br/> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>DotDisplay.</b><b> Впервые в Redmi Note.</b></h2> <p style=\"text-align: center;\"> Соотношение площади дисплея к площади корпуса 91%.*<br/> Ощущение абсолютного погружения. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/5e1/5e172237fce3b46abec6d0dd6bc7ed69.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Основная камера 48 Мп.</b></h3> Сверхвысокое разрешение 8000x6000 пикселей.<br/> Детализированные снимки в Ночном режиме.<br/> Ручной режим и запись видео 4K.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/24d/24d304de1accd4ab293ca38a8d3ce62a.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Сверхширокоугольная камера 8 Мп.</b></h3> Угол обзора в 1,3 раза шире.*<br/> Увеличение угла обзора до 119°.<br/> Коррекция искажений перспективы.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/b44/b44347bf6e8ba2f73986aaa5d50c6349.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/78c/78ca18563b6d0bdd4331b9e152131aa7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Датчик глубины 2 Мп.</b></h3> Портретный режим с функцией регулировки глубины резкости.<br/> Портретные снимки профессионального качества.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8bf/8bf38afcf04946b7ad7a3340a17b604f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Макрообъектив 5 Мп.</b></h3> Минимальное фокусное расстояние 2 см.<br/> Каждая деталь имеет значение.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/497/497f5155497f2d47f46bae065a358da8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фронтальная камера 16 Мп.</b></h3> Запись замедленного видео с частотой 120 кадров/с.<br/> Функция «Улучшение» поможет подчеркнуть вашу красоту.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/74b/74be037859bf729b49a9a07285c94209.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Защитное стеклоCorning® Gorilla® Glass.</b></h3> Улучшенная прочность и долговечность.<br/> <h3><b>Линейный вибромотор.</b></h3> Абсолютно новый тактильный отклик.<br/> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/69d/69daf7e2dea3b07384b571528707d31c.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/8ba/8ba4595a05e18b5a2f4e4792b0eefb62.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/180/180eb0736b2f3dbcde4b840e5e2c5b9b.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/e74/e7435ab67ec22b561c9d7d51504ed392.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/78c/78ca18563b6d0bdd4331b9e152131aa7.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/8bf/8bf38afcf04946b7ad7a3340a17b604f.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/497/497f5155497f2d47f46bae065a358da8.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/74b/74be037859bf729b49a9a07285c94209.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      },
+      {
+        "url": "/upload/iblock/b44/b44347bf6e8ba2f73986aaa5d50c6349.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi Note 9S 64GB Glacier White"
+      }
+    ]
+  }
+}

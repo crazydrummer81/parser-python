@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-auto-focus-leather-case-samsung-a01-3384/",
+  "product_category": {
+    "name": "AUTO FOCUS",
+    "url": "/section/auto-focus/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "AUTO FOCUS"
+  ],
+  "product_name": "Чехол для телефона AUTO FOCUS Leather Case Samsung A01 (3384)",
+  "product_code": "260001002",
+  "product_price": {
+    "full": 1190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4f/4fa40d14-94ec-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона AUTO FOCUS Leather Case Samsung A01 (3384)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4f/4fa40d14-94ec-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона AUTO FOCUS Leather Case Samsung A01 (3384)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A01"
+    },
+    "Цвет, размеры и вес": {
+      "Вес без упаковки (нетто), кг": "0,025"
+    },
+    "Разное": {
+      "Бренд": "AUTO FOCUS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

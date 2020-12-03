@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.mechta.kz/product/smart-chasy-wonlex-q90gw100/",
+  "product_category": {
+    "name": "WONLEX",
+    "url": "/section/wonlex/",
+    "parent_name": "Детские часы с GPS",
+    "parent_url": "/section/detskie-chasy-s-gps/"
+  },
+  "product_name": "Детские смарт часы WONLEX Q90/GW100",
+  "product_code": "68058",
+  "product_price": {
+    "full": 15470,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/68/6801d9c4-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+    "alt": "Детские смарт часы WONLEX Q90/GW100"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/68/6801d9c4-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/6801d9c5-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/6801d9c6-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/6801d9c7-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/50/500f92f1-e601-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/50/500f92f2-e601-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/50/500f92f4-e601-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/0d/0d273c83-b36f-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/0d/0d273c84-b36f-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Детские смарт часы WONLEX Q90/GW100"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Режимы дисплея": "GPS-трекер, шагомер, SOS-вызов, прослушивание "
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "1,2 (3,0 см)"
+    },
+    "SIM карта": {
+      "SIM-карта": "одна, micro SIM"
+    },
+    "Типы передачи данных": {
+      "USB": "есть",
+      "Wi-Fi": "есть",
+      "GPS": "есть"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "400",
+      "Работа от аккумулятора, ч": "от 24 до 72 часов (вазависимости от режима работы)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Функции": {
+      "Вибрация": "нет"
+    },
+    "Звук": {
+      "Встроенный микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "3,7х4,4х1,5",
+      "Цвет": "уточняйте у менеджера",
+      "Вес без упаковки (нетто), кг": "0.06"
+    },
+    "Разное": {
+      "Бренд": "WONLEX",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "LBS": "есть",
+      "Поддержка голосовой связи": "есть, входящие и исходящие",
+      "Процессор": "MediaTek MTK2503",
+      "Совместимость ": "IOS / Android"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

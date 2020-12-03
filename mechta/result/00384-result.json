@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-sony-mdr-zx-310ap-black/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники + микрофон SONY MDR ZX 310AP (Black)",
+  "product_code": "33582",
+  "product_price": {
+    "full": 9990,
+    "discounted": 6290
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/24/24b165bb-ab97-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники + микрофон SONY MDR ZX 310AP (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/24/24b165bb-ab97-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон SONY MDR ZX 310AP (Black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.23",
+      "Габариты в упаковке (ВхШхГ), см": "20х15х5"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "2 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

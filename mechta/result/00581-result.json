@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-2e-s8-piston-magnet-mic-grey/",
+  "product_category": {
+    "name": "2E",
+    "url": "/section/2e-atk/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники + микрофон 2E S8 PISTON MAGNET MIC GREY",
+  "product_code": "260000242",
+  "product_price": {
+    "full": 4490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f9/f977b2c5-5489-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники + микрофон 2E S8 PISTON MAGNET MIC GREY"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f9/f977b2c5-5489-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E S8 PISTON MAGNET MIC GREY"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f9/f977b2c6-5489-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E S8 PISTON MAGNET MIC GREY"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "115",
+      "Диаметр мембран, мм": "10"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес в упаковке (брутто), кг": "0.15"
+    },
+    "Разное": {
+      "Бренд": "2E",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

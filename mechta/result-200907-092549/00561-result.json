@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-huawei-huawei-type-c-to-micro-usb-adapter-ap52/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-pb9/",
+    "parent_name": "Адаптеры",
+    "parent_url": "/section/adaptery/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Адаптеры",
+    "HUAWEI"
+  ],
+  "product_name": "Адаптер для телефона HUAWEI Type C to Micro USB Adapter AP52",
+  "product_code": "80199",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f0/f0fcd730-4547-11e9-a21f-005056b6dbd7.jpeg",
+    "alt": "Адаптер для телефона HUAWEI Type C to Micro USB Adapter AP52"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f0/f0fcd730-4547-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона HUAWEI Type C to Micro USB Adapter AP52"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f0/f0fcd731-4547-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона HUAWEI Type C to Micro USB Adapter AP52"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "USB": "micro USB, USB Type-C"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,06",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-f-900-galaxy-fold-512gb-fzkds-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)",
+  "product_code": "00886",
+  "product_price": {
+    "full": 849890,
+    "discounted": 549890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e5/e571834b-26d8-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e5/e571834b-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e571834c-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e571834d-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e571834e-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e571834f-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e5718350-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e5718351-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e5718352-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e5718353-26d8-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 855",
+      "Процессор, (МГц, количество ядер)": "2800/ 2400/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "12.6:9",
+      "Диагональ экрана, дюйм": "7,3(18,5см) + 4,6(11,6см)",
+      "Разрешение дисплея, пикс": "2152 x 1536 (QXGA+) / 1680 x 720",
+      "Сенсорный дисплей": "емкостный, мультитач",
+      "Технология изготовления дисплея": "Dynamic AMOLED/ Super AMOLED",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Память": {
+      "Встроенная память, Гб": "512",
+      "Объем оперативной памяти, Гб": "12",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "одна, Nano-SIM + eSIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac/ax 2.4G+5 ГГц, HE80, MIMO",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+16+12",
+      "Режим видеосъемки": "4K 60fps/1080p 30, 60fps/замедленная съемка 960fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "10+8 + фронтальной панели 10 МП",
+      "Особенности фронтальной камеры": "Двойная камера/f/2.2 Dual Pixe/ f/1.9 (RGB Depth) ",
+      "Особенности тыловой камеры": "Ультраширокоугольная/Телефото/Оптич.зум/Автофокус "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4380",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "есть",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16х11,8х0,7",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,263"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Корея",
+      "Модель": "Z",
+      "Комплектация": "зарядное устройство Type-C/ наушники/ чехол"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>Galaxy Fold</b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/043/0438e4fd6d7baf13809b5791b925beb9.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Такого вы еще не видели. Galaxy Fold не просто меняет представление о смартфонах. Это принципиально новая категория смартфонов.</b><b> Сегодня мы открываем новую главу в истории мобильных технологий. Прикоснитесь к будущему уже сегодня. Вместе с Galaxy Fold.</b></h3></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\">Дизайн<br/> <b>Мы не просто изменили форму смартфона. Мы изменили будущее.</b></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/fd1/fd140b66dd41e6d0893d5e7ba09f5559.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/fa7/fa79fee5028fe0b5df4a8ccbd834dffc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Уникальный гибкий дисплей из инновационных материалов.</h3> Революционный гибкий 7,3\" дисплей, выполненный из инновационных материалов, невероятно тонкий и элегантный. Наслаждайтесь невероятной гибкостью Galaxy Fold и складывайте его легким движением, чтобы использовать как смартфон и планшет одновременно. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/218/2180856f9a27651524d68bc4df2df6e0.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Экран нового поколения.</h3> Вы точно оцените потрясающую цветовую гамму и точность передачи оттенков в каждой сцене. Dynamic AMOLED дисплей с технологией HDR10+ и Dynamic Tone Mapping обеспечат реалистичные насыщенные цвета на экране вашего Galaxy Fold. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/50b/50babbe7d426a9877fc28e0a13173f30.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Дисплей регулирует яркость для комфортного просмотра.</h3> Экран уменьшает интенсивность синего спектра, чтобы вы смогли наслаждаться естественными цветами без ощущения усталости глаз. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/89d/89da1c93eec9512edc24afcbb2b1c03c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Инновационный шарнирный механизм. Точность и плавность движений.</h3> Соединительный модуль состоит из нескольких блокирующих механизмов, спрятанных внутри стильного корпуса. Подобно гибкому экрану, модуль был тщательно испытан на прочность, чтобы с легкостью выдержать многократное открытие каждый день. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/546/546d5496bc39937a46018807e9856269.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Цвета и материалы нового поколения. Материалы, с которых начинается будущее.</h3> Откройте фантастические цвета будущего. Корпус в уникальном цвете выполнен из полированного стекла, чтобы вы почувствовали совершенство Galaxy Fold, едва прикоснувшись к нему. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5ed/5ed5c2d654b587bd72f24ef4764fd980.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Откройте для возможностей планшета. Закройте для компактности смартфона. Одно невероятное устройство. Два размера.</h3> 4.6\" сенсорный экран на фронтальной панели смартфона идеален для использования одной рукой.3 А чтобы насладиться впечатляющими возможностями 7.3\" экрана, просто раскройте устройство. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d26/d26782c39b46bab8876daf55fa2b60a3.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Максимальные возможности с первых секунд работы. Наушники Galaxy Buds и чехол Slim Cover дополнят удовольствие от работы с Galaxy Fold.</h3> Получите максимум от работы вашего смартфона с первого дня благодаря встроенной защите дисплея, беспроводным наушникам Galaxy Buds и сверхпрочному чехлу Slim Cover из арамидного волокна. Все необходимое для нового Galaxy Fold вы найдете в экоупаковке с обновленным дизайном. Благодаря сервисной программе Galaxy Fold Premier Service, включающей в себя программу обслуживания Fold Concierge и программу страхования Samsung Care+, вы получите доступ к эксклюзивным услугам, которые дополнят ваши впечатления от использования Galaxy Fold.<br/> <h6>*Комплектация смартфона зависит от приобретаемой модели, страны или региона. Устройства черного цвета поставляются только с компонентами черного цвета, за исключением чехла. Устройства других цветов идут в комплекте с компонентами белого цвета.</h6> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Эффективность</h3> <h3 style=\"text-align: center;\"><b>Смартфон способный трансформироваться в планшет</b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/4cd/4cdfdad9143d916ce2db0c89c7c4cd39.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7b4/7b4959bf65d812f16ffc7e32302de4d2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Поместится в руке и в кармане. Эргономичный дизайн и удобная разблокировка.</h3> Galaxy Fold в сложенном состоянии идеален для комфортного использования одной рукой благодаря своему эргономичному дизайну. Сканер отпечатка пальца расположен именно там, где находится ваш большой или указательный палец, что cделало разблокировку смартфона естественной и интуитивно понятной. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/353/353b503b8963136f5433ca6e995f3306.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Идеален для управления одной рукой.</h3> С Galaxy Fold с тонким корпусом и эргономичным дизайном вы можете совершать звонки и снимать селфи так, как вам удобно: одной рукой.<br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/e1b/e1be96577478a93f57c104371053ddc5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Два экрана. Работают как один. Безупречно плавный опыт работы.</h3> Чтобы увидеть больше, просто откройте смартфон. Меняйте размер экрана в зависимости от ситуации. Для быстрого ответа на звонки и сообщения используйте сенсорный экран на фронтальной панели, а для работы с несколькими приложениями или просмотра фильмов раскройте устройство и наслаждайтесь самым большим дисплеем. Все просто. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/16a/16aa05cc23a222ce1cf9471cc14248fd.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Делайте три вещи одновременно. Режим Multi Active Window предоставляет вам возможность увеличить продуктивность вашей работы.</h3> Экран Galaxy Fold дарит своему владельцу невероятные возможности многозадачности. Совмещайте любые занятия и пользуйтесь одновременно тремя активными окнами - впервые в истории смартфонов Galaxy. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/93f/93fbc78d575489900c1554e2af940fa4.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Иммерсивный экран. Окажитесь в эпицентре происходящего.</h3> Наслаждайтесь эффектом полного погружения и превосходными цветами на Dynamic AMOLED экране вашего Galaxy Fold. Стандарт HDR10+ и технология Local Tone Mapping делают цвета максимально естественными.4 Теперь всё, что вы видите на экране, будет сложно отличить от реальности. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/283/283b9b0fc0b6a7b3f0732d4086f6611e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Исключительные возможности для гейминга.</h3> Galaxy Fold создан для игр. Он надежно защищен от перегрева и зависаний благодаря системе охлаждения на основе испарительной камеры и металлических пластин. Почувствуйте принципиально новый уровень гейминга благодаря интеллектуальной производительности, аккумулятору с увеличенной емкостью и экрану с эффектом полного погружения. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/189/1899751678b80b39a19d8036d71aefd7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Стереодинамики и Dolby Atmos. Приготовьтесь к впечатляющему звуку.</h3> Двойные динамики созданные при участии компании AKG удивят вас громким и поразительно чистым стереозвуком. Объемное трехмерное звучание Dolby Atmos перенесет вас в эпицентр происходящего, будь то игра, фильм или ваша любимая музыка. </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Камера</h3> <h3 style=\"text-align: center;\"><b>Шесть камер, чтобы запечатлеть невозможное</b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6e3/6e39b720b965f33193562e80044dad36.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a1f/a1fca0bc44ee1793b3a547eea228b1bc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Еще больше в каждом кадре. Три камеры, которые передают ваше видение.</h3> Легко снимайте захватывающие дух пейзажи или увеличивайте масштаб, чтобы запечатлеть важные детали.Переключайтесь между 16МП ультраширокоугольной камерой или 12МП широкоугольной камерой и телеобъективом, чтобы отдалить или приблизить объект съемки одним касанием. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2fd/2fd54d26539649bba164062ef7d90f2d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Широкий экран для широких возможностей.</h3> Раскройте дисплей смартфона для просмотра всей сцены будущей фотографии. 7.3-дюймовый экран с соотношением сторон 4:3 отображает картинку так же, как камера Galaxy Fold. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ad4/ad40b1462b2eb4a1a1b9d025c174d82c.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Ультраширокоугольная камера.</h3> Открывает новые горизонты.Ультраширокоугольная камера с углом охвата 123° откроет вам потрясающие возможности перспективы. Теперь в любом кадре - горизонтальном или вертикальном - уместится всё, что доступно вашему зрению. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d5d/d5dd62d1cd0abd7aedcd000b0609a85c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Двойная фронтальная камера сделает яркие селфи профессионального качества. Живой фокус. Всегда в центре внимания.</h3> Двойная фронтальная камера с передовой технологией сегментации распознает лица и позволяет экспериментировать с размытием и глубиной кадра. Выберите из множества эффектов боке, чтобы подчеркнуть красоту ваших селфи. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/efa/efac9603b57c4787c306f26f47d03b83.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Социальная камера. Простая загрузка фото и видео - делитесь в одно касание.</h3> Станьте звездой собственного шоу, с легкостью выйдя в эфир для своих друзей, семьи и подписчиков, или переведите видеозвонки на новый уровень. Большой основной дисплей выступает в качестве видоискателя, помогая выстраивать композицию кадра. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/0a4/0a4c34b537dd80d70f8ebae3f0e5d9bc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Проявите ваш режиссерский талант. Суперстабилизация для плавных и ярких видео.</h3> Подобно профессиональной экшн-камере, камера Galaxy Fold с функцией суперстабилизации предугадывает движения и снимает плавные видео, где бы вы ни находились. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/dce/dcec35957b9643c67d1899be4613fd3e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Потрясающая детализация и естественные цвета с 4K UHD и HDR10+.</h3> Снимайте 4К UHD видео профессионального качества с высокой степенью детализации. Технолония HDR10 + привносит реалистичные оттенки и контраст в видео, а Dynamic Tone Mapping обеспечивает точный цвет в каждой сцене. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/bda/bda1d9f3f224229e6433b9401a46796f.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Ловите удачные кадры на ходу.</h3> Galaxy Fold всегда готов к удачным кадрам. Делайте селфи в любой момент с 10 МП селфи камерой с удобным запуском на фронтальной панели смартфона. Или же запечатлите момент при помощи тройной основной камеры. </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Производительность</h3> <h3 style=\"text-align: center;\"><b>Производительность будущего для смартфона нового поколения</b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/3fb/3fbacd1eace4083ed07ef24cd3431033.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b2f/b2f0d714ba6b0e5d4503f114763c12bc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Мощный процессор и впечатляющий объем памяти.</h3> Усовершенствованный процессор и невероятный объем оперативной памяти 12 ГБ обеспечат исключительную производительность смартфона, чтобы вы могли выполнять до трех даже самых ресурсоемких задач одновременно. А 512 Гб встроенной памяти хватит, чтобы вместить в себя все ваши данные - и даже больше. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/cbc/cbc03822a230e01c11c439d30197cba0.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Искусственный интеллект. Предвосхищает ваши желания.</h3> Galaxy Fold адаптируется к тому, как вы пользуетесь смартфоном. В зависимости от этого он управляет производительностью, снижая энергопотребление или, наоборот, увеличивая мощность процессора, когда это необходимо. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/0c7/0c71030e9ebc5365f25b966013126ed1.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Революционный двойной аккумулятор. Интеллектуальная система питания обеспечивает работу в течение дня.</h3> Система питания Galaxy Fold - это два аккумулятора, которые работают как одно целое: распределяют энергию и перезаряжаются, чтобы избежать перегрузки. А интеллектуальный режим энергосбережения изучает ваше пользовательское поведение, чтобы оптимально регулировать работу аккумулятора с впечатляющей типичной емкостью 4380 мАч. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/9a0/9a0ba69fd04a65fa31658b44e7fd4a4c.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Обратная беспроводная зарядка Powershare.</h3> Galaxy Fold способен не только заряжаться, но и подзаряжать другие устройства благодаря технологии обратной беспроводной зарядки Powershare. Просто разместите ваши Galaxy Watch, Galaxy Buds или другое устройство по центру вашего смартфона и подзарядите их прямо на ходу. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/c80/c80a208e03a6eb5df46329bdf8c88c42.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Быстрая и удобная беспроводная зарядка.</h3> Зарядный кабель вам больше не пригодится. С беспроводной зарядкой вы сможете быстро и удобно зарядить ваш Galaxy Fold, где бы вы ни были. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d1e/d1ef38fac83f1fdaae2237cfdd942153.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Интеллектуальный Wi-Fi</h3> Делитесь информацией, смотрите живые трансляции и играйте в онлайн-игры с быстрым надежным подключением. Интеллектуальный Wi-Fi быстрее с Wi-Fi 6, он помогает защитить вас от непрошеных вторжений в публичных сетях. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a71/a7118ee8509685fa70414bf87c7e67ad.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Делегируйте задачи вашему личному ассистенту.</h3> <b>Bixby</b> изучает пользовательское поведение, чтобы оптимизировать работу вашего смартфона. Он предзагрузит наиболее часто используемые приложения и позволит настроить работу смартфона именно так, как нужно вам.8, 9 Bixby реагирует на ваш голос, помогая управлять смартфоном, даже не прикасаясь к нему.10 А с функцией Камера Bixby вы сможете получать информацию обо всем, что вас окружает. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/fd8/fd8c35378919d26330122f614f69704e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Ваши личные данные под защитой</h3> Надежная защита Samsung Knox.<br/> Многоуровневая защита от взломов и вредоносных программ, а также специальная Защищенная папка обеспечивают безопасность ваших данных на уровне программного и аппаратного обеспечения. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/c29/c298387f2233fd4d60b6507aa4860765.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Биометрическая аутентификация для безопасности ваших данных.</h3> Ваш смартфон всегда под надежной защитой. С технологией распознавания лица и сканером отпечатка пальцев доступ к вашим данным есть только у вас. Вы также можете выбрать пин-код, графический ключ или пароль в качестве альтернативной защиты вашего смартфона. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/fa7/fa79fee5028fe0b5df4a8ccbd834dffc.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/218/2180856f9a27651524d68bc4df2df6e0.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/50b/50babbe7d426a9877fc28e0a13173f30.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/89d/89da1c93eec9512edc24afcbb2b1c03c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/546/546d5496bc39937a46018807e9856269.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/5ed/5ed5c2d654b587bd72f24ef4764fd980.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/d26/d26782c39b46bab8876daf55fa2b60a3.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/7b4/7b4959bf65d812f16ffc7e32302de4d2.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/353/353b503b8963136f5433ca6e995f3306.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/e1b/e1be96577478a93f57c104371053ddc5.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/16a/16aa05cc23a222ce1cf9471cc14248fd.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/93f/93fbc78d575489900c1554e2af940fa4.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/283/283b9b0fc0b6a7b3f0732d4086f6611e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/189/1899751678b80b39a19d8036d71aefd7.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/a1f/a1fca0bc44ee1793b3a547eea228b1bc.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/2fd/2fd54d26539649bba164062ef7d90f2d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/ad4/ad40b1462b2eb4a1a1b9d025c174d82c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/d5d/d5dd62d1cd0abd7aedcd000b0609a85c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/efa/efac9603b57c4787c306f26f47d03b83.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/0a4/0a4c34b537dd80d70f8ebae3f0e5d9bc.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/dce/dcec35957b9643c67d1899be4613fd3e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/bda/bda1d9f3f224229e6433b9401a46796f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/b2f/b2f0d714ba6b0e5d4503f114763c12bc.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/cbc/cbc03822a230e01c11c439d30197cba0.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/0c7/0c71030e9ebc5365f25b966013126ed1.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/9a0/9a0ba69fd04a65fa31658b44e7fd4a4c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/c80/c80a208e03a6eb5df46329bdf8c88c42.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/d1e/d1ef38fac83f1fdaae2237cfdd942153.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/a71/a7118ee8509685fa70414bf87c7e67ad.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/fd8/fd8c35378919d26330122f614f69704e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/c29/c298387f2233fd4d60b6507aa4860765.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/3fb/3fbacd1eace4083ed07ef24cd3431033.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM F 900 Galaxy Fold 512GB FZKDS (black)"
+      }
+    ]
+  }
+}

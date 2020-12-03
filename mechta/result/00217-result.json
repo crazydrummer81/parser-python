@@ -1,0 +1,164 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-honor-honor-8s-gold/",
+  "product_category": {
+    "name": "HONOR",
+    "url": "/section/honor/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HONOR 8S (Gold)",
+  "product_code": "82781",
+  "product_price": {
+    "full": 49990,
+    "discounted": 40490
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/71/7158ae0f-bf39-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HONOR 8S (Gold)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae0f-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae10-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae11-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae12-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae13-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae14-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae15-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/71/7158ae16-bf39-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HONOR 8S (Gold)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6761",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 4 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,71 (14,5 см)",
+      "Разрешение дисплея, пикс": "1520х720 FullView",
+      "Технология изготовления дисплея": "IPS"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0 + BLE",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": "f/2.2 / Умные фильтры ",
+      "Особенности тыловой камеры": " f/1.8 / PDAF/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3020",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Сканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,7х7х0,8",
+      "Цвет": "золотистый",
+      "Вес без упаковки (нетто), кг": "0,146"
+    },
+    "Разное": {
+      "Бренд": "HONOR",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/bde/bdef4c155df172e4e3e36a0a2968ebc1.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/26a/26a8440f9cd7af8c48fe2248cfe9a2a5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Безрамочный экран 5,71 дюйма</h3> <p style=\"text-align: center;\"> Флагманский экран 5,71 дюйма с темной областью каплевидной формы вверху и узкой рамкой с трех сторон занимает почти всю переднюю панель смартфона. Соотношение экрана и передней панели достигает 84,6%. HONOR 8S поддерживает режим защиты зрения, сертифицированный TÜV Rheinland, и эффективно уменьшает УФ-излучение, снижая нагрузку на глаза после длительного использования смартфона. Благодаря навигационным жестам вы сможете легко и быстро управлять смартфоном одной рукой. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/f42/f429d1e98b3010879714138f8bc147a7.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Лаконичный дизайн</h3> <p style=\"text-align: center;\"> Фронтальная камера, разговорный динамик, а также датчики освещенности и приближения компактно умещаются в рамках, всего в 3,5 мм от верхнего края смартфона. Такие рамки на 71,1% меньше, чем наиболее распространенный в индустрии, поэтому рабочая поверхность экрана значительно увеличивается. Функция распознавания лица позволяет разблокировать смартфон даже в темноте, распознавая 1024 уникальные точки вашего лица. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/0cc/0cc617a09962673fb9edda67b2640af6.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Двойная текстура задней панели</h3> <p style=\"text-align: center;\"> Классический дизайн задней панели с двойной текстурой и многослойной поверхностью является отличительной особенностью смартфона. HONOR 8S – это не просто средство коммуникации, а настоящее произведение искусства. Выберите смартфон, который подчеркнет ваш уникальный стиль, среди трех доступных цветов – черного, синего и золотого. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/3b0/3b033d8265264b905270fa1fcb8f87a2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Качественные снимки в любой ситуации</h3> <p style=\"text-align: center;\"> Основная камера 13 МП с диафрагмой f/1.8 пропускает больше света, чтобы обеспечить высокое качество ночных фотографий и создать эффект боке при портретной съемке. Фронтальная камера 5 МП с искусственным интеллектом позволяет снимать яркие селфи и выглядеть свежо благодаря функции украшения. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b0e/b0e874b6a6cf69420a7a0fe5baecbcfc.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Эффективная работа процессора</h3> <p style=\"text-align: center;\"> 4-ядерный 12-нм процессор MT6761, который работает на частоте 2,0 ГГц, обеспечивает высокую производительсть смартфона и оптимизирует работу батареи. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/9a7/9a7643d2e624e6f408237ad998a20564.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Целый день без подзарядки</h3> <p style=\"text-align: center;\"> Мощный 12-нм процессор и функции энергосбережения EMUI обеспечивают длительную работу батареи емкостью 3020 мА*ч. Вы сможете использовать смартфон целый день без подзарядки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_text\"> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_text\"> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/26a/26a8440f9cd7af8c48fe2248cfe9a2a5.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/f42/f429d1e98b3010879714138f8bc147a7.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/0cc/0cc617a09962673fb9edda67b2640af6.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/3b0/3b033d8265264b905270fa1fcb8f87a2.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/b0e/b0e874b6a6cf69420a7a0fe5baecbcfc.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/9a7/9a7643d2e624e6f408237ad998a20564.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      },
+      {
+        "url": "/upload/iblock/bde/bdef4c155df172e4e3e36a0a2968ebc1.jpg",
+        "alt": "Телефон сотовый HONOR 8S (Gold)"
+      }
+    ]
+  }
+}

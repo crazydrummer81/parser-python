@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-e25-bt-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL E25 BT (white)",
+  "product_code": "69499",
+  "product_price": {
+    "full": 23990,
+    "discounted": 13990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2d/2d76b7b9-652f-11e7-80ce-704d7bb700a8.jpeg",
+    "alt": "Наушники JBL E25 BT (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2d/2d76b7b9-652f-11e7-80ce-704d7bb700a8.jpeg",
+      "alt": "Наушники JBL E25 BT (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

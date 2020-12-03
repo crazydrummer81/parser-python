@@ -1,0 +1,166 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-redmi-9-64gb-ocean-green/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-mik/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "XIAOMI"
+  ],
+  "product_name": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green",
+  "product_code": "260001971",
+  "product_price": {
+    "full": 74990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/13/13d92fe1-c2b6-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fe1-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fe9-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fea-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92feb-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fec-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fed-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/13/13d92fee-c2b6-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G80",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,53 (16,5 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Технология изготовления дисплея": "IPS LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MC2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+8+5+2",
+      "Режим видеосъемки": "1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0 / портретный режим",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5020",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,7х0,9",
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0,198"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>XIAOMI Redmi 9</b> </h2> <h2 style=\"text-align: center;\">Квадро камера | 6.53\" FHD+ дисплей</h2> <h2></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c1c/c1cfc158d8fd4c71fa3c1aaaac8463c5.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>⁠Ультра широкоугольный объектив </b></h3> <h3 style=\"text-align: center;\">Захватите обилие пейзажей</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/545/5451834e2d79be93937f7c018b082dd5.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/009/0096eb0dfa7da5fc2d50468688470c2a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Датчик глубины </b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Создавайте красивые портреты</h3> <h3></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/715/7157c23daaaffdc03c687e0a12e324b1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Макро объектив </b></h3> <h3 style=\"text-align: center;\">Откройте для себя неизведанный микромир</h3> <h3></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7bd/7bd84f99a0a17d9de64d974060ee4015.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Расширяйте ваш кругозор</b></h3> <p style=\"text-align: center;\"> Разрешение Xiaomi Redmi 9 2340x1080 Full HD + обеспечивает захватывающий визуальный опыт и дает четкое представление о мире вокруг вас. Смартфон сертифицирован. Технология защиты от синего света поможет вам комфортно проводить долгие часы за смартфоном, не напрягая глаза. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/300/30025df1644774d0c77031b11ebf4bbd.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Производительность</b></h3> <p style=\"text-align: center;\"> Xiaomi Redmi 9 отличается мощной и стабильной производительностью, плавной многозадачностью, безупречным аудиовизуальным и игровым процессом. В смартфоне на 107% улучшение производительности по сравнению с предыдущим поколением. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/50a/50a334a8360ee2921a5138521a572ec7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Свежий стиль</b></h3> <p style=\"text-align: center;\"> Уникальный дизайн Xiaomi Redmi 9, граница вокруг модуля камеры создают ощущение баланса и элегантности. Задняя крышка имеет текстурированную поверхность, которая предотвращает появление отпечатков пальцев на смартфоне и придает ему обновленный внешний вид. Модель с градиентным цветом выглядит наиболее выигрышно. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1c2/1c206f3f166bf3a917257ad2771a4a35.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Батарея</b></h3> <p style=\"text-align: center;\"> Благодаря аккумулятору Xiaomi Redmi 9 ёмкостью 5020 мАч и технологии быстрой зарядки 18 Вт, независимо от того, проводите ли вы время, просматривая фильмы, играя в игры или совершая телефонные звонки, он обеспечит необходимую мощность на целый день и даже дольше. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/009/0096eb0dfa7da5fc2d50468688470c2a.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/715/7157c23daaaffdc03c687e0a12e324b1.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/7bd/7bd84f99a0a17d9de64d974060ee4015.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/300/30025df1644774d0c77031b11ebf4bbd.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/50a/50a334a8360ee2921a5138521a572ec7.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/1c2/1c206f3f166bf3a917257ad2771a4a35.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      },
+      {
+        "url": "/upload/iblock/545/5451834e2d79be93937f7c018b082dd5.jpg",
+        "alt": "Телефон сотовый XIAOMI Redmi 9 64GB Ocean Green"
+      }
+    ]
+  }
+}

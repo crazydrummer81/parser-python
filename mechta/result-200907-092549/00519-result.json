@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.mechta.kz/product/blyutuz-garnitura-xiaomi-mi-bluetooth-headset-basic-black/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-r71/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "XIAOMI"
+  ],
+  "product_name": "Блютуз гарнитура XIAOMI Mi Bluetooth Headset Basic (Black)",
+  "product_code": "78655",
+  "product_price": {
+    "full": 6980,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/db/db96c6e5-f9f6-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Блютуз гарнитура XIAOMI Mi Bluetooth Headset Basic (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/db/db96c6e5-f9f6-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Блютуз гарнитура XIAOMI Mi Bluetooth Headset Basic (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/db/db96c6e8-f9f6-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Блютуз гарнитура XIAOMI Mi Bluetooth Headset Basic (Black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.1"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "70-100",
+      "Время в режиме разговора, ч": "3"
+    },
+    "Функции": {
+      "Ответить/закончить разговор": "есть",
+      "Повтор последнего номера": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "5,6х0,8х1",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,07",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

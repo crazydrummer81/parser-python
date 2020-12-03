@@ -1,0 +1,92 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-live-400-bt-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL LIVE 400 BT (white)",
+  "product_code": "00995",
+  "product_price": {
+    "full": 44990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6f/6f745436-26d9-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL LIVE 400 BT (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f745436-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f745437-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f745438-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f745439-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f74543a-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6f74543b-26d9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 400 BT (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "106"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "700",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Время работы от аккумулятора, ч": "до 24 ч."
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "включения "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.185"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

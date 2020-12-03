@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t115-bt-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL T115 BT (white)",
+  "product_code": "00547",
+  "product_price": {
+    "full": 14990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/63/63571b97-1191-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T115 BT (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b97-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b98-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b99-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b9a-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Длина кабеля, м": "0.8",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102",
+      "Защита от воды и пыли": "нет"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "160",
+      "Время работы от аккумулятора, ч": "8 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и резина"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.19"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

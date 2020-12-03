@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-zx-110-black/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники SONY MDR ZX 110 (Black)",
+  "product_code": "71291",
+  "product_price": {
+    "full": 6990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/24/24b165bd-ab97-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY MDR ZX 110 (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/24/24b165bd-ab97-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY MDR ZX 110 (Black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "12 - 22000",
+      "Чувствительность наушников, дБ/В": "98"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

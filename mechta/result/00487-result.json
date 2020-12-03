@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-mechta-5-000-mah-navy-blue-enyz04/",
+  "product_category": {
+    "name": "MECHTA",
+    "url": "/section/mechta-b3m/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_name": "Портативное зарядное устройство MECHTA 5 000 mAh (navy blue) ENYZ04",
+  "product_code": "83263",
+  "product_price": {
+    "full": 4990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ec/ecedc9a9-e35d-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство MECHTA 5 000 mAh (navy blue) ENYZ04"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ec/ecedc9a9-e35d-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 5 000 mAh (navy blue) ENYZ04"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ecedc9aa-e35d-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 5 000 mAh (navy blue) ENYZ04"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ec/ecedc9ab-e35d-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 5 000 mAh (navy blue) ENYZ04"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "5000",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время зарядки ": "3 часа"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "MECHTA",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-dlya-iphone-11-pro-silikon-prozrachnyy-37564/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO для IPhone 11 PRO силикон прозрачный (37564)",
+  "product_code": "84370",
+  "product_price": {
+    "full": 1290,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fd/fd74270b-ef01-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO для IPhone 11 PRO силикон прозрачный (37564)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd74270b-ef01-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO для IPhone 11 PRO силикон прозрачный (37564)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone 11 PRO"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "прозрачный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

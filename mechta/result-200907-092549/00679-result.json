@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/adapter-dlya-telefona-inkax-ck-54-iphone-razdvoitel/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax-0zu/",
+    "parent_name": "Адаптеры",
+    "parent_url": "/section/adaptery/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Адаптеры",
+    "INKAX"
+  ],
+  "product_name": "Адаптер для телефона INKAX CK-54 IPhone (раздвоитель)",
+  "product_code": "82475",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c8/c8996a01-a2ec-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Адаптер для телефона INKAX CK-54 IPhone (раздвоитель)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c8/c8996a01-a2ec-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона INKAX CK-54 IPhone (раздвоитель)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

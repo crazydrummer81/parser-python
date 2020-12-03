@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-huawei-charger-supercharge-max-40w-cp84-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-2fa/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "HUAWEI"
+  ],
+  "product_name": "Зарядное устройство для телефонов HUAWEI Charger SuperCharge MAX 40W CP84  (white)",
+  "product_code": "260000352",
+  "product_price": {
+    "full": 9990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/62/62ce09a4-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов HUAWEI Charger SuperCharge MAX 40W CP84  (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/62/62ce09a4-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов HUAWEI Charger SuperCharge MAX 40W CP84  (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "100-240 Вт"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "0.14x0.1x0.03",
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.19"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

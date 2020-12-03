@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-sony-mdr-xb-550ap-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники + микрофон SONY MDR XB 550AP (white)",
+  "product_code": "68403",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/18/18b891e5-308f-11e7-80c7-2c768a5d3553.jpeg",
+    "alt": "Наушники + микрофон SONY MDR XB 550AP (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/18/18b891e5-308f-11e7-80c7-2c768a5d3553.jpeg",
+      "alt": "Наушники + микрофон SONY MDR XB 550AP (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "5 - 22000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.18"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

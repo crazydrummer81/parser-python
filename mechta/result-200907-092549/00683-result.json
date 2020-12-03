@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-mate-dlya-samsung-galaxy-a20a30-chernyy-matovyy-36459/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A20/А30, черный матовый (36459)",
+  "product_code": "81228",
+  "product_price": {
+    "full": 1390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/21/216b8022-64ba-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A20/А30, черный матовый (36459)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/21/216b8022-64ba-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A20/А30, черный матовый (36459)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A205"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.08",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х2"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

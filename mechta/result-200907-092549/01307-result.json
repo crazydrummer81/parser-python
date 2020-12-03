@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiotelefon-dect-panasonic-kx-tg-2511-cat/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-p6t/",
+    "parent_name": "Радиотелефоны DECT",
+    "parent_url": "/section/radiotelefony-dect/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Стационарные телефоны",
+    "Радиотелефоны DECT",
+    "PANASONIC"
+  ],
+  "product_name": "Радиотелефон DECT PANASONIC KX TG 2511 CAT",
+  "product_code": "101756",
+  "product_price": {
+    "full": 15190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6a/6a806f92-6261-11e0-81e6-001676a0f702.jpeg",
+    "alt": "Радиотелефон DECT PANASONIC KX TG 2511 CAT"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6a/6a806f92-6261-11e0-81e6-001676a0f702.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TG 2511 CAT"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Автоответчик": "нет",
+      "Дальность действия в помещении, м": "50",
+      "Определитель номера": "есть, АОН Caller ID",
+      "Рабочая частота, МГц": "1880-1900",
+      "Дисплей трубки": "монохромный, голубая подсветка "
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "170",
+      "Время в режиме разговора, ч": "18",
+      "Питание": "от аккумулятора и сети"
+    },
+    "Комплектация": {
+      "Количество трубок в комплекте": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "графитовый",
+      "Вес в упаковке (брутто), кг": "0.54",
+      "Габариты в упаковке (ВхШхГ), см": "13х20х9.5"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

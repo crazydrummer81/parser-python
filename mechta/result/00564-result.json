@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-canyon-cne-cha01ws-1v-usb-output/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA01WS 1V USB output",
+  "product_code": "78536",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/96/9600ef26-f39e-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA01WS 1V USB output"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/96/9600ef26-f39e-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA01WS 1V USB output"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/96/9600ef27-f39e-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA01WS 1V USB output"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/96/9600ef28-f39e-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA01WS 1V USB output"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В",
+      "я удален": "1A"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

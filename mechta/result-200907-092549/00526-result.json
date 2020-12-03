@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-xiaomi-mi-sport-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-jdb/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "XIAOMI"
+  ],
+  "product_name": "Наушники Xiaomi Mi Sport (white)",
+  "product_code": "70712",
+  "product_price": {
+    "full": 24990,
+    "discounted": 16990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/97/97016b69-5fd4-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Наушники Xiaomi Mi Sport (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/97/97016b69-5fd4-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Наушники Xiaomi Mi Sport (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

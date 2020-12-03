@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-xiaomi-mi-true-wireless-earbuds-basic-black/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-r71/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)",
+  "product_code": "83933",
+  "product_price": {
+    "full": 13990,
+    "discounted": 9990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3f/3f9a2cc8-1710-11ea-a22c-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3f/3f9a2cc8-1710-11ea-a22c-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3f/3f9a2cc9-1710-11ea-a22c-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3f/3f9a2cca-1710-11ea-a22c-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3f/3f9a2ccb-1710-11ea-a22c-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3f/3f9a2ccc-1710-11ea-a22c-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi True Wireless Earbuds Basic (Black)"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "150",
+      "Время в режиме разговора, ч": "4",
+      "Емкость аккумулятора, мАч": "40",
+      "Беспроводная зарядка": "есть, футляр"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-apple-a1401-12w-usb-output-md836zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-h25/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "APPLE"
+  ],
+  "product_name": "Зарядное устройство для телефонов APPLE A1401 12W USB output (MD836ZM/A)",
+  "product_code": "46311",
+  "product_price": {
+    "full": 9490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dd/dd75f94a-eeab-11e6-a2a3-2c768a5d3551.png",
+    "alt": "Зарядное устройство для телефонов APPLE A1401 12W USB output (MD836ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dd/dd75f94a-eeab-11e6-a2a3-2c768a5d3551.png",
+      "alt": "Зарядное устройство для телефонов APPLE A1401 12W USB output (MD836ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dd/dd75f94b-eeab-11e6-a2a3-2c768a5d3551.png",
+      "alt": "Зарядное устройство для телефонов APPLE A1401 12W USB output (MD836ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

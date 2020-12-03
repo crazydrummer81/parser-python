@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-bluedio-t4-black/",
+  "product_category": {
+    "name": "BLUEDIO",
+    "url": "/section/bluedio/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "BLUEDIO"
+  ],
+  "product_name": "Наушники BLUEDIO T4 Black",
+  "product_code": "260000389",
+  "product_price": {
+    "full": 31990,
+    "discounted": 21990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3d/3d8ffa8e-6413-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники BLUEDIO T4 Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa8e-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa8f-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa90-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa91-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa92-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa93-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa94-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T4 Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "15 - 25000",
+      "Защита от воды и пыли": "нет",
+      "Диаметр мембран, мм": "57",
+      "Чувствительность, дБ": "118"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Время работы от аккумулятора, ч": "до 16 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и ткань"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "BLUEDIO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

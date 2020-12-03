@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-type-c-cns-usbc5dg-metallic/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона CANYON TYPE-C CNS-USBC5DG Metallic",
+  "product_code": "78532",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d2/d29de1e2-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC5DG Metallic"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d2/d29de1e2-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC5DG Metallic"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d2/d29de1e3-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC5DG Metallic"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB Type C",
+      "Тип кабеля (шнура)": "телефонный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "золотистый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

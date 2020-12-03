@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-kajsa-neo-classic-wax-leather-iphone-xxs-black-8482/",
+  "product_category": {
+    "name": "Kajsa",
+    "url": "/section/kajsa/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "Kajsa"
+  ],
+  "product_name": "Чехол для телефона Kajsa Neo Classic Wax Leather iPhone X/XS black (8482)",
+  "product_code": "78563",
+  "product_price": {
+    "full": 5490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/cf/cf7f9925-fdc2-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона Kajsa Neo Classic Wax Leather iPhone X/XS black (8482)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/cf/cf7f9925-fdc2-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона Kajsa Neo Classic Wax Leather iPhone X/XS black (8482)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cf/cf7f9926-fdc2-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона Kajsa Neo Classic Wax Leather iPhone X/XS black (8482)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone X"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.05"
+    },
+    "Разное": {
+      "Бренд": "Kajsa",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

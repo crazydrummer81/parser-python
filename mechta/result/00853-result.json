@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha041bs-micro-usb/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA041BS Micro USB",
+  "product_code": "80095",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3b/3bc5f640-3f34-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA041BS Micro USB"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3b/3bc5f640-3f34-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA041BS Micro USB"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3b/3bc5f641-3f34-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA041BS Micro USB"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3b/3bc5f642-3f34-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA041BS Micro USB"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 2А "
+    },
+    "Типы передачи данных": {
+      "USB": "1 x Micro USB 2.0"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.04",
+      "Габариты в упаковке (ВхШхГ), см": "1х13х17"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

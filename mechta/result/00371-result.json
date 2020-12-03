@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-realme-tws-buds-air-white-rma201/",
+  "product_category": {
+    "name": "REALME",
+    "url": "/section/realme-cu3/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники для телефона REALME TWS Buds Air White (RMA201)",
+  "product_code": "260001946",
+  "product_price": {
+    "full": 28890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b1/b1c88b56-bcdb-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона REALME TWS Buds Air White (RMA201)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1c88b56-bcdb-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона REALME TWS Buds Air White (RMA201)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1c88b57-bcdb-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона REALME TWS Buds Air White (RMA201)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1c88b58-bcdb-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона REALME TWS Buds Air White (RMA201)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия в помещении, м": "10",
+      "Защита от воды и пыли": "IPX4"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "3 ч.",
+      "Беспроводная зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.004"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

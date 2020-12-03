@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t120tws-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL T120TWS (White)",
+  "product_code": "00048",
+  "product_price": {
+    "full": 39990,
+    "discounted": 34990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a4/a40970f9-0204-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T120TWS (White)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a4/a40970f9-0204-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T120TWS (White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a4/a40970fa-0204-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T120TWS (White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a4/a40970fb-0204-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T120TWS (White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a4/a40970fc-0204-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T120TWS (White)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a4/a40970fd-0204-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T120TWS (White)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "96"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "до 2 часов",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 4 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик/soft-touch"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "индикация включения и батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.073"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

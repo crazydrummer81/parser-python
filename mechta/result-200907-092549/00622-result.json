@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-nj-300-bgc-k/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-hlj/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "PANASONIC"
+  ],
+  "product_name": "Наушники PANASONIC RP NJ 300 BGC K",
+  "product_code": "70067",
+  "product_price": {
+    "full": 16990,
+    "discounted": 6990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2f/2fce1158-7802-11e7-80d9-704d7bb700a8.jpeg",
+    "alt": "Наушники PANASONIC RP NJ 300 BGC K"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2f/2fce1158-7802-11e7-80d9-704d7bb700a8.jpeg",
+      "alt": "Наушники PANASONIC RP NJ 300 BGC K"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

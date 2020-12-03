@@ -1,0 +1,139 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-405-galaxy-a40-fzkds-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)",
+  "product_code": "80909",
+  "product_price": {
+    "full": 109890,
+    "discounted": 59990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/41/41b0d709-60bc-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d709-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70a-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70b-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70c-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70d-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70e-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/41b0d70f-60bc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Exynos 7904",
+      "Процессор, (МГц, количество ядер)": "1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,9 (14,9 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "Super AMOLED",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "есть, Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "16+5",
+      "Режим видеосъемки": "1920x1080 пикселей/ 30 кадров/сек",
+      "Фронтальная камера (для видеозвонков), Мпикс": "25",
+      "Особенности тыловой камеры": "F1.7 , F2.2/ автофокус/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3100",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Cканер отпечатка пальца": "есть"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14.4х6.9х0.7",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.14"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A",
+      "Комплектация": "зарядное устройство/USB-кабель "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/ad1/ad1b7c2b66788c5b8f06397be67186b5.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Безрамочный экран для безграничного мира</h3> <p style=\"text-align: center;\"> Станьте ближе к тому, что важно для вас, c 5,9-дюймовом безграничным U-экраном Galaxy A40. Безрамочный экран занимает практически всю фронтальную поверхность от края до края. А благодаря разрешению FHD+ и цветопередаче sAMOLED вы можете с головой окунуться в свои любимые видеоблоги и прямые трансляции.<br/> <br/> </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/199/199bed1ad491d017f91e689c0e7e07b5.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bb1/bb1a103ebf987fda9016ff8dc5a7369e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\"></h3> <h3 style=\"text-align: right;\"></h3> <h3 style=\"text-align: left;\">Тонкий и компактный</h3> <p style=\"text-align: left;\"> </p> <p style=\"text-align: left;\"> </p> <p style=\"text-align: left;\"> </p> <p style=\"text-align: left;\"> Galaxy A40 создан специально для тех, кто любит компактные устройства, которые с легкостью помещаются в ладонь. Корпус смартфона представлен в белом, черном и синем цветах. А задняя 3D-панель из стеклопластика и сканер отпечатков создают плавные очертания корпуса со всех сторон. </p> <br/> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ba5/ba52201f123c8ed4d408553925db5917.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"></h3> <h3 style=\"text-align: left;\"></h3> <h3 style=\"text-align: right;\"></h3> <h3 style=\"text-align: right;\">В два раза больше впечатлений</h3> <p style=\"text-align: right;\"> </p> <p style=\"text-align: right;\"> Galaxy A40 оснащен ультраширокоугольной камерой с углом обзора 123 градуса — таким же, как у человеческого глаза, и 16-мегапиксельной камерой (F1.7) для ярких и четких фотографий в любое время дня. </p> </div> </div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Аккумулятор, на который можно положиться</h2> <p style=\"text-align: center;\"> В динамичном ритме современной жизни вам нужен телефон, который не подведет. Благодаря типичной* емкости 3100 мА·ч аккумулятор обеспечит вам заряд на целый день, позволяя транслировать и показывать контент, а также играть. А если вы слегка не рассчитали нагрузку, просто воспользуйтесь быстрой зарядкой Galaxy A40 мощностью 15 Вт.<br/> <br/> </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/3c2/3c27c9f7f61dbff97846c2ca25d3c495.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Подчеркните вашу индивидуальность</h2> <p style=\"text-align: center;\"> Теперь у вас есть еще больше способов выразить себя. Создайте и настройте селфимоджи, а потом отправьте их друзьям, чтобы поделиться своим настроением. И украсьте свои фотографии стикерами с селфимоджи, фильтрами и штампами — пусть они расскажут все без лишних слов. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/9d6/9d67632d3d0d57a00f1f4038dda267e5.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/bb1/bb1a103ebf987fda9016ff8dc5a7369e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/ba5/ba52201f123c8ed4d408553925db5917.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+      },
+      {
+        "url": "/upload/iblock/9d6/9d67632d3d0d57a00f1f4038dda267e5.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 405 Galaxy A40 FZKDS (black)"
+      }
+    ]
+  }
+}

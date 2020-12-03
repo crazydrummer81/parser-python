@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-ch-700n-blue/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WH CH 700N (blue)",
+  "product_code": "77479",
+  "product_price": {
+    "full": 69990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/53/53faf613-d1c3-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH CH 700N (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf613-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 700N (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf614-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 700N (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf615-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 700N (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной/ беспроводной",
+      "Длина кабеля, м": "1.2",
+      "Диапазон воспроизводимых частот, Гц": "7 - 20000",
+      "Чувствительность наушников, дБ/В": "97"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.24",
+      "Вес в упаковке (брутто), кг": "0.4"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

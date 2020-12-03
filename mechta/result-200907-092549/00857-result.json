@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/startovyy-paket-beeline-sovsem-vse-po-1790-2018-400/",
+  "product_category": {
+    "name": "BEELINE",
+    "url": "/section/beeline-qnx/",
+    "parent_name": "Карты оплаты и Стартовые пакеты операторов GSM",
+    "parent_url": "/section/karty-oplaty-i-startovye-pakety-operatorov-gsm/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Карты оплаты и Стартовые пакеты операторов GSM",
+    "BEELINE"
+  ],
+  "product_name": "Стартовый пакет BEELINE Совсем все по 1790 (2018) 400",
+  "product_code": "77146",
+  "product_price": {
+    "full": 400,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/02/0232a175-cb98-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Стартовый пакет BEELINE Совсем все по 1790 (2018) 400"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/02/0232a175-cb98-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Стартовый пакет BEELINE Совсем все по 1790 (2018) 400"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "PARROT"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

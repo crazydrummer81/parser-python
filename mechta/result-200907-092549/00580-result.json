@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-bluedio-t-energy-blue/",
+  "product_category": {
+    "name": "BLUEDIO",
+    "url": "/section/bluedio/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "BLUEDIO"
+  ],
+  "product_name": "Наушники BLUEDIO T ENERGY Blue",
+  "product_code": "260000392",
+  "product_price": {
+    "full": 12990,
+    "discounted": 8990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3d/3d8ffa89-6413-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники BLUEDIO T ENERGY Blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa89-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T ENERGY Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa8a-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T ENERGY Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa8b-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T ENERGY Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffa8d-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники BLUEDIO T ENERGY Blue"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "13",
+      "Чувствительность, дБ": "116"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "170",
+      "Время работы от аккумулятора, ч": "до 12 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "голубой"
+    },
+    "Разное": {
+      "Бренд": "BLUEDIO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть",
+      "Кнопки управления": "кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

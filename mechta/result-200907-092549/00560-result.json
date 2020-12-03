@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-huawei-ap55s-usb-microusb--perehodnik-type-c-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-lfa/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "HUAWEI"
+  ],
+  "product_name": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)",
+  "product_code": "80202",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/06/064de55d-44a3-11e9-a21f-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/06/064de55d-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/06/064de55e-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/06/064de55f-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/06/064de560-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/06/064de561-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/06/064de562-44a3-11e9-a21f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона HUAWEI AP55S USB-microUSB + переходник Type-C (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.5",
+      "Тип кабеля (шнура)": "USB-microUSB + USB Type-C"
+    },
+    "Опции": {
+      "Дополнительные опции": "переходник Type-C"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

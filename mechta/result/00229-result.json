@@ -1,0 +1,173 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-a5-2020-dazzling-white/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый OPPO A5 2020 Dazzling White",
+  "product_code": "84309",
+  "product_price": {
+    "full": 99990,
+    "discounted": 89990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/32/3297d5e6-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5e6-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5e7-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5e8-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5e9-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5ea-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5eb-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5ec-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/3297d5ed-f3b6-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 665",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 610"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+8+2+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0 / Портретный режим/автоопределение возраста",
+      "Особенности тыловой камеры": "Четыре камеры/Ультраширокоугольный/Ночной режим "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, два стереодинамика/ Dolby Atmos"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,5х0,9",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,195"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b><span style=\"color: #5e5ca7;\">OPPO A5</span></b><b><span style=\"color: #5e5ca7;\"> </span></b><sup><b><span style=\"color: #5e5ca7;\">2020</span></b></sup><b><span style=\"color: #5e5ca7;\"> </span></b></h2> <h3 style=\"text-align: center;\">Аккумулятор 5000 мА*ч </h3> <h3 style=\"text-align: center;\">Ультраширокоугольная камера с четырьмя объективами</h3> <h2></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f74/f74ecb646f715793ed66d4035aa428c1.jpg\"/></div> <div class=\"aa_markfull_text\"><h2>Воображение без границ</h2> <b> <h3>Ультраширокоугольный объектив</h3> </b>Запечатлей все детали в ограниченном пространстве ультраширокоугольной камерой смартфона A5 2020. Все поместится на одном фото с увеличенной глубиной и резкостью.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/9bd/9bdc08a1713f5f2d83e985d2efc6cb0d.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/38b/38b45768ac6e7fc47dc6bd59b2e898c7.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Видео без колебаний</h3> <b>Видео со стабилизацией</b><br/> Максимально четкая запись любого события благодаря функции записи видео со стабилизацией. Записывай идеальное видео на ходу, во время пробежки или езды на машине с помощью технологии EIS (электронной стабилизации изображения) с интеллектуальной обработкой и встроенного гироскопа. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/915/91539bf5cd1f31451b22efd7ff5156ef.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Сочетание красоты и интеллекта</h3> <b>Фронтальная камера 8Мп интеллектуальной коррекцией изображения</b><br/> Лучшее качество снимков фронтальной камеры смартфона A5 2020 благодаря функции AI Selfie Tune — автоопределение возраста, выравнивание тона кожи в зависимости от пола. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/202/2026dfa335395f0cdf9ee0f84740874e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Освещение не имеет значения</h3> Отчетливые снимки на смартфоне A5 2020 получаются даже при слабом освещении благодаря технологии многокадрового шумоподавления и алгоритму HDR. Обработка лиц на переднем плане отдельно от фона делает фотографии максимально четкими и уменьшает фоновую засветку. </div> </div> <div class=\"aa_markfull_text\"><h2>Полное погружение в звук</h2> <h3><b>Двойные стереодинамики с технологией Dolby Atmos®</b></h3> Наслаждайся чистым звуком даже на максимальной громкости. Двойные динамики смартфона A5 2020 с технологией Dolby Atmos® создают эффект объемного звука.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f8b/f8b8d84bf7566f7a6ec72c95013ddfb5.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b91/b91f0bf81fac7b3a265e82f9c1fcb5a2.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Новые стандарты скорости</h3> <b>Процессор Snapdragon 665 с режимом Game Boost 2.0</b><br/> Высокая производительность и экономия до 20 % заряда с процессором Snapdragon 665 и 8 ГБ* оперативной памяти*. Почувствуй это в режиме Game Boost 2.0. Технологии Frame Boost и Touch Boost сокращают время отклика в играх до минимума.<br/> <i>*Возможности оперативной памяти зависят от модели.</i><br/> <i>*20%: по сравнению с процессором Snapdragon 660.</i> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b20/b20d616c773844344959c83b4540c1e9.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Еще больше данных</h3> <b>Тройной слот</b> (2 SIM-карты и карта памяти MicroSD до 256 ГБ*)<br/> Смартфоны серии A5 поставляются с 64 ГБ или 128 ГБ встроенной памяти*. Для дополнительного хранилища можно добавить до 256 ГБ дополнительной памяти в слот для трех карт (Dual Sim + MicroSD)<br/> <i>*Карты памяти MicroSD продаются отдельно.</i> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b33/b33fa32d26aec9cb61a74193012fca38.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Энергии хватит на весь день. Заряжай другие устройства</h3> <b>Аккумулятор повышенной емкости 5000 мА•ч с функцией обратной зарядки</b><br/> Не беспокойся об уровне заряда. Возможность смотреть видео с разрешением HD на экране смартфона более 16 часов подряд. А аккумулятор емкостью 5000 мА·ч можно использовать для обратной зарядки других устройств*.<br/> <i>*Для обратной зарядки требуется кабель OTG.</i> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/428/428e2e9453402e420136cebe8d793d0d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Почувствуй разницу</h3> <b>3D-дизайн</b><br/> A5 2020 — это новый уровень развития. Цветовые градиенты смартфона вдохновлены самой природой. Благодаря элегантному тонкому 3D-корпусу А5 удобно ложится в руку. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/7f2/7f24f3c547ef74e11e25a69b0af06000.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Больше, чем просто экран</h3> <b>Экран диагональю 6,5 дюймов с вырезом в форме капли, технологией Sunlight и фильтром синего цвета</b><br/> Жемчужина большого экрана A5 2020 — вырез в форме капли. С технологией динамической настройки контрастности экран не блекнет даже при ярком солнечном свете. Экран A5 отфильтровывает синий цвет, уменьшает усталость глаз, защищает зрение и даже помогает быстрее заснуть. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/266/266ad6475a941b0cecae17b56f23d760.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Интеллектуальная начинка</h3> <b>ColorOs 6.0</b><br/> Представляем полностью обновленный интерфейс ColorOS 6.0 с умной навигацией. Безграничные возможности нового дизайна на основе Android 9.0: режим \"умное вождение\", умный ассистент, навигация жестами и облачный сервис OPPO. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/38b/38b45768ac6e7fc47dc6bd59b2e898c7.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/915/91539bf5cd1f31451b22efd7ff5156ef.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/202/2026dfa335395f0cdf9ee0f84740874e.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/b91/b91f0bf81fac7b3a265e82f9c1fcb5a2.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/b20/b20d616c773844344959c83b4540c1e9.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/b33/b33fa32d26aec9cb61a74193012fca38.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/428/428e2e9453402e420136cebe8d793d0d.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/7f2/7f24f3c547ef74e11e25a69b0af06000.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/266/266ad6475a941b0cecae17b56f23d760.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      },
+      {
+        "url": "/upload/iblock/f8b/f8b8d84bf7566f7a6ec72c95013ddfb5.jpg",
+        "alt": "Телефон сотовый OPPO A5 2020 Dazzling White"
+      }
+    ]
+  }
+}

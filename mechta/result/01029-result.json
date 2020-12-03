@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-belkin-micro-usb-1a/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-d7q/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов BELKIN Lighning (1A)",
+  "product_code": "81174",
+  "product_price": {
+    "full": 15990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7c/7c5b8eec-61af-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов BELKIN Lighning (1A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8eec-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BELKIN Lighning (1A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В/2,4А"
+    },
+    "Типы передачи данных": {
+      "USB": "1 x Micro USB"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1,2 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

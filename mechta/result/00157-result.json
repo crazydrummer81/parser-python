@@ -1,0 +1,162 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-107-galaxy-a10s-fzbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)",
+  "product_code": "83722",
+  "product_price": {
+    "full": 69890,
+    "discounted": 59890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/aa/aa18de1c-d44c-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de1c-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de29-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de2a-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de2b-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de2c-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa18de2d-d44c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6762 (P22)",
+      "Процессор, (МГц, количество ядер)": "2000/ 1500 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,2 (15,7 см)",
+      "Разрешение дисплея, пикс": "1520х720 (HD+)",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "TFT",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+2",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": " f/1,8/ f/2.4 автофокус/ вспышка/ 4x зум "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,6х7,5х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,168"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bc8/bc873c61cccdc3319a50ce5acc585e48.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Безграничный мир с безрамочных дисплеем</b><br/> 6,2 дюйма HD + TFT-экран для смартфона, который вы полюбите. Независимо от того просматриваете вы любимый сериал или играете в игры, дисплей Galaxy A10 Infinity-V меняет ваши чувства, заставляя вас действовать. Наслаждайтесь просмотром с новым экраном V-Cut. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/311/3118aee567f2bc41ae92c285b6b401e3.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Удобный дизайн, который сияет</b><br/> Тонкий 7,8-миллиметровый корпус Galaxy A10s выглядит так, словно создан именно для вас. Задняя панель, выполненная из глянцевого стеклопластика доступна в трех цветах: черный, синий или красный. Для разблокировки просто приложите палец к сканеру отпечатков пальцев на задней панели смартфона. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/9b7/9b776b6fa4b313b767467b4e05c7e805.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Двойная основная камера для памятных моментов</b><br/> Простая и удобная в использовании двойная камера дает вам яркие и четкие фотографии всего лишь одним прикосновением. Дуэт 13-мегапиксельной и 2-мегапиксельной камеры глубины создан для того, чтобы вы снимали, поэтому дайте волю своему творчеству и наслаждайтесь. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7ac/7acb451e6ec79d48712b5e1c7735ec5f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Сосредоточься на важном</b><br/> 2-мегапиксельная камера глубины позволяет регулировать глубину резкости до и после съемки. Усовершенствованная камера убирает нежелательный фоновый шум из ваших изображений, чтобы они выглядели более профессионально. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/971/9714a1b01d41f75b7b15a5e9bcc68912.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Камера, которая обнаруживает вашу истинную суть</b><br/> 8-мегапиксельная фронтальная камера Galaxy A10s делает ваши Селфи более сногсшибательными, а с помощью Selfie focus вы получаете плавный размытый фон, который делает вашу личность звездой изображения. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/dfb/dfb60e7731525cebb6bb05aca309b70f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Энергия для покорения новых высот</b><br/> Когда вы живете собственным ритмом жизни, вам нужен телефон, заряда аккумулятора которого хватает надолго. Аккумулятор Galaxy A10s емкостью 4000 мАч (по умолчанию) * означает, что вы можете делиться с друзьями, смотреть трансляции, делать то, что вам нравится дольше </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/368/368cbdfb9ea90042c2c6554eee54f98d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Удобная мобильная безопасность</b><br/> <b>Защита под рукой</b> <br/> Galaxy A10s оснащен задним сканером отпечатков пальцев, который позволяет входить в поддерживаемые приложения и легко разблокировать устройство.<br/> <b>Распознавание </b><br/> Технология распознавания лиц предоставляет мобильный доступ для вас одного, чтобы ваши личные данные не попали в чужие руки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c9e/c9e61eb6f3e58f7aaba517b5f86c3607.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Помогает вам сосредоточиться</b><br/> Интерфейс One UI помогает вам сосредоточиться на по-настоящему важных вещах. Аппаратное и программное обеспечение работают вместе. Доступ к контенту и функциям можно получить быстро, просто коснувшись экрана. «Ночной режим» обеспечит удобное пользование устройством в темноте, а четкие и интуитивные визуальные инструменты делают пользование телефоном привычным делом. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/bc8/bc873c61cccdc3319a50ce5acc585e48.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/311/3118aee567f2bc41ae92c285b6b401e3.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/9b7/9b776b6fa4b313b767467b4e05c7e805.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/7ac/7acb451e6ec79d48712b5e1c7735ec5f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/971/9714a1b01d41f75b7b15a5e9bcc68912.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/dfb/dfb60e7731525cebb6bb05aca309b70f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/368/368cbdfb9ea90042c2c6554eee54f98d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/c9e/c9e61eb6f3e58f7aaba517b5f86c3607.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 107 Galaxy A10S FZBDS (blue)"
+      }
+    ]
+  }
+}

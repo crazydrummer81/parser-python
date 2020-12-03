@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.mechta.kz/product/derjatel-manfrotto-ruchka-s-plankoy-dlya-twistgrip-mtwistgrips/",
+  "product_category": {
+    "name": "MANFROTTO",
+    "url": "/section/manfrotto-wtr/",
+    "parent_name": "Держатели",
+    "parent_url": "/section/derjateli/"
+  },
+  "product_name": "Держатель MANFROTTO Ручка с планкой для TwistGrip (MTWISTGRIPS)",
+  "product_code": "75257",
+  "product_price": {
+    "full": 21990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Держатель MANFROTTO Ручка с планкой для TwistGrip (MTWISTGRIPS)"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Держатель MANFROTTO Ручка с планкой для TwistGrip (MTWISTGRIPS)"
+    }
+  ],
+  "product_params": {
+    "Опции": {
+      "Дополнительные опции": "комплект рукоятка и планка"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный с серым"
+    },
+    "Разное": {
+      "Бренд": "MANFROTTO",
+      "Страна производитель": "Италия"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

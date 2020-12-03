@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-inkax-iphone-ck-48-ip/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "INKAX"
+  ],
+  "product_name": "Кабель для телефона INKAX iPhone (CK 48 IP)",
+  "product_code": "78954",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/67/67596944-1882-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона INKAX iPhone (CK 48 IP)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/67/67596944-1882-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона INKAX iPhone (CK 48 IP)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

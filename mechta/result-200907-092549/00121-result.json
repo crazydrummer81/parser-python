@@ -1,0 +1,147 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-415-galaxy-a41-fzbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)",
+  "product_code": "260001347",
+  "product_price": {
+    "full": 139990,
+    "discounted": 99890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/1d/1d1ec662-a162-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d1ec662-a162-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d1ec66d-a162-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d1ec66e-a162-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d1ec66f-a162-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6768 (P65)",
+      "Процессор, (МГц, количество ядер)": "2000/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,1 (15,5 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "Super AMOLED",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MP2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+5",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "25",
+      "Особенности фронтальной камеры": " f/2.2/ Селфи фокус",
+      "Особенности тыловой камеры": "Тройная камера/Сверхширокоугольная/Портретный реж."
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,9х6,9х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,152"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/047/047f9dfe41474c4d94ddafcba553b73a.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Максимальное погружение на безграничном экране</b></h2> <p style=\"text-align: center;\"> Оцени невероятный эффект полного погружения в контент на 6.1-дюймовом безграничном U-экране смартфона Galaxy A41. Играть, смотреть любимые видео и вести прямые трансляции теперь гораздо приятнее благодаря потрясающему Super AMOLED экрану с разрешением FullHD+. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/28d/28d6c836601d76f3119979a4622b8131.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Один ракурс - больше сюжетов</b></h3> <p style=\"text-align: center;\"> Снимай мир шире вместе со Сверхширокоугольной камерой. Широкий угол обзора позволит сделать идеальную городскую панораму или пейзаж, а благодаря основной камере 48МП твои фотографии всегда будут яркими и четкими вне зависимости от времени суток. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/8cd/8cd445bf5d12d01ea7d6eea02efeb2c2.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/69b/69bf165349fd5e4750481dd66fda367e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сфокусируйся на главном объекте съемки</b></h3> <p style=\"text-align: center;\"> 5МП Камера с датчиком глубины позволяет регулировать уровень резкости как до, так и после съемки. Улучшенная конструкция 5МП Камеры с датчиком глубины поможет устранить нежелательные фоновые шумы с твоих снимков, чтобы они выглядели более профессиональными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e85/e850b8fc36b4d67cae471ef6178e72cf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Свет, камера, отличное селфи!</b></h3> <p style=\"text-align: center;\"> Сделать идеальное селфи еще никогда не было так просто. Фронтальная камера Galaxy A41 на 25МП гарантирует яркие и четкие фотографии в высоком разрешении. А режим \"Селфи-фокус\" поможет тебе и твоим друзьям оставаться в центре внимания. </p> </div> </div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Всегда на связи</b></h2> <p style=\"text-align: center;\"> Напряженный рабочий график или активный отдых - в любом из этих случаев те. С аккумулятором емкостью 3500 мАч (типичное значение)* ты можешь играть, обмениваться файлами и пользоваться стриминговыми сервисами часами напролет. А поддержка быстрой зарядки 15Вт позволит быстро пополнить заряд и не выпадать из динамичного ритма жизни. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/38a/38a582a5c0c1f5e1cd47605299f83179.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Больше игр и развлечений</b></h2> <p style=\"text-align: center;\"> Galaxy A41 оснащен быстрым процессором и большим объемом памяти. Современный 8-ядерный процессор и оперативная память 4 ГБ обеспечат плавную и эффективную работу любых игр и приложений. Скачивай больше и удаляй меньше благодаря 64 ГБ встроенной памяти. А с помощью microSD карты до 512 ГБ ты сможешь хранить еще больше контента. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c9c/c9cfe3837a67d46d2e73299c91a87328.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Приложение Game Booster - будь на шаг впереди</b></h2> <p style=\"text-align: center;\"> Максимизируй производительность своего смартфона в играх с помощью приложения Game Booster. Удобный интерфейс программы позволяет легко контролировать весь игровой процесс. Game Booster обеспечивает плавность графики и более естественные движения объектов в играх. А с помощью анализа твоих действий приложение оптимизирует расход аккумулятора и ускоряет загрузку игр, чтобы ты мог дольше наслаждаться игровым процессом. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/527/527ade85f8ca05ccff5bda20af8b993f.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/4eb/4ebaabd9d263d52c5377824b0b559c6a.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Надежная система защиты теперь доступна каждому</b></h3> <p style=\"text-align: center;\"> Абсолютная безопасность данных с Samsung Knox. Многоуровневая система безопасности Samsung Knox защищает ваши личные данные от вирусов и вредоносных атак как на аппаратном, так и на программном уровне. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/81a/81a9306637cd0a4c6015cc978850c6b8.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Отпечаток пальца - надежная защита твоего смартфона</b></h3> <p style=\"text-align: center;\"> Galaxy A41 оснащен высокотехнологичной биометрической системой идентификации пользователя. Экранный сканер отпечатков распознает твой уникальный отпечаток пальца. Разблокируй смартфон всего одним движением и не переживай за сохранность своей информации. Доступ к контенту получишь только ты. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/96a/96a627ab4451ff36d745d5ccd29b7f50.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мы подскажем, как сохранить твое устройство в отличном состоянии</b></h3> <p style=\"text-align: center;\"> Наслаждайся быстрой и оптимизированной работой смартфона вместе с нашим приложением Samsung Members. Интерактивная диагностика и оптимизация приложения позволяет легко настроить производительность устройства. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/69b/69bf165349fd5e4750481dd66fda367e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/e85/e850b8fc36b4d67cae471ef6178e72cf.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/4eb/4ebaabd9d263d52c5377824b0b559c6a.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/81a/81a9306637cd0a4c6015cc978850c6b8.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/96a/96a627ab4451ff36d745d5ccd29b7f50.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/527/527ade85f8ca05ccff5bda20af8b993f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 415 Galaxy A41 FZBDS (blue)"
+      }
+    ]
+  }
+}

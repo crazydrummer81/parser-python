@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-hv-094-gu-k/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-sub/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники PANASONIC RP HV 094 GU K",
+  "product_code": "29168",
+  "product_price": {
+    "full": 1490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d0/d0200bbb-a035-11e3-89c5-14dae972ca6d.jpeg",
+    "alt": "Наушники PANASONIC RP HV 094 GU K"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d0/d0200bbb-a035-11e3-89c5-14dae972ca6d.jpeg",
+      "alt": "Наушники PANASONIC RP HV 094 GU K"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "mini jack 3.5 mm"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.1",
+      "Габариты в упаковке (ВхШхГ), см": "12х8х1"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

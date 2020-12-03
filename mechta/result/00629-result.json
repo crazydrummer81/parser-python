@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-ch-710n-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WH CH 710N (white)",
+  "product_code": "260002055",
+  "product_price": {
+    "full": 49990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/32/32d59728-cc93-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH CH 710N (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/32/32d59728-cc93-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 710N (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/32d59729-cc93-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 710N (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/32d5972a-cc93-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 710N (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/32d5972b-cc93-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 710N (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/32/32d5972c-cc93-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 710N (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Длина кабеля, м": "1.2",
+      "Диапазон воспроизводимых частот, Гц": "7 - 20000",
+      "Диаметр мембран, мм": "30",
+      "Чувствительность, дБ": "103"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "3 часа 30 минут",
+      "Емкость аккумулятора, мАч": "500",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 35 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "индикация включения и батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

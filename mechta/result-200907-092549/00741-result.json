@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-sony-mdr-zx-110ap-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "SONY"
+  ],
+  "product_name": "Наушники + микрофон SONY MDR ZX 110AP (white)",
+  "product_code": "34829",
+  "product_price": {
+    "full": 7990,
+    "discounted": 6990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/06/06e24962-8cf0-11e4-94a2-14dae972ca6d.jpeg",
+    "alt": "Наушники + микрофон SONY MDR ZX 110AP (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/06/06e24962-8cf0-11e4-94a2-14dae972ca6d.jpeg",
+      "alt": "Наушники + микрофон SONY MDR ZX 110AP (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

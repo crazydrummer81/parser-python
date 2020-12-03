@@ -1,0 +1,168 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-515-galaxy-a51-128gb-fzwws-white/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)",
+  "product_code": "01036",
+  "product_price": {
+    "full": 169890,
+    "discounted": 129890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e1/e1a05575-3357-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a05575-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a05576-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a05577-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a05578-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a05579-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e1/e1a0557a-3357-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Exynos 9611",
+      "Процессор, (МГц, количество ядер)": "2300/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "Super AMOLED",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G72 MP3"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2.4+ 5ГГц, VHT80",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+12+5+5",
+      "Режим видеосъемки": "UHD 4K (3840 x 2160)  30 кадров/ сек",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.2/ Селфи фокус",
+      "Особенности тыловой камеры": "Четыре камеры/ Сверхширик/ Макро/ Сенсор глубины"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,8х7,3х0,8",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,172"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/70b/70b3cfb6a4d327b08ddb60f2980f4bba.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>Весь мир на твоем безграничном экране</b></h2> <p style=\"text-align: center;\"> Безграничный экран Galaxy A51 оптимизирует визуальную симметрию. Теперь ты можешь играть, смотреть фильмы, бродить по сети и работать в многозадачном режиме без перерыва на ярком 6.5-дюймовом sAMOLED экране с FHD+ разрешением. Погрузись в контент с головой благодаря тонкой рамке дисплея и максимальной площади полезного пространства. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/4c4/4c40259c595853f68c83807ead9f2841.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Гармония изысканного стиля и комфорта</b></h2> <p style=\"text-align: center;\"> Ритмический узор на экранной теме Galaxy A51 гармонично сочетается с элегантными пастельными тенями Черного, Белого или Красного цвета. Премиальный блеск задней панели дополняет общую стилистику смартфона, идеальная эргономика которого позволяет комфортно держать его в руке. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/01f/01f1a28e520e163a99e14beb39e4fb44.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/e6d/e6da755bc978891c8bdffaa1bd580934.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Одна камера - разные возможности</b></h3> <p style=\"text-align: center;\"> Захвати мир целиком с помощью сверхширокоугольной камеры со сверхшироким углом обзора. А благодаря Основной Камере 48МП твои снимки будут яркими и четкими в любое время дня и ночи. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/f8e/f8e077b441cbca737e471f623b307ba1.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Макро-камера для съемки мельчайших деталей</b></h3> <p style=\"text-align: center;\"> 5 МП камера для Макросъемки (F=40 мм) позволяет делать четкие снимки крупным планом, фиксируя мельчайшие детали объектов. Используй эффект \"Боке\" и регулируй степень размытия фона для того, чтобы выделить основной объект съемки и усилить уровень визуального воздействия. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/fd7/fd7bca568adf5fb674284e4929070bb0.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Четкие фото и видео на уровне экшн-камеры</b></h3> <p style=\"text-align: center;\"> Сверхширокоугольная камера Galaxy A51 и интеллектуальное ПО позволят тебе записывать видео профессионального уровня как это делают экшн-камеры. Создавай яркие и живые видео даже во время самых головокружительных приключений благодаря Системе Супер Стабилизации. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/008/0086055deb83ec70ab8b422b0b7a8daf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Твой объект в центре внимания</b></h3> <p style=\"text-align: center;\"> 5МП Камера с датчиком глубины позволяет регулировать уровень резкости как до, так и после съемки. Улучшенная конструкция 5МП Камеры с датчиком глубины поможет устранить нежелательные фоновые шумы с твоих снимков, чтобы они выглядели более профессиональными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/962/962ae4758e63d1ef86371dab7d0b382b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Потрясающие селфи - проще простого!</b></h3> <p style=\"text-align: center;\"> Ты мечтаешь о классном селфи? Будь в центре внимания благодаря фронтальной камере 32МП, которая гарантирует четкие снимки в высоком разрешении. Мягкое размытие фона в режиме \"Селфи-фокус\" не оставит тебя незамеченным на фотографии. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>Заряжен на полную</b></h2> <p style=\"text-align: center;\"> Мощный аккумулятор емкостью 4000 мАч (типичное значение)* позволит тебе играть, выходить в прямой эфир и обмениваться файлами на протяжении целого дня. А Быстрая Зарядка 15 Вт поможет не выпасть из динамичного ритма твоей жизни. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/eb5/eb5c97279c7502bd0c33285996d03982.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Больше свободы для игр и развлечений</b></h2> <p style=\"text-align: center;\"> Galaxy A51 оснащен быстрым процессором и вместительным хранилищем. Улучшенный 8-ядерный процессор и оперативная память до 6 ГБ обеспечат плавную и эффективную работу любых приложений. Скачивай больше и удаляй меньше благодаря 64 ГБ и 128 ГБ встроенной памяти. А с помощью microSD карты до 512 ГБ ты сможешь хранить еще больше контента. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f4e/f4e951bbd50455a43e5e98e6bd1f5b4a.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Приложение Game Booster - будь на шаг впереди</b></h2> <p style=\"text-align: center;\"> Максимизируй производительность своего смартфона в играх с помощью приложения Game Booster. Удобный интерфейс программы позволяет легко контролировать весь игровой процесс. Game Booster обеспечивает плавность графики и более естественные движения объектов в играх. А с помощью анализа твоих действий приложение оптимизирует расход аккумулятора и ускоряет загрузку игр, чтобы ты мог дольше наслаждаться игровым процессом. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0e2/0e26bdc11d270f1a5908be3a681d30f9.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bfc/bfcbb97e81eebe4855fb9cb5c0444661.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Надежная система защиты теперь доступна каждому</b></h3> <p style=\"text-align: center;\"> Встроенная в смартфон на аппаратном и программном уровнях платформа Samsung Knox защитит твое устройство с момента его включения. Эта многоуровневая система безопасности обеспечивает защиту от вирусов и вредоносных атак. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3ce/3ce9067e7077ffba4180b8f429af8d3c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Отпечаток пальца - надежная защита твоего смартфона</b></h3> <p style=\"text-align: center;\"> Galaxy A51 оснащен высокотехнологичной биометрической системой идентификации пользователя. Экранный сканер отпечатков распознает твой уникальный отпечаток пальца. Разблокируй смартфон всего одним движением и не переживай за сохранность своей информации. Доступ к контенту получишь только ты. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e61/e6168aa82bb74324c59e87b41e44e919.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сосредоточься на важном</b></h3> <p style=\"text-align: center;\"> Пользовательский интерфейс \"One UI\" поможет тебе сконцентрироваться на том, что действительно важно. Аппаратное и программное обеспечение работают настолько слаженно, что ты получаешь доступ ко всем функциям и контенту быстрее, чем прежде. Используй Ночной режим для более комфортной работы в темное время суток, а интуитивно понятный интерфейс сделает твой смартфон продолжением тебя. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/261/2614109d7140f18c5165fbbc244c3f7b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мы подскажем, как сохранить твое устройство в отличном состоянии</b></h3> <p style=\"text-align: center;\"> Насладись уровнем комфорта после приобретения смартфона Galaxy. Интерактивная диагностика неисправностей и оптимизация работы твоего смартфона с помощью приложения Samsung Members app позволяют поддерживать высокую степень его работоспособности и при необходимости быстро получать сервисную поддержку. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e6d/e6da755bc978891c8bdffaa1bd580934.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/f8e/f8e077b441cbca737e471f623b307ba1.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/fd7/fd7bca568adf5fb674284e4929070bb0.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/008/0086055deb83ec70ab8b422b0b7a8daf.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/962/962ae4758e63d1ef86371dab7d0b382b.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/bfc/bfcbb97e81eebe4855fb9cb5c0444661.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/3ce/3ce9067e7077ffba4180b8f429af8d3c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/e61/e6168aa82bb74324c59e87b41e44e919.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/261/2614109d7140f18c5165fbbc244c3f7b.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      },
+      {
+        "url": "/upload/iblock/0e2/0e26bdc11d270f1a5908be3a681d30f9.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 515 Galaxy A51 128GB FZWWS (white)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-reno-3-pro-starry-blue/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO RENO 3 Pro Starry Blue",
+  "product_code": "260001300",
+  "product_price": {
+    "full": 399990,
+    "discounted": 299990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/15/15f23d7d-a09b-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d7d-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d7e-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d7f-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d80-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d81-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d82-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d83-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d84-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/15/15f23d85-a09b-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 765G",
+      "Процессор, (МГц, количество ядер)": "2400 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "AMOLED/ 20:9/ 90 Гц",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "90"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "12",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 620"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.1",
+      "Wi-Fi": "есть, Wi-Fi IEEE 802.11ac",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+13+8+2",
+      "Режим видеосъемки": "4K 30fps/1080p 60fps/30fps/ 720p 60fps/30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.4 / портретный режим/ ночные селфи ",
+      "Особенности тыловой камеры": "Оптический зум/Телеобъектив/Макро/Ночной режим"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4025",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, два стереодинамика/ Dolby Atmos"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,9х7,2х0,77",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,171"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>OPPO RENO 3 Pro</b></h2> <h2 style=\"text-align: center;\"><b>Вызывает иZOOMление</b></h2> <h2></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/8b6/8b6e4d80c09117d93f6c80bc2d2f913f.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/971/971826cb96cb47454bacdd7cf75993aa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> Снимай с любых ракурсов камерой с четырьмя объективами и пятикратным гибридным зумом </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ec9/ec924378cfb0ffcf9b9c4cac783fcd21.jpg')\"></div> <div class=\"aa_markvtwo_text\"> Алгоритм Reno3 Pro с искусственным интеллектом улучшает съемку в ночное время суток. Где бы вы ни делали снимки — на улице, залитой светом неоновых огней, или в природном ландшафте — вы получите четкие фотографии с яркими цветами и многослойными текстурами. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/59a/59a20a837bb1d93508c81507a33cfd26.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим Ultra Steady Video 2.0</b></h3> <b><span style=\"color: #262626;\">Ultra Steady Video</span></b><br/> С Reno3 Pro вы получите качественные снимки благодаря технологии гибридной стабилизации изображения.<br/> <span style=\"color: #262626;\"><b><span style=\"color: #262626;\">Ultra Steady Video Pro</span></b></span><br/> OPPO Reno3 задает новые стандарты стабилизации видео. Благодаря двойной коррекции с использованием сверхширокоугольного объектива вы сможете снимать первоклассные ролики как в повседневных, так и в экстремальных условиях. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/794/794ea2197b8531ad1dce4ba4b8344478.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Больше, чем просто видеозапись</b></h3> <b><span style=\"color: #262626;\">Видео с эффектом боке</span></b><br/> Без труда выделяйте объект в кадре, как в кино.<br/> <b><span style=\"color: #262626;\">Видео на основе ИИ</span></b><br/> Теперь эффекты профессионального уровня доступны прямо в смартфоне. Мы добились этого благодаря алгоритмам обработки видео с искусственным интеллектом.<br/> <b><span style=\"color: #262626;\">Изменение фокусного расстояния в видео</span></b><br/> Снимайте невероятные виды крупным планом. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0c7/0c742c9aca6b58d6f9119cdd577ccd4f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Мощная конфигурация</b></h3> Reno3 Pro работает на базе Qualcomm Snapdragon ™ 765G.<br/> Интегрированный дизайн Reno3 Pro обеспечивает более надежную схему и снижение энергопотребления.<br/> Восьмиядерный процессор, выполненный по 7 нм техпроцессу, имеет тактовую частоту до 2.4 ГГц.<br/> Производительность графического процессора и вычислительные возможности искусственного интеллекта были значительно модернизированы, что позволило обеспечить более высокую частоту кадров и производительность в графических приложениях.<br/> <br/> <b><span style=\"color: #262626;\">Память</span></b><br/> Эффективность обработки фрагментарных данных значительно повысилась. Reno3 Pro остается надежным помощником с первого дня использования.<br/> Скорость установки приложения повысилась в 1,5 раза. Скорость работы с файлами улучшилась в 6 раз.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cfe/cfe83f125f434635f3e1fdd8b6506cf0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Система жидкостного охлаждения</b></h3> Мощная система охлаждения Reno3 Pro позволяет равномерно распределять тепло от процессора и экрана. Играете ли вы в захватывающую игру или смотрите видео высокой четкости, Reno3 Pro обеспечивает высокую производительность без перегрева.<br/> <br/> <b><span style=\"color: #262626;\">Быстрая зарядка VOOC 4.0</span></b><br/> Скорость зарядки увеличилась. Reno3 Pro имеет меньшее время зарядки, благодаря мощности зарядного устройства в 30 Вт, батарее 4025 мАч и уникальной системе защиты от перегрева. Зарядка от 3% до 50% всего за 20 минут.<br/> <br/> <b><span style=\"color: #262626;\">Экранный сканер отпечатков пальцев</span></b><br/> Новая технология экранного сканера отпечатков пальцев позволила уменьшить площадь сенсора на 91% и увеличивает площадь разблокировки на 10%. Разблокировка и оплата в одно касание.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0ce/0ce5985c39ab4cabdc18a95b3c510fd2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> Экран был разработан для комфортного использования в течение всего дня. Высокая частота кадров и низкое излучение синего света эффективно защищают глаза и снижают усталость. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/703/703c7ee3bb2e58e23305faf51441fb22.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Двойные стереодинамики</b></h3> Reno3 Pro оснащен двумя стереодинамиками, которые улучшают качество звука и увеличивают громкость. Благодаря Dolby Atmos вы погружаетесь в мир музыки за пределами воображения. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/971/971826cb96cb47454bacdd7cf75993aa.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/ec9/ec924378cfb0ffcf9b9c4cac783fcd21.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/59a/59a20a837bb1d93508c81507a33cfd26.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/794/794ea2197b8531ad1dce4ba4b8344478.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/0c7/0c742c9aca6b58d6f9119cdd577ccd4f.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/cfe/cfe83f125f434635f3e1fdd8b6506cf0.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/0ce/0ce5985c39ab4cabdc18a95b3c510fd2.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/703/703c7ee3bb2e58e23305faf51441fb22.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      },
+      {
+        "url": "/upload/iblock/8b6/8b6e4d80c09117d93f6c80bc2d2f913f.jpg",
+        "alt": "Телефон сотовый OPPO RENO 3 Pro Starry Blue"
+      }
+    ]
+  }
+}

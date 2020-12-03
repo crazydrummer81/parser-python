@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-zx-310-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "SONY"
+  ],
+  "product_name": "Наушники SONY MDR ZX 310 (White)",
+  "product_code": "32096",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/88/88b3e6c2-59dc-11e4-a1e8-14dae972ca6d.jpeg",
+    "alt": "Наушники SONY MDR ZX 310 (White)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/88/88b3e6c2-59dc-11e4-a1e8-14dae972ca6d.jpeg",
+      "alt": "Наушники SONY MDR ZX 310 (White)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.23",
+      "Габариты в упаковке (ВхШхГ), см": "20х15х5"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "2 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

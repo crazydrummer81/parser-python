@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-micro-usb-cne-usbm1b-black/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона CANYON Micro USB CNE-USBM1B Black",
+  "product_code": "78534",
+  "product_price": {
+    "full": 990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d2/d29de1de-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON Micro USB CNE-USBM1B Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d2/d29de1de-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON Micro USB CNE-USBM1B Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d2/d29de1df-f3ab-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON Micro USB CNE-USBM1B Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "MicroUSB/USB",
+      "Тип кабеля (шнура)": "телефонный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

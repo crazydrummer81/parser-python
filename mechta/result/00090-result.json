@@ -1,0 +1,171 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y6p-midnight-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI Y6p (midnight black)",
+  "product_code": "260001607",
+  "product_price": {
+    "full": 69890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c6/c6b2c7c9-aeee-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7c9-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7ca-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7cb-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7cc-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7cd-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7ce-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7cf-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7d0-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7d1-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7d2-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6762R",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,3 (16 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS LCD",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+5+2",
+      "Режим видеосъемки": "1920 x 1080 30 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": "Широкоугольная /портретный объектив/автофокус"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,9х7,4х0,9",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,185"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>HUAWEI Y6p</b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e7a/e7adde980a5d66ac0e43ecfa8acb8197.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/123/12332f41bd236b69654a43c722f3dc31.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Экран 6.3 дюйма с каплевидной темной областью</b></h3> Экран 6.3 дюйма с каплевидной темной областью имеет полезную площадь 88.4%, благодаря чему обеспечивает незабываемый визуальный опыт с эффектом погружения. Фронтальная камера размещена в отверстии диаметром 2.65 мм с тонкими рамками, оставляя еще больше пространства для увлекательных игр и качественных изображений.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e07/e0741d13d9d4227eff563b947ae7d96d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Игра света</b></h3> Гармоничное сочетание текстуры и дизайна задней панели создает эффектные сияющие переливы. Под каждым углом раскрывается неповторимая игра света и тени.<br/> </div> </div> <div class=\"aa_markfull_text\"><h3><b>Тройная основная камера</b></h3> Смартфон HUAWEI Y6p оснащен основной камерой, которая состоит из трех объективов: основного объектива 13 МП, широкоугольного объектива 5 МП и датчика измерения глубины резкости 2 МП. Возможности камеры позволяют создавать качественные детализированные снимки высокой четкости.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e56/e5600b61ce84962e4927a173a6077b85.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3d3/3d38371ca7c3ad683a61ab057f5b2820.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Селфи-камера 8 МП с эффектами украшения</b></h3> С помощью HUAWEI Y6p вы сможете запечатлеть самые яркие и важные моменты. Фронтальная камера 8 МП с эффектами украшения подстраивается под условия съемки, чтобы подчеркнуть вашу естественную красоту и создать профессиональный портрет.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bcc/bccb6601f3d15f6f1153b18870a5c449.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Высокоемкая батарея 5000 мА*ч</b></h3> Благодаря батарее 5000 мА*ч вы сможете в течение нескольких дней выполнять повседневные задачи без необходимости часто заряжать смартфон. HUAWEI Y6p также оснащен функцией обратной зарядки, что позволяет ему легко и быстро восполнить запас энергии других смартфнов. Кроме того, HUAWEI Y6p поддерживает режим резервного копирования с функцией двустороннего резервного копирования данных и изображений на смартфонах с ОС Android. <h6>*Фактическое время работы батареи зависит от особенностей использования устройства.</h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3af/3aff1fe5b7126762b005e3991c0ba684.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Большой объем памяти</b></h3> Все ваши фото, видео и сообщения будут всегда под рукой, ведь смартфон HUAWEI Y6p оснащен внутренней памятью 64 ГБ и поддерживает установку карты памяти до 512 ГБ. Кроме того, файловая система HUAWEI EROFS оптимизирует использование памяти, чтобы вы могли хранить на устройстве еще больше данных.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/2b2/2b29ea9953c45b83fbb5c20efd2234f4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фирменный магазин приложений</b></h3> Магазин приложений HUAWEI AppGallery — это официальная платформа HUAWEI, которая позволяет искать и загружать приложения, а также управлять и делиться ими. HUAWEI AppGallery продолжает развивать глобальную экосистему приложений, которая дарит вам доступ к широкому набору безопасных и эффективных мобильных сервисов. Пользуйтесь эксклюзивным контентом магазина, получайте специальные предложения и участвуйте в акциях.<br/> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/123/12332f41bd236b69654a43c722f3dc31.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/e07/e0741d13d9d4227eff563b947ae7d96d.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/3d3/3d38371ca7c3ad683a61ab057f5b2820.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/bcc/bccb6601f3d15f6f1153b18870a5c449.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/3af/3aff1fe5b7126762b005e3991c0ba684.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/2b2/2b29ea9953c45b83fbb5c20efd2234f4.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6p (midnight black)"
+      }
+    ]
+  }
+}

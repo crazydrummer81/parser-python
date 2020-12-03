@@ -1,0 +1,175 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-p40-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI P40 Black",
+  "product_code": "260000937",
+  "product_price": {
+    "full": 349890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8b/8b96d0b3-8d25-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI P40 Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b3-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b4-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b5-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b6-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b7-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b8-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0b9-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0ba-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0bb-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP53"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 990 5G",
+      "Процессор, (МГц, количество ядер)": "2860 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.5:9",
+      "Диагональ экрана, дюйм": "6,1 (15,5 см)",
+      "Разрешение дисплея, пикс": "2340х1080 FHD+",
+      "Технология изготовления дисплея": "OLED",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "Nano Memory Card",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G76 MC16"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.1,BLE",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac/ax 2.4G, HE160, MIMO 2x2 ",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "50+16+8",
+      "Режим видеосъемки": "4K 60fps/1080p 60fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.0 / Искусственный интелект/ портретный режим ",
+      "Особенности тыловой камеры": "Широкоугольная/Телефотообъектив/Автофокус"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3800",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,9х7,1х0,85",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,175"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "P40",
+      "Поддержка казахского языка": "есть",
+      "Поддержка 5G": "есть",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><!--noindex--><a href=\"https://consumer.huawei.com/ru/community/details/topicId_3315/\" rel=\"nofollow\" title=\"Руководство по установке приложений\"> </a><!--/noindex--><h2><span style=\"color: #0072bc;\"> <!--noindex--><a href=\"https://consumer.huawei.com/ru/community/details/topicId_3315/\" rel=\"nofollow\" title=\"Руководство по установке приложений\">Установка приложений</a><!--/noindex--></span></h2> <!--noindex--><a href=\"https://consumer.huawei.com/ru/community/details/topicId_3315/\" rel=\"nofollow\" title=\"Руководство по установке приложений\"> </a><!--/noindex--></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0f7/0f73fd0928484e379b9f32b1b00dc92e.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\">Ультрасовременный процессор <b>Kirin 990 5G</b> изменит ваше восприятие скорости. Тройная камера <b>Leica Ultra Vision</b> с улучшенными возможностями искусственного интеллекта выводит на новый уровень способы фото-и видеосъемки. Почувствуйте силу изображений и видео, и пусть они говорят за вас.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/97d/97d6109daa6cfbcd95859beb78d7e33f.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Овладейте элегантностью</b><br/> Цвета HUAWEI P40 отражают всю чистоту природы: синее море, белоснежный лед, глубокий черный, пшеничный золотой и мерцающий серебристый. Преломляющая матовая отделка раскрывает неземное чувство глубины, которое подчеркнет вашу элегантность и внутренний мир в каждом оттенке.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/03a/03ad8c0d30ade421bf8013745a7e21f6.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/fe0/fe0dd732b2f34dc959c9d843a870a790.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Каждая деталь скрывает за собой историю</b></h3> <h3 style=\"text-align: center;\"> Благодаря 50-мегапиксельному основному объективу, каждая деталь снимка выглядит, как в жизни! Только теперь вы можете увеличить любую часть кадра и получить совершенно новую фотографию. </h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6f2/6f28db9aba3a5d7e78c7abae88562cb2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Добавьте немного света и получите желаемую яркость!</b></h3> <h3 style=\"text-align: center;\"> Благодаря сенсору HUAWEI Ultra Vision Sensor, камера сможет запечатлеть вашу улыбку, восхитительный наряд и ночной горизонт с невероятной яркостью и четкостью без дополнительного освещения, даже в полной темноте. Открывайте истории внутри историй. </h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/51c/51c5014ffa91a98bb7608b82fffb0951.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Разное фокусное расстояния для создания разных историй</b></h3> <h3 style=\"text-align: center;\"> Благодаря 3-кратному оптическому и 30-кратному максимальному зуму, HUAWEI P40 позволяет запечатлеть сцену с одной точки, но с разным расстоянием. Взгляните на картину под широким углом, затем изучите детали и откройте то, чего даже не замечали. Одна позиция - разные истории. </h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bcb/bcbdc8cb94798889046972f7008bab3a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Присмотритесь к деталям.</b></h3> <h3 style=\"text-align: center;\"> Поразитесь, открывая для себя новые детали с расстояния в 2.5 сантиметра. С помощью макрообъектива вы можете разглядеть сложные механизмы часов, тонкие крылья насекомых или невероятные узоры картин. </h3> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Портретная съемка на базе искусственного интеллекта AI Portrait Studio</b></h3> <h3 style=\"text-align: center;\">Благодаря основной камере Ultra Vision и многоспектральному сенсору цветовой температуры с алгоритмом AI AWB, HUAWEI P40 обеспечивает на 45% лучшую точность цветопередачи и способен к точному анализу и сегментации окружающей среды и людей. С повышением качества пикселей он восстанавливает первоначальный вид фотографии с отличным освещением, естественными цветами и четкими деталями. Будьте всегда готовы сделать качественные портретные снимки любой модели, в любое время, в любых условиях.</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/958/958a1088cc1261382c25441f2b209ad6.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Расслабьтесь, вы всегда выглядите великолепно! </b></h3> <h3 style=\"text-align: center;\">Не бойтесь быть настоящим! 32-мегапиксельная фронтальная камера тщательно сохраняет ваши черты лица, регулирует освещение и подстраивается под тон кожи, чтобы каждое селфи выглядело максимально естественно.</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6f6/6f6a315255f34019244199e18b563042.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f47/f4799cc56506c78b8a380cc508350814.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ваше лицо - самый надежный пароль. </b><br/> </h3> <h3 style=\"text-align: center;\">Функция разблокировки по лицу точно определяет черты вашего лица, чтобы разблокировать экран или предоставить доступ к частному приложению. При свете или в темноте, проверка выполняется быстро и надежно.</h3> <h3></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b34/b341c0d5a6999f3e374deeafd80acd72.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Идентификация в одно касание</b></h3> <h3 style=\"text-align: center;\"> Возьмите смартфон в руку и в то же мгновение разблокируйте его своим отпечатком пальца, благодаря увеличенной области сканера. Быстрый, точный и комфортный способ распознавания. </h3> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/fe0/fe0dd732b2f34dc959c9d843a870a790.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/6f2/6f28db9aba3a5d7e78c7abae88562cb2.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/51c/51c5014ffa91a98bb7608b82fffb0951.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/bcb/bcbdc8cb94798889046972f7008bab3a.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/f47/f4799cc56506c78b8a380cc508350814.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/b34/b341c0d5a6999f3e374deeafd80acd72.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Black"
+      }
+    ]
+  }
+}

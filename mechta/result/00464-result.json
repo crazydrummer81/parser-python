@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-canyon-cns-sbths1bl-blue/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tn4/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники CANYON CNS-SBTHS1BL (blue)",
+  "product_code": "77766",
+  "product_price": {
+    "full": 7990,
+    "discounted": 4990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b1/b1e2f1e7-d806-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Наушники CANYON CNS-SBTHS1BL (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1e2f1e7-d806-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники CANYON CNS-SBTHS1BL (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1e2f1e8-d806-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники CANYON CNS-SBTHS1BL (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1e2f1e9-d806-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники CANYON CNS-SBTHS1BL (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b1/b1e2f1ea-d806-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники CANYON CNS-SBTHS1BL (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "95"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.05",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

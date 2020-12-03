@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-canyon-power-bank-13000mah-white-cne-cpbf130w/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-89l/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Портативные Power Bank",
+    "CANYON"
+  ],
+  "product_name": "Портативное зарядное устройство CANYON Power bank 13000mAh White (CNE-CPBF130W)",
+  "product_code": "82686",
+  "product_price": {
+    "full": 10990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3d/3dee2eca-af5b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство CANYON Power bank 13000mAh White (CNE-CPBF130W)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2eca-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank 13000mAh White (CNE-CPBF130W)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ecb-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank 13000mAh White (CNE-CPBF130W)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ecc-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank 13000mAh White (CNE-CPBF130W)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "13000",
+      "Число USB портов": "2",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "2,6х7,9х18",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.36"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Макс. выходное напряжение": "5В"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

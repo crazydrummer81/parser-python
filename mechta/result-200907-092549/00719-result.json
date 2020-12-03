@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-vsp-usb-21a--data-kabel-type-c-1m-chernyy-20652/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp-2xk/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "VSP"
+  ],
+  "product_name": "Зарядное устройство для телефонов VSP USB, 2,1A + Дата-кабель Type-C, 1м черный (20652)",
+  "product_code": "72367",
+  "product_price": {
+    "full": 3790,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8c/8cb068f1-fcf1-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Зарядное устройство для телефонов VSP USB, 2,1A + Дата-кабель Type-C, 1м черный (20652)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8c/8cb068f1-fcf1-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Зарядное устройство для телефонов VSP USB, 2,1A + Дата-кабель Type-C, 1м черный (20652)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "110-240 В",
+      "я удален": "5В/ 2.1А "
+    },
+    "Типы передачи данных": {
+      "USB": "Type-C"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

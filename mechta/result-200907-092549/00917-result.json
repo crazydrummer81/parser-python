@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-knijka-huawei-p30-lite-blue-38819/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Книжка Huawei P30 Lite  Blue (38819)",
+  "product_code": "260001436",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/52/522582b8-b75e-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Книжка Huawei P30 Lite  Blue (38819)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/52/522582b8-b75e-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Книжка Huawei P30 Lite  Blue (38819)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "P30 Lite"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

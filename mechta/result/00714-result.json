@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wi-sp-500-bt-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WI SP 500 BT (white)",
+  "product_code": "75011",
+  "product_price": {
+    "full": 19990,
+    "discounted": 16990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b6/b6828b83-6229-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WI SP 500 BT (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6828b83-6229-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WI SP 500 BT (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "SONY"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-denn-dhb028/",
+  "product_category": {
+    "name": "DENN",
+    "url": "/section/denn-9vk/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники DENN DHB028",
+  "product_code": "260000376",
+  "product_price": {
+    "full": 5390,
+    "discounted": 4590
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/82/82106562-67fe-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники DENN DHB028"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/82/82106562-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB028"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82106563-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB028"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82106564-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB028"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "10",
+      "Чувствительность, дБ": "110"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "80",
+      "Время работы от аккумулятора, ч": "до 3 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "DENN",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

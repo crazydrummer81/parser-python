@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha043ws-lighning/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA043WS Lighning ",
+  "product_code": "80097",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/658fe180-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA043WS Lighning "
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe180-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA043WS Lighning "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe181-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA043WS Lighning "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658fe182-3fc2-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA043WS Lighning "
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 2.1А "
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "4х18х11,5",
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

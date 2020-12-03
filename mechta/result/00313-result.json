@@ -1,0 +1,187 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-realme-x3-8128gb-white/",
+  "product_category": {
+    "name": "Realme",
+    "url": "/section/realme/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый REALME X3 (8/128GB) White",
+  "product_code": "260002377",
+  "product_price": {
+    "full": 248890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/68/685c61e3-e049-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61e3-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61e9-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61ea-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61eb-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61ec-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/685c61ed-e049-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9ba84-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9ba85-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 855 Plus",
+      "Процессор, (МГц, количество ядер)": "2960 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,6 (16,8 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "120"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+8+8+2",
+      "Режим видеосъемки": "4K 60fps/1080p 60fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32+8",
+      "Особенности фронтальной камеры": "Двойная камера/ f/2.5/  f/2.2/ Широкоугольный",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Телеобъектив/60X Super Zoom "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4200",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и стекло Corning Gorilla Glass 5"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Сканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,5х0,9",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,202"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/59f/59ff1dae3085967995b0a274556d0da0.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Новый мир 60-кратного зума.</b></h3> <p style=\"text-align: center;\"> Камера realme <b><span style=\"color: #363636;\">X3 SuperZoom</span></b> оснащена передовым перископическим модулем, который способен делать снимки с 60-кратным увеличением. В сочетании с другими возможностями камеры это позволяет фотографировать практически на любом расстоянии от объекта: как вблизи, так и при сильном удалении.<br/> <br/> За производительность realme X3 SuperZoom отвечает <b><span style=\"color: #363636;\">Snapdragon 855 Plus</span></b>, который легко справляется с многозадачностью и позволяет запускать требовательные игры и смотреть видео в высоком разрешении. </p></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Новый уровень </b></h3> <p style=\"text-align: center;\"> <b> </b> </p> <h3 style=\"text-align: center;\"><b>Мобильной фотографии</b></h3> <p style=\"text-align: center;\"> Возможности перископического модуля возрастают при работе с основным модулем на 64 Мп и сверхширокоугольным модулем. Фокусное расстояние камеры realme X3 варьируется от 16 до 124 мм, а плавное приближение во время съемки — от 0,5 до 60 раз. Оптическая стабилизация (OIS) предотвращает смазывания фотографии, делает изображение четким и детализированным даже на расстоянии 100 метров. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d37/d378bc2240cbd148152ab8f1d614b934.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8a3/8a3a9cb3e19563a9d2db707a043c9b0e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сверхвысокое разрешение с основным модулем на 64 Мп</b></h3> <p style=\"text-align: center;\"> Флагманский модуль основной камеры realme X3 SuperZoom на 64 Мп позволяет делать снимки с разрешение 9280х6944, что в четыре раза больше, чем разрешение 4К. Даже после приближения фотографии выглядят четкими и детализированными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/106/1061791a462fe00ec1bdf3cfee143ae2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сверхширокий угол 115° </b></h3> <b> </b> <p style=\"text-align: center;\"> <b> </b> </p> <b> </b> <h3 style=\"text-align: center;\"><b>Широкий взгляд</b></h3> <p style=\"text-align: center;\"> Сверхширокоугольный модуль значительно увеличивает угол обзора и дает возможность снимать панорамы на природе и в условиях города. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a8d/a8d12f11489bc4b6fbde17802f96924d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Модуль для макросъемки </b></h3> <b> </b> <p style=\"text-align: center;\"> <b> </b> </p> <b> </b> <h3 style=\"text-align: center;\"><b>Чудеса макромира</b></h3> <p style=\"text-align: center;\"> Модуль для макросъемки может делать фото на расстоянии 4 см до объекта. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bc8/bc84c4b360349897666e01072187ffdf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ближе к звездам</b></h3> <p style=\"text-align: center;\"> Разработчики realme создали режим «Звездное небо» специально, чтобы запечатлеть всю красоту мерцающих небесных тел. Режим «Звездное небо» основан на алгоритмах искусственного интеллекта, которые сопоставляют несколько идентичных кадров, снятых одновременно, и превращают их в один насыщенный и выразительный снимок. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f3e/f3e034b70768840499afee469322ecfa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Съемка в движении</b></h3> <p style=\"text-align: center;\"> Технология стабилизации изображения UIS Max Ultra одновременно задействует датчик движения и алгоритмы искусственного интеллекта, что предотвращает смазывание изображения. Благодаря такому подходу realme X3 открывает доступ к возможностям экшн-камеры. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/041/0410e3a6d8bda92a066dcc4a2e2701ea.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>32 Мп</b></h3> <p style=\"text-align: center;\"> Двойная камера в экране<br/> Новые селфи-возможности </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/90b/90b578754de231be45697073ef07a5a2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Snapdragon 855 Plus </b></h3> <b> </b> <h3 style=\"text-align: center;\"><b>Флагманский процессор</b></h3> <p style=\"text-align: center;\"> realme X3 SuperZoom оснащен флагманским процессором Snapdragon 855 Plus, выполненным по технологическому процессу 7 нм. Максимальная тактовая частота доходит до 2,96 ГГц, что обеспечивает беспрецедентно высокую производительность и позволяет с легкостью запускать требовательные к «железу» игры и приложения. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/29f/29f0e971953dafa593865b1e402b8430.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Жидкостное охлаждение </b></h3> <b> </b> <h3 style=\"text-align: center;\"><b>Нагревание меньше на 12,5%</b></h3> <p style=\"text-align: center;\"> Обновленная технология жидкостного охлаждения полностью покрывает основные источники нагревания системы смартфона, поддерживая его скорость и производительность на высоком уровне. В ее основе лежит трубка для жидкостного охлаждения, которая состоит из медного элемента диаметром 8 мм, сокращающего область распространения тепла на 176,9%. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6d5/6d5b39dcf29b674c46cb16332fb07cdf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ультраплавный экран</b><b> </b></h3> <h3 style=\"text-align: center;\"><b>120 кадров в секунду</b></h3> <p style=\"text-align: center;\"> Частота обновления 120 кадров в секунду делает любое изображение на экране realme X3 SuperZoom плавным и четким. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5d6/5d6c6384570b2abae3e4f387991a4010.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Dart Charge 30 Вт</b></h3> <b> </b> <h3 style=\"text-align: center;\"><b> 100% за 55 минут</b></h3> <p style=\"text-align: center;\"> Быстрая зарядка 30 Вт позволяет зарядить realme X3 SuperZoom до 100% всего за 55 минут. В отличие от аналогов, быстрая зарядка Dart Charge вырабатывает высокий уровень тока при низком напряжении, за счет чего адаптер и смартфон не нагреваются. Dart Charge - быстрая и безопасная. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/944/9441ec6d5c1d05f43b68d33f94608b30.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Арктический белый</b></h3> <p style=\"text-align: center;\"> Дизайн realme X3 SuperZoom в цвете «арктический белый» создает эффект сияния снежных покровов под солнечными лучами и передает тонкую игру различных оттенков света.<br/> </p> <h3 style=\"text-align: center;\"><b>Ледниковый синий</b></h3> <p style=\"text-align: center;\"> Цвет корпуса «Ледниковый синий» вдохновлен айсбергом, дрейфующим на поверхности океана. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/321/321ba0468f4a37603dd8305466d3e670.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Эффект 3D-сияния</b><b> </b></h3> <h3 style=\"text-align: center;\"><b>Олеофобные свойства</b></h3> <p style=\"text-align: center;\"> Корпус realme X3 SuperZoom создан из стекла с использованием высокоточной технологии абразивной шлифовки с применением специального покрытия, которое обеспечивает устройству отличные олеофобные свойства. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/8a3/8a3a9cb3e19563a9d2db707a043c9b0e.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/106/1061791a462fe00ec1bdf3cfee143ae2.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/a8d/a8d12f11489bc4b6fbde17802f96924d.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/bc8/bc84c4b360349897666e01072187ffdf.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/f3e/f3e034b70768840499afee469322ecfa.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/041/0410e3a6d8bda92a066dcc4a2e2701ea.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/90b/90b578754de231be45697073ef07a5a2.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/29f/29f0e971953dafa593865b1e402b8430.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/6d5/6d5b39dcf29b674c46cb16332fb07cdf.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/5d6/5d6c6384570b2abae3e4f387991a4010.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/944/9441ec6d5c1d05f43b68d33f94608b30.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/321/321ba0468f4a37603dd8305466d3e670.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      },
+      {
+        "url": "/upload/iblock/d37/d378bc2240cbd148152ab8f1d614b934.jpg",
+        "alt": "Телефон сотовый REALME X3 (8/128GB) White"
+      }
+    ]
+  }
+}

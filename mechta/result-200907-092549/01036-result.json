@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-vipe-iphone-7-woozy-black/",
+  "product_category": {
+    "name": "VIPE",
+    "url": "/section/vipe/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "VIPE"
+  ],
+  "product_name": "Чехол для телефона VIPE iPhone 7 Woozy (black)",
+  "product_code": "81129",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c0/c0a79a81-6331-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона VIPE iPhone 7 Woozy (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c0/c0a79a81-6331-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона VIPE iPhone 7 Woozy (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone 7"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,025"
+    },
+    "Разное": {
+      "Бренд": "VIPE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

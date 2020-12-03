@@ -1,0 +1,67 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-mechta-10-000-mah-leather-texture-navy-blue-enyz03/",
+  "product_category": {
+    "name": "MECHTA",
+    "url": "/section/mechta-b3m/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_name": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03",
+  "product_code": "83805",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/72/72752857-e019-11e9-a227-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/72/72752857-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/72/72752858-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/72/72752859-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/72/7275285a-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/72/7275285b-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/72/7275285c-e019-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство MECHTA 10 000 mAh leather texture (navy blue) ENYZ03"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000",
+      "Индикатор уровня зарядки": "есть, LCD дисплей"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время зарядки ": "4 - 5 часов"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "MECHTA",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

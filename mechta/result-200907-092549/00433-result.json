@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-apple-earpods-with-lightning-connector-model-a1748-zkmmtn2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-x6p/",
+    "parent_name": "Проводные гарнитуры",
+    "parent_url": "/section/provodnye-garnitury/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Проводные гарнитуры",
+    "APPLE"
+  ],
+  "product_name": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)",
+  "product_code": "46909",
+  "product_price": {
+    "full": 15890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fd/fd19635d-dc65-11e6-9413-2c768a5d3551.jpeg",
+    "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd19635d-dc65-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd19635e-dc65-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd19635f-dc65-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd196360-dc65-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd196361-dc65-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники для телефона APPLE EarPods with Lightning Connector Model A1748  (ZKMMTN2ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "Lightning"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.12",
+      "Габариты в упаковке (ВхШхГ), см": "11,5х8,5х2,7"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-a-case-galaxy-a01-2020-black-3d-steklo/",
+  "product_category": {
+    "name": "A CASE",
+    "url": "/section/a-case/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "A CASE"
+  ],
+  "product_name": "Защитная пленка для дисплея A CASE Galaxy A01 (2020) black 3D стекло",
+  "product_code": "260000994",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4f/4fa40d04-94ec-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея A CASE Galaxy A01 (2020) black 3D стекло"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4f/4fa40d04-94ec-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея A CASE Galaxy A01 (2020) black 3D стекло"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A01"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х0.3"
+    },
+    "Разное": {
+      "Бренд": "A CASE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

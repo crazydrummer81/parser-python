@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t600-bt-nc-white/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL T600 BT NC (white)",
+  "product_code": "76111",
+  "product_price": {
+    "full": 39990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/9f/9fb0c933-96d2-11e8-a217-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T600 BT NC (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/9f/9fb0c933-96d2-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T600 BT NC (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "100"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

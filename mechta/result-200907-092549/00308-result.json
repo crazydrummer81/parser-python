@@ -1,0 +1,164 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-pocophone-f2-pro-256gb-electric-purple/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-mik/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "XIAOMI"
+  ],
+  "product_name": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple",
+  "product_code": "260001761",
+  "product_price": {
+    "full": 299990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/96/96b36351-b57a-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/96/96b36351-b57a-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/96/96b3635a-b57a-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/96/96b3635b-b57a-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/96/96b3635c-b57a-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP53"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 865",
+      "Процессор, (МГц, количество ядер)": "2840 ГГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,67 (16,9 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 650"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.1",
+      "Wi-Fi": "есть, Wi-Fi 802ax (Wi‑Fi 6) с технологией MIMO 2×2",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+13+5+2",
+      "Режим видеосъемки": "8K 30fps/4K 30, 60fps/1080p 30, 60fps/1080p 960fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "20",
+      "Особенности фронтальной камеры": "Выдвижная камера/ f/2.0/ Портретный реж/ HDR",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4700",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и стекло Corning Gorilla Glass 5"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/барометр/датчик освещ",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,5х0,9",
+      "Цвет": "фиолетовый",
+      "Вес без упаковки (нетто), кг": "0,218"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Поддержка 5G": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b><span style=\"color: #111111; background-color: #ffffff;\">Xiaomi POCO F2 Pro</span></b></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Мощь и красота</b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/434/434aabaedef1879364c8154c7f8722ff.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6ce/6ce3c7754558e0ee74c2135eb1af123b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Новая эра беспроводной связи.</b></h3> <p style=\"text-align: center;\"> Быстрое и стабильное соединение везде.* Вы едва сможете заметить разницу между просмотром видео онлайн и просмотром уже загруженных файлов. Наслаждайтесь играми без задержек и полностью погрузитесь в игровой процесс. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/66b/66b3d5dfbd097b388ac212a81236f32b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Большой аккумулятор.</b><b> Целый день работы? Легко.</b></h3> <p style=\"text-align: center;\"> Благодаря аккумулятору ёмкостью 4700 мА·ч вы с лёгкостью можете забыть о подзарядке в течение дня.* До 17 дней в режиме ожидания, 13 часов в играх и 6 часов записи видео с разрешением 1080p. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/75d/75db1ceb7bc0de161eaa20ba44149dd9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Замедленное видео с</b><b> частотой 120 кадров/с</b><b> на фронтальную камеру.</b></h3> <p style=\"text-align: center;\"> Записывайте замедленное видео на фронтальную камеру с частотой 120 кадров/с и смакуйте каждый кадр. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cb0/cb0ccb74acaeb835ea3b0aff3dfbf95c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>20 Мп выдвижная фронтальная камера</b></h3> <p style=\"text-align: center;\"> Мгновенные селфи. </p> </div> </div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: left;\"><b>Воспользуйтесь сверхширокоугольной камерой, чтобы расширить границы и превратить любой пейзаж в произведение искусства.</b></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2a7/2a7a58d67f560126da80ad18231862ba.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a41/a41820efdc41fb0d891370fdf0ca9554.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\"><b>Двукратное увеличение без потери качества.</b><b> Ищите искусство в обыденности.</b></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d61/d610ebc53ffc57a268d0d908f8240f41.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\"><b>Ночной режим 2.0 — фотографируйте то, что другие не могут.</b></h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5ec/5ec1041d88be328890422cbb37928d48.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>MIUI для POCO</b></h3> <p style=\"text-align: center;\"> Оболочка MIUI для POCO осталась неизменна — лёгкость, скорость и плавность. Персонализированное меню приложений облегчает поиск и группировку приложений, а тёмная тема поможет снизить энергопотребление и нагрузку на ваши глаза. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d01/d015c4957daee5805e8c6d4aaff2203d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Разносторонний дизайн.</b></h3> <p style=\"text-align: center;\"> Изящные плавные линии и скруглённые грани. Выбирайте между таинственным матовым или ослепительным глянцевым. </p> </div> </div> <div class=\"aa_markfull_text\"><h6>*Версия смартфона на 8 ГБ + 256 ГБ оснащена памятью стандарта LPDDR5 и UFS 3.1. Версия на 6 ГБ + 128 ГБ оснащена памятью стандарта LPDDR4X и UFS 3.1. *Все данные, касающиеся системы охлаждения LiquidCool, предоставлены внутренними лабораториями. Фактические данные могут отличаться в зависимости от версии установленного ПО, среды эксплуатации и конфигурации устройства. *Поддержка сетей 5G зависит от возможностей местных операторов связи. Улучшение связи возможно только в сочетании с возможностями местного оператора связи. *Все данные, касающиеся ёмкости аккумулятора и зарядки, предоставлены внутренними лабораториями. Фактические данные могут отличаться в зависимости от версии установленного ПО, среды эксплуатации и конфигурации устройства.</h6></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/6ce/6ce3c7754558e0ee74c2135eb1af123b.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/66b/66b3d5dfbd097b388ac212a81236f32b.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/75d/75db1ceb7bc0de161eaa20ba44149dd9.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/cb0/cb0ccb74acaeb835ea3b0aff3dfbf95c.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/a41/a41820efdc41fb0d891370fdf0ca9554.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/d61/d610ebc53ffc57a268d0d908f8240f41.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/5ec/5ec1041d88be328890422cbb37928d48.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/d01/d015c4957daee5805e8c6d4aaff2203d.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      },
+      {
+        "url": "/upload/iblock/2a7/2a7a58d67f560126da80ad18231862ba.jpg",
+        "alt": "Телефон сотовый XIAOMI Pocophone F2 Pro 256GB Electric Purple"
+      }
+    ]
+  }
+}

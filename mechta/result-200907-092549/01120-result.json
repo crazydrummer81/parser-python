@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-8pin-cne-cfi3dg-gray/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "CANYON"
+  ],
+  "product_name": "Кабель для телефона CANYON 8pin CNE-CFI3DG Gray",
+  "product_code": "75810",
+  "product_price": {
+    "full": 1590,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/99/99d484cc-a5bc-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON 8pin CNE-CFI3DG Gray"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/99/99d484cc-a5bc-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON 8pin CNE-CFI3DG Gray"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

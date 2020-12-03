@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/remeshok-a-case-silikonovyy-dlya-mi-band-3-zelenyy/",
+  "product_category": {
+    "name": "A CASE",
+    "url": "/section/a-case-jf0/",
+    "parent_name": "Ремешки для смарт часов",
+    "parent_url": "/section/remeshki-dlya-smart-chasov/"
+  },
+  "product_name": "Ремешок A CASE Силиконовый для Mi Band 3 зеленый",
+  "product_code": "78578",
+  "product_price": {
+    "full": 1590,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c7/c7886aba-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Ремешок A CASE Силиконовый для Mi Band 3 зеленый"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c7/c7886aba-0b1a-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Ремешок A CASE Силиконовый для Mi Band 3 зеленый"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ремешок": "Спортивный ремешок "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "зеленый"
+    },
+    "Разное": {
+      "Бренд": "A CASE",
+      "Страна производитель": "Китай",
+      "Материал": "силикон"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

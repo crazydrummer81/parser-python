@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-elari-nanopods-2-white/",
+  "product_category": {
+    "name": "ELARI",
+    "url": "/section/elari-enz/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "ELARI"
+  ],
+  "product_name": "Наушники для телефона ELARI NanoPods 2 (white)",
+  "product_code": "260001565",
+  "product_price": {
+    "full": 27990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f3/f3ce412c-b065-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона ELARI NanoPods 2 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce412c-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона ELARI NanoPods 2 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce412d-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона ELARI NanoPods 2 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce412e-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона ELARI NanoPods 2 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f3/f3ce412f-b065-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона ELARI NanoPods 2 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Радиус действия в помещении, м": "10",
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.2+EDR+Dual mode"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2",
+      "Время в режиме ожидания, ч": "200",
+      "Время в режиме разговора, ч": "4,5",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.038"
+    },
+    "Разное": {
+      "Бренд": "ELARI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть, ≤90дБ"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

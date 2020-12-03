@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.mechta.kz/product/smart-chasy-xiaomi-amazfit-bip-green/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-v4n/",
+    "parent_name": "Смарт часы",
+    "parent_url": "/section/smart-chasy/"
+  },
+  "product_name": "Смарт часы XIAOMI Amazfit Bip Green",
+  "product_code": "77932",
+  "product_price": {
+    "full": 29990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/1d/1d54db46-dc28-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Смарт часы XIAOMI Amazfit Bip Green"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d54db46-dc28-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Смарт часы XIAOMI Amazfit Bip Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d54db47-dc28-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Смарт часы XIAOMI Amazfit Bip Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d54db48-dc28-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Смарт часы XIAOMI Amazfit Bip Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1d/1d54db49-dc28-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Смарт часы XIAOMI Amazfit Bip Green"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP68",
+      "Режимы дисплея": "мониторинг физ. активности/ уведомления/ орг/ тел."
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "1,28 (3,2 см)",
+      "Разрешение дисплея, пикс": "176х176"
+    },
+    "SIM карта": {
+      "SIM-карта": "нет"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "USB": "нет",
+      "Bluetooth": "4.0",
+      "Wi-Fi": "нет",
+      "GPS": "есть, Glonass"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "200",
+      "Беспроводная зарядка": "да"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Функции": {
+      "Акселерометр": "есть",
+      "Вибрация": "есть",
+      "Гироскоп": "есть",
+      "Датчик освещенности": "есть",
+      "Датчик сердечного ритма": "есть",
+      "Барометр": "нет"
+    },
+    "Опции": {
+      "Дополнительные опции": "Сенсорный экран/ 2.5D Gorilla Glass 3 олеоф. покр."
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "4,1х3,5х0,8",
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0.03",
+      "Вес в упаковке (брутто), кг": "0.18",
+      "Габариты в упаковке (ВхШхГ), см": "8,5х9,5х6,5"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

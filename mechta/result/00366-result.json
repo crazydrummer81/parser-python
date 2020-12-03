@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-samsung-eb-p1100-usb-type-c-eb-p1100csrgru-10-000-mah-silver/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-3hu/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_name": "Портативное зарядное устройство SAMSUNG (EB-P1100CSRGRU) USB Type-C 10 000 mAh silver",
+  "product_code": "82038",
+  "product_price": {
+    "full": 9990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/32/32b4cddc-8d8b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство SAMSUNG (EB-P1100CSRGRU) USB Type-C 10 000 mAh silver"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/32/32b4cddc-8d8b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство SAMSUNG (EB-P1100CSRGRU) USB Type-C 10 000 mAh silver"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "141,8х0,71х0,14",
+      "Цвет": "серый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "6 месяцев",
+      "Страна производитель": "Китай",
+      "Макс. выходное напряжение": "5В / 9В"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

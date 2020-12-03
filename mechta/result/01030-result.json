@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-belkin-home-charger-usb-24/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-d7q/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов BELKIN Home charger (USB 2.4)",
+  "product_code": "81173",
+  "product_price": {
+    "full": 8990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7c/7c5b8ee9-61af-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов BELKIN Home charger (USB 2.4)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ee9-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BELKIN Home charger (USB 2.4)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8eea-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BELKIN Home charger (USB 2.4)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

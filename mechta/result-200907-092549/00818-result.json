@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-usams-lightning-12m-blue-us-sj303/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-wwg/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "USAMS"
+  ],
+  "product_name": "Кабель для телефона USAMS Lightning 1.2m (blue) US-SJ303",
+  "product_code": "83654",
+  "product_price": {
+    "full": 1970,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/30/309336d0-e408-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона USAMS Lightning 1.2m (blue) US-SJ303"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/30/309336d0-e408-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона USAMS Lightning 1.2m (blue) US-SJ303"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.2",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

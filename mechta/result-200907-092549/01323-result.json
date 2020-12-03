@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiotelefon-dect-panasonic-kx-tg-2521-cat/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-p6t/",
+    "parent_name": "Радиотелефоны DECT",
+    "parent_url": "/section/radiotelefony-dect/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Стационарные телефоны",
+    "Радиотелефоны DECT",
+    "PANASONIC"
+  ],
+  "product_name": "Радиотелефон DECT PANASONIC KX TG 2521 CAT",
+  "product_code": "101759",
+  "product_price": {
+    "full": 18890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f5/f5ae4798-38b7-11e0-9222-001676a0f702.jpeg",
+    "alt": "Радиотелефон DECT PANASONIC KX TG 2521 CAT"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5ae4798-38b7-11e0-9222-001676a0f702.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TG 2521 CAT"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Автоответчик": "нет",
+      "Дальность действия в помещении, м": "50",
+      "Определитель номера": "есть, АОН Caller ID",
+      "Память принятых вызовов": "50 номеров",
+      "Рабочая частота, МГц": "1880-1900",
+      "Дисплей трубки": "монохромный, синяя подсветка"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "170",
+      "Время в режиме разговора, ч": "18",
+      "Тип аккумулятора": "Ni-Mh (никель-металлгидридный)",
+      "Питание": "от аккумулятора и сети"
+    },
+    "Комплектация": {
+      "Количество трубок в комплекте": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес в упаковке (брутто), кг": "0.51",
+      "Габариты в упаковке (ВхШхГ), см": "13х20х9.5"
+    },
+    "Разное": {
+      "Подключение дополнительных трубок": "6",
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

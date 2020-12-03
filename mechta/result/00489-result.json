@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnyy-derjatel-canyon-cne-cchm10/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-fwj/",
+    "parent_name": "Держатели",
+    "parent_url": "/section/derjateli/"
+  },
+  "product_name": "Автомобильный держатель CANYON CNE-CCHM10",
+  "product_code": "80831",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/82/82d7cf58-5b3d-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Автомобильный держатель CANYON CNE-CCHM10"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/82/82d7cf58-5b3d-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM10"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82d7cf59-5b3d-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM10"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82d7cf5a-5b3d-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM10"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82d7cf5b-5b3d-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM10"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "9,4х11,5х8,3",
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.05"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

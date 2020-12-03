@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-samsung-besprovodnoe-ep-p5200tbrgru-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-4da/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black",
+  "product_code": "81617",
+  "product_price": {
+    "full": 31990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/658c1bc6-7851-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bc6-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bc7-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bc8-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/658c1bc9-7851-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG Беспроводное (EP-P5200TBRGRU) black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "2100"
+    },
+    "Типы передачи данных": {
+      "USB": "есть"
+    },
+    "Опции": {
+      "Дополнительные опции": "быстрая зарядка"
+    },
+    "Информационные функции": {
+      "Индикация": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "1.7х19.5х9.2",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.17"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Вьетнам",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

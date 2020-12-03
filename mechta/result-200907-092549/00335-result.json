@@ -1,0 +1,185 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-reno-10x-zoom-jet-black/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black",
+  "product_code": "82214",
+  "product_price": {
+    "full": 349990,
+    "discounted": 219890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4d/4d1c2dd8-971a-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2dd8-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2dd9-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2dda-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2ddb-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2ddc-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4d/4d1c2ddd-971a-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Snapdragon 855",
+      "Процессор, (МГц, количество ядер)": "2840 ГГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,6 (16,8 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "8"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM/ Nano-USIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, Wi-Fi (802.11a/b/g/n/ac) - 2,4 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+13",
+      "Режим видеосъемки": "4K 30fps/1080p 60fps/30fps/ 720p 60fps/30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f 2.0 / портрет/ размытие фона/ широкоугольный",
+      "Особенности тыловой камеры": "f 1.7/ 6 линз/ f 2.2/f 3.0/ PDAF лазерный фокус "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4065",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл и стекло Corning Gorilla Glass 6"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/барометр/датчик освещ",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,72х0,93",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,215"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "адаптер питания/гарнитура/USB-C кабель/чехол "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a29/a294d1bed144f4a98e27b9b8792e72ef.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/d17/d1779f985190a59d5ffa121c8a89f6f5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"><b>Широкий угол обзора</b></h3> <p style=\"text-align: center;\"> Ещё ближе к окружающему миру. <br/> Основная сверхчеткая камера состоит из трех модулей: 48 Мп, 13 Мп с телеобъективом и 8 Мп с широкоугольным объективом. Вместе они обеспечивают 10-кратный зум. Благодаря трем объективам диапазон фокусного расстояния составляет 16–160 мм. Три модуля камеры с двойной оптической стабилизацией дают четкое изображение даже при полном зуме во время съемки с рук.<b>*</b><br/> </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/037/037db7fc842e855bec43f945576d9f10.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"><b>Улови сияние ночи с режимом Ultra Night 2.0</b></h3> <p style=\"text-align: center;\"> Reno 10x Zoom оснащен превосходным датчиком Sony IMX 586 48 МпП 1/2\" с диафрагмой f/1,7 и поддерживает алгоритмы MFNR и HDR. Это гарантирует точную экспозицию и высокую детализацию при плохом освещении. Обновленный алгоритм компенсации сокращает выдержку во время ночной съемки, чтобы фотографии были четкими.<b>*</b> </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/f50/f504fb7c62e99f9cca5c6c19ff39d0f5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"><b>Истинная красота со сверхчеткой камерой 48 Мп</b></h3> <p style=\"text-align: center;\"> Смартфон Reno оснащен камерой 48 Мп. Высокое разрешение и точная цветопередача дают возможность получать красочные детальные снимки. </p> </div> </div> <div class=\"aa_markfull_text\"><p style=\"text-align: center;\"> Благодаря большой диафрагме можно легко делать профессиональные портреты с пятью настройками эффекта Боке на выбор. <br/> Они будут выглядеть естественно даже при сильном контровом свете.<br/> Яркий режим восстанавливает цвета на уровне пикселей для передачи живых ярких оттенков. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/98a/98a91729100e79a911998e24d5e64d7b.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/c52/c52f3862cd325fe784b55e8d2999f27d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"> <b>Панорамный экран –включите воображение</b></h3> <p style=\"text-align: center;\"> На экране Reno нет никаких вырезов и других отвлекающих элементов. Он занимает 93,1% площади передней панели, внизу остается полоса высотой лишь 3,5 мм. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/84a/84ad1fd358ecc81dd6b6f80d5167e2fa.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"> <b>Привет, Reno!</b></h3> <p style=\"text-align: center;\"> Фронтальная камера, приемник сигнала, вспышки для основной и селфи-камеры - все это помещено в компактной выдвижной конструкции. Выдвижная конструкция чрезвычайно сложна: сначала она движется быстро, затем медленно. Как космический корабль, совершающий посадку на Луну, эта конструкция воплощает красоту наших технологий. Все это за 0,8 сек в абсолютной тишине. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/19f/19f9d484d3b1562be0826681eded97a9.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\"> <b>Мгновенная разблокировка отпечатком пальца</b></h3> <p style=\"text-align: center;\"> Для более быстрой разблокировки используется передовая система распознавания. Скорость разблокировки по отпечаткам пальцев увеличилась на 28,5% </p> <b><br/> </b> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e98/e9873c99222b15b819edf1e86d9c2daf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\"><b>Градиентный цвет</b></h3> <p style=\"text-align: center;\"> Завораживающая переливчатая отделка<br/> Приятно смотреть и держать в руках<br/> Матовая отделка с блестящими деталями </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bc7/bc7dbec3e72bb3d57059f52bf61eaa44.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Полностью скрытый объектив камеры. Гладкий и блестящий.</b></h3> <p style=\"text-align: center;\"> Внутренняя красота. Мощная камера Reno спрятана под прочным стеклом, образующим единую поверхность с корпусом. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/116/116761ae216e1f88d068789899ecd3e8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\"><b>Высокая производительность</b></h3> <p style=\"text-align: center;\"> Reno оснащен процессором Qualcomm Snapdragon 710 с блоком AI 4-го поколения. Производительность возросла на целых 45%. Оперативная память до 8 ГБ позволяет легко и эффективно транслировать видео, играть и общаться. </p> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b68/b6820af71d09c95da5a8ef047f0c9888.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Game Boost 2.0 – покадровая оптимизация</b></h3> <p style=\"text-align: center;\"> Серия Reno предназначена для геймеров и потому дополнительно оптимизирована. В обновленной версии мы уделили больше внимания производительности, изучили проблемы с задержками и контролем, проанализировали сенсорное управление и скорость обновления. Технология Hyper Boost 2.0 получила от TÜV Rheinland сертификат высокой производительности. Игра будет как никогда плавной. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/eed/eed33a5f1a60e5ddc6ed2cd2dcaa253e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b> <h3></h3> </b> <p style=\"text-align: center;\"> </p> <h3></h3> <h3 style=\"text-align: center;\"><b>Емкий аккумулятор + VOOC 3.0 = гарантированно долгая работа</b></h3> <p style=\"text-align: center;\"> Благодаря VOOC 3.0 можно играть и заряжаться одновременно. Теперь смартфоны Reno с аккумулятором 3765 мА·ч (до 4065 мА·ч у Reno 10x Zoom) быстрее заряжаются и дольше работают. Смартфоны Reno оснащены улучшенной технологией VOOC 3.0 с новейшим алгоритмом VFC для эффективной зарядки. Скорость зарядки увеличена на 100%. </p> <p> </p> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6bb/6bb1dbb82f575ebc27ef12e5d85218b9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Захватывающий звук Dolby Atmos</b></h3> <b><br/> </b> <p style=\"text-align: center;\"> Dolby Atmos добавляет глубины звуку. В дополнение к улучшенному звуку в играх и фильмах появилась возможность настраивать уровень громкости и улучшать восприятие голоса. </p> <br/> </div> </div> <div class=\"aa_markfull_text\"><b> <h3></h3> </b> <p style=\"text-align: center;\"> </p> <h3></h3> <h3 style=\"text-align: center;\"><b>ColorOS 6</b></h3> <p style=\"text-align: center;\"> В ColorOS 6 на базе Android 9.0 реализована идея безграничного дизайна, что открывает доступ к наиболее передовым возможностям системы, таким как навигация жестами, режимы Умный ассистент, OPPO Cloud и интеллектуальный режим </p> <p> </p> <br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d8d/d8d42a292177b2f4946852f4328aaf82.jpg\"/></div> <div class=\"aa_markfull_text\"><h5><b>*</b></h5> <h5> </h5> <h6> </h6><li> Гибридный 10-кратный зум есть только в версии Reno 10x Zoom. </li> <li> В версии Reno основная камера включает два модуля: 48 и 5 Мп.</li> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/d17/d1779f985190a59d5ffa121c8a89f6f5.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/037/037db7fc842e855bec43f945576d9f10.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/f50/f504fb7c62e99f9cca5c6c19ff39d0f5.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/c52/c52f3862cd325fe784b55e8d2999f27d.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/84a/84ad1fd358ecc81dd6b6f80d5167e2fa.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/19f/19f9d484d3b1562be0826681eded97a9.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/e98/e9873c99222b15b819edf1e86d9c2daf.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/bc7/bc7dbec3e72bb3d57059f52bf61eaa44.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/116/116761ae216e1f88d068789899ecd3e8.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/b68/b6820af71d09c95da5a8ef047f0c9888.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/eed/eed33a5f1a60e5ddc6ed2cd2dcaa253e.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/6bb/6bb1dbb82f575ebc27ef12e5d85218b9.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      },
+      {
+        "url": "/upload/iblock/d8d/d8d42a292177b2f4946852f4328aaf82.jpg",
+        "alt": "Телефон сотовый OPPO RENO 10X ZOOM Jet Black"
+      }
+    ]
+  }
+}

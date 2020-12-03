@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t205-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-14o/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники JBL T205 (black)",
+  "product_code": "74205",
+  "product_price": {
+    "full": 6790,
+    "discounted": 6490
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/23/23bc843a-389c-11e8-a20e-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T205 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/23/23bc843a-389c-11e8-a20e-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T205 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.3",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

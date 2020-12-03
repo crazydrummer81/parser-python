@@ -1,0 +1,167 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-vivo-y19-spring-white-1915/",
+  "product_category": {
+    "name": "VIVO",
+    "url": "/section/vivo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "VIVO"
+  ],
+  "product_name": "Телефон сотовый VIVO Y19 Spring White (1915)",
+  "product_code": "00572",
+  "product_price": {
+    "full": 99990,
+    "discounted": 89990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dc/dc581727-157e-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc581727-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc581728-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc581729-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc58172a-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc58172b-157e-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6768 (P65)",
+      "Процессор, (МГц, количество ядер)": "2000/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,53 (16,5 см)",
+      "Разрешение дисплея, пикс": "2340х1080 FHD+",
+      "Технология изготовления дисплея": "LCD",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MP2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n 2,4 ГГц/ 5 ГГц ",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "16+8+2",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.0 / Портретный режим (AI Face Beauty)",
+      "Особенности тыловой камеры": "f/1.78/ f/2.2/ f/2.4/Широкоугольная/PDAF/Вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ/компас",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,6х0,89",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,193"
+    },
+    "Разное": {
+      "Бренд": "VIVO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "адаптер питания/micro USB кабель/чехол "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d1c/d1c39662422b67c89b36e1e81e5bba50.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>6,53-дюймовый FHD+ экран Halo FullView™</h3> 6,53-дюймовый дисплей Halo FullView™ с разрешением FHD+ имеет практически безрамочный дизайн, а фронтальная камера размещается в элегантном вырезе. Наслаждайтесь высоким разрешением 2340 × 1080 на экране, который занимает 90,3% передней панели и соответствует флагманским стандартам. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3a5/3a5b0373a8d902da5dc8bb33da320dff.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Различные AI-режимы съемки. Безграничные возможности</h3> Смартфон Y19 оснащен тройной AI-камерой, которая объединяет в себе 16 Мп основную камеру, 2 Мп объектив для макросъемки и 8 Мп сверхширокоугольную камеру, которая позволяет делать снимки с эффектом боке. С таким широким функционалом вы сможете снять практически всё, что человек может встретить в повседневной жизни. Куда бы ни привел вас дух приключений, вы сможете делать потрясающие снимки в одно касание. </div> </div> <div class=\"aa_markfull_text\"><h3>Красочное сияние корпуса</h3> Тайны природы вдохновили нас на создание расцветок корпусов Y19, которые сверкают и переливаются под разными углами. Благодаря плавным 3D-изгибам смартфон элегантно выглядит и прекрасно лежит в руке.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f51/f517b7b1eaddc0cf1adfdc2e8844b831.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b93/b933b557260e60e6feb58d6e7f91330d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>16 Мп фронтальная камера. Делает селфи прекрасными</h3> 16 Мп фронтальная камера с функцией AI Face Beauty поможет вам без особых усилий запечатлеть самые лучезарные моменты вашей жизни. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/7d1/7d174cf726e3152fe27461cb5bda0d98.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Аккумулятор 5000 мА·ч</h3> Мощный аккумулятор ёмкостью 5000 мА·ч с интеллектуальными технологиями управления питанием увеличивает время работы Y19 без подзарядки. С нашим смартфоном вы оставите в прошлом все мысли о разряженной батарее. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a62/a62cfc0167c401e9eb066e555791680e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Двойная быстрая зарядка</h3> Применяемая в смартфонах vivo двойная быстрая зарядка оперативно заряжает аккумулятор большой ёмкости, а девять уровней защиты гарантируют безопасность. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2e4/2e4b4058988769ff70bc73ce8afe002e.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Реверсивная зарядка</h3> При необходимости вы можете превратить свой Y19 в портативное зарядное устройство. Заряжайте другие девайсы и делитесь энергией с друзьями в моменты, когда им нужна ваша помощь.<br/> <h6>*требуется кабель OTG</h6> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/843/843ddc36b452eb5c40b3203939adb743.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>4 ГБ RAM + 128 ГБ ROM</h3> Играйте, смотрите видео и наслаждайтесь общением в социальных сетях без проблем благодаря большому объему оперативной памяти. Сохраняйте фотографии, фильмы и музыку: в смартфоне достаточно места для ваших любимых коллекций. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/e36/e36538b3837be10049b3cbd6eaf72310.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3>Режим Ultra Game Mode</h3> Режим Ultra Game Mode содержит ряд полезных функций, специально разработанных для геймеров. Можно включить блокировку входящих сообщений и оповещений и полностью сосредоточиться на игре. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/d1c/d1c39662422b67c89b36e1e81e5bba50.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/3a5/3a5b0373a8d902da5dc8bb33da320dff.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/b93/b933b557260e60e6feb58d6e7f91330d.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/7d1/7d174cf726e3152fe27461cb5bda0d98.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/a62/a62cfc0167c401e9eb066e555791680e.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/2e4/2e4b4058988769ff70bc73ce8afe002e.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/843/843ddc36b452eb5c40b3203939adb743.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/e36/e36538b3837be10049b3cbd6eaf72310.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      },
+      {
+        "url": "/upload/iblock/f51/f517b7b1eaddc0cf1adfdc2e8844b831.jpg",
+        "alt": "Телефон сотовый VIVO Y19 Spring White (1915)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/adapter-dlya-telefona-usams-dual-lightning-red-us-sj270-au05/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-ban/",
+    "parent_name": "Адаптеры",
+    "parent_url": "/section/adaptery/"
+  },
+  "product_name": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 ",
+  "product_code": "83648",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/bf/bffb307a-d456-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 "
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/bf/bffb307a-d456-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bf/bffb307b-d456-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bf/bffb307c-d456-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 "
+    },
+    {
+      "url": "/export/1cbitrix/import_files/0c/0cc6dde4-d470-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона USAMS Dual Lightning (red) US-SJ270 AU05 "
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0,05"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

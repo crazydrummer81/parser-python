@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-belkin-lighning-12m-blue/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-3g9/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона BELKIN Lighning 1.2m blue",
+  "product_code": "83363",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f7/f7a22ad5-c878-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BELKIN Lighning 1.2m blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f7/f7a22ad5-c878-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BELKIN Lighning 1.2m blue"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.2",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.05"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

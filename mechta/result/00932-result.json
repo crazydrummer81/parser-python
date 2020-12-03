@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-live-650-bt-nc-blue/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL LIVE 650 BT NC (blue)",
+  "product_code": "00998",
+  "product_price": {
+    "full": 79990,
+    "discounted": 69990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c3/c3c17d45-288e-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d45-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d46-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d47-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d48-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d49-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d4a-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "MicroUSB",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "105",
+      "Диаметр мембран, мм": "12"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "410",
+      "Время работы от аккумулятора, ч": "до 19 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "заряда батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.56"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Кнопки управления": "Кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-huawei-wal-ct025-freebuds-3i-carbon-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-syb/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "HUAWEI"
+  ],
+  "product_name": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)",
+  "product_code": "260001615",
+  "product_price": {
+    "full": 59990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/813706ac-ba84-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/813706ac-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706ad-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706ae-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706af-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b0-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b1-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b2-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b3-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b4-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/813706b5-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI WAL-CT025 FreeBuds 3i (Carbon Black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Радиус действия в помещении, м": "10",
+      "Совместимость со смартфономи": "Android / iOS",
+      "Диаметр мембран, мм": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "1 час 40 мин",
+      "Время в режиме разговора, ч": "3,5",
+      "Емкость аккумулятора, мАч": "37",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.011"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

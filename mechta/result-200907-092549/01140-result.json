@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-vsp-flex-dlya-apple-iphone-7-plus-18658/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "VSP"
+  ],
+  "product_name": "Защитная пленка для дисплея VSP Flex для Apple iPhone 7 Plus (18658)",
+  "product_code": "71851",
+  "product_price": {
+    "full": 2190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b6/b67550c5-d40d-11e7-80c8-1866daf08915.jpeg",
+    "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 7 Plus (18658)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b6/b67550c5-d40d-11e7-80c8-1866daf08915.jpeg",
+      "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 7 Plus (18658)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b67550c6-d40d-11e7-80c8-1866daf08915.jpeg",
+      "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 7 Plus (18658)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone 7 Plus"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Россия"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

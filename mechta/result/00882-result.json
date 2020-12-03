@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-8pin-cns-mfic3dg-dark-gray/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона CANYON 8pin CNS-MFIC3DG Dark gray",
+  "product_code": "73386",
+  "product_price": {
+    "full": 4990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/23/23042580-49cb-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON 8pin CNS-MFIC3DG Dark gray"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/23/23042580-49cb-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON 8pin CNS-MFIC3DG Dark gray"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/23/23042581-49cb-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON 8pin CNS-MFIC3DG Dark gray"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/23/23042582-49cb-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON 8pin CNS-MFIC3DG Dark gray"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-denn-dhb027/",
+  "product_category": {
+    "name": "DENN",
+    "url": "/section/denn-9vk/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "DENN"
+  ],
+  "product_name": "Наушники DENN DHB027",
+  "product_code": "260000378",
+  "product_price": {
+    "full": 5990,
+    "discounted": 4990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3d/3d8ffaa4-6413-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники DENN DHB027"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3d/3d8ffaa4-6413-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB027"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8c/8c02003a-6447-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB027"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8c/8c02003b-6447-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB027"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "10",
+      "Чувствительность, дБ": "90"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "до 2 часов",
+      "Емкость аккумулятора, мАч": "55",
+      "Время работы от аккумулятора, ч": "до 3 часов"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "DENN",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть",
+      "Кнопки управления": "кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

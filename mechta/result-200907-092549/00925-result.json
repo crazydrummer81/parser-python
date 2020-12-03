@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-2e-x1-extra-bass-mic-black/",
+  "product_category": {
+    "name": "2E",
+    "url": "/section/2e-atk/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "2E"
+  ],
+  "product_name": "Наушники + микрофон 2E X1 EXTRA BASS MIC BLACK",
+  "product_code": "260000236",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f9/f977b2ca-5489-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники + микрофон 2E X1 EXTRA BASS MIC BLACK"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f9/f977b2ca-5489-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E X1 EXTRA BASS MIC BLACK"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f9/f977b2cb-5489-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E X1 EXTRA BASS MIC BLACK"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "115"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.05"
+    },
+    "Разное": {
+      "Бренд": "2E",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

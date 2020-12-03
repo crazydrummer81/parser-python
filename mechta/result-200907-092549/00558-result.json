@@ -1,0 +1,81 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-huawei-cm-h1c-freebuds-lite-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-syb/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "HUAWEI"
+  ],
+  "product_name": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)",
+  "product_code": "80724",
+  "product_price": {
+    "full": 44990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/66/66d9c88c-59ab-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c88c-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c88d-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c88e-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c88f-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c890-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/66/66d9c891-59ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM H1C FreeBuds Lite (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "есть"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "до 40 часов",
+      "Время в режиме разговора, ч": "до 3 часов",
+      "Емкость аккумулятора, мАч": "410",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "есть, футляр"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "8x3.3x2.8",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "Наушник 6 грамм, футляр 45,5 грамм"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

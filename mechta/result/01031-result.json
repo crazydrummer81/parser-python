@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-belkin-lighning-mixit-duratek-kevlar-12m-silver/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-3g9/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона BELKIN Lighning Mixit Duratek Kevlar 1.2m silver",
+  "product_code": "81167",
+  "product_price": {
+    "full": 13990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/65d500fc-6356-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BELKIN Lighning Mixit Duratek Kevlar 1.2m silver"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/65d500fc-6356-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BELKIN Lighning Mixit Duratek Kevlar 1.2m silver"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.2",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0,18"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

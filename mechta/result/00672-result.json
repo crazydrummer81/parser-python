@@ -1,0 +1,86 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-jbl-under-armour-flash-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-ii2/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона JBL Under Armour Flash (black)",
+  "product_code": "83551",
+  "product_price": {
+    "full": 69990,
+    "discounted": 59990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/34/34f1f5f6-d2d7-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/34/34f1f5f6-d2d7-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3c5-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3c6-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3c7-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3c8-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3c9-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3ca-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3cb-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/df/dfa0f3cc-c94c-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL Under Armour Flash (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.2"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Работа от аккумулятора, ч": "5",
+      "Беспроводная зарядка": "есть, футляр",
+      "Быстрая зарядка": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,015"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

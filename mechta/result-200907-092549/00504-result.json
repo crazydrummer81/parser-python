@@ -1,0 +1,82 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-denn-dhb045/",
+  "product_category": {
+    "name": "DENN",
+    "url": "/section/denn-9vk/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "DENN"
+  ],
+  "product_name": "Наушники DENN DHB045",
+  "product_code": "260000379",
+  "product_price": {
+    "full": 10190,
+    "discounted": 5990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/82/82106566-67fe-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники DENN DHB045"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/82/82106566-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB045"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82106567-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB045"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82106568-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB045"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/82106569-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB045"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/82/8210656a-67fe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники DENN DHB045"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "9",
+      "Чувствительность, дБ": "90"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "135",
+      "Время работы от аккумулятора, ч": "6 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "DENN",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

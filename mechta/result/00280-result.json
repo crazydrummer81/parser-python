@@ -1,0 +1,174 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-vivo-nex-3-glowing-nigth-1912/",
+  "product_category": {
+    "name": "VIVO",
+    "url": "/section/vivo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)",
+  "product_code": "84541",
+  "product_price": {
+    "full": 309990,
+    "discounted": 259990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/41/417f6a3a-f610-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/41/417f6a3a-f610-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/417f6a3b-f610-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/417f6a3c-f610-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/417f6a3d-f610-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/41/417f6a3e-f610-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 855 Plus",
+      "Процессор, (МГц, количество ядер)": "2960 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,89 (17,5 см)",
+      "Разрешение дисплея, пикс": "2256х1080 (FHD+)",
+      "Технология изготовления дисплея": "P-OLED",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n 2,4 ГГц/ 5 ГГц ",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+13+13",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": "Выдвижная камера/ Вспышка/ Портретный реж/ HDR",
+      "Особенности тыловой камеры": "64 Мп /Широкоугольная/Ночной реж/Оптич зум/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ/компас",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,7х7,6х0,94",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,217"
+    },
+    "Разное": {
+      "Бренд": "VIVO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "адаптер питания/гарнитура/USB-C кабель/чехол "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/74f/74f71064ed48f7b726e5702b45f8e28d.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><span style=\"color: #0072bc;\"><b><span style=\"color: #00aeef;\">Экран Waterfall FullView™</span></b></span></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Новые горизонты</h3> <p style=\"text-align: center;\"> NEX 3 открывает новую эру в истории смартфонов своим невероятным экраном, который полностью поглотит ваше внимание. Изогнутый 6,89-дюймовый дисплей занимает 99,6% передней поверхности и поражает кинематографичной картинкой и отсутствием рамок по краям, устремляясь в бесконечность. Эта визуальная простота без лишних деталей впечатляет больше всего. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/992/992abbc3c502a76a51cfceea839a3c8d.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7b7/7b74eede16369bb076526ea1c03fb72a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Боковая подсветка</span></h3> <b>Шоу начинается</b><br/> На этом сенсации в NEX 3 не заканчиваются. Его уникальный пользовательский интерфейс — настоящее окно в будущее высоких технологий. Входящие звонки здесь сопровождаются световым шоу, вдохновлённым научной фантастикой. Даже будучи заблокированным, смартфон светится в такт музыке, а ваш опыт использования мобильных устройств становится ещё насыщеннее во всех его аспектах. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1a5/1a51093ea4d1a8a2eeaf394e51f66023.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Система Touch Sense + X-осевой механизм тактильного отклика</span></h3> <b>Доверьтесь своим чувствам</b><br/> Почувствуйте пульс будущего. Система Touch Sense работает в связке с X-осевым механизмом тактильного отклика. Он заменяет физические кнопки и реагирует на каждое нажатие во время разблокировки, набора текста, получения сообщений и так далее. Благодаря режиму 4D Vibration в играх вы буквально ощутите всё происходящее на поле боя. </div> </div> <div class=\"aa_markfull_text\"><h2><b></b></h2> <h2 style=\"text-align: center;\"><b><span style=\"color: #00aeef;\">Путешествие в мир дизайна</span></b></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Ощутите волшебство</h3> <p style=\"text-align: center;\"> Переосмысленный дизайн являет собой неуёмное желание vivo открывать неизведанное и расширять горизонты, приглашая вас отправиться в новое приключение. Испытайте нестареющую магию чёрного цвета, который переливается под разными углами благодаря новой расцветке «Сияющая ночь». На блестящей чёрной поверхности NEX 3 вы обнаружите круглую панель с тремя камерами, которая воссоздаёт классическую систему Lunar Ring и придаёт смартфону максимально изысканный вид. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d6a/d6a34770b8ef493778118cfd2813a1f2.jpg\"/></div> <div class=\"aa_markfull_text\"><h2><b></b></h2> <h2 style=\"text-align: center;\"><b><span style=\"color: #00aeef;\">Выдвижная фронтальная камера</span></b></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Вперед к новым высотам</h3> <p style=\"text-align: center;\"> 16 Мп выдвижная фронтальная камера смартфона NEX 3 соответствует фирменному стилю NEX. Она не только позволила создать идеальный безрамочный дисплей, но и превратила съемку селфи в неповторимый опыт. Специализированный мотор и модифицированная трансмиссия обеспечивают стабильность каждого цикла камеры. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/527/52705a08ba0ff9d0713df581ad402c5e.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/722/722e94eed4daaae05ad541cc4579295e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Qualcomm Snapdragon 855 Plus</span></h3> <b>Безграничная мощь</b><br/> Новейший процессор Qualcomm Snapdragon 855 Plus вместе с 8 ГБ оперативной и 128 ГБ встроенной памяти обеспечивают невероятную мощь. Стандарт памяти UFS 3.0 на 79% повышает скорость чтения и записи данных по сравнению с UFS 2.1, а благодаря флагманским характеристикам смартфон без задержек справляется с несколькими приложениями одновременно на максимальной скорости. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/fdc/fdce48f3c9658f91a343e360f452a86c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Система охлаждения на базе испарительной камеры</span></h3> <b>Охлаждение решает</b><br/> Благодаря испарительной камере температура равномерно распределяется по всему корпусу смартфона. Эта технология эффективно отводит лишнее тепло от процессора и аккумулятора и охлаждает устройство. Когда температура в норме, смартфон работает быстрее. </div> </div> <div class=\"aa_markfull_text\"><h2><b></b></h2> <h2 style=\"text-align: center;\"><b><span style=\"color: #00aeef;\">64 Мп</span></b><b><span style=\"color: #00aeef;\"> Super HD — профессиональные фото</span></b></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Идеально со всех сторон</h3> <p style=\"text-align: center;\"> NEX 3 оснащен основной камерой разрешением 64 Мп, 13 Мп широкоугольным и длиннофокусными объективами. Три камеры в сочетании с оптимизированными алгоритмами дают идеальные результаты как при широкоугольной и макросъёмке, так и при съёмке с двукратным увеличением. С такой камерой вы без труда сможете запечатлеть красоту окружающего мира как настоящий профессионал и получите чёткие снимки в качестве Super HD даже при максимальном увеличении. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6b5/6b5ad7634496f2c2d82ab50b15e37082.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/17f/17fe4be68817a7a4fc6a9a8ba1810138.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Новый Профессиональный режим</span></h3> <b>Простота правит миром</b><br/> Профессиональный режим работает, а слава достается вам. Раньше осваивать навыки фотографа нужно было очень долго, теперь же всё легко благодаря простым и понятным шаблонам. Смартфон также снимает в формате RAW, чтобы у вас была полная свобода в редактировании фотографий. При желании пользователи могут устанавливать собственные настройки и получать достойные результаты. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e61/e61c2dd0ec654f639e6c0f8b793a41ec.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Система из нескольких камер: мультифокусная оптическая система</span></h3> <b>Фантазия за пределами ограничений</b><br/> Теперь ничто не помешает вам создавать шедевры. NEX 3 способен на съемку с любого расстояния и поддерживает широкоугольную, макро- и телефотосъемку. Снимайте утреннюю росу, величественные горы и полную луну — перед вами нет никаких границ. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/725/725d3098aca01c571c0fc30dc9ccca34.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Платформа для ускорения вычислений от vivo (VCAP)</span></h3> <b>Полный вперёд</b><br/> Разработанная в vivo платформа VCAP ускоряет работу смартфона благодаря искусственному интеллекту, оптимизируя работу центрального, графического, нейронного и цифрового сигнального процессоров. VCAP также оптимизирует функционирование алгоритмов ИИ и повышает эффективность, скорость и плавность работы всех функций искусственного интеллекта, в то же время снижая энергопотребление. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/46e/46e373fc1946bba9c6e8a5c5cc267808.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><span style=\"color: #00aeef;\">Аккумулятор 4500 мА·ч + vivo FlashCharge</span></h3> <b>Радуйтесь дольше</b><br/> Аккумулятор повышенной ёмкости на 4500 мА·ч (типовое значение) и технология энергосбережения C-DRX в смартфоне NEX 3 помогут вам работать и развлекаться намного дольше. А когда придет время, 22,5-ваттная зарядка vivo FlashCharge оперативно восполнит заряд и вернёт вас в мир мобильных технологий. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/a9d/a9ddecfffb943375ff18f96b7700ba5f.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3><span style=\"color: #00aeef;\">Сканер отпечатков на дисплее</span></h3> <b>Быстро и со вкусом</b><br/> Чувствительность и точность работы сканера отпечатков на дисплее нового поколения повысилась. Наслаждайтесь множеством анимаций, которые находятся всего в одном касании.&lt; </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/82b/82b82c145a48a86bf8e92f8fcb792c46.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3><span style=\"color: #00aeef;\">Hi-Fi аудио</span></h3> <b>Ощутите всё великолепие звука</b><br/> Выделенный аудиочип AK4377A обеспечивает высокое качество Hi-Fi звучания от vivo. Наслаждайтесь качественной музыкой, как на ваших любимых концертах, и с удовольствием слушайте любимые песни. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/06c/06c63d261ff3fcbc14261bf94917243a.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3><span style=\"color: #00aeef;\">NFC</span></h3> Благодаря встроенному в NEX 3 чипу NFC любая оплата будет выполнена быстро и просто. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/7b7/7b74eede16369bb076526ea1c03fb72a.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/1a5/1a51093ea4d1a8a2eeaf394e51f66023.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/722/722e94eed4daaae05ad541cc4579295e.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/fdc/fdce48f3c9658f91a343e360f452a86c.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/17f/17fe4be68817a7a4fc6a9a8ba1810138.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/e61/e61c2dd0ec654f639e6c0f8b793a41ec.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/725/725d3098aca01c571c0fc30dc9ccca34.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/46e/46e373fc1946bba9c6e8a5c5cc267808.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/a9d/a9ddecfffb943375ff18f96b7700ba5f.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/82b/82b82c145a48a86bf8e92f8fcb792c46.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/06c/06c63d261ff3fcbc14261bf94917243a.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      },
+      {
+        "url": "/upload/iblock/6b5/6b5ad7634496f2c2d82ab50b15e37082.jpg",
+        "alt": "Телефон сотовый VIVO NEX 3 Glowing Nigth (1912)"
+      }
+    ]
+  }
+}

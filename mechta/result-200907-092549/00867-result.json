@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.mechta.kz/product/blyutuz-garnitura-plantronics-explorer55r/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "PLANTRONICS"
+  ],
+  "product_name": "Блютуз гарнитура PLANTRONICS Explorer55",
+  "product_code": "78766",
+  "product_price": {
+    "full": 12490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/30/30b2aeef-feb9-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Блютуз гарнитура PLANTRONICS Explorer55"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/30/30b2aeef-feb9-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer55"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/30/30b2aef0-feb9-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer55"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "3.0"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "385",
+      "Время в режиме разговора, ч": "11",
+      "Емкость аккумулятора, мАч": "180",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Функции": {
+      "Голосовой набор": "есть",
+      "Ответить/закончить разговор": "есть",
+      "Повтор последнего номера": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.11"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

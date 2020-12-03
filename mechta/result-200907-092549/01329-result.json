@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiotelefon-dect-panasonic-kx-tgh-210-uab/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-p6t/",
+    "parent_name": "Радиотелефоны DECT",
+    "parent_url": "/section/radiotelefony-dect/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Стационарные телефоны",
+    "Радиотелефоны DECT",
+    "PANASONIC"
+  ],
+  "product_name": "Радиотелефон DECT PANASONIC KX TGH 210 UAB",
+  "product_code": "31996",
+  "product_price": {
+    "full": 27390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5d/5d55f64e-115f-11e4-b813-14dae972ca6d.jpeg",
+    "alt": "Радиотелефон DECT PANASONIC KX TGH 210 UAB"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d55f64e-115f-11e4-b813-14dae972ca6d.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TGH 210 UAB"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Автоответчик": "нет",
+      "Дальность действия в помещении, м": "50",
+      "Определитель номера": "есть, АОН Caller ID",
+      "Память принятых вызовов": "50 номеров",
+      "Рабочая частота, МГц": "1880-1900",
+      "Телефонная книга": "200 номеров",
+      "Дисплей трубки": "цветной"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "250",
+      "Время в режиме разговора, ч": "14",
+      "Тип аккумулятора": "Ni-Mh (никель-металлгидридный)",
+      "Питание": "от аккумулятора и сети",
+      "Размер аккумулятора": "ААА"
+    },
+    "Комплектация": {
+      "Количество трубок в комплекте": "1",
+      "Количество аккумуляторов в трубке": "2"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Подключение дополнительных трубок": "возможно до 6 трубок",
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

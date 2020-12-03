@@ -1,0 +1,184 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-realme-6i-green-364gb/",
+  "product_category": {
+    "name": "Realme",
+    "url": "/section/realme/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый REALME 6i (3/64GB) Green",
+  "product_code": "260001521",
+  "product_price": {
+    "full": 88890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fd/fd234825-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd234825-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd234827-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd234828-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd234829-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd23482a-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd23482b-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd23482c-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd23482d-ab9a-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek Helio G80",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MC2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+2+2",
+      "Режим видеосъемки": "1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.0 / портретный режим /эффект боке ",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик приближ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,4х7,5х0,9",
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0,199"
+    },
+    "Разное": {
+      "Бренд": "REALME",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>REALME 6i</b></h3> <h3 style=\"text-align: center;\">Квадрокамера и емкая батарея</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0f4/0f4ca539a0158be35bcc31b0e3facb82.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a43/a432a52efcb9a397a9679a8266740fc0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Быстрая зарядка 18 Вт Helio G80</h3> Realme 6i стал первым в мире смартфоном на процессоре Helio G80. Восемь ядер с частотой до 2,0 ГГц увеличивают производительность устройства на 35% по сравнению с предыдущим поколением, а графический процессор Mali G52 гарантирует стабильное и четкое изображение.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3b4/3b4183ad0a9f89e012c401639763ddd4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Квадрокамера 48 Мп 4 модуля</h3> Основная камера realme 6i состоит из 4 модулей, у каждого из которых есть своя особенная функция. Так, основной модуль камеры на 48 Мп позволяет делать детализированные снимки высокого качества.<br/> </div> </div> <div class=\"aa_markfull_text\"><h3>Сверхширокоугольный модуль 119°</h3> Сверхширокоугольный модуль realme 6i увеличивает угол обзора в 4 раза и дает возможность делать панорамные фото и видео в самых различных условиях.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/4d9/4d963c4cbaef105ebb3d1228b2b4d290.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/184/18440afa39f250aaac274609384dc7f4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Портретный модуль</h3> Благодаря точным настройкам экспозиции, цветовой гаммы и насыщенности, портретный модуль позволяет создавать уникальные художественные портреты с разнообразными эффектами.<br/> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/91c/91c6227e8e25ef851904d64940b1bde1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Утльтраночной режим</h3> realme 6i поддерживает съемку в Ультраночном режиме. Продвинутый набор алгоритмов обработки и оптимизации изображений снижает уровень шума и увеличивает детализацию. <br/> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/339/339f37d2bde09c2e2f709cd25c27c4f2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Модуль для макросъемки</h3> Модуль для макросъемки дает возможность фотографировать на расстоянии до 4 см от объекта и открывает новые возможности для творчества. <br/> <br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/927/9275e7ebb68127469d3ff9d35fa54721.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Фронтальная камера 16 Мп</h3> Фронтальная камера 16 Мп с апертурой F 2.0 поддерживает AI-бьютификацию и эффект Боке. Алгоритм индивидуальной обработки фотографий подчеркивает естественную красоту и помогает создать качественные выразительные селфи.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/875/8758663af1311e32fc0953f8521a552d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Экран 6,5” с каплевидным вырезом</h3> Диагональ экрана realme 6i составляет 6,5 дюймов, а полезная площадь приближается к 90%, что обеспечивает эффект полного погружения при просмотре видео и в играх. Соотношение сторон 20:9 позволило сделать смартфон тоньше и разместить на экране больше информации.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f5c/f5cd25a24c7bfe9e77d1d642206e0cf9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Культовый дизайн от Наото Фукасава</h3> В разработке оформления корпуса realme 6i принял участие гуру промышленного дизайна Наото Фукасава. Технология локального напыления и многократной шлифовки создают неповторимый визуальный эффект.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/2a8/2a8deed489a401e95202c350184788f1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Емкий аккумулятор 5000 мА·ч До 39 дней в режиме ожидания</h3> Емкий аккумулятор на 5000 мАч позволит забыть о регулярной подзарядке на протяжении дня. Трехуровневая система защиты гарантирует безопасную быструю зарядку и продлевает жизненный цикл аккумулятора.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/89d/89d1c444d331df38056af79ff3fc8a86.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>Быстрая зарядка 18 Вт На 180% мощнее</h3> Емкий аккумулятор на 5000 мАч позволит забыть о регулярной подзарядке на протяжении дня. Трехуровневая система защиты гарантирует безопасную быструю зарядку и продлевает жизненный цикл аккумулятора.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/984/9841945d18d7f97ec384fabdcf2697af.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3>3 отдельных слота </h3> <h3>2 SIM-карты + карта памяти</h3> realme 6i поддерживает одновременное использование 2 SIM-карт и карты памяти объемом до 256 ГБ.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_text\"> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/a43/a432a52efcb9a397a9679a8266740fc0.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/3b4/3b4183ad0a9f89e012c401639763ddd4.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/184/18440afa39f250aaac274609384dc7f4.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/91c/91c6227e8e25ef851904d64940b1bde1.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/339/339f37d2bde09c2e2f709cd25c27c4f2.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/927/9275e7ebb68127469d3ff9d35fa54721.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/875/8758663af1311e32fc0953f8521a552d.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/f5c/f5cd25a24c7bfe9e77d1d642206e0cf9.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/2a8/2a8deed489a401e95202c350184788f1.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/89d/89d1c444d331df38056af79ff3fc8a86.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/984/9841945d18d7f97ec384fabdcf2697af.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      },
+      {
+        "url": "/upload/iblock/4d9/4d963c4cbaef105ebb3d1228b2b4d290.jpg",
+        "alt": "Телефон сотовый REALME 6i (3/64GB) Green"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-h-900n-gold/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WH H 900N (gold)",
+  "product_code": "77480",
+  "product_price": {
+    "full": 114990,
+    "discounted": 65990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/53/53faf617-d1c3-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH H 900N (gold)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf617-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH H 900N (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf618-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH H 900N (gold)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/53/53faf619-d1c3-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH H 900N (gold)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной/ беспроводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "5 - 40000",
+      "Чувствительность наушников, дБ/В": "103"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "золотистый",
+      "Вес без упаковки (нетто), кг": "0.5",
+      "Вес в упаковке (брутто), кг": "0.9",
+      "Габариты в упаковке (ВхШхГ), см": "18х15х10"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

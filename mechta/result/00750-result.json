@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-borasco-fishbone-8-pin-3a-1m-blue-38509/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-ek5/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона BoraSCO Fishbone 8 pin, 3A. 1m. Blue (38509)",
+  "product_code": "260001646",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/9a/9a3b75a0-bb58-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BoraSCO Fishbone 8 pin, 3A. 1m. Blue (38509)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/9a/9a3b75a0-bb58-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO Fishbone 8 pin, 3A. 1m. Blue (38509)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/9a/9a3b75a1-bb58-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BoraSCO Fishbone 8 pin, 3A. 1m. Blue (38509)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "Lightning 8 pin/USB",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

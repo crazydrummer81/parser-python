@@ -1,0 +1,100 @@
+{
+  "source_url": "https://www.mechta.kz/product/smart-chasy-samsung-galaxy-galileo-small-r810-nzdaskz/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-6df/",
+    "parent_name": "Смарт часы",
+    "parent_url": "/section/smart-chasy/"
+  },
+  "product_name": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold",
+  "product_code": "76950",
+  "product_price": {
+    "full": 119990,
+    "discounted": 109890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/21/216d67b9-b19d-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/21/216d67b9-b19d-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/216d67ba-b19d-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/216d67bb-b19d-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/216d67bc-b19d-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "до 50 метров согласно стандарту ISO 22810:2010",
+      "Режимы дисплея": "мониторинг физ. активности/ уведомления/ орг/ тел."
+    },
+    "Процессор": {
+      "Процессор, (МГц, количество ядер)": "1150 МГц, 2 ядра"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "1,2 (3,0 см)",
+      "Разрешение дисплея, пикс": "360х360",
+      "Технология изготовления дисплея": "Super AMOLED"
+    },
+    "Память": {
+      "Встроенная память, Гб": "4"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Tizen"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть",
+      "GPS": "есть"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "270",
+      "Работа от аккумулятора, ч": "до 3 - 4 дней",
+      "Беспроводная зарядка": "да"
+    },
+    "Корпус": {
+      "Материал корпуса": "нержавеющая сталь"
+    },
+    "Функции": {
+      "Акселерометр": "есть",
+      "Вибрация": "есть",
+      "Гироскоп": "есть",
+      "Датчик освещенности": "есть",
+      "Датчик сердечного ритма": "есть",
+      "Барометр": "есть"
+    },
+    "Звук": {
+      "Встроенный микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "0,45х0,42х0,13",
+      "Цвет": "золотистый",
+      "Вес без упаковки (нетто), кг": "0.05"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Оставайтесь на связи дольше, чем раньше</h2> <p style=\"text-align: center;\"> Уникальное сочетание функциональности смарт-часов с естественным ощущением аналоговых наручных часов. Galaxy Watch связывает вас с окружающим миром. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/9bb/9bb123d09259818666a10890482797c8.jpg\"/></div> <div class=\"aa_markfull_text\"><p style=\"text-align: center;\"> <b>Новый уровень аутентичности</b> </p> Адаптируйте Galaxy Watch в своему стилю жизни с помощью разнообразных вариантов оформления и сменных циферблатов, а также за счет регулировки яркости. Круглый циферблат, стрелки часов и и тикающий звук придают ощущение настоящих часов.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1c4/1c4e28813a793340e5148d48ce1ee76a.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/1c4/1c4e28813a793340e5148d48ce1ee76a.jpg",
+        "alt": "Смарт часы SAMSUNG Galaxy Watch Galileo-Small R810 NZDASKZ Rose Gold"
+      }
+    ]
+  }
+}

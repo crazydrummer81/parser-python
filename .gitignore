@@ -1,0 +1,10 @@
+/**/env
+/**/*.jpg
+/**/*.jpeg
+/**/*.png
+/**/*.webp
+/**/*.zip
+/**/*.gif
+/**/*.tar
+/**/*.gz
+/**/*node_modules

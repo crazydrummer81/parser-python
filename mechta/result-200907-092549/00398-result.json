@@ -1,0 +1,71 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-xiaomi-tws-mi-airdots-pro-2/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-r71/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "XIAOMI"
+  ],
+  "product_name": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2",
+  "product_code": "260000350",
+  "product_price": {
+    "full": 31990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/cf/cfdd1679-5e9e-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/cf/cfdd1679-5e9e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cf/cfdd167a-5e9e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cf/cfdd167b-5e9e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cf/cfdd167c-5e9e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI TWS Mi AirDots Pro 2"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10",
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "4 часа"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "0,36х0,16х0,16",
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

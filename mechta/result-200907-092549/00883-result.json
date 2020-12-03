@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-plantronics-backbeat-fit-305-209062-99-koral/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics-ljg/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "PLANTRONICS"
+  ],
+  "product_name": "Наушники PLANTRONICS BACKBEAT FIT 305 (209062-99) (корал)",
+  "product_code": "73170",
+  "product_price": {
+    "full": 27980,
+    "discounted": 19990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/da/da600cee-04cd-11e8-80cb-1866daf08915.jpeg",
+    "alt": "Наушники PLANTRONICS BACKBEAT FIT 305 (209062-99) (корал)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/da/da600cee-04cd-11e8-80cb-1866daf08915.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT FIT 305 (209062-99) (корал)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

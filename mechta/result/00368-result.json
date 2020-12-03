@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-denn-tws006/",
+  "product_category": {
+    "name": "DENN",
+    "url": "/section/denn-9vk/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники для телефона DENN TWS006",
+  "product_code": "260000374",
+  "product_price": {
+    "full": 11990,
+    "discounted": 9990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e5/e51f8c1a-5d04-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона DENN TWS006"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e5/e51f8c1a-5d04-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона DENN TWS006"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e51f8c1b-5d04-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона DENN TWS006"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e51f8c1c-5d04-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона DENN TWS006"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e5/e51f8c1d-5d04-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона DENN TWS006"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время в режиме разговора, ч": "3",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "до 4 часов"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0,125"
+    },
+    "Разное": {
+      "Бренд": "DENN",
+      "Гарантия": "2 года",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

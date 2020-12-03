@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-ch-400-bt-black/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WH CH 400 BT (black)",
+  "product_code": "75005",
+  "product_price": {
+    "full": 16890,
+    "discounted": 13130
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/58/585fdae2-5fe6-11e8-a210-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH CH 400 BT (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/58/585fdae2-5fe6-11e8-a210-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 400 BT (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "SONY"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

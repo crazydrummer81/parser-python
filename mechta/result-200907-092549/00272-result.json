@@ -1,0 +1,176 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y5p-midnight-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "HUAWEI"
+  ],
+  "product_name": "Телефон сотовый HUAWEI Y5p (midnight black)",
+  "product_code": "260001604",
+  "product_price": {
+    "full": 44890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f0/f03c39ff-aec2-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f0/f03c39ff-aec2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7ad-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7ae-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7af-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b0-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b1-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b2-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b3-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b4-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c6/c6b2c7b5-aeee-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6762R",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,45 (13,5 см)",
+      "Разрешение дисплея, пикс": "1440х720",
+      "Технология изготовления дисплея": "IPS LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "8",
+      "Режим видеосъемки": "1920 x 1080 30 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.2",
+      "Особенности тыловой камеры": " f/2.0 / автофокус/ вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3020",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Cканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,7х7,1х0,84",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,144"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>HUAWEI Y5p</b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/650/65007aebd5a638e47dfa8cc7f47bec94.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/36e/36e29db8027aea4c19a1b49311c266dd.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Безрамочный экран</b></h3> Благодаря безрамочному HD-экрану 5,45 дюйма HUAWEI Y5p дарит комфортный визуальный опыт. Компактный размер корпуса позволяет управлять смартфоном одной рукой, а широкоформатный экран создает эффект полного погружения.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a90/a90bc8194ad07b54293967169ccf0514.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Впечатляющие цвета</b></h3> HUAWEI Y5p представлен в трех сияющих цветах, которые превращают смартфон в элегантный и стильный аксессуар. Оцените пленительный шарм полночного черного оттенка, универсальный вид мерцающего синего и свежесть мятного зеленого. HUAWEI Y5p не только выглядит стильно, но его также приятно держать в руке благодаря плавным линиям и глянцевому покрытию корпуса.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0a5/0a59bf429e2c27fb75e646a2b5c006fe.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Внушительный объем памяти</b></h3> HUAWEI Y5p оснащен большим объемом памяти 32 ГБ и тройным слотом для карт, в который могут быть установлены 2 nanoSIM-карты и SD-карта памяти до 512 ГБ, что обеспечивает больше пространства для приложений, фото и видео. Все нужные вам данные хранятся в компактном корпусе смартфона и всегда доступны, где бы вы ни были.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/4f7/4f7991c2aebcc9f8606195a596543d21.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Длительная работа батареи</b></h3> В HUAWEI Y5p установлена батарея емкостью 3 020 мА*ч (типичное значение), которая обеспечивает 17 часов работы устройства в режиме воспроизведения видео, а также позволяет выполнять ежедневные операции на устройстве, не отвлекаясь каждые несколько часов на дополнительную зарядку. Функция интеллектуального энергосбережения оптимизирует энергопотребление батареи, благодаря чему вы можете выполнять ежедневные задачи, не беспокоясь об уровне заряда батареи. <h6>*Фактические данные могут отличаться в зависимости от модели устройства, версии ПО, условий эксплуатации и условий окружающей среды.</h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3a3/3a346eec9cd4e5f3cc69bf49b3411fa9.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Интеллектуальная разблокировка экрана</b></h3> Благодаря интеллектуальной функции распознавания лица на базе искусственного интеллекта вы можете быстро разблокировать экран смартфона HUAWEI Y5p. Передовой алгоритм и точное распознавание лица обеспечивают простоту и комфорт в использовании устройства. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e48/e48705cfd4fd2ff7813a21930dde1351.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фирменный магазин приложений</b></h3> Магазин приложений HUAWEI AppGallery — это официальная платформа Huawei, которая позволяет искать и загружать приложения, а также управлять и делиться ими. HUAWEI AppGallery продолжает развивать глобальную экосистему приложений, которая дарит вам доступ к широкому набору безопасных и эффективных мобильных сервисов. Пользуйтесь эксклюзивным контентом магазина, получайте специальные предложения и участвуйте в акциях. </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/36e/36e29db8027aea4c19a1b49311c266dd.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/a90/a90bc8194ad07b54293967169ccf0514.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/0a5/0a59bf429e2c27fb75e646a2b5c006fe.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/4f7/4f7991c2aebcc9f8606195a596543d21.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/3a3/3a346eec9cd4e5f3cc69bf49b3411fa9.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/e48/e48705cfd4fd2ff7813a21930dde1351.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI Y5p (midnight black)"
+      }
+    ]
+  }
+}

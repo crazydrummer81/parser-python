@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-samsung-smart-clear-view-cover-g-980-black-ef-zg980cbegru/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-ufj/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона SAMSUNG Smart Clear View Cover G 980 black (EF-ZG980CBEGRU)",
+  "product_code": "260000198",
+  "product_price": {
+    "full": 18990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Чехол для телефона SAMSUNG Smart Clear View Cover G 980 black (EF-ZG980CBEGRU)"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Чехол для телефона SAMSUNG Smart Clear View Cover G 980 black (EF-ZG980CBEGRU)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Материал сумки/чехла": "пластик",
+      "Для моделей": "Galaxy S20"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0,1"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

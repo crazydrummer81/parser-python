@@ -1,0 +1,175 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y8p-breathing-crystal/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI Y8p (breathing crystal)",
+  "product_code": "260001603",
+  "product_price": {
+    "full": 109890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/bc/bc2c8483-af80-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8483-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c848d-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c848e-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c848f-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8490-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8491-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8492-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8493-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bc/bc2c8494-af80-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 710F",
+      "Процессор, (МГц, количество ядер)": "2200 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,3 (16 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "OLED",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "Nano Memory Card",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+2",
+      "Режим видеосъемки": "1920 x 1080 30 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": "Ультраширокоугольная/Портретный/Ночной режим"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ/компас",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,7х7,3х0,77",
+      "Цвет": "голубой",
+      "Вес без упаковки (нетто), кг": "0,163"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>HUAWEI Y8p</b></h2> <b> </b> <p style=\"text-align: center;\"> <b> </b> </p> <b> </b> <h3 style=\"text-align: center;\"><b>В ритме технологий</b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2b0/2b0d0bf7c7fac861a111d1c773a554e8.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>OLED-экран с каплевидной темной областью</b></h3> OLED-экран 6,3 дюйма с каплевидной темной областью имеет полезную площадь 90,17% и разрешение 2400 х 1080 пикселей, благодаря чему обеспечивает незабываемый визуальный опыт и профессиональную цветопередачу. Смотрите видео, играйте в игры, просматривайте картинки в веб-браузере — светлые и темные детали изображений будут четкими и контрастными.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/11c/11c9e0c41c57a77dae573e34236299f3.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/861/861fbac3900e0b8911f9c8f55d2366f0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Красота света и тени</b></h3> Дизайн HUAWEI Y8p вдохновлен гармоничным сочетанием тени и света. Смартфон представлен в трех оттенках: полночном черном, светло-голубом и изумрудно-зеленом. Легкий и прочный корпус из 3D-стекла с закругленными краями обеспечивает комфортное использование.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0cd/0cd390b3bdd2dc1a21c5a0196e2b431d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Сканер отпечатков пальцев, встроенный в экран</b></h3> Сканер отпечатков пальцев, встроенный в экран, позволяет разблокировать ваш смартфон HUAWEI Y8p быстро и удобно. Усовершенствованная технология обеспечивает более высокий коэффициент успешных разблокировок. Ощутите преимущества новой технологии, когда активируете смартфон или совершаете оплату. <br/> <br/> </div> </div> <div class=\"aa_markfull_text\"><h3><b>Основной объектив высокой четкости 48 МП</b></h3> С помощью основного объектива 48 МП вы сможете создавать реалистичные снимки с высокой детализацией, четкостью и контрастностью даже в условиях слабого освещения.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0a1/0a17ef7a4b4587a5003fd982a3eb176b.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Ультраширокоугольный объектив с углом обзора 120°</b></h3> Перейдите в режим широкоформатной съемки, чтобы создавать масштабные снимки архитектурных ансамблей или групповые фото, на которых в кадр точно поместятся все. Благодаря ультраширокоугольному объективу 8 МП ваш смартфон способен охватить угол обзора 120°.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/32d/32d3b9a3114ca3c73d168eff0e045bbd.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c69/c69f7d6fe219f9b2e3f8c25f3b653662.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим ночной съемки</b></h3> В режиме ночной съемки с функцией стабилизации изображения на базе искусственного интеллекта максимальное время выдержки достигает 6 секунд3. Вы сможете легко создавать четкие ночные снимки даже без штатива. Алгоритм на базе искусственного интеллекта эффективно обрабатывает фото для наилучшего результата при съемке в темноте.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/16d/16db602131eec749a9f05ed8d2598a61.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Сверхчувствительный объектив</b></h3> Этот объектив оснащен сверхчувствительным датчиком HUAWEI SuperSpectrum, который пропускает больше света и позволяет создавать детализированные четкие снимки в условиях слабого освещения.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b05/b05fdad9da389f9d31144406a04c85ff.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Большой объем памяти</b></h3> Благодаря оперативной памяти объемом 4 ГБ вы сможете удобно работать в нескольких приложениях одновременно и быстро переключаться между ними, а встроенная память объемом 128 ГБ позволит хранить на смартфоне ваши любимые видео, фото и игры. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/9c1/9c132def867249bb3fee90511f84374f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Высокоемкая батарея</b></h3> Смартфон HUAWEI Y8p оснащен мощной батареей емкостью 4 000 мА*ч. Вам точно хватит энергии на воспроизведение видео и музыки или на просмотр веб-страниц в течение длительного времени. Выходя из дома в обычный день или отправляясь в небольшое путешествие,вы можете спокойно оставить внешний аккумулятор дома. <h6>*Время работы батареи зависит от фактического использования.</h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/374/374eed743b9bc3911fcd26610aee6c83.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Высокая эффективность с технологией GPU Turbo 3.0</b></h3> Обновленная технология графической обработки GPU Turbo 3.0 совместима с более чем 20 играми. Она позволяет снизить потребление ресурсов процессора на 10%, оптимизировать производительность системы и обеспечить качественный игровой опыт с эффектом погружения.<br/> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/dd5/dd534cd6e3c204d6a4b8d6cf8c9e5761.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Фирменный магазин приложений</b></h3> Магазин приложений HUAWEI AppGallery — это официальная платформа HUAWEI, которая позволяет искать и загружать приложения, а также управлять и делиться ими. HUAWEI AppGallery продолжает развивать глобальную экосистему приложений, которая дарит вам доступ к широкому набору безопасных и эффективных мобильных сервисов. Пользуйтесь эксклюзивным контентом магазина, получайте специальные предложения и участвуйте в акциях.<br/> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/861/861fbac3900e0b8911f9c8f55d2366f0.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/0cd/0cd390b3bdd2dc1a21c5a0196e2b431d.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/c69/c69f7d6fe219f9b2e3f8c25f3b653662.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/16d/16db602131eec749a9f05ed8d2598a61.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/b05/b05fdad9da389f9d31144406a04c85ff.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/9c1/9c132def867249bb3fee90511f84374f.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/374/374eed743b9bc3911fcd26610aee6c83.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/dd5/dd534cd6e3c204d6a4b8d6cf8c9e5761.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI Y8p (breathing crystal)"
+      }
+    ]
+  }
+}

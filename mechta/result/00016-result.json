@@ -1,0 +1,155 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-217-galaxy-a21s-fzkns-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)",
+  "product_code": "260001478",
+  "product_price": {
+    "full": 104890,
+    "discounted": 74890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dc/dc6a5667-aad2-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a5667-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a566a-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a566b-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a566c-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a566d-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a566e-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Exynos 850",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "PLS TFT LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MP2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+2+2",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "13",
+      "Особенности фронтальной камеры": " f/2.2/ Селфи фокус",
+      "Особенности тыловой камеры": "Четыре камеры/ Сверхширик/ Макро/ Сенсор глубины"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,5х0,9",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,192"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d64/d64f57868934d7a13e9604792b34ebc9.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Новые возможности на большом экране</b></h3> <p style=\"text-align: center;\"> Оцени эффект полного погружения в контент на безграничном 6.5-дюймовом экране смартфона Galaxy A21s. Большой и яркий широкоугольный дисплей с разрешением HD+ позволит смотреть фильмы и сериалы, наслаждаться любимыми играми и приложениями без остановок. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/696/69602746a8fda89231ba88115f8e7004.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/596/596cd651f50f3c4ae424781405f9c18f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Одна камера - разные сюжеты</b></h3> <p style=\"text-align: center;\"> Сверхширокоугольная камера позволит тебе запечатлеть мир во всей полноте красок благодаря широкому углу обзора. А благодаря основной 48МП камере твои фотографии будут яркими и четкими как днем, так и ночью. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/515/515342f2a95f684107712a491c98a5aa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Камера для макросъемки: не упусти ни единой детали</b></h3> <p style=\"text-align: center;\"> 2МП камера для макросъемки позволяет делать четкие снимки, фиксируя мельчайшие детали объектов. Примени эффект \"Боке\" для размытия фона, чтобы выделить свой главный предмет съемки и усилить уровень его восприятия. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d86/d86b28955edbed3d04c4a31b5e33c9d2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Камера с датчиком глубины</b></h3> <p style=\"text-align: center;\"> Камера с датчиком глубины 2МП позволяет регулировать уровень размытия фона как до, так и после съемки. Усовершенствованный модуль камеры позволяет убрать нежелательные шумы с фотографий, чтобы они выглядели более профессионально. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/354/354d7863e28efcca89105b404be112cf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сделать отличное селфи - теперь еще проще</b></h3> <p style=\"text-align: center;\"> Учишься делать идеальные селфи? Фронтальная 13МП камера Galaxy A21s отлично справиться с этой задачей и поможет тебе. А с помощью функции \"Живой фокус\", мягко размывающей фон, внимание будет только на тебе. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Мощный аккумулятор на целый день работы</b></h3> <p style=\"text-align: center;\"> Напряженный рабочий график или расслабленный отдых с друзьями - в любой ситуации нужен смартфон, на который можно положиться. Мощный аккумулятор емкостью 5000 мАч (типичное значение)* позволит тебе играть, пользоваться стриминговыми сервисами и смотреть любимые фильмы и сериалы часами напролет. А если заряд аккумулятора стремится к нулю, ты всегда сможешь быстро его восполнить благодаря поддержке быстрой зарядки 15Вт. </p> <h6 style=\"text-align: center;\"> *Фактический рабочий ресурс батареи может зависеть от сетевого окружения, особенностей использования и других факторов. </h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/073/073edb5cabfa6d4d0281c40e43103853.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Расширенное пространство для работы и развлечений</b></h3> <p style=\"text-align: center;\"> Galaxy A21s оснащен быстрым процессором и вместительным хранилищем, поэтому можно не переживать о нехватке места. Новый восьмиядерный процессор и оперативная память 3/4 ГБ обеспечат плавную и эффективную работу игр и приложений. Выбирайте версию с 32 или 64 ГБ встроенной памяти и не забывайте, что ее всегда можно расширить с помощью microSD карты до 512ГБ, чтобы сохранить еще больше моментов и эмоций. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a54/a54e426644517e69146bcd05d332bf5d.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/167/1671818450dcc392f782d5b613dcd849.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Удобная мобильная защита</b></h3> <p style=\"text-align: center;\"> <b><span style=\"color: #363636;\">Сканер отпечатка пальца</span></b><br/> Упрости доступ к своим данным с помощью защиты, которой можно доверять. Сканер отпечатка пальца на задней панели Galaxy A21s позволяет легко и быстро разблокировать телефон и входить в приложения с поддержкой использования биометрии.<br/> <b><span style=\"color: #363636;\">Распознавание лица</span></b><br/> Теперь ты можешь разблокировать смартфон просто поднеся его к лицу. Технология распознавания лица Galaxy A21s гарантирует доступ к данным только его владельцу, благодаря чему твои личные данные никогда не попадут в чужие руки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/aff/affb9fe14ca5a682b5cd7772692f4375.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Надежная система защиты теперь доступна каждому</b></h3> <p style=\"text-align: center;\"> Абсолютная безопасность данных с Samsung Knox. Многоуровневая система безопасности Samsung Knox защищает ваши личные данные от вирусов и вредоносных атак как на аппаратном, так и на программном уровне. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/596/596cd651f50f3c4ae424781405f9c18f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/515/515342f2a95f684107712a491c98a5aa.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/d86/d86b28955edbed3d04c4a31b5e33c9d2.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/354/354d7863e28efcca89105b404be112cf.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/167/1671818450dcc392f782d5b613dcd849.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/aff/affb9fe14ca5a682b5cd7772692f4375.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/a54/a54e426644517e69146bcd05d332bf5d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 217 Galaxy A21S FZKNS (black)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/remeshok-apple-44mm-productred-sport-band-zkmu9n2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-qc9/",
+    "parent_name": "Ремешки для смарт часов",
+    "parent_url": "/section/remeshki-dlya-smart-chasov/"
+  },
+  "product_name": "Ремешок APPLE 44mm (PRODUCT)RED Sport Band  (ZKMU9N2ZMA)",
+  "product_code": "80057",
+  "product_price": {
+    "full": 26990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/58/5819078b-3ef5-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Ремешок APPLE 44mm (PRODUCT)RED Sport Band  (ZKMU9N2ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/58/5819078b-3ef5-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 44mm (PRODUCT)RED Sport Band  (ZKMU9N2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/58/5819078c-3ef5-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 44mm (PRODUCT)RED Sport Band  (ZKMU9N2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/58/5819078d-3ef5-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Ремешок APPLE 44mm (PRODUCT)RED Sport Band  (ZKMU9N2ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Размер ремешка, см": "обхватом 14–21 см.",
+      "Ремешок": "Спортивный ремешок "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай",
+      "Для корпуса размером, мм": "44",
+      "Материал": "фторэластомер"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

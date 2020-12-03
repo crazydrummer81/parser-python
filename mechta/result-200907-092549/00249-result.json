@@ -1,0 +1,167 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-find-x2-black/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO Find X2 Black",
+  "product_code": "260001298",
+  "product_price": {
+    "full": 499990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7f/7f81750e-a002-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO Find X2 Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f81750e-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f81750f-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f817510-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f817511-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f817512-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f817513-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7f/7f817514-a002-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO Find X2 Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP54"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 865",
+      "Процессор, (МГц, количество ядер)": "2840 ГГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.8:9",
+      "Диагональ экрана, дюйм": "6,7 (17 см)",
+      "Разрешение дисплея, пикс": "3168х1440 (Quad HD+)",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "1,07 млрд.",
+      "Частота обновления, Гц": "120"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "12",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 650"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.1",
+      "Wi-Fi": "есть, Wi-Fi IEEE 802.11ac",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+13+12",
+      "Режим видеосъемки": "4K 60fps/1080p 60fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.4 / портретный режим/ ночные селфи ",
+      "Особенности тыловой камеры": "Оптический зум/Телеобъектив/Макро/Ночной режим"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4200",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав, керамика, стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, два стереодинамика/ Dolby Atmos"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,4х7,4х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,196"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Поддержка 5G": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>OPPO Find X2</b><b> </b></h2> <h2 style=\"text-align: center;\">УМНОЖАЙ ВПЕЧАТЛЕНИЯ</h2> <h2></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f25/f25b4ddb62a2c735c77f0bebbb2d5f4f.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Новый взгляд на экран</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Ultra Vision Screen</b></h3> <p style=\"text-align: center;\"> Экран с частотой 120 Гц и разрешением QHD+ соответствует современным флагманским стандартам, он способен отображать более миллиарда различных оттенков. Настройте комфортный режим просмотра благодаря внушительному набору функций. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1f4/1f4c5835480b0bbedceaecf9959f7fee.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Откройте для себя совершенные видео</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Ultra Vision Engine</b></h3> <p style=\"text-align: center;\"> Благодаря уникальному чипу Ultra Vision Engine, просмотр видео стал комфортным как никогда. Чип оптимизации обеспечивает отличное качество изображения, и даже<br/> обычные видео можно преобразовывать в формат HDR с высокой кадровой частотой, что дает совершенно другие ощущения от просмотра. Прибавьте к этому технологию Dolby Atmos® с двойными стереодинамиками, и вы поймете, что в вашем распоряжении теперь личный карманный кинотеатр. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0c2/0c22fa7e146152c79c364c899ce53dc6.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/57f/57fecbb574cd16a6921adf834c2c2d9e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим Ultra Night 3.0</b></h3> <span style=\"color: #262626;\"><b><span style=\"color: #262626;\">Запечатлейте в кадре красоту ночи</span></b></span><br/> Смартфон Find X2 оснащен основной камерой с матрицей Sony IMX586 на 48 Мп. Благодаря большому размеру матрицы (1/2.0\"), диафрагме f/1.7 и технологии многокадрового шумоподавления вы сможете запечатлеть ночные пейзажи и кадры в мельчайших деталях. Фотографии будут четкими даже при самом слабом освещении. Алгоритм Ultra Night 3.0 применяется ко всем трем объективам, поэтому делать замечательные ночные снимки можно с любого расстояния и ракурса. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/81e/81ec221000c18f54b1b251252fec4d5f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим макросъемки</b></h3> <b><span style=\"color: #262626;\">Взгляните на мир по-новому</span></b><br/> Смартфон Find X2 позволяет делать сверхчеткие макроснимки на расстоянии от 3 см. При этом, на фотографиях идеально передаются цвета и мельчайшие детали. Откройте для себя удивительный макромир. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/084/08426c4bd1b3d68c6542366c3fe75745.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Режим портретной съемки</b></h3> <b><span style=\"color: #262626;\">Уловите идеальный образ</span></b><br/> Снимать портреты на профессиональном уровне стало еще легче. Настройте идельный режим, выбрав один из пяти доступных стилей, уровень бьютификации, корректировку цвета и размытия фона. Нажмите на кнопку съемки – идеальный портрет готов! </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/39e/39e7e3255e45bb860ecc76a5a09d9de3.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Ночные селфи в HD-качестве при съемке на камеру 32 Мп</b></h3> <b><span style=\"color: #262626;\">Вас ничто не затмит</span></b><br/> Снимайте изумительные селфи благодаря фронтальному HD-объективу с разрешением 32 Мп и функцией AI бьютификации. Алгоритм Ultra Night и режим интеллектуального наполнения светом помогут вам сиять естественной красотой даже в темноте. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/020/020c7ce6fc1b184a5db4e54be6559345.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Видео в режиме Pro</b></h3> <b><span style=\"color: #262626;\">Уверенность в движении</span></b><br/> С функцией ультрастабилизации видео даже сильная тряска не помешает съемке. Активируйте режим Pro, который благодаря ультраширокоугольному объективу на 120 градусов и абсолютно новому алгоритму стабилизации, позволит вместить больше пространства в кадр и улучшить качество изображения. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f94/f944c7a36f20ada264f1555ce075cb39.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Запись звука с трех микрофонов</b></h3> <b><span style=\"color: #262626;\">Избавьтесь от шума</span></b><br/> На смартфонах Find X2 установлены три записывающих микрофона, которые позволяют улавливать звук со всех сторон одновременно. Кроме того, вы можете устранить шум ветра, записать аудио в режиме 3D и даже увеличить громкость голоса человека, используя зум во время записи видео. </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/57f/57fecbb574cd16a6921adf834c2c2d9e.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/81e/81ec221000c18f54b1b251252fec4d5f.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/084/08426c4bd1b3d68c6542366c3fe75745.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/39e/39e7e3255e45bb860ecc76a5a09d9de3.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/020/020c7ce6fc1b184a5db4e54be6559345.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/f94/f944c7a36f20ada264f1555ce075cb39.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      },
+      {
+        "url": "/upload/iblock/0c2/0c22fa7e146152c79c364c899ce53dc6.jpg",
+        "alt": "Телефон сотовый OPPO Find X2 Black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-xiaomi-redmi-20-000mah-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Портативные Power Bank",
+    "XIAOMI"
+  ],
+  "product_name": "Портативное зарядное устройство XIAOMI Redmi 20 000mAh White",
+  "product_code": "00713",
+  "product_price": {
+    "full": 12990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbcb2c7-2244-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство XIAOMI Redmi 20 000mAh White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2c7-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Redmi 20 000mAh White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2c8-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Redmi 20 000mAh White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2c9-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI Redmi 20 000mAh White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "20000",
+      "Макс. входное напряжение": "5В/2.1А"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "нет",
+      "Время зарядки ": "20 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "9,1х6х2,2",
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Макс. выходное напряжение": "5В/2,4А"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

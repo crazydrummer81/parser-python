@@ -1,0 +1,64 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-305-black/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники HARPER HB 305 (black)",
+  "product_code": "84059",
+  "product_price": {
+    "full": 6990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5d/5d1f0763-e022-11e9-a227-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 305 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d1f0763-e022-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 305 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d1f0764-e022-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 305 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5d/5d1f0765-e022-11e9-a227-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 305 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "1-1,5 часа",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 4 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.076"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

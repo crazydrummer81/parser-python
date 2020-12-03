@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/adapter-dlya-telefona-apple-lightning-to-micro-usb-zkmd820zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-7l8/",
+    "parent_name": "Адаптеры",
+    "parent_url": "/section/adaptery/"
+  },
+  "product_name": "Адаптер для телефона APPLE Lightning to Micro USB ZKMD820ZMA",
+  "product_code": "48029",
+  "product_price": {
+    "full": 9990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f4/f4444c41-9c33-11e7-80bd-005056c00008.jpeg",
+    "alt": "Адаптер для телефона APPLE Lightning to Micro USB ZKMD820ZMA"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f4/f4444c41-9c33-11e7-80bd-005056c00008.jpeg",
+      "alt": "Адаптер для телефона APPLE Lightning to Micro USB ZKMD820ZMA"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f4/f4444c42-9c33-11e7-80bd-005056c00008.jpeg",
+      "alt": "Адаптер для телефона APPLE Lightning to Micro USB ZKMD820ZMA"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f4/f4444c43-9c33-11e7-80bd-005056c00008.jpeg",
+      "alt": "Адаптер для телефона APPLE Lightning to Micro USB ZKMD820ZMA"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "USB": "Lightning/ Micro USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

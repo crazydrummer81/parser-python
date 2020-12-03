@@ -1,0 +1,191 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-p40-pro-silver-frost/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI P40 Pro Silver Frost",
+  "product_code": "260000938",
+  "product_price": {
+    "full": 499890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8b/8b96d0bc-8d25-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0bc-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0bd-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0be-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0bf-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0c0-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0c1-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0c2-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0c3-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8b96d0c4-8d25-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP68"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 990 5G",
+      "Процессор, (МГц, количество ядер)": "2860 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.5:9",
+      "Диагональ экрана, дюйм": "6,58 (16,7 см)",
+      "Разрешение дисплея, пикс": "2640х1200",
+      "Технология изготовления дисплея": "OLED",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "90"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "Nano Memory Card",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G76 MC16"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.1,BLE",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac/ax 2.4G, HE160, MIMO 2x2 ",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "50+40+12+3D",
+      "Режим видеосъемки": "4K 60fps/1080p 60fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32+3D",
+      "Особенности фронтальной камеры": "Двойная камера/ f/2.2/ 3D TOF-камера/Автофокус/HDR",
+      "Особенности тыловой камеры": "Широкоугольный/Кинообъектив/Телефотообъектив/3D"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4200",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "есть",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,8х7,2х0,9",
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0,209"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "P40 Pro",
+      "Поддержка казахского языка": "есть",
+      "Поддержка 5G": "есть",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2> <!--noindex--><a href=\"https://consumer.huawei.com/ru/community/details/topicId_3315/\" rel=\"nofollow\" title=\"Руководство по установке приложений\">Установка приложений</a><!--/noindex--></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/50e/50e4b7cd50e58cb33d36b22e8e651081.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\">Выражайте себя с помощью ультракамеры <b>Leica</b> с четырьмя объективами. Делайте фото и снимайте видео в любом месте и в любое время. Измените свое представления о скорости и мощности с новым современным процессором <b>Kirin 990 5G</b>. Инновационный дизайн подарит новые ощущения от использования смартфона. Изучайте настоящее и будущее вместе с <b>HUAWEI P40 Pro</b>.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/fa1/fa11ec6b45081509a9610d5f1d79aa87.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Чудо в ваших руках</b><br/> Вдохновленный плавностью течения реки, новый экран с обтекаемыми краями буквально выливается за рамки, поражая воображение. Испытайте эффект полного погружения с новой частотой обновления экрана 90 Гц. Благодаря эргономичному дизайну рамок и закругленным краям, смартфон удобно лежит в руке и дарит незабываемый визуальный опыт.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/675/67560df91a6500eb2c52ef68fca5e147.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e11/e114d03e631bf003f54488be22a49b70.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Каждая деталь скрывает за собой историю</b></h3> <h3 style=\"text-align: center;\">Благодаря 50-мегапиксельному основному объективу, каждая деталь снимка выглядит, как в жизни! Только теперь вы можете увеличить любую часть кадра и получить совершенно новую фотографию.</h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/df0/df040fa6c930b37445265d5d3a7d180a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Добавьте немного света и получите желаемую яркость!</b> </h3> <h3 style=\"text-align: center;\">Благодаря сенсору HUAWEI Ultra Vision Sensor, камера сможет запечатлеть вашу улыбку, восхитительный наряд и ночной горизонт с невероятной яркостью и четкостью без дополнительного освещения, даже в полной темноте. Открывайте истории внутри историй.</h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d65/d65fcec5e755e06744d0f3f1b05e2c78.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Загляните за горизонт </b></h3> <h3 style=\"text-align: center;\">Дизайн телеобъектива спроектирован таким образом, что на компактном корпусе помещается несколько увеличивающих объективов. Теперь вы можете четко увидеть то, что было недоступно для ваших глаз. А сенсор RYYB подарит на 40% больше четкости кадру, даже при слабом освещении. Уникальные технологии стабилизации изображения AIS и OIS обеспечивают непревзойденное увеличение до 50x раз.</h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b24/b249541e15a5d642f5079b96ad594284.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Разглядите каждую деталь!</b> </h3> <h3 style=\"text-align: center;\">Вам больше не нужно подходить поближе! Четкий контур и естественные цвета гарантированы даже при высоком увеличении. Вы сможете увидеть во время концерта гитару вашего любимого музыканта, текст на предупредительном знаке на другом берегу реки и даже слезы счастья на лице спортсмена, победившего в соревнованиях. Все это стоит того, чтобы быть увиденным.</h3> </div> </div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Портретная съемка на базе искусственного интеллекта AI Portrait Studio</b><br/> Благодаря основной камере Ultra Vision и многоспектральному сенсору цветовой температуры с алгоритмом AI AWB, HUAWEI P40 Pro обеспечивает на 45% лучшую точность цветопередачи и способен к точному анализу и сегментации окружающей среды и людей. С повышением качества пикселей он восстанавливает первоначальный вид фотографии с отличным освещением, естественными цветами и четкими деталями. Будьте всегда готовы сделать качественные портретные снимки любой модели, в любое время, в любых условиях.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/b18/b18b029f305d5de32e2b3d81bf28881b.jpg\"/></div> <div class=\"aa_markfull_text\"><h3 style=\"text-align: center;\"><b>Лучшее селфи с первой попытки.</b> </h3> <h3 style=\"text-align: center;\">Обновленная фронтальная камера 32 МП с автофокусом и объектив для измерения глубины резкости с инфракрасным датчиком создает качественные селфи-фото с естественным эффектом боке. Благодаря оптимизированным настройкам света, естественной передаче цвета кожи и четкой детализации изображения вы полюбите делать селфи.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/65b/65b43728f4b5df6e7e84d1bec687b706.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/695/695cbed1ff3da4c1f36f8f69eec3c1e0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ощутите все преимущества высокой производительности.</b></h3> <p style=\"text-align: center;\"> Испытайте сверхскорость с помощью первого в мире интегрированного процессора 5G SoC, Kirin 990 5G. Благодаря технологии 7nm+ EUV и инновационной архитектуре процессоров, HUAWEI P40 может достичь высочайшей эффективности и скорости системы. Поразитесь выдающейся графической производительности процессора Mali-G76 MC16, беспрецедентной обработкой изображений, работающей на модернизированном ISP, и расширенными возможностями искусственного интеллекта в двухъядерном NPU. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/996/9964150ddf289e0456c3eb8d6a12f7f8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Погрузитесь в иру с головой</b></h3> <p style=\"text-align: center;\"> Обновленные технологии обработки оптимизируют изображение, чтобы обеспечить плавную работу при низком энергопотреблении. Откройте игру с частотой кадров 90 fps на экране 90 Гц — и вы сразу почувствуете разницу. Еще более стабильная и плавная передача изображения большую часть времени выполняется на высокой кадровой частоте. Высокая производительность могла бы вызвать перегрев, но у вас нет причин для беспокойства. Система охлаждения на базе графеновой 3D-пленки и ультратонкой испарительной камеры обеспечивает эффективное отведение тепла. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/833/833c51853c7d653f4d8d6751bb2d6769.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Энергия на каждый день.</b></h3> <p style=\"text-align: center;\"> Инновационная архитектура процессора обеспечивает высокую энергоэффективность. Искусственный интеллект распределяет ресурсы батареи 4200 мАч для достижения высокой производительности и длительной работы батареи. </p> <h3 style=\"text-align: center;\"> Быстрая зарядка 40 В HUAWEI SuperCharge</h3> <p style=\"text-align: center;\"> Расслабьтесь и выпейте чашечку кофе. Когда вы будете готовы, ваш смартфон будет полон энергии. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/54e/54eff0390e34a9292e3f879ee5b0e107.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Постоянная защита. </b></h3> <h3 style=\"text-align: center;\">IP68 — ваш пропуск в мир без границ*</h3> <p style=\"text-align: center;\"> Смело отправляйтесь навстречу приключениям, ведь вашему смартфону не страшны случайные брызги или капли совсем не кстати начавшегося дождя. Теперь ничто не ограничивает ваш творческий потенциал.<br/> </p> <h6 style=\"text-align: center;\"><br/> </h6> <h6 style=\"text-align: center;\">*Устройство прошло испытания в контролируемой среде и сертифицировано как брызгозащищенное, водо и пыленепроницаемое (отвечает требованиям класса IP68 в соответствии со стандартом IEC 60529). Защита от брызгов, воды и пыли не постоянна и со временем может ослабнуть в результате естественного износа. Не заряжайте смартфон, когда он влажный или находится во влажной среде. При наличии повреждений, возникших в результате погружения смартфона в воду, гарантийный ремонт не осуществляется.</h6> <h6></h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/387/387061cf37afc768ce92240525de9aa4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ваше лицо - самый надежный пароль.</b></h3> <p style=\"text-align: center;\"> Функция разблокировки по лицу точно определяет черты вашего лица, чтобы разблокировать экран или предоставить доступ к частному приложению. При свете или в темноте, проверка выполняется быстро и надежно. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/dfb/dfb611b4c34793746d17830e5b523616.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Идентификация в одно касание</b></h3> <p style=\"text-align: center;\"> Возьмите смартфон в руку и в то же мгновение разблокируйте его своим отпечатком пальца, благодаря увеличенной области сканера. Быстрый, точный и комфортный способ распознавания. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e11/e114d03e631bf003f54488be22a49b70.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/df0/df040fa6c930b37445265d5d3a7d180a.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/d65/d65fcec5e755e06744d0f3f1b05e2c78.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/b24/b249541e15a5d642f5079b96ad594284.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/695/695cbed1ff3da4c1f36f8f69eec3c1e0.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/996/9964150ddf289e0456c3eb8d6a12f7f8.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/833/833c51853c7d653f4d8d6751bb2d6769.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/54e/54eff0390e34a9292e3f879ee5b0e107.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/387/387061cf37afc768ce92240525de9aa4.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/dfb/dfb611b4c34793746d17830e5b523616.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Pro Silver Frost"
+      }
+    ]
+  }
+}

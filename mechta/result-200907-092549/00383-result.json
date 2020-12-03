@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-samsung-ep-ta300cbegru-type-c-2a-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-4da/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "SAMSUNG"
+  ],
+  "product_name": "Зарядное устройство для телефонов SAMSUNG (EP-TA300CBEGRU) TYPE-C 2A black",
+  "product_code": "80084",
+  "product_price": {
+    "full": 10990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/88/8893b0ae-3e52-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов SAMSUNG (EP-TA300CBEGRU) TYPE-C 2A black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0ae-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG (EP-TA300CBEGRU) TYPE-C 2A black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0af-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов SAMSUNG (EP-TA300CBEGRU) TYPE-C 2A black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "110-240 В",
+      "я удален": "2.1А "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.16"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Корея",
+      "Длина кабеля": "1,5 м",
+      "Дополнительно": "USB 2.0 тип A (разъем) / USB тип C (штекер)"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

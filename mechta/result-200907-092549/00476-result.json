@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-mate-dlya-samsung-galaxy-a01-chernyy-matovyy-38528/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A01, черный матовый (38528)",
+  "product_code": "01350",
+  "product_price": {
+    "full": 1390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/83/83daef60-4bb4-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A01, черный матовый (38528)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/83/83daef60-4bb4-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Mate для Samsung Galaxy A01, черный матовый (38528)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A01"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

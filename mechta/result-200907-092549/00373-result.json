@@ -1,0 +1,88 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-515-black/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "HARPER"
+  ],
+  "product_name": "Наушники HARPER HB 515 (black)",
+  "product_code": "01364",
+  "product_price": {
+    "full": 11890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/98/98dfee0a-47d0-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 515 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/98/98dfee0a-47d0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 515 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/98/98dfee0b-47d0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 515 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/98/98dfee0c-47d0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 515 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/98/98dfee0d-47d0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 515 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/98/98dfee0e-47d0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 515 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "8 - 20000",
+      "Защита от воды и пыли": "есть",
+      "Чувствительность, дБ": "96"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Время работы от аккумулятора, ч": "до 5 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "включения "
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "24х16х25",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "4.1 гр один наушник"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Кнопки управления": "кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-naushnikov-parrot-spare-part-zik-3---black-casing/",
+  "product_category": {
+    "name": "PARROT",
+    "url": "/section/parrot-cx5/",
+    "parent_name": "Чехол для наушников",
+    "parent_url": "/section/chehol-dlya-naushnikov-497/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Чехол для наушников",
+    "PARROT"
+  ],
+  "product_name": "Чехол для наушников PARROT Spare Part Zik 3 - Black Casing",
+  "product_code": "45911",
+  "product_price": {
+    "full": 14990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Чехол для наушников PARROT Spare Part Zik 3 - Black Casing"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Чехол для наушников PARROT Spare Part Zik 3 - Black Casing"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "PARROT"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

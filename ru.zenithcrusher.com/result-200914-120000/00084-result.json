@@ -1,0 +1,27 @@
+{
+  "source_url": "https://ru.zenithcrusher.com/products/grinding/raw-mill.html",
+  "product_category_chain": [
+    {
+      "name": "ГЛАВНАЯ",
+      "url": "/"
+    },
+    {
+      "name": "Оборудования",
+      "url": "../"
+    },
+    {
+      "name": "МельничноеОборудование",
+      "url": "./"
+    }
+  ],
+  "product_name": "Сырьевая Мельница",
+  "pruduct_detail_image": "/d/file/images/products/grinding/raw.png",
+  "product_characteristics_html": " <div cid=\"zenith\" id=\"parameter\" lid=\"ru\" pid=\"raw_mill\" sid=\"7\"></div><script src=\"//js.sbmchina.com/xhr/xhr.js\" type=\"text/javascript\"></script> ",
+  "product_detail_text": " <p>1. Сильная адаптивность;<br/> 2. Непрерывное производство;<br/> 3. Крупная рациона дробления ;<br/> 4. Легко отрегулировать выходной размер продукта.</p> <p> </p> ",
+  "product_preview_text": "<p>Сырьевая мельница используется, в основном, пригодна для помола сырья и готовые продукции используется в цементном заводе. Он также подходит для измельчения различных горных пород и полезных ископаемых в металлургической, шахтной, химической и строительной промышленности. Кроме того, у него есть две формы помола: один находится в открытой форме, а другой в повторный закрытой форме, оснащен концентратором порошка. Он широко применяется во многих отраслях промышленности и удобной в эксплуатации.</p> <p> </p>",
+  "main_image": {
+    "url": "/d/file/images/products/grinding/raw.png",
+    "alt": ""
+  },
+  "product_detail_text_images": []
+}

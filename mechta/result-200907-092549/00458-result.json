@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-honor-20-flip-cover-black/",
+  "product_category": {
+    "name": "HONOR",
+    "url": "/section/honor-kwj/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "HONOR"
+  ],
+  "product_name": "Чехол для телефона HONOR 20 Flip Cover (Blue)",
+  "product_code": "83890",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/38/3882f58c-da99-11e9-a224-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона HONOR 20 Flip Cover (Blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/38/3882f58c-da99-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона HONOR 20 Flip Cover (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/38/3882f58d-da99-11e9-a224-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона HONOR 20 Flip Cover (Blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Honor",
+      "Материал сумки/чехла": "поликарбонат"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.5"
+    },
+    "Разное": {
+      "Бренд": "HONOR",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

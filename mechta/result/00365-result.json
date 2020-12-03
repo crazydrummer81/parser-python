@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-508-white/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники HARPER HB 508 (white)",
+  "product_code": "75886",
+  "product_price": {
+    "full": 9890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/9f/9fb0c92b-96d2-11e8-a217-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 508 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/9f/9fb0c92b-96d2-11e8-a217-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 508 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.1",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

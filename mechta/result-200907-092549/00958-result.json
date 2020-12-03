@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-coverme-huawei-p-smart-2019-steklo-3d/",
+  "product_category": {
+    "name": "CoverMe",
+    "url": "/section/coverme/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "CoverMe"
+  ],
+  "product_name": "Защитная пленка для дисплея CoverMe Huawei P Smart 2019 стекло 3D",
+  "product_code": "00153",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Защитная пленка для дисплея CoverMe Huawei P Smart 2019 стекло 3D"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Защитная пленка для дисплея CoverMe Huawei P Smart 2019 стекло 3D"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "P smart 2019"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "CoverMe",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

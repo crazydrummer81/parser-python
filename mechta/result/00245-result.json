@@ -1,0 +1,186 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y9s-midnight-black/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI Y9s (midnight black)",
+  "product_code": "01287",
+  "product_price": {
+    "full": 129990,
+    "discounted": 129890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbdee06-43f7-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee06-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee07-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee08-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee09-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee0a-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee0b-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee0c-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee0d-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdee0e-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 710F",
+      "Процессор, (МГц, количество ядер)": "2200 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,59 (16,7 см)",
+      "Разрешение дисплея, пикс": "2340х1080 FHD+",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G51 MP4"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "4.2 BLE",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+2",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": "Выдвижная камера/ f/2.2/ Портретный реж/ HDR",
+      "Особенности тыловой камеры": "f/1,8/ f/2.4/ f/2.4/ Ультраширик/ PDAF / Вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Сканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,7х0,9",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,206"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "адаптер питания/гарнитура/USB-C кабель/чехол "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>HUAWEI Y9s</b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/0ed/0ede5f735f2cbedb67b7879eea0d351e.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/aba/aba223d52d96428038d8f0c72ae78a40.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Безрамочный экран Ultra FullView 6.59 дюйма</b></h3> <p style=\"text-align: center;\"> Благодаря отсутствию темной области в верхней части 6.59-дюймовый безрамочный экран с полезной площадью 91% предоставляет ультраширокий обзор. Разрешение FHD+ 2340 x 1080 пикселей и плотность пикселей 391 PPI гарантируют яркое и четкое изображение. Наслаждайтесь просмотром, чтением контента или играми на широком экране. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/44a/44adae731d658edad1c788b0cba4bbd2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Свет как искусство</b></h3> <p style=\"text-align: center;\"> Вдохновленный движением света и тени, HUAWEI Y9s представлен в двух чарующих оттенках: полночном черном и светло-голубом. Цвет задней панели переливается при взгляде на нее под разными углами. Отполированная стеклянная поверхность с 3D-эффектом обеспечивает комфортное расположение смартфона в руке. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b8b/b8be23bc0b1772de036409f657352261.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Тройная камера с объективом 48 МП</b></h3> <p style=\"text-align: center;\"> Основной объектив 48 МП позволит создавать качественные снимки высокой четкости в любой ситуации. Широкоугольный объектив 8 МП и объектив для измерения глубины резкости 2 МП станут вашими помощниками для создания шедевров фотографии. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ef8/ef85b68cde9c145a06fadf6e4c662bc3.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Камера с искусственным интеллектом</b></h3> <p style=\"text-align: center;\"> Основной объектив с высоким разрешением 48 МП делает изображение четким и детализированным, а алгоритмы искусственного интеллекта моментально обрабатывают готовый кадр. Таким образом получаются качественные эффектные снимки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f8a/f8a092aca23086e27a3c20882d28e8fa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Режим ночной съемки</b></h3> <p style=\"text-align: center;\"> Уникальный светочувствительный сенсор камеры и алгоритмы искусственного интеллекта также гарантируют непревзойденную четкость фотографий даже при съемке ночью: кадры становятся еще ярче и сбалансированнее. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/73c/73c13d76cee7d34f5cf6863aaa44572f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Выдвижная камера для селфи</b></h3> <p style=\"text-align: center;\"> Фронтальная камера 16 МП автоматически выдвигается, когда вы собираетесь снимать селфи, и прячется, как только вы заканчиваете съемку. Благодаря такой конструкции экран становится полностью безрамочным, а фронтальная камера — необычной. Алгоритм украшения на базе искусственного интеллекта позволяет отредактировать фотографии и сфокусироваться на вашем лице, чтобы обеспечить высокое качество селфи даже при слабом освещении. </p> </div> </div> <div class=\"aa_markfull_text\"><h3><b>Ультраширокоугольный объектив 120°</b></h3> Ультраширокоугольный объектив HUAWEI Y9s с углом обзора 120° предоставляет вам широкий спектр возможностей съемки. Фотографируйте обширные горные массивы, большие архитектурные сооружения и группы людей, помещая максимум пространства в один кадр.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/549/549a51fc92b905a988a4275f9b792d27.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/575/5755b810c2fa26ac374833f63f75f180.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Премиальная производительность процессора</b></h3> <p style=\"text-align: center;\"> 8-ядерный процессор Kirin 710F эффективно повышает скорость работы системы и при этом снижает энергопотребление устройства. Даже во время мобильных игр с высококачественной графикой и при просмотре онлайн-трансляций смартфон будет работать плавно и без сбоев. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1d9/1d92116e1f71e72a8664b06eecedd28e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Большой объем памяти</b></h3> <p style=\"text-align: center;\"> Храните все ваши воспоминания в памяти смартфона объемом 128 ГБ. Технология сжатия файлов EROFS повышает скорость передачи данных и позволяет сэкономить память, освобождая место для всего, что вы любите. Оперативная память 6 ГБ обеспечивает плавную работу смартфона даже при одновременном запуске множества приложений. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d52/d52389d54bb2a6439e04a10d744312af.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мощная батарея</b></h3> <p style=\"text-align: center;\"> HUAWEI Y9s, оснащенный батареей емкостью 4000 мА*ч, гарантирует 40 часов выполнения вызовов, 80 часов прослушивания музыки и 9 часов воспроизведения видео.* Забудьте о внешних аккумуляторах и сфокусируйтесь на ваших ежедневных задачах. </p> <h6 style=\"text-align: center;\">*Данные получены в результате испытаний в лаборатории HUAWEI. Фактическое время работы батареи зависит от особенностей использования устройства.</h6> <h6></h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ca3/ca31e31d904c577466dbabbbc64597ab.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Интерфейс EMUI 9.1</b></h3> <p style=\"text-align: center;\"> HUAWEI Y9s на базе интерактивного интерфейса EMUI 9.1 поддерживает множество интеллектуальных функций: связь на базе искусственного интеллекта, беспроводная печать, перенос данных с помощью Phone Clone, передача данных с помощью HUAWEI Share и т.д. Изучив пользовательские привычки, смартфон повышает эффективность выполнения ежедневных задач. Технология интеллектуального управления антеннами обеспечивает стабильный прием сигнала сети во время игр и просмотра онлайн-видео. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/aba/aba223d52d96428038d8f0c72ae78a40.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/44a/44adae731d658edad1c788b0cba4bbd2.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/b8b/b8be23bc0b1772de036409f657352261.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/ef8/ef85b68cde9c145a06fadf6e4c662bc3.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/f8a/f8a092aca23086e27a3c20882d28e8fa.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/73c/73c13d76cee7d34f5cf6863aaa44572f.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/575/5755b810c2fa26ac374833f63f75f180.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/1d9/1d92116e1f71e72a8664b06eecedd28e.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/d52/d52389d54bb2a6439e04a10d744312af.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/ca3/ca31e31d904c577466dbabbbc64597ab.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      },
+      {
+        "url": "/upload/iblock/549/549a51fc92b905a988a4275f9b792d27.jpg",
+        "alt": "Телефон сотовый HUAWEI Y9s (midnight black)"
+      }
+    ]
+  }
+}

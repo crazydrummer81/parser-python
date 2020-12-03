@@ -1,0 +1,184 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-y6s-orchid-blue/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "HUAWEI"
+  ],
+  "product_name": "Телефон сотовый HUAWEI Y6s (orchid blue)",
+  "product_code": "01286",
+  "product_price": {
+    "full": 69890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbdedf5-43f7-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedf5-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedf6-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedf7-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedf8-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedf9-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedfa-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedfb-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedfc-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedfd-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbdedfe-43f7-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6765",
+      "Процессор, (МГц, количество ядер)": "2300/ 1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,09 (15,4 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ A-GPS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13",
+      "Режим видеосъемки": "Full HD 1920 x 1080  60 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": " f/1,8/ автофокус/ вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3020",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,6х7,3х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,150"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "зарядное устройство/USB-кабель "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">HUAWEI Y6s</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Большой объем памяти | Мощный восьмиядерный процессор</h3> <p style=\"text-align: center;\"> Полезная площадь безрамочного экрана 6,09 дюйма с каплевидной темной областью составляет 87% — вы получите максимум впечатлений от мобильных игр, просмотра веб-страниц и чтения. Кроме того, экран оснащен сертифицированной TÜV Rheinland технологией фильтрации синего света для защиты и комфорта вашего зрения </p> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/13c/13c56a50911dbfe3bdc88afb1009fa6b.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/940/940289048ec6fe9e77b6a5a87912a861.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Подчеркните свою индивидуальность</h3> <p style=\"text-align: center;\"> HUAWEI Y6s доступен в двух естественных природных оттенках. Светло-лиловая модель выделяется за счет контраста фактур: глянцевая часть задней панели плавно переходит в матовую, дополненную специальным покрытием с защитой от отпечатков пальцев. Модель сияющего черного цвета скрывает в себе светоотражающие частицы, которые мерцают, как звезды в ночном небе. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/456/456b33e289cf63ef86d1a89a674294d2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Большой объем памяти 3 ГБ + 64 ГБ</h3> <p style=\"text-align: center;\"> Ваши любимые фильмы, фото и приложения будут всегда под рукой: устройство имеет внутреннюю память 64 ГБ и поддерживает установку карт памяти объемом до 512 ГБ. Кроме того, файловая система EROFS автоматически сжимает файлы предустановленных приложений, что позволяет экономить до 2 ГБ в других приложениях. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f7b/f7bd49675006e1f27b1bda04f1910bb2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Высокая производительность</h3> <p style=\"text-align: center;\"> Встроенный восьмиядерный 12-нм процессор состоит из четырех больших ядер 2,3 ГГц и четырех малых ядер 1,8 ГГц, что позволяет получить максимальную производительность при экономном энергопотреблении. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bb1/bb1fadfe4fa6cc8366b2ec80d4c9c9e5.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Мгновенная разблокировка</h3> <p style=\"text-align: center;\"> HUAWEI Y6s поддерживает разблокировку при помощи сканера отпечатков пальцев и распознавания лица. Эти функции удобны в использовании и надежно защищают ваши персональные данные. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/54c/54c4174baf02a41c9d70ef1cf550b857.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">HUAWEI SuperSound</h3> <p style=\"text-align: center;\"> HUAWEI Y6s оснащен линейным динамиком и мощным интеллектуальным модулем громкой связи, которые обеспечивают глубокие басы на низких частотах и чистый звук на высоких частотах даже при максимальной громкости. Такой смартфон станет вашей персональной портативной колонкой: слушайте музыку дома, на вечеринке с друзьями или во время отдыха на пляже. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/2f6/2f6938ce6461bcffb292172cf68af82f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Впечатляющие возможности камеры</h3> <p style=\"text-align: center;\"> Не упустите ни одного важного момента с основной камерой 13 МП и фронтальной камерой 8 МП. Благодаря объективу с широкой диафрагмой f/1.8, который пропускает до 50% больше света, качество и четкость ваших фотографий будут на высоте независимо от того, снимаете ли вы днем или ночью. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bb4/bb445997e99fbf2961b10689e4aa7a1d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Интеллектуальная работа батареи</h3> <p style=\"text-align: center;\"> Смартфон HUAWEI Y6s оснащен батареей емкостью 3020 мА*ч и интеллектуальной технологией оптимизации энергопотребления. В результате гармоничного сочетания программного и аппаратного обеспечения ваш телефон будет работать целый день.*<br/> </p> <h6 style=\"text-align: center;\">*Данные получены в результате испытаний в лаборатории HUAWEI. Время работы батареи зависит от фактического использования.</h6> <p style=\"text-align: center;\"> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3ce/3ceeb6255fe0ec274bf1beafb9f31914.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Умная жизнь с интерфейсом EMUI 9.1</h3> <p style=\"text-align: center;\"> Удобный и интуитивно понятный интерфейс EMUI 9.1 обеспечивает комфортный пользовательский опыт. Используйте потенциал умных технологий с функциями управления жестами в полноэкранном режиме, Phone Clone, Простой режим и др. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/940/940289048ec6fe9e77b6a5a87912a861.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/456/456b33e289cf63ef86d1a89a674294d2.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/f7b/f7bd49675006e1f27b1bda04f1910bb2.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/bb1/bb1fadfe4fa6cc8366b2ec80d4c9c9e5.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/54c/54c4174baf02a41c9d70ef1cf550b857.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/2f6/2f6938ce6461bcffb292172cf68af82f.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/bb4/bb445997e99fbf2961b10689e4aa7a1d.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/3ce/3ceeb6255fe0ec274bf1beafb9f31914.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      },
+      {
+        "url": "/upload/iblock/13c/13c56a50911dbfe3bdc88afb1009fa6b.jpg",
+        "alt": "Телефон сотовый HUAWEI Y6s (orchid blue)"
+      }
+    ]
+  }
+}

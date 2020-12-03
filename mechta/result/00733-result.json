@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-zx-310-black/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники SONY MDR ZX 310 (Black)",
+  "product_code": "32092",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a6/a654388e-59d7-11e4-a1e8-14dae972ca6d.jpeg",
+    "alt": "Наушники SONY MDR ZX 310 (Black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a6/a654388e-59d7-11e4-a1e8-14dae972ca6d.jpeg",
+      "alt": "Наушники SONY MDR ZX 310 (Black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.23",
+      "Габариты в упаковке (ВхШхГ), см": "20х15х5"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "2 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

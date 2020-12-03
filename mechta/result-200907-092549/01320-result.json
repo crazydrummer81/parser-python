@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiostancii-motorola-talkabout-t42-red/",
+  "product_category": {
+    "name": "MOTOROLA",
+    "url": "/section/motorola-gtq/",
+    "parent_name": "Радиостанции",
+    "parent_url": "/section/radiostancii-jdr/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Радиостанции",
+    "Радиостанции",
+    "MOTOROLA"
+  ],
+  "product_name": "Радиостанции MOTOROLA TALKABOUT T42 Red",
+  "product_code": "79279",
+  "product_price": {
+    "full": 13990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ca/ca189f64-778b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f64-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f65-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f66-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f67-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f68-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T42 Red"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Рабочая частота, МГц": "446-446.1",
+      "Дисплей": "есть",
+      "Количество каналов": "8 + 121 код",
+      "Количество раций в комплекте": "2",
+      "Количество сигналов вызова": "1",
+      "Мощность передатчика, Вт": "0.5",
+      "Наличие лицензии": "не требуется",
+      "Радиус действия, км": "4"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Блокировка клавиатуры": "есть"
+    },
+    "Информационные функции": {
+      "Индикация уровня заряда": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "13.5х2.5х4.5",
+      "Цвет": "красный",
+      "Вес без упаковки (нетто), кг": "0.8"
+    },
+    "Разное": {
+      "Бренд": "MOTOROLA",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Тип батареи": "3 x AAA (LR 03)"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

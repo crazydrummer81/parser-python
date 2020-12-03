@@ -1,0 +1,175 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-a1k-black/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO A1k Black",
+  "product_code": "81510",
+  "product_price": {
+    "full": 59990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/21/21cff0db-7140-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO A1k Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0db-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0dc-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0dd-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0de-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0df-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0e0-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/21/21cff0e1-7140-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A1k Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6762 (P22)",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,1 (15,5 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "8",
+      "Режим видеосъемки": "1920 x 1080 30 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": " f/2.2 / автофоус/ вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик света/ датчик приближ/ компас",
+      "Cканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,4х7,4х0,84",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,165"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "зарядное устройство/USB-кабель/чехол "
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"></h2> <h2 style=\"text-align: center;\"><b>A1k</b></h2> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> <b>32 ГБ встроенной памяти. Аккумулятор ёмкостью 4000 мАч</b> </p> <span style=\"text-align: center;\"><br/> </span></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a7e/a7e5367c9d2989302ba548328def4a16.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c77/c7718549252ec1f5805b21b86f06d5f0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Аккумулятор высокой емкости</b><br/> Объем аккумулятора 4000 мАч дает возможность весь день пользоваться смартфоном в активном режиме, не отвлекаясь на подзарядку. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/991/991e30f736c86415c16a6fa05ed4f228.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Объемное хранилище</b><br/> 32 ГБ встроенной памяти и дополнительный слот для SD-карты на 256 ГБ позволяют сохранить все файлы и фотографии. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7bf/7bf31a840f5ca15daa811a325dcf25f8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Полное погружение</b><br/> Яркий HD+ дисплей с диагональю 6,1 дюйма обеспечивает полное погружение в происходящее на экране, а закаленное стекло CORNING® GORILLA® GLASS надежно защищает экран от повреждений. </p> <p style=\"text-align: center;\"> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/015/0156a8e572be3aaef8b9af88e5a0fbf1.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Эстетика авангарда</b><br/> Цветовая палитра смартфона представлена двумя эффектными решениями, которые демонстрируют инновационные практики индустрии. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e5c/e5c2e8a2fb9174c0b14e513c30631137.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Безупречный портрет</b><br/> Благодаря эффекту Боке фон профессионально размывается, и вы получаете уникальные портреты с яркими деталями и оттенками. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3ec/3ecfb5a6fe7fbc68e5129b30bc4f81aa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Универсальная 5P-камера</b><br/> Основная камера состоит из 5 модулей, благодаря чему снимки получаются более четкими, а видео - стабильными. SelfieTune поможет добиться более натурального и элегантного эффекта при портретной съемке. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c6a/c6af04307b9dd4c996bcd3e985ccc7ae.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Каждая деталь в кадре</b><br/> При съемке в режиме HDR все детали становятся более четкими даже в условиях низкой освещенности. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/763/7639a4f4058bf567145fd8c58fc26e80.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b>Простая многозадачность</b><br/> Умная панель дает возможность оперативно переключаться между приложениями, передавать файлы, отвечать на сообщения и делать скриншоты во время игры и просмотра видео. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/c77/c7718549252ec1f5805b21b86f06d5f0.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/991/991e30f736c86415c16a6fa05ed4f228.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/7bf/7bf31a840f5ca15daa811a325dcf25f8.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/015/0156a8e572be3aaef8b9af88e5a0fbf1.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/e5c/e5c2e8a2fb9174c0b14e513c30631137.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/3ec/3ecfb5a6fe7fbc68e5129b30bc4f81aa.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/c6a/c6af04307b9dd4c996bcd3e985ccc7ae.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/763/7639a4f4058bf567145fd8c58fc26e80.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      },
+      {
+        "url": "/upload/iblock/a7e/a7e5367c9d2989302ba548328def4a16.jpg",
+        "alt": "Телефон сотовый OPPO A1k Black"
+      }
+    ]
+  }
+}

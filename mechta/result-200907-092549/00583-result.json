@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnyy-derjatel-canyon-cne-cchm8/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-fwj/",
+    "parent_name": "Держатели",
+    "parent_url": "/section/derjateli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Держатели",
+    "CANYON"
+  ],
+  "product_name": "Автомобильный держатель CANYON CNE-CCHM8",
+  "product_code": "260000115",
+  "product_price": {
+    "full": 3490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/81abe88e-51fd-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Автомобильный держатель CANYON CNE-CCHM8"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe88e-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM8"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe88f-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM8"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe890-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM8"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe891-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM8"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0,285"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

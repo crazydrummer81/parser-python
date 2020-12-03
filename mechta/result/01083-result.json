@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-everest-elite-v750-nxt-gun-metal/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL Everest Elite V750 NC NXT (gun metal)",
+  "product_code": "78725",
+  "product_price": {
+    "full": 79990,
+    "discounted": 70990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/84/84184107-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Everest Elite V750 NC NXT (gun metal)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/84/84184107-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest Elite V750 NC NXT (gun metal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184108-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest Elite V750 NC NXT (gun metal)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184109-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest Elite V750 NC NXT (gun metal)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "10 - 22000",
+      "Чувствительность наушников, дБ/В": "92"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.3",
+      "Вес в упаковке (брутто), кг": "0.7"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

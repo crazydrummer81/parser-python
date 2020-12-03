@@ -1,0 +1,166 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-207-galaxy-a20s-fzbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)",
+  "product_code": "84274",
+  "product_price": {
+    "full": 89890,
+    "discounted": 59890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f5/f5673ceb-ef00-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673ceb-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673cec-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673ced-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673cee-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673cef-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/f5/f5673cf0-ef00-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Snapdragon 450",
+      "Процессор, (МГц, количество ядер)": "1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Технология изготовления дисплея": "TFT",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 506"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 2.0 Type-C",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+8+5",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0/ Селфи фокус",
+      "Особенности тыловой камеры": "f/1,8/ f/2.2/ f/2.2 /Ультраширокоугольная/ 4х зум"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,7х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,183"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/7ce/7cea43b31ea59502a32e9f341d7e1294.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d70/d7076c4242b982b94ec45f13c1447034.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Большой экран для ежедневных развлечений</h3> <p style=\"text-align: center;\"> Путешествуй вместе с 6,5-дюймовым дисплеем Galaxy A20s. Оцени полное погружение в контент на большом безграничном V-экране. Наслаждайся любимыми видео, играй в игры в любое время и в любом месте. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/789/7896c13d6d1a2887ecc03469cb7f7e2e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Глянцевая поверхность и яркие цвета</h3> <p style=\"text-align: center;\"> Galaxy A20s обладает глянцевой поверхностью и закругленными углами корпуса - все это позволяет смартфону удобно ложиться в руке. Выбери свой цвет Galaxy A20s - синий, красный, черный. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Тройная основная камера для счастливых моментов</h3> <p style=\"text-align: center;\"> Создавай яркие запоминающиеся снимки вместе с тройной камерой Galaxy A20s. Основная камера 13 МП обеспечит четкие фотографии в любое время суток, а ультраширокоугольная камера 8 МП с углом 120˚ позволит снять незабываемые пейзажи. Кроме того, c помощью камеры 5 МП с датчиком глубины ты сможешь сфокусироваться на самом важном объекте съемки. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2c4/2c4d84bba2a94f209413de2dcaad3b68.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/8a3/8a3c96fa7f0f93c1f8243a8a0c3d5488.jpg')\"></div> <div class=\"aa_markvthree_text\"> <div> </div> <div style=\"text-align: center;\"> <b>Ультраширокая камера для большей красоты на фото<br/> </b>Объектив с 120-градусным углом съемки поможет тебе выйти за рамки привычной фотографии и запечатлеть все то, что ты видишь даже с близкого расстояния. </div> <br/> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/03f/03fdb974977d763b85473c48681a966f.jpg')\"></div> <div class=\"aa_markvthree_text\"> <p style=\"text-align: center;\"> <b>Сфокусируйся на главном</b><br/> Камера 5 МП с датчиком глубины позволяет регулировать глубину резкости как до, так и после съемки. Создай свою коллекцию профессиональных фотографий. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b44/b4421b019f8d08542352a63e3b9b0d6f.jpg')\"></div> <div class=\"aa_markvthree_text\"> <p style=\"text-align: center;\"> <b>Оставайся в центре внимания</b><br/> Благодаря фронтальной камере 8 МП и селфи-фокусу Galaxy A20s ты сможешь создать потрясающие селфи в любое время суток. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c76/c7628db8bdf9a23266577b33ef550149.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Высокая производительность для быстрой работы</h3> <p style=\"text-align: center;\"> Galaxy A20s оснащен быстрым процессором и большой памятью. Мощный 8-ядерный процессор и оперативная память 3 ГБ обеспечат плавную и эффективную работу приложений. Загружай больше и удаляй меньше благодаря 32 ГБ встроенной памяти и слота для microSD карты до 512 ГБ. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d86/d865e5a0f32ca80a0d5a663ff3c4d8b2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Оставайся всегда на связи</h3> <p style=\"text-align: center;\"> Аккумулятор емкостью 4000 мА·ч (типичное значение)* обеспечит тебе заряд на целый день. А быстрая зарядка Galaxy A20s мощностью 15 Вт позволит не выпадать из динамичного ритма твоей насыщенной жизни. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Сосредоточьтесь на важном</h3> <p style=\"text-align: center;\"> Пользовательский интерфейс One UI поможет тебе сконцентрироваться на том, что действительно важно и нужно. Аппаратное и программное обеспечение работают согласованно с твоими часто используемыми приложениями, оптимизируя работу смартфона. А предложенный ночной режим помогут тебе в работе даже в темное время суток. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/19e/19e258b57cb01ed26fef977a1a4d1e24.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/d70/d7076c4242b982b94ec45f13c1447034.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/789/7896c13d6d1a2887ecc03469cb7f7e2e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/8a3/8a3c96fa7f0f93c1f8243a8a0c3d5488.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/03f/03fdb974977d763b85473c48681a966f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/b44/b4421b019f8d08542352a63e3b9b0d6f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/c76/c7628db8bdf9a23266577b33ef550149.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/d86/d865e5a0f32ca80a0d5a663ff3c4d8b2.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/19e/19e258b57cb01ed26fef977a1a4d1e24.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 207 Galaxy A20S FZBDS (blue)"
+      }
+    ]
+  }
+}

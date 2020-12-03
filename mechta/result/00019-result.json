@@ -1,0 +1,148 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-g-980-galaxy-s20-256gb-flbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)",
+  "product_code": "260000020",
+  "product_price": {
+    "full": 429890,
+    "discounted": 299890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/85/85bc667f-57a9-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc667f-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc6680-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc6681-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc6682-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc6683-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/85bc6684-57a9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP68"
+    },
+    "Процессор": {
+      "Модель процессора": "Exynos 990",
+      "Процессор, (МГц, количество ядер)": "2600 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "20:9",
+      "Диагональ экрана, дюйм": "6,2 (15,7 см)",
+      "Разрешение дисплея, пикс": "3200х1440",
+      "Сенсорный дисплей": "емкостный, мультитач",
+      "Датчик ориентации экрана": "есть",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "120"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "microSD, microSDHC, microSDXC",
+      "Максимальная емкость карты памяти, Гб": "до 1ТБ"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G77 MP11"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "USB Type C",
+      "Bluetooth": "есть",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "64+12+12",
+      "Режим видеосъемки": "есть, видео 4K с частотой 30 кадров/с",
+      "Фронтальная камера (для видеозвонков), Мпикс": "10",
+      "Особенности тыловой камеры": "авто-фокус/вспышка/стабилизатор/зум(30х)"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "да",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав, стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "акселерометр/барометр/гироскоп/компас/hall",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15.2х6.8х0.7",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.164"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Модель": "S",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">Galaxy S20 | S20+ | S20 Ultra</h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/010/01029c791b4a4838f8a336cf01d00831.jpg\"/></div> <div class=\"aa_markfull_text\"><h2> </h2> <h2 style=\"text-align: center;\">Новая эра в фотографии </h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"> Встречайте Galaxy S20 | S20+ | S20 Ultra. Cнимайте в революционном разрешении 8K и получайте сверхчеткие фотографии высокого качества прямо из видео.Добавьте к этому надежную защиту Samsung Knox, интеллектуальный аккумулятор, супермощный процессор и большой объем памяти для всех ваших файлов. Откройте новую главу в истории мобильных устройств.</h3> <h3> </h3></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/79d/79d0683bdae818c92627a784466dcc4d.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\">Galaxy S20</h3> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/2e5/2e5ae2c3bfda70f488b69d6a8af37efe.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\">Galaxy S20+</h3> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ceb/ceb5ba9361c7f4ccc270cbb3dd0c4ccf.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3 style=\"text-align: center;\">Galaxy S20 Ultra</h3> </div> </div> <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">ДА БУДЕТ НОЧЬ<br/> </h2> <h2></h2> <h2 style=\"text-align: center;\">СЪЕМКА НОЧЬЮ КАК ДНЕМ</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Мы увеличили размер сенсора почти втрое, чтобы вы получили максимум от вашей ночной съемки</h3> <h3></h3> <blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"> <blockquote> </blockquote> </blockquote> <br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/174/174696ad4c7355becaf000c5a929ba1c.jpg\"/></div> <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">Больше. Еще больше. 8К видео</h2> <h3 style=\"text-align: center;\">Сверхвысокое разрешение видео</h3> <p style=\"text-align: center;\"> Впервые уровень разрешения видео на смартфоне до невероятного 8К. Это в 4 раза выше, чем UHD, и в 16 раз выше, чем FHD. Теперь каждый момент вашей жизни будет запечатлен в ультравысоком разрешении. </p> <br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c59/c5955a6c6a0adc98199b47f5aafab004.jpg\"/></div> <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">Плавно. Еще плавнее. Суперплавно</h2> <h2></h2> <h2 style=\"text-align: center;\">СУПЕРСТАБИЛИЗАЦИЯ</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Снимайте как на экшн-камеру</h3> <p style=\"text-align: center;\"> Увеличенный сенсор и cпециальный стабилизатор компенсируют дрожание камеры, чтобы ваши видеоролики получались не просто плавными, а суперплавными. </p> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d62/d6254b6c1c2c6a448039ecf656b910b8.jpg\"/></div> <div class=\"aa_markfull_text\"><h2>ПАМЯТЬ </h2> <h2>Поместится 750000 любимых фотографий</h2> <h3>Все, что вы снимете на мощную камеру Galaxy S20 | S20+ и S20 Ultra, сохранит большой объем памяти. А если вам потребуется еще больше памяти, увеличьте ее до 1.0 ТБ с microSD картой.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/27f/27f5919e2b74fa775a6d495b32c7cb25.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/79d/79d0683bdae818c92627a784466dcc4d.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+      },
+      {
+        "url": "/upload/iblock/2e5/2e5ae2c3bfda70f488b69d6a8af37efe.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+      },
+      {
+        "url": "/upload/iblock/ceb/ceb5ba9361c7f4ccc270cbb3dd0c4ccf.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+      },
+      {
+        "url": "/upload/iblock/27f/27f5919e2b74fa775a6d495b32c7cb25.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 980 Galaxy S20 128GB FLBDS (Blue)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-a-case-huawei-p30-lite-black-3d-steklo/",
+  "product_category": {
+    "name": "A CASE",
+    "url": "/section/a-case/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "A CASE"
+  ],
+  "product_name": "Защитная пленка для дисплея A CASE Huawei P30 Lite black 3D стекло",
+  "product_code": "82537",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f9/f9cc5932-a6d1-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея A CASE Huawei P30 Lite black 3D стекло"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f9/f9cc5932-a6d1-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея A CASE Huawei P30 Lite black 3D стекло"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Huawei",
+      "Для моделей": "P30 Lite"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х0.3"
+    },
+    "Разное": {
+      "Бренд": "A CASE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

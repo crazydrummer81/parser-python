@@ -1,0 +1,81 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-e55-bt-red/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL E55 BT (red)",
+  "product_code": "81337",
+  "product_price": {
+    "full": 39990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/30/30cb0be4-6732-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL E55 BT (red)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/30/30cb0be4-6732-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL E55 BT (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/30/30cb0be5-6732-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL E55 BT (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/30/30cb0be6-6732-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL E55 BT (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/30/30cb0be7-6732-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL E55 BT (red)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack) - наушники",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "96",
+      "Диаметр мембран, мм": "50"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2",
+      "Время работы от аккумулятора, ч": "20"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и металл"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный",
+      "Вес без упаковки (нетто), кг": "0.23"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha09b-4xusb-output-5v-42a/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA09B 4xUSB output 5V-4.2A",
+  "product_code": "260000490",
+  "product_price": {
+    "full": 5990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/4f/4f5a5271-6352-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA09B 4xUSB output 5V-4.2A"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/4f/4f5a5271-6352-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA09B 4xUSB output 5V-4.2A"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/4f/4f5a5272-6352-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA09B 4xUSB output 5V-4.2A"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "4,7х9,4х24,4",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.16"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Гарантия": "2 года",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

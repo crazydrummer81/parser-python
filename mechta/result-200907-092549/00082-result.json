@@ -1,0 +1,170 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-a52-stream-white/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO A52 Stream White",
+  "product_code": "260001520",
+  "product_price": {
+    "full": 139990,
+    "discounted": 109990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dc/dc6a567a-aad2-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO A52 Stream White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a567a-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a567c-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a567d-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a567e-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a567f-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a5680-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a5681-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a5682-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dc6a5683-aad2-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A52 Stream White"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 665",
+      "Процессор, (МГц, количество ядер)": "2000 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16,7 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 610"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac",
+      "GPS": "есть, Glonass/ A-GPS/ Galileo/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+8+2+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0 / Портретный режим AI Beautification",
+      "Особенности тыловой камеры": "Четыре камеры/Ультраширокоугольный/Ночной режим "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Cканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, два стереодинамика"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,5х0,9",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,192"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>OPPO A52</b></h2> <h3 style=\"text-align: center;\">Технология счастья </h3> <h3 style=\"text-align: center;\"> Экран FHD+ | AI камера с четырьмя объективами</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2f8/2f8625b45b12b2972ff1ce97fde80bb2.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bda/bdac64979cf773ff8d0a132adc82ad1c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Видеосъемка:</b><b> улучшенная стабилизация и высокое качество</b></h3> <p style=\"text-align: center;\"> Снимайте четкие и плавные видеоролики благодаря уникальному алгоритму стабилизации изображения в OPPO A52. Новая широкоугольная видеокамера и функция замедленной съемки 120 кадров/с помогут запечатлеть все самое интересное. Кроме того, поддерживается видеосъемка в формате 4К. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/043/0438ba87847db09187147e975be8b696.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Диафрагма f/1.8</b><b> и режим Ultra Night 2.0: </b></h3> <h3 style=\"text-align: center;\"><b>запечатлейте красоту ночи</b></h3> <p style=\"text-align: center;\"> Объектив с диафрагмой f/1.8, пропускающей больше света, и режим Ultra Night 2.0 обеспечивают широкий динамический диапазон. Делайте четкие фотографии без чрезмерного пересвета или затемнения как при ярком, так и при тусклом освещении. </p> </div> </div> <div class=\"aa_markfull_text\"><h3><b>Ультраширокоугольный объектив с углом обзора 119°:</b><b> весь мир у вас в кадре</b></h3> Больше угол обзора, больше замечательных снимков.<br/> Вместите в кадр все, что хотите за один клик. Искажения при съемке будут минимальными благодаря профессиональному широкоугольному объективу.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c0f/c0fab6e093f784df6e65fffcd8b4c84a.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d03/d0379d07d33a152df2fd2976abba8aa7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>AI бьютификация:</b><b> ваша красота во всем великолепии</b></h3> <p style=\"text-align: center;\"> Разработанная компанией OPPO технология AI бьютификации позволяет запечатлеть ваши уникальные особенности не зависимо от освещения, тем самым подчеркивая вашу индивидуальность. Эффект достигается при помощи естественной ретуши и контурирования деталей. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/506/506efd5521c93884eca8179483c83558.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Непревзойденная плавность на максимальных скоростях</b></h3> <p style=\"text-align: center;\"> Благодаря разработанной компанией OPPO технологии Hyper Boost и 64-разрядному 8-ядерному центральному процессору Qualcomm Snapdragon, пользоваться смартфоном стало приятнее и удобнее, а приложения и игры загружаются максимально быстро. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/802/802274e87c04928739d33ee901bb71a6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Двойные стереодинамики:</b><b> реалистичный</b><b> всепоглощающий</b><b> звук</b></h3> <p style=\"text-align: center;\"> Смартфон OPPO A52 оснащен двойными ультралинейными стереодинамиками и поддерживает технологию Dirac 2.0. Она автоматически определяет, слушаете ли вы музыку, смотрите видео или играете в игры и помогает полностью погрузиться в атмосферу происходящего. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c74/c74c71a958037940102ebc5ae35a534d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Аккумулятор 5000мА·ч и</b><b> быстрая зарядка</b><b> мощностью 18 Вт.</b></h3> <p style=\"text-align: center;\"> С аккумулятором повышенной емкости 5000 мА·ч энергии хватит на весь день даже при активном использовании. Адаптер мощностью 18 Вт позволяет не тратить на подзарядку много времени. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/bda/bdac64979cf773ff8d0a132adc82ad1c.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/043/0438ba87847db09187147e975be8b696.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/d03/d0379d07d33a152df2fd2976abba8aa7.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/506/506efd5521c93884eca8179483c83558.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/802/802274e87c04928739d33ee901bb71a6.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/c74/c74c71a958037940102ebc5ae35a534d.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      },
+      {
+        "url": "/upload/iblock/c0f/c0fab6e093f784df6e65fffcd8b4c84a.jpg",
+        "alt": "Телефон сотовый OPPO A52 Stream White"
+      }
+    ]
+  }
+}

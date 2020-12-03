@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-usb-c-cable-1-m-muf72zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "APPLE"
+  ],
+  "product_name": "Кабель для телефона APPLE USB-C Cable 1 m (MUF72ZM/A)",
+  "product_code": "79931",
+  "product_price": {
+    "full": 10990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ca/ca52b8eb-35ae-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона APPLE USB-C Cable 1 m (MUF72ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca52b8eb-35ae-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE USB-C Cable 1 m (MUF72ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca52b8ec-35ae-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE USB-C Cable 1 m (MUF72ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca52b8ed-35ae-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE USB-C Cable 1 m (MUF72ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB-C / USB-C"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

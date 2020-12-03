@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-lightning-to-usb-c-cable-1-m-mqgj2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона APPLE Lightning to USB-C Cable 1 m (MQGJ2ZM/A)",
+  "product_code": "76564",
+  "product_price": {
+    "full": 12990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/99/99d484ca-a5bc-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 1 m (MQGJ2ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/99/99d484ca-a5bc-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB-C Cable 1 m (MQGJ2ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB-C/Lightning",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

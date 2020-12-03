@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/monopod-hoco-k7-aux-chernyy-9020/",
+  "product_category": {
+    "name": "HOCO",
+    "url": "/section/hoco-wws/",
+    "parent_name": "Моноподы",
+    "parent_url": "/section/monopody/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Моноподы",
+    "HOCO"
+  ],
+  "product_name": "Монопод HOCO K7 AUX черный (9020)",
+  "product_code": "79464",
+  "product_price": {
+    "full": 3490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/83/837fc016-28f4-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Монопод HOCO K7 AUX черный (9020)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/83/837fc016-28f4-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Монопод HOCO K7 AUX черный (9020)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/83/837fc018-28f4-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Монопод HOCO K7 AUX черный (9020)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/83/837fc017-28f4-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Монопод HOCO K7 AUX черный (9020)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Максимальная высота, см": "64",
+      "Максимальная нагрузка, кг": "0.5"
+    },
+    "Опции": {
+      "Дополнительные опции": "Пульт управления на ручке монопода"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.14"
+    },
+    "Разное": {
+      "Бренд": "HOCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

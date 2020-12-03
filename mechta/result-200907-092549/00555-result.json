@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnoe-zar-ustroystvo-huawei-ap38-silver/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-x7t/",
+    "parent_name": "Зарядные устройства в автомобиль",
+    "parent_url": "/section/zaryadnye-ustroystva-v-avtomobil/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядные устройства в автомобиль",
+    "HUAWEI"
+  ],
+  "product_name": "Автомобильное зар. устройство HUAWEI AP38 silver",
+  "product_code": "81524",
+  "product_price": {
+    "full": 10990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/01/0104b30e-6fc7-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Автомобильное зар. устройство HUAWEI AP38 silver"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/01/0104b30e-6fc7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство HUAWEI AP38 silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/0104b30f-6fc7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство HUAWEI AP38 silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/0104b310-6fc7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство HUAWEI AP38 silver"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "4.5 В, 5 В, 9 В"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес без упаковки (нетто), кг": "0.11"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м",
+      "Дополнительно": "кабель USB Type C"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

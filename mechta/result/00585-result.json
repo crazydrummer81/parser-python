@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-canyon-type-c-cns-usbc6dg-grey/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-k2q/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона CANYON TYPE-C CNS-USBC6DG Grey",
+  "product_code": "00920",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbcb2cb-2244-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC6DG Grey"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2cb-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC6DG Grey"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2cc-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона CANYON TYPE-C CNS-USBC6DG Grey"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB - USB Type C",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

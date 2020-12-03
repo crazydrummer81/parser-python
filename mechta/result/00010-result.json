@@ -1,0 +1,190 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-p40-lite-sakura-pink/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)",
+  "product_code": "260000805",
+  "product_price": {
+    "full": 129890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/aa/aa1199b6-7a40-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199b6-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199b7-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199b8-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199b9-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199ba-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199bb-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199bc-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/aa/aa1199bd-7a40-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 810",
+      "Процессор, (МГц, количество ядер)": "2270/ 1880 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.2:9",
+      "Диагональ экрана, дюйм": "6,4 (16,3 см)",
+      "Разрешение дисплея, пикс": "2310х1080",
+      "Технология изготовления дисплея": "LCD",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "Nano Memory Card",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G52 MP6"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo и QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+8+2+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "16",
+      "Особенности фронтальной камеры": " f/2.0 / портретный режим /эффект боке ",
+      "Особенности тыловой камеры": "Четыре камеры/Ультраширокоугольный/Ночной режим "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4200",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ/компас",
+      "Сканер отпечатка пальца": "есть, на боковой панели",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,9х7,6х0,87",
+      "Цвет": "розовый",
+      "Вес без упаковки (нетто), кг": "0,183"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "P40 Lite",
+      "Поддержка казахского языка": "есть",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>HUAWEI</b> P40 Lite <!--noindex--><a href=\"http://consumer.huawei.com/ru/community/details/topicId_3315/\" rel=\"nofollow\" title=\"Руководство по установке приложений\">Установка приложений</a><!--/noindex--></h2> <h2 style=\"text-align: center;\">Квадрокамера 48 МП на базе ИИ</h2> <h2 style=\"text-align: center;\">Быстрая зарядка HUAWEI SuperCharge 40 Вт</h2> <h2></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/41e/41e12207ca4ca64d9f28de80ea46cf5c.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cde/cde46c11785a9d7b72223dfcd26e5699.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Красота в деталях</b></h3> <p style=\"text-align: center;\"> Мы не знаем, когда у вас появится возможность сделать уникальный снимок. Но с основным объективом 48 МП вы можете быть уверены, что, когда наступит тот самый момент, вы сможете запечатлеть каждую деталь в невероятном качестве, как в кино. В режиме высокой четкости с искусственным интеллектом камера искусно объединяет несколько снимков в один с высоким разрешением так, что вы точно не упустите ни одной детали, даже когда приблизите снимок. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/431/43115f4e6257771effa0bce025626075.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Новые грани ночи</b></h3> <p style=\"text-align: center;\"> Большая диафрагма f/1.8 и увеличенный на 0,5 дюйма сенсор были разработаны так, чтобы в объектив проникало больше света, это позволит вам делать снимки даже после захода солнца. Благодаря технологии стабилизации изображения на базе искусственного интеллекта HUAWEI режим ночной съемки устраняет шумы и дает более мощный динамический диапазон, что позволяет получить более четкие кадры. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/aa3/aa329f26acde3a55041f7f142fec0ae5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Шире взгляд</b></h3> <p style=\"text-align: center;\"> Фотографируйте больше. С ультраширокоугольным объективом с углом обзора 120° вы сможете поместить в кадр больше восхитительных деталей, а фокусное расстояние 17 мм снимает на 140% больше пространства. А значит, больше неоновых вывесок на снимках города, больше друзей на групповых фото, больше завораживающих видов на пейзажах. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/3b7/3b7a091bc564150fe4896af1cec87ad3.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мир под другим углом</b></h3> <p style=\"text-align: center;\"> Рассмотрите мельчайшие детали с объективом для макросъемки 2 МП. Делайте снимки на расстоянии 4 см и получайте невероятно детальное изображение мельчайших узоров и текстур. Фотографировать на макрообъектив, словно открывать тайный макромир, от капли росы на лепестке до замысловатых узоров на крыльях бабочки. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/e9a/e9a0df31c6be0819a954ada17e5f7413.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Уникальные фото с эффектом боке</b></h3> <p style=\"text-align: center;\"> Специальный объектив для создания эффекта боке с помощью функции измерения глубины резкости на базе искусственного интеллекта создает размытие заднего фона, совмещая его с детальным снимком объекта. Идеальный вариант для создания по-настоящему запоминающегося кадра. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/092/0924a3195fbe778cb195f99d1746d466.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Долго работает, быстро заряжается</b></h3> <p style=\"text-align: center;\"> Благодаря аккумулятору емкостью 4 200 мА*ч смартфон будет работать целый день без дополнительной подзарядки.* Но даже если вы забыли зарядить его ночью, не переживайте. Просто поставьте смартфон на зарядку, пока завтракаете, и он будет готов к работе в считанные минуты. Быстрая зарядка доступна благодаря зарядному устройству HUAWEI SuperCharge, сертифицированному TÜV Rheinland, которое позволяет зарядить аккумулятор до 70% всего за полчаса.*<br/> </p> <h6 style=\"text-align: center;\">* Данные получены в результате испытаний в лаборатории HUAWEI. Фактическая производительность может отличаться из-за различий в устройствах, привычках пользователя и факторах окружающей среды.</h6> <h6></h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/910/910b279aea80d7a2fa16400d66abfb88.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Обновленный продуманный дизайн</b></h3> <p style=\"text-align: center;\"> В дизайне смартфона HUAWEI P40 lite продумана каждая деталь. Корпус сделан из стекла, благодаря чему смартфон так приятно лежит в руке, а его внешний вид привлекает внимание. Фронтальная камера располагается внутри безрамочного экрана так, что ни один миллиметр не потрачен впустую. А благодаря расположенному на боковой грани сканеру отпечатков пальцев вы можете разблокировать смартфон одним касанием. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3c2/3c22f2246d8fdd902f245b9979d5bea0.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Совершенный интеллект, впечатляющая производительность</b></h3> <p style=\"text-align: center;\"> HUAWEI P40 lite оснащен мощным процессором Kirin 810. Нейромодуль базируется на уникальной технологии Huawei Da Vinci, повышает общую эффективность и работу искусственного интеллекта. Цифровые процессы обработки изображений ISP + IVP улучшают функцию шумоподавления и настройки баланса белого. Все работает безупречно в любых условиях съемки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/048/048d8b10c1a54eef0825b6b244b59eda.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Больше памяти для ваших воспоминаний</b></h3> <p style=\"text-align: center;\"> С такой великолепной камерой вам понадобится много места для фотографий. К счастью, у смартфона HUAWEI P40 lite 6/8 ГБ оперативной памяти и 128 ГБ встроенной памяти. Места хватит для всех ваших кадров. С таким объемом памяти вы также можете использовать больше приложений одновременно без влияния на скорость их работы. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/afa/afa7d0b6aaaaf39737960be601b96d50.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Готов к игре, где бы вы ни были</b></h3> <p style=\"text-align: center;\"> Под корпусом HUAWEI P40 lite достаточно сил, чтобы потянуть даже самые мощные игры. Новое поколение технологии обработки графических данных GPU Turbo обеспечивает работу приложений с HD-графикой и высокой частотой кадров без задержек. Все работает плавно, даже в самый разгар действий. Потребление энергии небольшое, так что теперь вы можете играть еще дольше. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/fba/fba31ba3a8edd9151d61409df029db2a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Удобный интерфейс</b></h3> <p style=\"text-align: center;\"> В смартфоне HUAWEI P40 lite установлен обновленный интерфейс EMUI 10. Мы усовершенствовали дизайн:элегантные цвета и более интуитивно понятное расположение элементов, все находится там, где должно быть. С помощью простых переходов в меню вы быстро найдете, что вам нужно. Мультизадачность? Легко! </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/cde/cde46c11785a9d7b72223dfcd26e5699.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/431/43115f4e6257771effa0bce025626075.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/aa3/aa329f26acde3a55041f7f142fec0ae5.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/3b7/3b7a091bc564150fe4896af1cec87ad3.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/e9a/e9a0df31c6be0819a954ada17e5f7413.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/092/0924a3195fbe778cb195f99d1746d466.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/910/910b279aea80d7a2fa16400d66abfb88.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/3c2/3c22f2246d8fdd902f245b9979d5bea0.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/048/048d8b10c1a54eef0825b6b244b59eda.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/afa/afa7d0b6aaaaf39737960be601b96d50.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/fba/fba31ba3a8edd9151d61409df029db2a.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI P40 Lite (Sakura Pink)"
+      }
+    ]
+  }
+}

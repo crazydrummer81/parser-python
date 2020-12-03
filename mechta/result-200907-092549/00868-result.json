@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-reflect-mini-2-bt-green/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL Reflect Mini 2 BT (green)",
+  "product_code": "78724",
+  "product_price": {
+    "full": 34990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/84/8418411e-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Reflect Mini 2 BT (green)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/84/8418411e-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Reflect Mini 2 BT (green)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/8418411f-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Reflect Mini 2 BT (green)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "10 - 22000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0.2",
+      "Вес в упаковке (брутто), кг": "0.3",
+      "Габариты в упаковке (ВхШхГ), см": "9.7х16.2х5.2"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

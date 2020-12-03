@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-vsp-usb-1a--data-kabel-8pin-1m-belyy-20644/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp-2xk/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов VSP USB, 1A + Дата-кабель 8pin, 1м белый (20644)",
+  "product_code": "72362",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/90/906f7b43-fccb-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Зарядное устройство для телефонов VSP USB, 1A + Дата-кабель 8pin, 1м белый (20644)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/90/906f7b43-fccb-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Зарядное устройство для телефонов VSP USB, 1A + Дата-кабель 8pin, 1м белый (20644)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 1А"
+    },
+    "Типы передачи данных": {
+      "USB": "Lightning"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.mechta.kz/product/adapter-batarei-dji-dlya-ronin-s-part-8/",
+  "product_category": {
+    "name": "DJI",
+    "url": "/section/dji-dzf/",
+    "parent_name": "Стэдикамы для смартфонов",
+    "parent_url": "/section/stedikamy-dlya-smartfonov-nwb/"
+  },
+  "product_name": "Адаптер батареи DJI для Ronin-S (Part 8)",
+  "product_code": "82079",
+  "product_price": {
+    "full": 29990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ea/ea6aa01c-9240-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Адаптер батареи DJI для Ronin-S (Part 8)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa01c-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Адаптер батареи DJI для Ronin-S (Part 8)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa01d-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Адаптер батареи DJI для Ronin-S (Part 8)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa01e-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Адаптер батареи DJI для Ronin-S (Part 8)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ea/ea6aa01f-9240-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Адаптер батареи DJI для Ronin-S (Part 8)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Рабочий диапазон температур, C": "от 5 до +40"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.04"
+    },
+    "Разное": {
+      "Бренд": "DJI"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

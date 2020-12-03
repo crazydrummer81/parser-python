@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-live-200-bt-red/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL LIVE 200 BT (red)",
+  "product_code": "79666",
+  "product_price": {
+    "full": 24990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e6/e68f9ac8-2e76-11e9-a21d-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL LIVE 200 BT (red)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9ac8-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 200 BT (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9ac9-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 200 BT (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/e6/e68f9aca-2e76-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 200 BT (red)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "97"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный",
+      "Вес без упаковки (нетто), кг": "0.04",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

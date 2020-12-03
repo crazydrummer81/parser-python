@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-nokia-42-clear-case/",
+  "product_category": {
+    "name": "NOKIA",
+    "url": "/section/nokia-nv8/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "NOKIA"
+  ],
+  "product_name": "Чехол для телефона NOKIA 4.2 Clear Case",
+  "product_code": "00829",
+  "product_price": {
+    "full": 4990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbcb2b7-2244-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона NOKIA 4.2 Clear Case"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2b7-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона NOKIA 4.2 Clear Case"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Nokia",
+      "Материал сумки/чехла": "силикон",
+      "Для моделей": "4.2"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "прозрачный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "NOKIA",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

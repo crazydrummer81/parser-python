@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-015-galaxy-a01-fzbds-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)",
+  "product_code": "01243",
+  "product_price": {
+    "full": 49890,
+    "discounted": 44890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/1b/1bedd451-3da5-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd451-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd452-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd453-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd454-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd455-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1b/1bedd456-3da5-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Процессор, (МГц, количество ядер)": "2000/ 1450 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "5,7 (14,4 см)",
+      "Разрешение дисплея, пикс": "1520х720 (HD+)",
+      "Технология изготовления дисплея": "PLS TFT LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "16",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+2",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.2",
+      "Особенности тыловой камеры": " f/2.2 / 2.4/ AF/ Вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3000",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Cканер отпечатка пальца": "нет",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,6х7,1х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,149"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c93/c93f19ec6098bd05d05b5331d91553a9.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h2 style=\"text-align: center;\"><b>Безграничный V-экран для больших возможностей</b></h2> <p style=\"text-align: center;\"> Большой и яркий 5,7-дюймовый HD+ TFT экран смартфона Galaxy A01 как нельзя лучше подходит для длительных игровых сеансов, стриминга видео и многого другого. V-образный вырез для камеры на безграничном V-экране создан для полного погружения в контент. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/706/70637f03b5cf9ece7d088a7ee3d8e35d.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Тонкий дизайн для большего комфорта</b></h2> <p style=\"text-align: center;\"> Черный, синий и красный цвет корпуса Galaxy A01 имеет приятную матовую поверхность. Тонкий 8,3-мм телефон невероятно комфортно ощущается в руке. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e81/e81dc62dfd514c73a4a283dfcc6b9c86.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Двойная камера поднимет качество ваших фотоснимков на новую высоту</b></h2> <p style=\"text-align: center;\"> Снимайте яркие и четкие фотографии при ярком солнце и при низкой освещенности с помощью светосильной 13-мегапиксельной основной камеры Galaxy A01. Вы можете также использовать функцию \"Живой фокус\", чтобы экспериментировать со степенью размытия фона до или после съемки. А камера с датчиком глубины смягчит изображение окружающих предметов и выделит лица друзей на переднем плане. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/eed/eedd3245b3bcb25e5fc481f9e3247fcd.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Великолепные селфи — снимки в любое время</b></h2> <p style=\"text-align: center;\"> Фронтальная 5МП камера Galaxy A01 позволит вам делать великолепные селфи снимки благодаря специально разработанной функции Selfie фокус, с помощью которой вы сможете красиво размыть изображение фона. А с помощью селфи-таймера вы можете быть уверены, что успеете принять правильную позу до спуска кнопки затвора камеры. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/173/1734c9bc32cebbd639fc88461217d7fe.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Больше мощности, чтобы двигаться только вперед</b></h2> <p style=\"text-align: center;\"> Мощный 8-ядерный процессор и 2 ГБ оперативной памяти легко справятся с играми с ресурсоемкой графикой и видео стримингом. Благодаря 16 ГБ встроенной памяти и аккумулятору 3000 мАч (типичное значение) у тебя всегда будет достаточно места и мощности для потоковой передачи видео, загрузки и отправки самых важных файлов. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/696/69690c0b4d699432e6523063ae057070.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/5d0/5d0d77bb4ca2947fa96b3ed4ad5460a8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Простой и удобный интерфейс One UI</b></h3> <p style=\"text-align: center;\"> Сконцентрируйтесь на самом важном. Аппаратное и программное обеспечение работают в полной гармонии друг с другом, чтобы вы могли легко и быстро пользоваться контентом и функциями телефона. \"Ночной режим\", на который переключается телефон в вечернее время, позволяет оптимизировать яркость экрана, чтобы обеспечить комфортные условия просмотра контента в темное время суток. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ad1/ad15bb3e084317d38b5b75bf9530959a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Поддержка Dolby Atmos для имитации атмосферы концертного зала</b></h3> <p style=\"text-align: center;\"> Просто вставьте в уши наушники, чтобы окунуться в море звука и атмосферу фильма. Благодаря поддержке формата Dolby Atmos, в каждой сцене вы оцените всю полноту и богатство окружающего вас звука. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/5d0/5d0d77bb4ca2947fa96b3ed4ad5460a8.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/ad1/ad15bb3e084317d38b5b75bf9530959a.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+      },
+      {
+        "url": "/upload/iblock/696/69690c0b4d699432e6523063ae057070.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 015 Galaxy A01 FZBDS (blue)"
+      }
+    ]
+  }
+}

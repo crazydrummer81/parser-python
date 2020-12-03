@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-nokia-true-wireless-earbuds-v2-black/",
+  "product_category": {
+    "name": "NOKIA",
+    "url": "/section/nokia-rum/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)",
+  "product_code": "79704",
+  "product_price": {
+    "full": 43990,
+    "discounted": 35990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/cc/cc5bb789-2f3f-11e9-a21d-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/cc/cc5bb789-2f3f-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cc/cc5bb78a-2f3f-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cc/cc5bb78b-2f3f-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cc/cc5bb78c-2f3f-11e9-a21d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона NOKIA True Wireless Earbuds V2 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.2"
+    },
+    "Питание": {
+      "Время в режиме разговора, ч": "16",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Функции": {
+      "Ожидание/удержание вызова": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.5"
+    },
+    "Разное": {
+      "Бренд": "NOKIA",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

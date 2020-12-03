@@ -1,0 +1,189 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-g-770-galaxy-s10-lite-128gb-fzbgs-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)",
+  "product_code": "01329",
+  "product_price": {
+    "full": 269890,
+    "discounted": 179890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a7/a77669cf-57ab-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669cf-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669d0-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669d1-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669d2-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669d3-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a7/a77669d4-57ab-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Snapdragon 855",
+      "Процессор, (МГц, количество ядер)": "2800/ 2400/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,7 (17 см)",
+      "Разрешение дисплея, пикс": "2400х1080 FHD+",
+      "Сенсорный дисплей": "емкостный, мультитач",
+      "Технология изготовления дисплея": "Super AMOLED Plus",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "до 1ТБ"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 640"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2.4+ 5ГГц, VHT80",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "есть"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+12+5",
+      "Режим видеосъемки": "UHD 4K (3840 x 2160)  60 кадров/ сек",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.2/ Живой фокус/ Разблокировка по лицу ",
+      "Особенности тыловой камеры": "Широкоугольная/Суперстабилизация/ Цифровой зум/HDR"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4500",
+      "Тип аккумулятора": "Li-lon (литий-ионный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминиевый сплав, стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/геомагнит.датч/датч.освещ ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,2х7,5х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,186"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "S",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b> Galaxy S10 lite</b></h2> <h3 style=\"text-align: center;\"><b>Откройте для себя камеру про-уровня </b></h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/58f/58f92f050c9a290c9d8801c90cb4e7de.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Цвета, приковывающие внимание</b></h3> <p style=\"text-align: center;\"> Невероятные призматические цвета S10 Lite притягивают взгляд. Смартфон доступен в нескольких оттенках: Черный, Перламутр и Синий. Благодаря плавным линиям корпуса, создающим высокий уровень эргономики, S10 Lite комфортно ощущается в руке. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a57/a575b7f25db925609045e4c554afe061.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7e5/7e5cf16960eeece3231fad5892b74e0f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Безграничный взгляд на окружающий мир</b></h3> <p style=\"text-align: center;\"> Безграничный 6.7-дюймовый Super AMOLED Plus экран смартфона S10 Lite с разрешением FullHD+ открывает вам максимально большое пространство для работы и развлечений. Наслаждайтесь своим любимым контентом без каких-либо ограничений, а благодаря наличию сканера отпечатков пальце в экране никто не сможет получить доступ к вашим личным данным. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/08d/08d8d75ee7139f1bb538a2cea0abfafa.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Передовые технологии улучшения изображения</b></h3> <p style=\"text-align: center;\"> Удивительная богатая палитра цветов и высокая контрастность экрана потрясающе раскрывается благодаря технологии HDR10+. Получите идеальное качество картинки как при ярком солнечном свете, так и в помещении. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Камера</b></h3> <h3 style=\"text-align: center;\"><b>Профессиональная камера для каждого</b></h3> <p style=\"text-align: center;\"> Основная 48МП камера помогает добиться ярких и четких фотографий высокого разрешения и днем, и ночью. Для панорамных снимков с углом обзора 123° отлично подойдет 12МП сверхширокоугольный объектив. 5МП камера для макросъемки позволяет делать четкие снимки крупным планом, фиксируя мельчайшие детали. А благодаря 32МП фронтальной камере у вас получатся отличные селфи, которые определенно заслуживают внимания ваших друзей. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/233/233b09fb300573b1ac167815cfa6f6c1.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/cbf/cbf005705c6392e2a01dd5e9f4c2d2a7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Фокусируйтесь на главном объекте съемки</b></h3> <p style=\"text-align: center;\"> Режим \"Живой фокус\" при съемке видео позволяет сфокусироваться только на самом важном. Теперь все внимание будет приковано к главному объекту съемки благодаря размытию фона с одним из четырех цифровых эффектов. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/015/01570666a502ced34306392fbb25cd7c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Громкость на полную с зум-микрофоном</b></h3> <p style=\"text-align: center;\"> Иногда во время съемки видео возникают различные окружающие звуки: смех, шум прибоя или разговор людей. S10 Lite обладает функцией зум-микрофона, которая с помощью 3х микрофонов позволяет услышать только самое необходимое. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/961/96188c4de29366657e96486bb579467b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Взгляд на мир шире вместе с сверхширокоугольной камерой</b></h3> <p style=\"text-align: center;\"> 12 МП сверхширокоугольный объектив камеры показывает мир таким, каким видит его человеческий глаз. Угол обзора 123° позволяет запечатлеть все самые важные детали при съемке пейзажей, а также дает возможность создавать красивые панорамные съемки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/e1a/e1a5b7f6eb0086ee860e28e3ae2f54f4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b> <h3></h3> </b> <p style=\"text-align: center;\"> </p> <h3></h3> <h3 style=\"text-align: center;\"><b>Яркие и четкие снимки и днем, и ночью</b></h3> <p style=\"text-align: center;\"> При дневном или лунном освещении каждое фото, сделанное с помощью основной 48МП камеры S10 Lite отличается высоким уровнем яркости и четкости. А с помощью цифрового зума можно увеличить изображение без потери качества снимка. </p> <p> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6ac/6ac623356a7609a4574956b3bd40813a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Камера для макросъемки: ни одна деталь не останется незамеченной</b></h3> <p style=\"text-align: center;\"> 5МП камера для макросъемки смартфона S10 Lite позволяет запечатлеть мельчайшие детали объекта. Благодаря возможности съемки с расстояния всего 4см, можно получить уникальные по своей красоте текстуры и цвета объектов. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ca1/ca1579f06118089d00e2e9cf02d66a64.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Великолепные селфи в одно касание</b></h3> <p style=\"text-align: center;\"> Если вы хотите сделать удивительные по качеству селфи, переключитесь на 32 МП фронтальную камеру S10 Lite. В режиме \"Живой фокус\" вы сможете применить к фону мягкий эффект размытия как до, так и после съемки, сохранив при этом четкое изображения основного объекта. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Производительность</b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>До 2х дней без подзарядки</b><br/> </h3> <p style=\"text-align: center;\"> Смартфон S10 Lite оснащен мощным аккумулятором емкостю 4500 мАч (типичное значение). Функция AI-оптимизации энергопотребления помогает анализировать сценарии использования смартфона и оптимизирует его работу, чтобы вы смогли на протяжении 2х дней пользоваться им без подзарядки.* </p> <h6 style=\"text-align: center;\"> *Фактический ресурс батареи зависит от сетевого окружения, используемых функций и приложений, частоты совершенных вызовов и отправленных сообщений, количества циклов заряд/разряд и многих других факторов. </h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/692/692e02bced48011eec33e2977e2ecff6.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d76/d767da319b2430e35d02bc1ab7d46372.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>30 минут зарядки для работы на целый день</b></h3> <p style=\"text-align: center;\"> Подддержка сверхбыстрой зарядки 45Вт поможет быстро пополнить заряд аккумулятора вашего S10 Lite.. Даже 30-минутной зарядки во время завтрака или полуденного кофе-брейка будет достаточно, чтобы заряда хватило на весь оставшийся день работы.* </p> <h6 style=\"text-align: center;\">* Данные получены в лаборатории компании Samsung</h6> <h6></h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ea1/ea163684b9e35349b03d36ba8caef290.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Мощность для любых задач</b></h3> <p style=\"text-align: center;\"> Мощный процессор в сочетании с большой памятью обеспечивает смартфону S10 Lite великолепную поддержку многозадачного режима работы. S10 Lite оснащен 6ГБ ОЗУ, а также встроенной памятью 128 ГБ с возможностью расширения до 1 ТБ, что сравнимо с объемами памяти хорошего ноутбука. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/503/5035538e46b0344802a574c0f2e86fcf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Game Booster для комфортного игрового процесса</b></h3> <p style=\"text-align: center;\"> Играйте на пике возможностей благодаря системе Game Booster. Интуитивно-понятный интерфейс позволяет легко настраивать важные параметры, благодаря чему вы сможете полностью погрузиться с игровой процесс без помех. Game Booster проанализирует основные сценарии, чтобы оптимизировать уровень температуры устройства, его состояние аккумулятора и памяти, чтобы вы ощутили невероятный комфорт во время игр. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/ea4/ea44bfc5dd87f08d130b3ff23e2d3c32.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Беспроводное подключение как новый стиль жизни</b></h3> <p style=\"text-align: center;\"> Благодаря приложению Link to Windows (Переключение между смартфоном и ПК), вы сможете управлять вашим телефоном S10 Lite с помощью ПК с ОС Windows 10. Отправляйте сообщения, просматривайте фотографии, получайте уведомления и запускайте мобильные приложения прямо с вашего компьютера. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0f0/0f02ff2cf4a7a985aef402dac1c01a12.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Bixby - ваш персональный помощник</b></h3> <p style=\"text-align: center;\"> Камера Bixby изменит ваш взгляд на мир. Переводите целые предложения с помощью камеры и усовершенствованной камеры Bixby. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3d7/3d7e47a5e41750ed125d384fdce3a61a.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Ваши данные под надежной защитой</b></h3> <p style=\"text-align: center;\"> Абсолютная безопасность данных с Samsung Knox. Многоуровневая система безопасности Samsung Knox защищает ваши личные данные от вирусов и вредоносных атак как на аппаратном, так и на программном уровне. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/7e5/7e5cf16960eeece3231fad5892b74e0f.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/08d/08d8d75ee7139f1bb538a2cea0abfafa.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/cbf/cbf005705c6392e2a01dd5e9f4c2d2a7.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/015/01570666a502ced34306392fbb25cd7c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/961/96188c4de29366657e96486bb579467b.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/e1a/e1a5b7f6eb0086ee860e28e3ae2f54f4.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/6ac/6ac623356a7609a4574956b3bd40813a.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/ca1/ca1579f06118089d00e2e9cf02d66a64.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/d76/d767da319b2430e35d02bc1ab7d46372.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/ea1/ea163684b9e35349b03d36ba8caef290.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/503/5035538e46b0344802a574c0f2e86fcf.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/ea4/ea44bfc5dd87f08d130b3ff23e2d3c32.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/0f0/0f02ff2cf4a7a985aef402dac1c01a12.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/3d7/3d7e47a5e41750ed125d384fdce3a61a.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      },
+      {
+        "url": "/upload/iblock/692/692e02bced48011eec33e2977e2ecff6.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM G 770 Galaxy S10 lite 128GB FZBGS (blue)"
+      }
+    ]
+  }
+}

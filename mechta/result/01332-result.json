@@ -1,0 +1,80 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiostancii-motorola-talkabout-t62-blue/",
+  "product_category": {
+    "name": "MOTOROLA",
+    "url": "/section/motorola-gtq/",
+    "parent_name": "Радиостанции",
+    "parent_url": "/section/radiostancii-jdr/"
+  },
+  "product_name": "Радиостанции MOTOROLA TALKABOUT T62 Blue",
+  "product_code": "79280",
+  "product_price": {
+    "full": 26990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ca/ca189f6f-778b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f6f-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f70-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f71-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f72-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ca/ca189f73-778b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Радиостанции MOTOROLA TALKABOUT T62 Blue"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Рабочая частота, МГц": "446-446.1",
+      "Дисплей": "есть",
+      "Количество каналов": "8 + 121 код",
+      "Количество раций в комплекте": "2",
+      "Количество сигналов вызова": "20",
+      "Мощность передатчика, Вт": "0.5",
+      "Наличие лицензии": "не требуется",
+      "Радиус действия, км": "8"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "800",
+      "Тип аккумулятора": "Ni-Mh (никель-металлгидридный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Блокировка клавиатуры": "есть"
+    },
+    "Информационные функции": {
+      "Индикация уровня заряда": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16.5х5.4х0.2",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.161"
+    },
+    "Разное": {
+      "Бренд": "MOTOROLA",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

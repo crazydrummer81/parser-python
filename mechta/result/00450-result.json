@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-lightning-to-usb-2m-md819zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона APPLE Lightning to USB 2m (MD819ZMA)",
+  "product_code": "32877",
+  "product_price": {
+    "full": 13990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6c/6c9c81a1-8bf8-11e4-94a2-14dae972ca6d.jpeg",
+    "alt": "Кабель для телефона APPLE Lightning to USB 2m (MD819ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6c/6c9c81a1-8bf8-11e4-94a2-14dae972ca6d.jpeg",
+      "alt": "Кабель для телефона APPLE Lightning to USB 2m (MD819ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "2",
+      "Штекер": "Lightning",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

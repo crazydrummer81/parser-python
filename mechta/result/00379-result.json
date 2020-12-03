@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-xiaomi-mi-airdots-youth-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-r71/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона XIAOMI Mi Airdots Youth (white)",
+  "product_code": "82560",
+  "product_price": {
+    "full": 18990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a3/a383e632-a84e-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона XIAOMI Mi Airdots Youth (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a3/a383e632-a84e-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Youth (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a3/a383e633-a84e-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Youth (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a3/a383e634-a84e-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Youth (white)"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "150",
+      "Емкость аккумулятора, мАч": "наушники 40 мА·ч / чехол 300 мА·ч",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "4 часа, + 12 часов футляр"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "Наушник 4 грамм, футляр 39 грамм",
+      "Габариты в упаковке (ВхШхГ), см": "6,2х4,2х2,6"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

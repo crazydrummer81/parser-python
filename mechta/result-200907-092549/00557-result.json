@@ -1,0 +1,69 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-marshall-major-iii-brown/",
+  "product_category": {
+    "name": "MARSHALL",
+    "url": "/section/marshall-qsm/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "MARSHALL"
+  ],
+  "product_name": "Наушники MARSHALL Major III (brown)",
+  "product_code": "80940",
+  "product_price": {
+    "full": 34990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ba/ba118941-64dc-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Наушники MARSHALL Major III (brown)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ba/ba118941-64dc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6dd-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (brown)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ba/ba118942-64dc-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (brown)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.8",
+      "Штекер": "3.5 мм (mini-jack) - наушники, микрофон ",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "40 мм",
+      "Чувствительность, дБ": "99"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "коричневый",
+      "Вес без упаковки (нетто), кг": "0.17",
+      "Вес в упаковке (брутто), кг": "0.4",
+      "Габариты в упаковке (ВхШхГ), см": "16х16х9"
+    },
+    "Разное": {
+      "Бренд": "MARSHALL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

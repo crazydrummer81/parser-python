@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-2e-a1-ergonomicfit-mic-black/",
+  "product_category": {
+    "name": "2E",
+    "url": "/section/2e-atk/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники + микрофон 2E A1 ERGONOMICFIT MIC BLACK",
+  "product_code": "260001468",
+  "product_price": {
+    "full": 1490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/77/7784b321-a549-11ea-a22e-005056b6dbd7.jpeg",
+    "alt": "Наушники + микрофон 2E A1 ERGONOMICFIT MIC BLACK"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/77/7784b321-a549-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E A1 ERGONOMICFIT MIC BLACK"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/77/7784b322-a549-11ea-a22e-005056b6dbd7.jpeg",
+      "alt": "Наушники + микрофон 2E A1 ERGONOMICFIT MIC BLACK"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "10",
+      "Чувствительность, дБ": "115"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "2E",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnyy-derjatel-canyon-cne-cchm4/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-fwj/",
+    "parent_name": "Держатели",
+    "parent_url": "/section/derjateli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Держатели",
+    "CANYON"
+  ],
+  "product_name": "Автомобильный держатель CANYON CNE-CCHM4",
+  "product_code": "260000114",
+  "product_price": {
+    "full": 2490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/81abe88b-51fd-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Автомобильный держатель CANYON CNE-CCHM4"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe88b-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM4"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe88c-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM4"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/81/81abe88d-51fd-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Автомобильный держатель CANYON CNE-CCHM4"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

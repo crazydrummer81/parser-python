@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-vipe-75w-power-station-white/",
+  "product_category": {
+    "name": "VIPE",
+    "url": "/section/vipe-x98/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов VIPE 75W Power Station (white)",
+  "product_code": "81150",
+  "product_price": {
+    "full": 25990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7c/7c5b8ef5-61af-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ef5-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ef6-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ef7-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ef8-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8ef9-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7c/7c5b8efa-61af-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов VIPE 75W Power Station (white)"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "USB": "3 х USB Type-А / 2 х USB Type-c"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "17х4х19",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.83",
+      "Вес в упаковке (брутто), кг": "1"
+    },
+    "Разное": {
+      "Бренд": "VIPE",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-xiaomi-3s-10-000mah-silver-model-2019/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_name": "Портативное зарядное устройство XIAOMI 3S 10 000mAh Silver (model 2019)",
+  "product_code": "260000122",
+  "product_price": {
+    "full": 11990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/62/62ce09a1-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство XIAOMI 3S 10 000mAh Silver (model 2019)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/62/62ce09a1-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI 3S 10 000mAh Silver (model 2019)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/62/62ce09a2-5ecc-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство XIAOMI 3S 10 000mAh Silver (model 2019)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "14,7х7,1х1,4",
+      "Цвет": "серебристый"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

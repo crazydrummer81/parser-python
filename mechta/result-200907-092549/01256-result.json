@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.mechta.kz/product/smart-chasy-hiper-babyguard-pink-bg01pnk/",
+  "product_category": {
+    "name": "HIPER",
+    "url": "/section/hiper-mtf/",
+    "parent_name": "Детские часы с GPS",
+    "parent_url": "/section/detskie-chasy-s-gps/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Гаджеты",
+    "Детские часы с GPS",
+    "HIPER"
+  ],
+  "product_name": "Детские смарт часы HIPER BabyGuard Pink (BG01PNK)",
+  "product_code": "74974",
+  "product_price": {
+    "full": 11990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/659028c5-6963-11e8-a211-005056b6dbd7.jpeg",
+    "alt": "Детские смарт часы HIPER BabyGuard Pink (BG01PNK)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/659028c5-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Детские смарт часы HIPER BabyGuard Pink (BG01PNK)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/659028c6-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Детские смарт часы HIPER BabyGuard Pink (BG01PNK)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/659028c7-6963-11e8-a211-005056b6dbd7.jpeg",
+      "alt": "Детские смарт часы HIPER BabyGuard Pink (BG01PNK)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, от дождя и брызг",
+      "Режимы дисплея": "GPS-трекер, шагомер, SOS-вызов, прослушивание "
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "1,3 (3,3 см)",
+      "Технология изготовления дисплея": "LCD"
+    },
+    "SIM карта": {
+      "SIM-карта": "одна, Micro-SIM"
+    },
+    "Типы передачи данных": {
+      "USB": "1 x Micro USB",
+      "Wi-Fi": "есть",
+      "GPS": "есть"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "430",
+      "Работа от аккумулятора, ч": "до 140 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Акселерометр": "есть"
+    },
+    "Звук": {
+      "Встроенный микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "4,1х4,1х1,6",
+      "Цвет": "розовый",
+      "Вес без упаковки (нетто), кг": "0.04"
+    },
+    "Разное": {
+      "Бренд": "HIPER",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "LBS": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

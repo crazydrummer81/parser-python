@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-borasco-015-mm-scott-dlya-apple-iphone-xs-max11-pro-max-36023/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Защитные плёнки",
+    "BoraSCO"
+  ],
+  "product_name": "Защитная пленка для дисплея BoraSCO 0,15 мм Scott для Apple iPhone XS Max/11 Pro Max (36023)",
+  "product_code": "00251",
+  "product_price": {
+    "full": 4490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8c/8cff04d9-0ffa-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея BoraSCO 0,15 мм Scott для Apple iPhone XS Max/11 Pro Max (36023)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8c/8cff04d9-0ffa-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея BoraSCO 0,15 мм Scott для Apple iPhone XS Max/11 Pro Max (36023)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone XS Max/11 Pro"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х0.3"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

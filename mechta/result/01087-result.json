@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-reflect-contour-2-bt-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL Reflect Contour 2 BT (black)",
+  "product_code": "78720",
+  "product_price": {
+    "full": 29990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/84/84184113-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Reflect Contour 2 BT (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/84/84184113-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Reflect Contour 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184114-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Reflect Contour 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184115-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Reflect Contour 2 BT (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "10 - 22000",
+      "Чувствительность наушников, дБ/В": "100"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.02",
+      "Вес в упаковке (брутто), кг": "0.2",
+      "Габариты в упаковке (ВхШхГ), см": "16х8х5"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

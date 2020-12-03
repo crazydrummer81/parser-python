@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-samsung-eo-hs1303gegru-green/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-36q/",
+    "parent_name": "Проводные гарнитуры",
+    "parent_url": "/section/provodnye-garnitury/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Проводные гарнитуры",
+    "SAMSUNG"
+  ],
+  "product_name": "Наушники для телефона SAMSUNG EO-HS1303GEGRU (green)",
+  "product_code": "69338",
+  "product_price": {
+    "full": 3490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/39/39f17243-9d37-11e7-80bd-005056c00008.jpeg",
+    "alt": "Наушники для телефона SAMSUNG EO-HS1303GEGRU (green)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/39/39f17243-9d37-11e7-80bd-005056c00008.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-HS1303GEGRU (green)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/39/39f17244-9d37-11e7-80bd-005056c00008.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-HS1303GEGRU (green)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/39/39f17245-9d37-11e7-80bd-005056c00008.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-HS1303GEGRU (green)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

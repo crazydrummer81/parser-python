@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-usams-4-in-1-black-us-sj317u26/",
+  "product_category": {
+    "name": "USAMS",
+    "url": "/section/usams-wwg/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "USAMS"
+  ],
+  "product_name": "Кабель для телефона USAMS 4 in 1 (black) US-SJ317U26",
+  "product_code": "00837",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ed/edbcb2cd-2244-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона USAMS 4 in 1 (black) US-SJ317U26"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2cd-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона USAMS 4 in 1 (black) US-SJ317U26"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ed/edbcb2ce-2244-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона USAMS 4 in 1 (black) US-SJ317U26"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "USAMS",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

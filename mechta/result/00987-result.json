@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-nillkin-super-frosted-shield-for-xiaomi-mi-play-black/",
+  "product_category": {
+    "name": "NILLKIN",
+    "url": "/section/nillkin-5p6/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_name": "Чехол для телефона Nillkin Super Frosted Shield for Xiaomi Mi Play (black)",
+  "product_code": "83704",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/tmpl/img/nofoto.gif",
+    "alt": "Чехол для телефона Nillkin Super Frosted Shield for Xiaomi Mi Play (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/tmpl/img/nofoto.gif",
+      "alt": "Чехол для телефона Nillkin Super Frosted Shield for Xiaomi Mi Play (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Xiaomi",
+      "Для моделей": "Mi Play"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0,16"
+    },
+    "Разное": {
+      "Бренд": "Nillkin",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

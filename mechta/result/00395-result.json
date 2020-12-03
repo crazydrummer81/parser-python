@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-w1-c400/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WI C400",
+  "product_code": "71986",
+  "product_price": {
+    "full": 24990,
+    "discounted": 15390
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a9/a9a2e134-d008-11e7-80c8-1866daf08915.jpeg",
+    "alt": "Наушники SONY WI C400"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a9/a9a2e134-d008-11e7-80c8-1866daf08915.jpeg",
+      "alt": "Наушники SONY WI C400"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "8 - 22000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "SONY"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

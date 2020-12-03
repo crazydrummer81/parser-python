@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-apple-18w-usb-c-power-adapter-mu7v2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-h25/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов APPLE 18W USB-C Power Adapter (MU7V2ZM/A)",
+  "product_code": "01077",
+  "product_price": {
+    "full": 17990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a0/a0da249b-35e9-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов APPLE 18W USB-C Power Adapter (MU7V2ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a0/a0da249b-35e9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов APPLE 18W USB-C Power Adapter (MU7V2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a0/a0da249c-35e9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов APPLE 18W USB-C Power Adapter (MU7V2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/a0/a0da249d-35e9-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов APPLE 18W USB-C Power Adapter (MU7V2ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Информационные функции": {
+      "Индикация": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

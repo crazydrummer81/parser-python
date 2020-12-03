@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-huawei-besprovodnoe-wireless-quick-charge-dga01k-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-2fa/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов HUAWEI Беспроводное Wireless Quick Charge CP60 (DGA02K) white",
+  "product_code": "78463",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/30/30b2aef2-feb9-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов HUAWEI Беспроводное Wireless Quick Charge CP60 (DGA02K) white"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/30/30b2aef2-feb9-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов HUAWEI Беспроводное Wireless Quick Charge CP60 (DGA02K) white"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/30/30b2aef3-feb9-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов HUAWEI Беспроводное Wireless Quick Charge CP60 (DGA02K) white"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "10В",
+      "я удален": "2А"
+    },
+    "Типы передачи данных": {
+      "USB": "1 USB-разъем"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Страна производитель": "Китай",
+      "Дополнительно": "защита от перегрева, защита от перегрузки"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/remeshok-xiaomi-strap-blue/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-gta/",
+    "parent_name": "Ремешки для смарт часов",
+    "parent_url": "/section/remeshki-dlya-smart-chasov/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Гаджеты",
+    "Ремешки для смарт часов",
+    "XIAOMI"
+  ],
+  "product_name": "Ремешок XIAOMI Strap (blue)",
+  "product_code": "81555",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/bf/bfbf8c7d-7537-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Ремешок XIAOMI Strap (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/bf/bfbf8c7d-7537-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Ремешок XIAOMI Strap (blue)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Страна производитель": "Китай",
+      "Материал": "силикон"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\">Сменный ремешок для <b>Xiaomi Mi Band</b> обеспечивает плотное прилегание и надёжно фиксирует устройство. Застёжка регулируется в широком диапазоне, фирменные кнопки легко переставляются между браслетами. Длина ремешка регулируется в пределах 157-205 мм. Ремешок имеет гладкую поверхность и надёжную заклёпку с гранями. Выполнен из приятного на ощупь силикона и не вызывает раздражения или дискомфорта даже при длительном ношении.</div> ",
+    "images": []
+  }
+}

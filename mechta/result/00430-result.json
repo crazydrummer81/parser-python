@@ -1,0 +1,77 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-xiaomi-mi-airdots-pro-tws-airwhite/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-r71/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)",
+  "product_code": "82431",
+  "product_price": {
+    "full": 35990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/70/70c5d56d-a2c7-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d56d-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d56e-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d56f-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d570-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d571-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/70/70c5d572-a2c7-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона XIAOMI Mi Airdots Pro TWS (air/white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть",
+      "Совместимость со смартфономи": "Android / iOS"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.2"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "40",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "3.5 ч., с футляром 10 ч."
+    },
+    "Функции": {
+      "Голосовой набор": "есть",
+      "Ответить/закончить разговор": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,011"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

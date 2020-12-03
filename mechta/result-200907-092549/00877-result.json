@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-ch-400-bt-blue/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "SONY"
+  ],
+  "product_name": "Наушники SONY WH CH 400 BT (blue)",
+  "product_code": "75486",
+  "product_price": {
+    "full": 20990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/78/78163702-7829-11e8-a213-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH CH 400 BT (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/78/78163702-7829-11e8-a213-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 400 BT (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "голубой"
+    },
+    "Разное": {
+      "Бренд": "SONY"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

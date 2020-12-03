@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-live-650-bt-nc-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL LIVE 650 BT NC (black)",
+  "product_code": "00997",
+  "product_price": {
+    "full": 79990,
+    "discounted": 69990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c3/c3c17d3f-288e-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL LIVE 650 BT NC (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d3f-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d40-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d41-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d42-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d43-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c3/c3c17d44-288e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL LIVE 650 BT NC (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "100",
+      "Диаметр мембран, мм": "40 мм"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "700",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Время работы от аккумулятора, ч": "30 ч."
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Информационные функции": {
+      "Индикация": "включения "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.26"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

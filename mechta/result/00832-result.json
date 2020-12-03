@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-plantronics-backbeat-fit-3100-211855-99-chernyy/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона PLANTRONICS BACKBEAT FIT 3100 (211855-99) (черный)",
+  "product_code": "82317",
+  "product_price": {
+    "full": 69980,
+    "discounted": 47990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/85/852b36b0-9bad-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона PLANTRONICS BACKBEAT FIT 3100 (211855-99) (черный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/85/852b36b0-9bad-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона PLANTRONICS BACKBEAT FIT 3100 (211855-99) (черный)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/85/852b36b1-9bad-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона PLANTRONICS BACKBEAT FIT 3100 (211855-99) (черный)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10",
+      "Защита от воды и пыли": "IP57"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "5.0"
+    },
+    "Питание": {
+      "Время в режиме разговора, ч": "5",
+      "Емкость аккумулятора, мАч": "наушники 90 мА·ч / чехол 740 мА·ч",
+      "Работа от аккумулятора, ч": "до 5 часов, до 10 часов с использованием футляра",
+      "Беспроводная зарядка": "есть, футляр",
+      "Быстрая зарядка": "есть, до одного часа работы за 15 минут"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

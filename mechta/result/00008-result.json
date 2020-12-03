@@ -1,0 +1,155 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-115-galaxy-a11-fzkns-black/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)",
+  "product_code": "260001634",
+  "product_price": {
+    "full": 84990,
+    "discounted": 64890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/de/deca02a8-bb87-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02a8-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02ab-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02ac-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02ad-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02ae-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/de/deca02af-bb87-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Exynos 7904",
+      "Процессор, (МГц, количество ядер)": "1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,4 (16,3 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Технология изготовления дисплея": "PLS TFT LCD",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "2",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "4.2",
+      "Wi-Fi": "есть, 802.11b/g/n, 2,4 ГГц",
+      "GPS": "есть, Glonass/ Galileo и BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+5+2",
+      "Режим видеосъемки": "Full HD 1920 x 1080  30 кадров/ сек ",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0/ Живой фокус/ Разблокировка по лицу ",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Портретный объектив"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Встроенное оборудование и функции": "Акселерометр/ датчик освещ/ датчик.приближ",
+      "Сканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,1х7,6х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,177"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Модель": "A"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6aa/6aac5834ff1835e205790ccd130b9088.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Большой экран - большие возможности</b></h3> <p style=\"text-align: center;\"> Оцени эффект полного погружения в контент на безграничном 6.4-дюймовом экране смартфона Galaxy A11. Яркий широкоугольный дисплей с разрешением HD+ позволит смотреть фильмы, видеотрансляции и наслаждаться любимыми играми без остановок. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/cf0/cf0c6a02d2226aef41dd7f68adc44bca.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/eec/eeca98740d01ac2c0235433de6ef6ee8.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Стильные цвета в твоей ладони</b></h3> <p style=\"text-align: center;\"> Выделяйся из толпы вместе с тонким и изящным корпусом Galaxy A11, который подчеркнет твой неповторимый стиль. Плавные изогнутые грани смартфона созданы, чтобы не выпускать его из рук на протяжении целого дня. Выбирай один из ярких оттенков черного, белого или красного цвета, который непременно подойдет именно тебе. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/623/6233c6ff77d6ce7897b88f3b36270323.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Тройная камера, чтобы запечатлеть самые важные моменты</b></h3> <p style=\"text-align: center;\"> Galaxy A11 оснащен тремя камерами: 5 МП сверхширокоугольной камерой со углом обзора 115°, схожим с полем зрения человека; 13 МП (F1.8) камерой для ярких и четких снимков в любое время суток, а также 2MП камерой с датчиком глубины, которая идеально подойдет для съемки портретов с эффектом размытия заднего фона. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Сверхширокоугольная камера для усиления перспективы</b></h3> <p style=\"text-align: center;\"> Теперь больше объектов в кадре вместе со Сверхширокоугольной камерой. 77° угол обзора широкоугольной камеры и 115° сверхширокоугольный угол позволят запечатлеть именно то, что видят твои глаза. Ты легко сможешь снять интересный сюжет не сходя с места и получить великолепный панорамный снимок. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/fc9/fc9fd3477482dda06a266b78a41a8f57.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/944/944cca974e4dc4daecaec7c0e17d2cf7.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Камера с датчиком глубины: выдели главный объект</b></h3> <p style=\"text-align: center;\"> Камера с датчиком глубины 2МП позволяет регулировать уровень размытия фона как до, так и после съемки. Усовершенствованный модуль камеры позволяет убрать нежелательные шумы с фотографий, чтобы они выглядели более профессионально. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/32a/32a1b3c19edc615349c968228c3d37b2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Потрясающие селфи - проще простого!</b></h3> <p style=\"text-align: center;\"> Будь фокусе - пришло твое время блистать! Фронтальная 8МП камера Galaxy A11 позволит сделать отличные селфи-снимки, а с помощью функции \"Живой фокус\", мягко размывающей фон, внимание будет только на тебе. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b><br/> </b></h3> <h3 style=\"text-align: center;\"><b>Высокая производительность: делай больше</b></h3> <p style=\"text-align: center;\"> Galaxy A11 оснащен быстрым процессором и большим объемом памяти, так что можно не беспокоиться о нехватке места для любимого контента. Новый 8-ядерный процессор и оперативная память 2 ГБ обеспечат плавную и эффективную работу игр и приложений. Скачивай больше и удаляй меньше благодаря 32ГБ встроенной памяти. А если ее не хватит ты легко можешь расширить ее до 512ГБ с помощью microSD карты. </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/21b/21bf3fb897eeaa16770660235098643c.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/f78/f78c41bbbcdab35d1dfa6caa8822722b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Работа без остановки</b></h3> <p style=\"text-align: center;\"> В динамичном ритме жизни нужен смартфон, на который всегда можно положиться. С мощным аккумулятором емкостью 4000 мАч (типичное значение)* ты сможешь делиться файлами, играть и выходить в прямой эфир и многое другое. А поддержка быстрой зарядки 15Вт позволит тебе всегда оставаться на связи. </p> <h6 style=\"text-align: center;\">*Фактический рабочий ресурс батареи может зависеть от сетевого окружения, особенностей использования и других факторов.</h6> <p style=\"text-align: center;\"> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/43e/43e41b3a2834cfb8ca393eb75a54b1f5.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Сканер отпечатка пальца</b></h3> <p style=\"text-align: center;\"> Упрости доступ к своим данным с помощью защиты, которой можно доверять. Сканер отпечатка пальца на задней панели Galaxy A11 позволяет легко и быстро разблокировать телефон и входить в приложения с поддержкой использования биометрии. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/eec/eeca98740d01ac2c0235433de6ef6ee8.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/623/6233c6ff77d6ce7897b88f3b36270323.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/944/944cca974e4dc4daecaec7c0e17d2cf7.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/32a/32a1b3c19edc615349c968228c3d37b2.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/f78/f78c41bbbcdab35d1dfa6caa8822722b.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/43e/43e41b3a2834cfb8ca393eb75a54b1f5.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      },
+      {
+        "url": "/upload/iblock/21b/21bf3fb897eeaa16770660235098643c.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 115 Galaxy A11 FZKNS (black)"
+      }
+    ]
+  }
+}

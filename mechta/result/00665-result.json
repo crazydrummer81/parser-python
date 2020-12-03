@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hv-107-green/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-h0y/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники HARPER HV 107 (green)",
+  "product_code": "84066",
+  "product_price": {
+    "full": 1190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/91/91ee32d0-e406-11e9-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HV 107 (green)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/91/91ee32d0-e406-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HV 107 (green)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/91/91ee32d1-e406-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HV 107 (green)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/91/91ee32d2-e406-11e9-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HV 107 (green)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "зеленый",
+      "Вес без упаковки (нетто), кг": "0.04"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

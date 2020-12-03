@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-ht-010-gu-h/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-sub/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники PANASONIC RP HT 010 GU H",
+  "product_code": "78049",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2e/2e199a34-e898-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Наушники PANASONIC RP HT 010 GU H"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2e/2e199a34-e898-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники PANASONIC RP HT 010 GU H"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/2e/2e199a35-e898-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники PANASONIC RP HT 010 GU H"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/2e/2e199a36-e898-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Наушники PANASONIC RP HT 010 GU H"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "16 - 22000",
+      "Чувствительность наушников, дБ/В": "100"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серый",
+      "Вес без упаковки (нетто), кг": "0.08",
+      "Вес в упаковке (брутто), кг": "0.2",
+      "Габариты в упаковке (ВхШхГ), см": "22.3х17х6"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-huawei-mate-30-pro-space-silver/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-t6t/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver",
+  "product_code": "260000255",
+  "product_price": {
+    "full": 499890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/65/6566a47c-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a47c-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a47d-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a47e-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a47f-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a480-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/65/6566a481-5dd0-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "есть, IP68"
+    },
+    "Процессор": {
+      "Модель процессора": "Hisilicon Kirin 990",
+      "Процессор, (МГц, количество ядер)": "2860 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "18.5:9",
+      "Диагональ экрана, дюйм": "6,53 (16,5 см)",
+      "Разрешение дисплея, пикс": "2400х1176 FHD+",
+      "Технология изготовления дисплея": "OLED",
+      "Количество цветов дисплея": "16,7 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G, 5G "
+    },
+    "Память": {
+      "Встроенная память, Гб": "256",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "Nano Memory Card",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G76 MP16"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB 3.1 Type-C",
+      "Bluetooth": "5.1,BLE",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "40+40+8+3D",
+      "Режим видеосъемки": "4K 30/60 fps/1080p 30/60/120/960 fps/720p 7680 fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32+3D",
+      "Особенности фронтальной камеры": "Двойная камера/ f/2.0/ 3D TOF-камера/ panorama/HDR",
+      "Особенности тыловой камеры": "Кинообъектив/Широкоугольный/Телеобъектив/3D камера"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4500",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "есть",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл и стекло Corning Gorilla Glass 6"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр, датчик жеста,света,приближения и др.",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,8х7,3х0,8",
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0,198"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "Mate 30 Pro",
+      "Поддержка казахского языка": "есть",
+      "Поддержка 5G": "есть",
+      "Поддержка сервисов Google Play": "нет"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>HUAWEI</b> Mate 30 Pro <!--noindex--><a href=\"http://consumer.huawei.com/ru/community/details/topicId_3315\" rel=\"nofollow\" title=\"Руководство по установке приложений\"><span style=\"color: #0072bc;\">Установка приложений</span></a><!--/noindex--></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Новое представление о возможностях</b></h3> <h3 style=\"text-align: center;\">Сотрите все визуальные границы, откройте для себя настоящую фото- и видеосъемку, освободите абсолютную скорость и головокружительную мощь. Отправляйтесь навстречу будущему и новым возможностям.</h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/7a0/7a0cbee623fa0140f56e75da0b53eeee.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Безграничные возможности</b></h3> <h3 style=\"text-align: center;\"> HUAWEI Mate 30 Pro откроет перед вами новый спектр безграничных возможностей съемки. Высокотехнологичная камера HUAWEI Mate 30 Pro с четырмя объективами вписана в круг, который отражает свет. Обновленный дизайн смартфона делает его уникальным в своем роде. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/630/630d028dc983d8dd3fe200121c8a500a.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Простор для воображения</b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Изысканный дизайн HUAWEI Mate 30 Pro, проработанный до мельчайших деталей, полон природных мотивов. Смартфон представлен в четырех культовых оттенках: космический серебристый, который сверкает, словно Млечный Путь; глубокий фиолетовый, напоминающий о далеких галактиках; изумрудно-зеленый, как благородный минерал; черный, таящий в себе множество загадок.</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e20/e20de8a723d8cd5ee56bb7acac95669d.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/400/40008132d2e77520b25d4833d3ef1a15.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Эволюция мощности</b></h3> <p style=\"text-align: center;\"> Благодаря развитию высоких технологий и появлению новой архитектуры, мобильный процессор Kirin 990 стал еще более производительным и энергоэффективным. Высокая скорость, низкая задержка, длительное использование и качественная обработка изображений — все это о новом смартфоне HUAWEI Mate 30 Pro. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a08/a083e4d812c2ec35088f6c26144cbac4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Усовершенствованная</b><b> система теплоотвода</b></h3> <p style=\"text-align: center;\"> Усовершенствованная система теплоотвода смартфона создана с использованием графеновой пленки, одного из самых эффективных материалов, применяемых для отвода тепла. Благодаря этому HUAWEI Mate 30 Pro способен быстро рассеивать тепло и не перегреваться в течение долгого времени. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Новое представление о камере</b></h3> <h2 style=\"text-align: center;\"><b> Запечатлейте мир так, как видите его сами</b></h2> <h3 style=\"text-align: center;\"> Новый суперчувствительный кинообъектив позволит вам исследовать окружающий мир, творить искусство и раскрывать эмоции каждой истории. Используйте HUAWEI Mate 30 Pro, чтобы навсегда запечатлеть всю окружающую вас красоту на ярких фотографиях и видео. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e41/e41af059288f1f8c6cc39996fa28ad3e.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/da9/da9fdc16f901ba7120da364a94265c30.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Снимайте видео в темноте</h3> <p style=\"text-align: center;\"> Благодаря широкому сенсору и обновленному цифровому процессору обработки сигналов HUAWEI Mate 30 Pro позволит снимать детализированные видео с четкими силуэтами. Пусть каждая история будет яркой и каждое движение останется в памяти. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/f99/f990c55f335e29c3146a1a6c6c146a72.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Снимайте ускоренные видео</h3> <p style=\"text-align: center;\"> HUAWEI Mate 30 Pro позволит превратить часы в секунды. Для профессионального режима Отрезок времени вы можете настроить скорость, интервал и светочувствительность (ISO), а также широкий угол, формат 4K или функцию съемки при тусклом освещении. Запечатлейте красоту неба, меняющего цвет в течение всего дня и ночи, распускающиеся цветы или падающие звезды. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/ebf/ebf7d185df539227358fca18a9cf41d8.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Сохраните в памяти важные моменты</h3> <p style=\"text-align: center;\"> Объектив для измерения глубины резкости в 3D точно определяет расстояние до объекта съемки. Благодаря цифровому процессору обработки изображения вы сможете настраивать резкость и эффект боке на видео в режиме реального времени. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/b8f/b8f85b4ccfd5bf509099ae8347097ec5.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Съемка на широкоугольный объектив</h3> <p style=\"text-align: center;\"> Вам больше не нужно делать шаг назад, чтобы запечатлеть архитектурные формы с близкого расстояния или уместить в кадр всех желающих. Просто используйте широкоугольный объектив HUAWEI Mate 30 Pro. А сделав шаг вперед, вы получите качественный портрет с полноценным фоном. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/369/36948f853a712d29da26e16ac9dbe602.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Дальше, чем видят ваши глаза</h3> <p style=\"text-align: center;\"> Камера с трехкратным оптическим зумом и пятикратным гибридным зумом позволит снимать четкие и детализированные фотографии архитектурных сооружений или отдаленных объектов в высоком разрешении. 30-кратный цифровой зум позволит рассмотреть даже то, что невозможно увидеть невооруженным глазом. </p> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/007/00733211fcde40e76259cd639117b951.jpg')\"></div> <div class=\"aa_markvthree_text\"> <h3></h3> <h3 style=\"text-align: center;\">Найдите свет даже в темноте</h3> <p style=\"text-align: center;\"> Рассмотрите прекрасное в каждом моменте даже при недостаточном освещении. Широкий сенсор, цветной фильтр RYYB и мощный цифровой процессор обработки сигналов работают вместе, чтобы обеспечить яркое сбалансированное изображение. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/226/2262e93096c25f0f7b19ebb292d69226.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Съемка в контровом свете</h3> <p style=\"text-align: center;\"> В режиме AI HDR+ и сегментации с искусственным интеллектом HUAWEI Mate 30 Pro анализирует изображение, разделяет его на сегменты и обрабатывает каждый сегмент отдельно. Эта функция позволяет достичь баланса освещения, цвета и контрастности на любых фотографиях, снятых на фронтальную камеру. Вы будете сиять всегда, даже при съемке в контровом свете. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/250/2505f5ad3c44428dbf62a21e32d3748f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Ваша естественная красота</h3> <p style=\"text-align: center;\"> Для съемки качественных селфи больше не нужны профессиональные навыки. Фронтальная камера 32 МП и поддержкой 3D-измерения глубины резкости регулирует яркость и контрастность фотографии, подчеркивая вашу естественную красоту и выделяя вас на фоне. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Будьте всегда на связи</b></h3> <p style=\"text-align: center;\"> Как и предыдущие модели линейки Mate, смартфон оснащен мощной батареей, емкость которой увеличена до 4500 мА*ч (типичное значение). Благодаря этому вы можете использовать смартфон в течение всего дня для выполнения любых задач*. Энергоэффективность процессора и интеллектуальная система управления энергопотреблением позволят вам оставаться на связи еще дольше. </p> <h6 style=\"text-align: center;\"> *Фактическое время работы батареи зависит от особенностей использования устройства. </h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c76/c7688d7181584e7cf730de8cf84f5cce.jpg\"/></div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Все виды зарядки HUAWEI SuperCharge</b></h3> <p style=\"text-align: center;\"> Зарядка смартфона — это больше не проблема, а простое действие, которое можно выполнить максимально быстро. С кабелем или без, в автомобиле или дома — выбирайте любой способ зарядки и будьте готовы двигаться дальше. </p> <p style=\"text-align: center;\"> Быстрая зарядка HUAWEI SuperCharge 40 Вт<br/> Быстрая беспроводная зарядка Wireless HUAWEI SuperCharge 27 Вт*<br/> Обратная зарядка HUAWEI Reverse Charge<br/> Автомобильное зарядное устройство HUAWEI SuperCharge Wireless Car Charger* </p> <h6 style=\"text-align: center;\"> * Беспроводное зарядное устройство Wireless HUAWEI SuperCharge 27 Вт и автомобильное зарядное устройство HUAWEI SuperCharge Wireless Car Charger приобретаются отдельно.</h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/bfe/bfef8e431f1de61f706a5129c83c94d5.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1d4/1d4e7c45184be5d0d80db10a563f80af.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Темный режим для защиты зрения</b></h3> <p style=\"text-align: center;\"> В результате длительных тестирований, направленных на исследование организма человека, разработчики HUAWEI создали специальный темный режим интерфейса. Он позволяет не только инвертировать цвета, но и настроить контрастность и цветовую гамму так, как вам необходимо. Уменьшенная яркость экрана обеспечивает комфорт ваших глаз во время чтения и обычного использования смартфона. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/4f1/4f12279865bdffcbd949542bc1f0a46c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Управление с помощью жестов</b></h3> <p style=\"text-align: center;\"> Благодаря совместной работе фронтальной камеры с функцией 3D-измерения глубины резкости и датчика распознавания жестов смартфон HUAWEI Mate 30 Pro способен распознавать черты вашего лица и движения рук. Модуль нейросетевой обработки с высокоэффективными ядрами получает информацию в режиме реального времени. Поэтому такие простые действия, как разблокировка, перелистывание и съемка скриншотов, теперь можно выполнять одним взглядом или взмахом руки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/00a/00a38c833f4e1528e44ab86bca6f523e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Интеллектуальное взаимодействие устройств</b></h3> <p style=\"text-align: center;\"> Встречайте обновленную технологию беспроводной проекции. Теперь смартфон можно подключить к ноутбуку в одно нажатие. При этом текущие задачи, например воспроизведение музыки и редактирование файлов, будут автоматически продолжаться на ноутбуке. С EMUI10 вы можете одновременно работать на смартфоне и ноутбуке при помощи клавиатуры и мыши или моментально переносить файлы с одного экрана на другой. Кроме того, одну и ту же клавиатуру можно использовать для редактирования файлов на ноутбуке и общения с коллегами на смартфоне! </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/616/616a1e7662658080072726966960a472.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Конфиденциальность превыше всего</b></h3> <p style=\"text-align: center;\"> Чтобы обеспечить полную конфиденциальность данных, вам необходима функция блокировки приложений. Изолированная система безопасности, подтвержденная сертификатом CC EAL 5+, устроена так, что биометрические и финансовые данные хранятся отдельно от остальной операционной системы, за счет которой функционируют приложения. Позаботьтесь о безопасности и конфиденциальности всех ваших данных с HUAWEI Mate 30 Pro и интерфейсом EMUI10. </p> </div> </div> <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\"><b>Huawei AppGallery</b></h3> <h3 style=\"text-align: center;\"> Загружайте любимые приложения удобнее, безопаснее и интереснее. </h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/400/40008132d2e77520b25d4833d3ef1a15.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/a08/a083e4d812c2ec35088f6c26144cbac4.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/da9/da9fdc16f901ba7120da364a94265c30.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/f99/f990c55f335e29c3146a1a6c6c146a72.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/ebf/ebf7d185df539227358fca18a9cf41d8.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/b8f/b8f85b4ccfd5bf509099ae8347097ec5.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/369/36948f853a712d29da26e16ac9dbe602.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/007/00733211fcde40e76259cd639117b951.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/226/2262e93096c25f0f7b19ebb292d69226.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/250/2505f5ad3c44428dbf62a21e32d3748f.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/1d4/1d4e7c45184be5d0d80db10a563f80af.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/4f1/4f12279865bdffcbd949542bc1f0a46c.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/00a/00a38c833f4e1528e44ab86bca6f523e.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/616/616a1e7662658080072726966960a472.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      },
+      {
+        "url": "/upload/iblock/a74/a74a73f22ad1fc11eaa612e18ea53b29.jpg",
+        "alt": "Телефон сотовый HUAWEI Mate 30 Pro Space Silver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-jbl-free-black/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-ii2/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_name": "Наушники для телефона JBL FREE (black)",
+  "product_code": "78405",
+  "product_price": {
+    "full": 54990,
+    "discounted": 41990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/cd/cd2ea5a6-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона JBL FREE (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/cd/cd2ea5a6-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL FREE (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cd/cd2ea5a7-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL FREE (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cd/cd2ea5a8-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL FREE (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cd/cd2ea5a9-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL FREE (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/cd/cd2ea5aa-ed7c-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона JBL FREE (black)"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "Bluetooth": "4.2"
+    },
+    "Питание": {
+      "Время в режиме разговора, ч": "4",
+      "Емкость аккумулятора, мАч": "Наушники 85 / станция-чехол 1500",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Работа от аккумулятора, ч": "4 часа"
+    },
+    "Опции": {
+      "Дополнительные опции": "3 комплекта силиконовых амбушюр"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.1",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-sony-mdr-zx-310ap-blue/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники + микрофон SONY MDR ZX 310AP (blue)",
+  "product_code": "33583",
+  "product_price": {
+    "full": 9990,
+    "discounted": 6290
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fc/fc5feb4a-6bdd-11e4-a1e8-14dae972ca6d.jpeg",
+    "alt": "Наушники + микрофон SONY MDR ZX 310AP (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fc/fc5feb4a-6bdd-11e4-a1e8-14dae972ca6d.jpeg",
+      "alt": "Наушники + микрофон SONY MDR ZX 310AP (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.23",
+      "Габариты в упаковке (ВхШхГ), см": "20х15х5"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "2 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

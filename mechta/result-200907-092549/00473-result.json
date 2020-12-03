@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-smart-chasov-apple-watch-magnetic-charging-cable-1-m-mx2e2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "APPLE"
+  ],
+  "product_name": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)",
+  "product_code": "260001799",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/52/522582cc-b75e-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/52/522582cc-b75e-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/52/522582cd-b75e-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/52/522582ce-b75e-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/52/522582cf-b75e-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для смарт часов APPLE Watch Magnetic Charging Cable (1 m) (MX2E2ZM/A)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

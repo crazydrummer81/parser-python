@@ -1,0 +1,53 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-riva-va4115-wd2-lighning-8pinwhite-1296/",
+  "product_category": {
+    "name": "Riva",
+    "url": "/section/riva-e93/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "Riva"
+  ],
+  "product_name": "Зарядное устройство для телефонов RIVA VA4115 WD2 Lighning 8pin.(white) 12/96",
+  "product_code": "80028",
+  "product_price": {
+    "full": 500,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dc/dce433c9-3b08-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов RIVA VA4115 WD2 Lighning 8pin.(white) 12/96"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dc/dce433c9-3b08-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов RIVA VA4115 WD2 Lighning 8pin.(white) 12/96"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/dc/dce433ca-3b08-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов RIVA VA4115 WD2 Lighning 8pin.(white) 12/96"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "2.4 А "
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "RIVA",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1,2 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

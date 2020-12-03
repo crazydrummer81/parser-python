@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki--mikrofon-sony-mdr-xb-550ap-blue/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "SONY"
+  ],
+  "product_name": "Наушники + микрофон SONY MDR XB 550AP (blue)",
+  "product_code": "68401",
+  "product_price": {
+    "full": 19990,
+    "discounted": 18590
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e6/e6d993f8-307f-11e7-80c7-2c768a5d3553.jpeg",
+    "alt": "Наушники + микрофон SONY MDR XB 550AP (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e6/e6d993f8-307f-11e7-80c7-2c768a5d3553.jpeg",
+      "alt": "Наушники + микрофон SONY MDR XB 550AP (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "5 - 22000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.18"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

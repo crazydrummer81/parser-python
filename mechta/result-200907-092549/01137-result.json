@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnoe-zar-ustroystvo-vsp-usb-21a--data-kabel-8pin-usb-1m-belyy-20817/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp-mfy/",
+    "parent_name": "Зарядные устройства в автомобиль",
+    "parent_url": "/section/zaryadnye-ustroystva-v-avtomobil/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядные устройства в автомобиль",
+    "VSP"
+  ],
+  "product_name": "Автомобильное зар. устройство VSP USB, 2,1A + дата-кабель 8pin USB, 1м белый (20817)",
+  "product_code": "72502",
+  "product_price": {
+    "full": 2790,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8c/8cb068f3-fcf1-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Автомобильное зар. устройство VSP USB, 2,1A + дата-кабель 8pin USB, 1м белый (20817)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8c/8cb068f3-fcf1-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Автомобильное зар. устройство VSP USB, 2,1A + дата-кабель 8pin USB, 1м белый (20817)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 2.1А "
+    },
+    "Типы передачи данных": {
+      "USB": "Lightning"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

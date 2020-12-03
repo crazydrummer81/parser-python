@@ -1,0 +1,80 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wi-1000-xm2-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WI 1000 XM2 (white/silver)",
+  "product_code": "260000057",
+  "product_price": {
+    "full": 139990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c4/c4d5dd5a-4bbe-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c4/c4d5dd5a-4bbe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c4/c4d5dd5b-4bbe-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 40000",
+      "Диаметр мембран, мм": "9",
+      "Чувствительность, дБ": "94"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "3 часа 30 минут",
+      "Время работы от аккумулятора, ч": "до 12 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть, 2 встроенных"
+    },
+    "Информационные функции": {
+      "Индикация": "заряда батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.058 "
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть",
+      "Кнопки управления": "Кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">Беспроводные наушники-вкладыши WI-1000XM2 с шумоподавлением</h2> <h3 style=\"text-align: center;\">Царство звука и тишины.</h3> <br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/de5/de5ae2836bc8ee458ccf96ca476bf183.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Надежность и удобство</h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Эти легкие наушники с гибким силиконовым шейным ободом сидят в ушах плотно и удобно. Их можно носить целый день, чем бы вы ни занимались. Во время поездки их легко хранить в сумке или чехле.</h3> <p style=\"text-align: center;\"> </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/ea5/ea586ffe8d99e513ea9dc6bd99dee8bb.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/917/9176c2583b65f3cf89051b2f65a6a513.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\">До 10 часов работы в режиме прослушивания Не стоит бояться, что наушники разрядятся в дороге. Аккумулятор позволяет слушать музыку до 10 часов.</h3> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/3f4/3f4fbbf4ee2e67cedf378bfe8f713b49.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3 style=\"text-align: center;\">До 80 минут после быстрой зарядки Разрядились наушники? После 10-минутной быстрой зарядки вы сможете слушать любимую музыку еще целых 80 минут. </h3> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/917/9176c2583b65f3cf89051b2f65a6a513.jpg",
+        "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+      },
+      {
+        "url": "/upload/iblock/3f4/3f4fbbf4ee2e67cedf378bfe8f713b49.jpg",
+        "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+      },
+      {
+        "url": "/upload/iblock/ea5/ea586ffe8d99e513ea9dc6bd99dee8bb.jpg",
+        "alt": "Наушники SONY WI 1000 XM2 (white/silver)"
+      }
+    ]
+  }
+}

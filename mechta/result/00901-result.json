@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-e25-bt-red/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL E25 BT (red)",
+  "product_code": "68910",
+  "product_price": {
+    "full": 23990,
+    "discounted": 13990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8c/8c2bae07-44e6-11e7-80be-704d7bb5791d.jpeg",
+    "alt": "Наушники JBL E25 BT (red)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8c/8c2bae07-44e6-11e7-80be-704d7bb5791d.jpeg",
+      "alt": "Наушники JBL E25 BT (red)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

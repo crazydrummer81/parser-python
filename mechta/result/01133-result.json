@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-powerbeats-3-wireless-mq382zma-turf-green/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники BEATS Powerbeats 3 Wireless MQ382ZM/A (turf green)",
+  "product_code": "73880",
+  "product_price": {
+    "full": 68990,
+    "discounted": 61990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2d/2d401a50-3bd7-11e8-a20f-005056b6dbd7.jpeg",
+    "alt": "Наушники BEATS Powerbeats 3 Wireless MQ382ZM/A (turf green)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2d/2d401a50-3bd7-11e8-a20f-005056b6dbd7.jpeg",
+      "alt": "Наушники BEATS Powerbeats 3 Wireless MQ382ZM/A (turf green)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "зеленый"
+    },
+    "Разное": {
+      "Бренд": "BEATS"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

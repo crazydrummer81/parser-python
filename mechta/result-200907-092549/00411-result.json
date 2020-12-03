@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-huawei-cm-h-shark-freebuds-3-white/",
+  "product_category": {
+    "name": "HUAWEI",
+    "url": "/section/huawei-syb/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "HUAWEI"
+  ],
+  "product_name": "Наушники для телефона HUAWEI CM-H-Shark FreeBuds 3 (white)",
+  "product_code": "00370",
+  "product_price": {
+    "full": 84990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/47/47520790-0ab3-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона HUAWEI CM-H-Shark FreeBuds 3 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/47/47520790-0ab3-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM-H-Shark FreeBuds 3 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/47/47520791-0ab3-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона HUAWEI CM-H-Shark FreeBuds 3 (white)"
+    }
+  ],
+  "product_params": {
+    "Типы передачи данных": {
+      "Bluetooth": "Bluetooth 5.1 SoC с поддержкой BLE"
+    },
+    "Питание": {
+      "Работа от аккумулятора, ч": "4 часа",
+      "Беспроводная зарядка": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "HUAWEI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Шумоподавление": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"width: 100vw;\"></h2> <p style=\"text-align: center;\"> <b>Эргономичный дизайн</b><b> </b><br/> Новые наушники HUAWEI FreeBuds 3 не только обеспечивают высокое качество звучания, но и отличаются гармоничным дизайном. Симметричный зарядный чехол сочетает стиль и практичность — благодаря компактным размерам его удобно держать в руке, а также носить в кармане или в сумке. Комплект доступен в белом и черном цветах. </p> <p> </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/9f1/9f1fba704bfe156253bb8ac58c10c097.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/9f1/9f1fba704bfe156253bb8ac58c10c097.jpg",
+        "alt": "Наушники для телефона HUAWEI CM-H-Shark FreeBuds 3 (white)"
+      }
+    ]
+  }
+}

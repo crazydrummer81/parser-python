@@ -1,0 +1,162 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-redmi-note-10-128gb-white/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-mik/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_name": "Телефон сотовый XIAOMI Mi Note 10 128GB White",
+  "product_code": "01011",
+  "product_price": {
+    "full": 219890,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b6/b6206d96-286e-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d96-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d97-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d98-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d99-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d9a-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b6206d9b-286e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 730G",
+      "Процессор, (МГц, количество ядер)": "2200 МГц / 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.5:9",
+      "Диагональ экрана, дюйм": "6,47 (16,4 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "60"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 618"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц MIMO",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "108+12+20+5+2",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps/720p 30fps/960fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.0 / Портретный режим c ИИ/Селфи эффекты/HDR",
+      "Особенности тыловой камеры": "108МП/Сверхширокоугольная/Телефото/Портрет/Макро"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "5260",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл и стекло Corning Gorilla Glass 5"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Лазерный датчик фокусировки/Акселерометр/Гироскоп ",
+      "Сканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,7х7,4х0,9",
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0,208"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"><b>Xiaomi Mi Note 10 | Note 10 Pro</b></h2> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\"><b>Мечтай, снимай, наслаждайся</b></h3> <p style=\"text-align: center;\"> </p> <h3 style=\"text-align: center;\">Первая в мире 108-мегапиксельная камера с 5-ю модулями</h3> <h3></h3></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e8a/e8affad03f5d828041dbe192514b189f.jpg\"/></div> <div class=\"aa_markfull_text\"><h2>Первая камера с разрешением 108 Мп<br/> </h2> <h3><b>Необыкновенная детализация. Невероятная чёткость.</b></h3> Mi Note 10 оснащён 108-мегапиксельной камерой, способной делать снимки с разрешением до 12032x9024 пикселей, что в 12 раз больше, чем разрешение 4K. Благодаря фотоматрице размером 1/1,33\" камера в Mi Note 10 превосходит по качеству снимков большинство цифровых камер. Фотоматрица захватывает больше света, что позволяет добиться высочайшего уровня детализации фото.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/c5d/c5d268ddabbf1f0a0bf185339aaddd9c.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Телефото камера 5 Мп</b></h3> 10-кратный гибридный зум. 4-осевая стабилизация.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/019/019e92d5d4aaba86c509e30eb9f12d48.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>12 Мп Портретная камера</b></h3> Оптимальное качество портретной съёмки благодаря 50-мм объективу. Технология Dual Pixel позволяет улучшить точность фокусировки. Пиксели с высокой светочувствительностью и размером 1,4 мкм в комбинации с лазерным автофокусом способны запечатлеть каждую деталь даже в условиях слабой освещённости.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e43/e438d8cf2e90a6ada32f3f7a77c36dd0.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Сверхширокоугольная камера 20 Мп</b></h3> Сверхширокоугольная камера с углом обзора 117°. Сфотографируйте всё. Простым нажатием.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/671/671ff61a256bc17364cdbe6fd0e7bb98.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Максимальное макро</b><br/> </h3> Откройте для себя микро вселенную с макро камерой Xiaomi Mi Note 10.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/5c8/5c83fa9c253760a475cfb862ffc03e65.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Режим видеоблогов и Ночной режим 2.0</b></h3> Новый режим видеоблогов. Станьте режиссёром свой жизни.<br/> Первый смартфон Mi с поддержкой нового ночного режима 2.0 и функцией компоновки нескольких RAW-снимков. Фотографируйте и не думайте об освещении.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/670/6700ad711ba43bfa0ba344ad39125058.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Фронтальная камера 32 Мп</b></h3> Сверхвысокое разрешение передней камеры Xiaomi Mi Note 10 способно запечатлеть даже самые мелкие детали. Каждая деталь вашей прически, ресницы, блеск глаз, вся эта красота не останется незамеченной. Функция постредактирования позволить изменить кадр как вы пожелаете.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/247/247edc85b435842918e9965a22d26054.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8a3/8a3b750f16481b0a5d4866f674e882ac.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>6,47\" дисплей AMOLED с закругленными краями</b></h3> <b> </b> <h3><b>Corning® Gorilla® Glass с двух сторон</b></h3> HDR 10<br/> Превосходная контрастность.<br/> FHD+<br/> Чёткое изображение.<br/> Режим чтения 2.0 <br/> Сертифицированный TÜV Rheinland®дисплей. Пониженный уровень синего </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/613/61322db98b40d5554ac429f02015d147.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Улучшенный встроенный в дисплей сканер отпечатков пальцев</b></h3> В Mi Note 10 используются новейшие технологии, позволяющие оптимизировать разблокировку при ярком свете, с сухими пальцами и при низкой температуре. Чувствительность поверхности сканера и коэффициент успешных считываний также были улучшены. </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/03c/03cc036fc88fd74c4b80e11de66ea458.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Высокоёмкий аккумулятор и быстрая зарядка</b></h3> Аккумулятор ёмкостью 5260 мА·ч обеспечивает двухдневную автономность смартфона, а комплектный 30-ваттный адаптер питания для быстрой зарядки поможет молниеносно зарядить ваше устройство. 100% всего за 65 минут.*<br/> <h6>*Данные предоставлены лабораториями Xiaomi. Фактические результаты зависят от среды использования.</h6> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/054/054b21558c14f0e70e0a17e4063e9beb.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3><b>Qualcomm® Snapdragon™ 730G</b></h3> Мощнейший в линейке Qualcomm® 7 Series чип Snapdragon™ 730G обеспечивает максимальную тактовую частоту до 2,2 ГГц, частоту обработки изображения до 700 МГц, а также внушительный прирост производительности нейронного модуля, производительности в играх и других операций. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/855/85511adabdba560dd5d8dde5ed44f1a6.jpg')\"></div> <div class=\"aa_markvthree_text\"> Многофункциональный NFC<br/> Поддержка Google Pay </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/63b/63bde80388a267bd0812ac1d190fa784.jpg')\"></div> <div class=\"aa_markvthree_text\"> Инфракрасный датчик.<br/> Управляйте устройствами дома при помощи смартфона. </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_img\" style=\"background-image: url('/upload/iblock/bfd/bfd38dc8c0c97c706fa9c33efcee3c66.jpg')\"></div> <div class=\"aa_markvthree_text\"> 3.5 мм вход для наушников<br/> Порт USB Type-C </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/8a3/8a3b750f16481b0a5d4866f674e882ac.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/613/61322db98b40d5554ac429f02015d147.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/03c/03cc036fc88fd74c4b80e11de66ea458.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/054/054b21558c14f0e70e0a17e4063e9beb.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/855/85511adabdba560dd5d8dde5ed44f1a6.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/63b/63bde80388a267bd0812ac1d190fa784.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/bfd/bfd38dc8c0c97c706fa9c33efcee3c66.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      },
+      {
+        "url": "/upload/iblock/247/247edc85b435842918e9965a22d26054.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Note 10 128GB White"
+      }
+    ]
+  }
+}

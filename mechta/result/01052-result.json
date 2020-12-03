@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-riva-va4111-b00-black-1296/",
+  "product_category": {
+    "name": "Riva",
+    "url": "/section/riva-e93/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов RIVA VA4111 B00 (black) 12/96",
+  "product_code": "80027",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/dc/dce433c8-3b08-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов RIVA VA4111 B00 (black) 12/96"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/dc/dce433c8-3b08-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов RIVA VA4111 B00 (black) 12/96"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "2.4 А "
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "7x15x4",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,025",
+      "Вес в упаковке (брутто), кг": "0.1",
+      "Габариты в упаковке (ВхШхГ), см": "3,4x2,1x7,2"
+    },
+    "Разное": {
+      "Бренд": "RIVA",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

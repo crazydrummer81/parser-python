@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-naushnikov-a-case-for-airpods-silikonovyy-siniy/",
+  "product_category": {
+    "name": "A CASE",
+    "url": "/section/a-case-jli/",
+    "parent_name": "Чехол для наушников",
+    "parent_url": "/section/chehol-dlya-naushnikov-8uy/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Чехол для наушников",
+    "A CASE"
+  ],
+  "product_name": "Чехол для наушников A CASE for Airpods силиконовый (синий)",
+  "product_code": "79570",
+  "product_price": {
+    "full": 2290,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e8/e8fdd372-29e1-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Чехол для наушников A CASE for Airpods силиконовый (синий)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e8/e8fdd372-29e1-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Чехол для наушников A CASE for Airpods силиконовый (синий)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "розовый",
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "A CASE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

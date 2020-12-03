@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.mechta.kz/product/adapter-dlya-telefona-canyon-type-c-to-usb-cne-usbc3b/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-82g/",
+    "parent_name": "Адаптеры",
+    "parent_url": "/section/adaptery/"
+  },
+  "product_name": "Адаптер для телефона CANYON Type C to USB CNE-USBC3B",
+  "product_code": "79199",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ce/ce9e233b-22bd-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Адаптер для телефона CANYON Type C to USB CNE-USBC3B"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce9e233b-22bd-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона CANYON Type C to USB CNE-USBC3B"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ce/ce9e233c-22bd-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Адаптер для телефона CANYON Type C to USB CNE-USBC3B"
+    }
+  ],
+  "product_params": {
+    "Опции": {
+      "Дополнительные опции": "Длина кабеля - 0.3 м"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "1х11х15",
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.3"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

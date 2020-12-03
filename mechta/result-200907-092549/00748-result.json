@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-borasco-power-delivery--qc-30-18w-type-c---8-pin-white-38255/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-7zg/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядка от сети",
+    "BoraSCO"
+  ],
+  "product_name": "Зарядное устройство для телефонов BoraSCO Power Delivery + QC 3.0 (18W) Type-C - 8 pin. White (38255)",
+  "product_code": "260001657",
+  "product_price": {
+    "full": 9990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/57/571e73fb-baa7-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов BoraSCO Power Delivery + QC 3.0 (18W) Type-C - 8 pin. White (38255)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/57/571e73fb-baa7-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BoraSCO Power Delivery + QC 3.0 (18W) Type-C - 8 pin. White (38255)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/57/571e73fc-baa7-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов BoraSCO Power Delivery + QC 3.0 (18W) Type-C - 8 pin. White (38255)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

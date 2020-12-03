@@ -1,0 +1,58 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiotelefon-dect-panasonic-kx-tg-1611-cah/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-p6t/",
+    "parent_name": "Радиотелефоны DECT",
+    "parent_url": "/section/radiotelefony-dect/"
+  },
+  "product_name": "Радиотелефон DECT PANASONIC KX TG 1611 CAH",
+  "product_code": "07033",
+  "product_price": {
+    "full": 12190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/44/44f8f29a-9b20-11e1-844f-00241dc0e077.jpeg",
+    "alt": "Радиотелефон DECT PANASONIC KX TG 1611 CAH"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/44/44f8f29a-9b20-11e1-844f-00241dc0e077.jpeg",
+      "alt": "Радиотелефон DECT PANASONIC KX TG 1611 CAH"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Автоответчик": "нет",
+      "Дальность действия в помещении, м": "50",
+      "Определитель номера": "есть, АОН Caller ID",
+      "Память принятых вызовов": "50 номеров",
+      "Рабочая частота, МГц": "1880-1900",
+      "Телефонная книга": "50 номеров",
+      "Дисплей трубки": "монохромный, голубая подсветка "
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "170",
+      "Время в режиме разговора, ч": "15",
+      "Тип аккумулятора": "NI-MH",
+      "Питание": "от аккумулятора и сети"
+    },
+    "Комплектация": {
+      "Количество трубок в комплекте": "1"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный с серым",
+      "Вес в упаковке (брутто), кг": "0.47",
+      "Габариты в упаковке (ВхШхГ), см": "13х17.5х9"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

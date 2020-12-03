@@ -1,0 +1,72 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-1000-xm3-silver/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники SONY WH 1000 XM3 (silver)",
+  "product_code": "81900",
+  "product_price": {
+    "full": 169990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e3/e3b123e6-85af-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH 1000 XM3 (silver)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e3/e3b123e6-85af-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH 1000 XM3 (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d9/d91edcfd-81c2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH 1000 XM3 (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d9/d91edcfe-81c2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH 1000 XM3 (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d9/d91edcff-81c2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH 1000 XM3 (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d9/d91edd00-81c2-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH 1000 XM3 (silver)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Штекер": "3.5 мм (mini-jack) / USB",
+      "Диапазон воспроизводимых частот, Гц": "4 - 40000",
+      "Диаметр мембран, мм": "40 мм",
+      "Чувствительность, дБ": "104.5"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "3",
+      "Время работы от аккумулятора, ч": "30 ч."
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и металл"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.26"
+    },
+    "Разное": {
+      "Бренд": "SONY"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

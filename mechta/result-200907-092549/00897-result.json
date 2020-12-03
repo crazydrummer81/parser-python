@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-inkax-micro-usb-ck-31-micro/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "INKAX"
+  ],
+  "product_name": "Кабель для телефона INKAX Micro USB (CK 31 MICRO)",
+  "product_code": "71315",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8e/8ec12b32-ff46-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Кабель для телефона INKAX Micro USB (CK 31 MICRO)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8e/8ec12b32-ff46-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Кабель для телефона INKAX Micro USB (CK 31 MICRO)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "MicroUSB/USB",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Опции": {
+      "Дополнительные опции": "расчитан на 1,5А"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-samsung-sm-a-205-galaxy-a20-fzbvs-blue/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-wqx/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "SAMSUNG"
+  ],
+  "product_name": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)",
+  "product_code": "80825",
+  "product_price": {
+    "full": 69890,
+    "discounted": 49990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/7a/7a4b938e-5c1a-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b938e-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b939b-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b939c-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b939d-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b939e-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/7a/7a4b939f-5c1a-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Exynos 7884",
+      "Процессор, (МГц, количество ядер)": "1600/ 1350 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,4 (16,3 см)",
+      "Разрешение дисплея, пикс": "1560х720",
+      "Сенсорный дисплей": "да",
+      "Технология изготовления дисплея": "Super AMOLED"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "32",
+      "Объем оперативной памяти, Гб": "3",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "512 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Mali-G71 MP2"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ BeiDou",
+      "ANT+": "нет"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+5",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности фронтальной камеры": " f/2.0",
+      "Особенности тыловой камеры": "F1.9 , F2.2, вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4000",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "нет",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,8х7,4х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0.17"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Модель": "A",
+      "Комплектация": "зарядное устройство/USB-кабель ",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/084/08402be03933017fa49e00c25c2b6a06.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/22c/22c5c6e40d1b607d7eab93f8dc871ed2.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Безрамочный экран для безграничного мира</h3> <p style=\"text-align: center;\"> Самое важное стало еще ближе вместе c 6,4-дюймовом Infinity-V экраном Galaxy A20. Практически безрамочный дисплей покрывает телефон от края до края. Вы сможете полностью погрузиться в просмотр вашего любимого контента благодаря разрешению HD+ и цветопередаче sAMOLED. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/94a/94a57c08ba6aafd1c86992cea7b48947.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Минималистичный дизайн и потрясающие цвета</h3> <p style=\"text-align: center;\"> Тонкий 7,8 мм корпус Galaxy A20 максимально удобно ложится в руке. Переверните его, и вы увидите датчик отпечатков пальцев и заднюю панель, выполненную из стеклопластика, которые дополняют элегантный и минималистичный дизайн смартфона. Выберите черный или темно-синий цвет корпуса, либо решитесь на смелый красный. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a17/a17f79203d783db112571ce9ee3421dc.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Двойная основная камера для памятных моментов</h3> <p style=\"text-align: center;\"> Galaxy A20 оснащен сверхширокоугольной камерой с углом обзора 123 градуса — таким же, как у человеческого глаза, и 13-мегапиксельной камерой (F1.9) для ярких и четких фотографий в любое время дня. А также в нем доступна 5-мегапиксельная камера глубины для регулировки глубины резкости.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/832/83274e2e182a5cba43a67ab1e2538f14.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Весь мир как на ладони</h3> <p style=\"text-align: center;\"> Вы сможете запечатлеть еще больше объектов на ваших снимках с помощью широкоугольного и ультраширокоугольного объектива. Позвольте себе расширить горизонты привычной съемки. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/1a8/1a8f5b999127d69c850a54394d57a9c4.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Камера для самовыражения</h3> <p style=\"text-align: center;\"> Селфи просто обязаны быть отличными. 8-мегапиксельная фронтальная камера Galaxy A20 гарантирует четкие снимки в высоком разрешении. Благодаря селфи-фокусу с мягким размытием фона ваше лицо окажется в центре внимания.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/474/47477c29047d26c414d22c65c384ce5e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Оставайтесь на связи ещё дольше</h3> <p style=\"text-align: center;\"> Благодаря аккумулятору емкостью 4000 мА·ч* Galaxy A20 обеспечит вам заряд на целый день, позволяя насладиться общением и просмотром контента. А быстрая зарядка мощностью 15 Вт позволит не выпадать из динамичного ритма вашей насыщенной жизни.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/0be/0befcfe6edcfb7dabf2d771054df130b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Разблокировка одним взглядом</h3> <p style=\"text-align: center;\"> С Galaxy A20 вы можете мгновенно разблокировать телефон, просто поднеся его к лицу. С технологией распознавания лица доступ к телефону будет только для вас, чтобы ваши личные данные не попали в чужие руки.<br/> </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/6f6/6f6443cd15a0145404ebe235cdd31db3.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Сосредоточьтесь на важном</h3> <p style=\"text-align: center;\"> Единый пользовательский интерфейс поможет сосредоточиться на том, что действительно важно. Благодаря тандему ПО и оборудования весь контент и функции всегда у вас под рукой для удобства доступа. Используйте ночной режим для комфортного взаимодействия с устройством в темноте, а четкие и интуитивные визуальные элементы помогут освоить интерфейс без лишних усилий.<br/> </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/22c/22c5c6e40d1b607d7eab93f8dc871ed2.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/94a/94a57c08ba6aafd1c86992cea7b48947.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/a17/a17f79203d783db112571ce9ee3421dc.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/832/83274e2e182a5cba43a67ab1e2538f14.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/1a8/1a8f5b999127d69c850a54394d57a9c4.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/474/47477c29047d26c414d22c65c384ce5e.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/0be/0befcfe6edcfb7dabf2d771054df130b.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/6f6/6f6443cd15a0145404ebe235cdd31db3.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      },
+      {
+        "url": "/upload/iblock/084/08402be03933017fa49e00c25c2b6a06.jpg",
+        "alt": "Телефон сотовый SAMSUNG SM A 205 Galaxy A20 FZBVS (blue)"
+      }
+    ]
+  }
+}

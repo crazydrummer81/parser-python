@@ -1,0 +1,50 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-mate-dlya-iphone-xs-max-chernyy-matovyy-34990/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Mate для IPhone XS Max, черный матовый (34990)",
+  "product_code": "79247",
+  "product_price": {
+    "full": 1390,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/49/49635df5-2463-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Mate для IPhone XS Max, черный матовый (34990)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/49/49635df5-2463-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Mate для IPhone XS Max, черный матовый (34990)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "iPhone XS Max"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.08",
+      "Габариты в упаковке (ВхШхГ), см": "17.5х9х2"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

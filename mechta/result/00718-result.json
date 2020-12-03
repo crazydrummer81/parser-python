@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-vsp-usb---micro-usb-1m-chernyy-20542/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp-36l/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона VSP USB - micro USB, 1м, черный (20542)",
+  "product_code": "72369",
+  "product_price": {
+    "full": 990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8e/8ec12b49-ff46-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Кабель для телефона VSP USB - micro USB, 1м, черный (20542)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8e/8ec12b49-ff46-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Кабель для телефона VSP USB - micro USB, 1м, черный (20542)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "MicroUSB/USB",
+      "Тип кабеля (шнура)": "кабель связи с интерфейсом USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

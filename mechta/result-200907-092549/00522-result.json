@@ -1,0 +1,57 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-endurrun-red/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-14o/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL Endurance RUN (red)",
+  "product_code": "75290",
+  "product_price": {
+    "full": 11990,
+    "discounted": 7990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/27/27283413-75e0-11e8-a213-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Endurance RUN (red)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/27/27283413-75e0-11e8-a213-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Endurance RUN (red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/27/27283414-75e0-11e8-a213-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Endurance RUN (red)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный"
+    },
+    "Разное": {
+      "Бренд": "JBL"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

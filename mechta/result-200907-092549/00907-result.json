@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-beats-solo3-wireless-a1796-mneq2zma-silver/",
+  "product_category": {
+    "name": "BEATS",
+    "url": "/section/beats/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "BEATS"
+  ],
+  "product_name": "Наушники BEATS Solo3 Wireless A1796 MNEQ2ZM/A (silver)",
+  "product_code": "46953",
+  "product_price": {
+    "full": 133990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/e8/e84b32f4-de26-11e6-9413-2c768a5d3551.jpeg",
+    "alt": "Наушники BEATS Solo3 Wireless A1796 MNEQ2ZM/A (silver)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/e8/e84b32f4-de26-11e6-9413-2c768a5d3551.jpeg",
+      "alt": "Наушники BEATS Solo3 Wireless A1796 MNEQ2ZM/A (silver)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый"
+    },
+    "Разное": {
+      "Бренд": "BEATS",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

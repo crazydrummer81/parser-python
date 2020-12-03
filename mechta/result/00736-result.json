@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-ex-15-lp-violet/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники SONY MDR EX 15 LP (Violet)",
+  "product_code": "32081",
+  "product_price": {
+    "full": 3490,
+    "discounted": 2890
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/a9/a95ab701-59d4-11e4-a1e8-14dae972ca6d.jpeg",
+    "alt": "Наушники SONY MDR EX 15 LP (Violet)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/a9/a95ab701-59d4-11e4-a1e8-14dae972ca6d.jpeg",
+      "alt": "Наушники SONY MDR EX 15 LP (Violet)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Звук": {
+      "Микрофон": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "фиолетовый",
+      "Вес в упаковке (брутто), кг": "0.05",
+      "Габариты в упаковке (ВхШхГ), см": "18х5х3"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "2 года"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

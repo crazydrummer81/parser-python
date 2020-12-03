@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-marshall-minor-2-bt-black/",
+  "product_category": {
+    "name": "MARSHALL",
+    "url": "/section/marshall-934/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники MARSHALL Minor 2 BT (black)",
+  "product_code": "260000653",
+  "product_price": {
+    "full": 57990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/fd/fd306d2d-68ea-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники MARSHALL Minor 2 BT (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d2d-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d2e-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d2f-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d30-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d31-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d32-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/fd/fd306d33-68ea-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Minor 2 BT (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "14.2",
+      "Чувствительность, дБ": "117"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время работы от аккумулятора, ч": "до 12 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.022"
+    },
+    "Разное": {
+      "Бренд": "MARSHALL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть",
+      "Кнопки управления": "Кнопка принять/отклонить вызов, управление треками"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

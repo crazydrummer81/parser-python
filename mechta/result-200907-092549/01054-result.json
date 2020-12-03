@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/avtomobilnoe-zar-ustroystvo-inkax-iphone-cd-13/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax-1c5/",
+    "parent_name": "Зарядные устройства в автомобиль",
+    "parent_url": "/section/zaryadnye-ustroystva-v-avtomobil/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Зарядные устройства в автомобиль",
+    "INKAX"
+  ],
+  "product_name": "Автомобильное зар. устройство INKAX IPhone (CD-13)",
+  "product_code": "78958",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d7/d72be42a-1554-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Автомобильное зар. устройство INKAX IPhone (CD-13)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d7/d72be42a-1554-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство INKAX IPhone (CD-13)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d7/d72be42b-1554-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство INKAX IPhone (CD-13)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d7/d72be42c-1554-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Автомобильное зар. устройство INKAX IPhone (CD-13)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "1A"
+    },
+    "Типы передачи данных": {
+      "USB": "Lightning"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "1 м"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wf-xb-700-blue/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "SONY"
+  ],
+  "product_name": "Наушники SONY WF XB 700 (blue)",
+  "product_code": "260002020",
+  "product_price": {
+    "full": 49990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/d1/d11c4040-c4bc-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WF XB 700 (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4040-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4042-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4043-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4044-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4045-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4046-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/d1/d11c4047-c4bc-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WF XB 700 (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Защита от воды и пыли": "IPX4",
+      "Диаметр мембран, мм": "12",
+      "Чувствительность, дБ": "103"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа 30 мин",
+      "Время работы от аккумулятора, ч": "до 9 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "ABS-пластик/ металл"
+    },
+    "Информационные функции": {
+      "Индикация": "индикация включения и батареи"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Вьетнам",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

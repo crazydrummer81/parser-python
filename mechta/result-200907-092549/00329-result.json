@@ -1,0 +1,159 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-vivo-x50-glaze-black-2004/",
+  "product_category": {
+    "name": "VIVO",
+    "url": "/section/vivo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "VIVO"
+  ],
+  "product_name": "Телефон сотовый VIVO X50 Glaze Black (2004)",
+  "product_code": "260002274",
+  "product_price": {
+    "full": 229990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/01/01e8007f-dd8b-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/01/01e8007f-dd8b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/01e80081-dd8b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/01e80082-dd8b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/01e80083-dd8b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/01/01e80084-dd8b-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 765G",
+      "Процессор, (МГц, количество ядер)": "2400 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Формат": "19.8:9",
+      "Диагональ экрана, дюйм": "6,56 (16,6 см)",
+      "Разрешение дисплея, пикс": "2376х1080 FHD+",
+      "Технология изготовления дисплея": "AMOLED",
+      "Количество цветов дисплея": "16 млн.",
+      "Частота обновления, Гц": "90"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "8",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 618"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 х USB Type-C",
+      "Bluetooth": "5.1",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 2,4 ГГц/ 5 ГГц MIMO",
+      "GPS": "есть, Glonass/ Galileo и BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "48+13+8+5",
+      "Режим видеосъемки": "4K 30fps/1080p 30, 60fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "32",
+      "Особенности фронтальной камеры": " f/2.45 / Портретный режим",
+      "Особенности тыловой камеры": "Сверхширокоугольный/Телефото/Макро/2х Оптич.зум"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4200",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "алюминий и стекло"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая и цифровая",
+      "Встроенное оборудование и функции": "Акселерометр/гироскоп/компас/датчик освещ/приближ",
+      "Cканер отпечатка пальца": "есть, встроен в экран",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,9х7,5х0,75",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,173"
+    },
+    "Разное": {
+      "Бренд": "VIVO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\"><b>VIVO X50</b></h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/d98/d98b01f33678c33bc4f5da078a1d7cd7.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Утончённый дизайн </b></h3> <b> </b> <h3><b>Удобство без компромиссов</b></h3> Смартфон X50 оснащён изогнутым 2,5D-дисплеем с крохотным отверстием для камеры диаметром всего 3,96 мм. Это лёгкое и изящное устройство, которое лежит в ладони удобнее, чем вы можете себе представить. А благодаря новейшей технологии COP рамки смартфона стали ещё тоньше.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/58f/58f694164618544e4c954f2cc4e0450e.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Превосходная камера для ночной съёмки</b></h3> Каждый ночной снимок будет удивительно чётким и детализированным. Смартфон X50 оснащён системой OIS и модифицированной матрицей IMX598, которые вместе повышают общую светочувствительность на 10%*.<br/> <h6>Примечание. Светочувствительность IMX598 на 10 % выше, чем у IMX582.</h6></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/1ef/1ef280e515a5fa105f69fdfa8787a9f4.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/831/8314d3d6b6eaa99b36496302a159b9ca.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Чёткие снимки движущихся объектов</b></h3> <p style=\"text-align: center;\"> Смартфон X50 снимает движущиеся объекты с практически нулевой задержкой благодаря сочетанию технологии OIS и датчика, который сокращает выдержку. Так, вы сможете сделать снимки человека в прыжке с впечатляющей скоростью и точностью. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/9f9/9f9202aaafcb94bea6f1b57dd0d8972f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Следящий автофокус</b></h3> <p style=\"text-align: center;\"> Следящий автофокус позволяет выбрать любой объект в кадре и сфокусироваться на нём, даже если он исчез из видимости, а затем снова появился. Функция автоматического масштабирования Autozoom легко поможет удержать выбранный объект в центре. </p> </div> </div> <div class=\"aa_markfull_text\"><h3><b>20-кратный цифровой зум</b></h3> Благодаря передовому алгоритму масштабирования наша камера с двумя линзами обеспечивает 20-кратное цифровое увеличение. Делайте снимки объектов, расположенных на большом расстоянии.</div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/af7/af7bd0a5145be1d42442a4feb3abd2d5.jpg\"/></div> <div class=\"aa_markfull_text\"><h3><b>Сверхширокоугольная и макрокамера</b></h3> Создавайте масштабные пейзажные снимки и групповые фото с большим количеством людей. Смартфон X50 оснащён 8 Мп сверхширокоугольной камерой, которая обеспечивает угол обзора 120 градусов.<br/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f36/f3628d32d01ca48e85589831de39122c.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/963/96393ef1398ac9fb4f26ee7aa852c51f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Превосходный дисплей</b></h3> <p style=\"text-align: center;\"> Смартфон X50 оснащён дисплеем с частотой обновления 90 Гц и частотой отклика сенсорного экрана 180 Гц. Наша технология VEG (vivo Energy Guardian) предотвращает перегрев, что обеспечивает плавную работу устройства, особенно во время игры. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/46a/46a8a4858cd529306011ad5f0b044c8f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Превосходная производи­тельность</b></h3> <p style=\"text-align: center;\"> Процессор Qualcomm Snapdragon 730 может похвастаться как производительностью флагманского уровня, так и низким энергопотреблением. Он поддерживает одновременную работу нескольких приложений и ресурсоёмких игр без задержек. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/efe/efee30da22efe1396d232bae269cd5f6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Зарядка</b></h3> <p style=\"text-align: center;\"> Благодаря аккумулятору повышенной ёмкости и технологии vivo FlashCharge 2.0 мощностью 33 Вт смартфон X50 не знает себе равных. За счёт быстрой зарядки вы сможете работать, играть и общаться без перерывов. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/2e6/2e64725fdf4db4fe036faab8f5a8aeec.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\"><b>Высочайшее качество аудио</b></h3> <p style=\"text-align: center;\"> Компания vivo не изменяет своим высоким стандартам в области звука. Смартфон X50 воспроизводит музыку во всём её великолепии. Повышенная частота дискретизации обеспечивает высокую детализацию звука, который проникает прямо в сердце, погружая вас в волшебный мир музыки. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/831/8314d3d6b6eaa99b36496302a159b9ca.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/9f9/9f9202aaafcb94bea6f1b57dd0d8972f.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/963/96393ef1398ac9fb4f26ee7aa852c51f.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/46a/46a8a4858cd529306011ad5f0b044c8f.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/efe/efee30da22efe1396d232bae269cd5f6.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/2e6/2e64725fdf4db4fe036faab8f5a8aeec.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      },
+      {
+        "url": "/upload/iblock/f36/f3628d32d01ca48e85589831de39122c.jpg",
+        "alt": "Телефон сотовый VIVO X50 Glaze Black (2004)"
+      }
+    ]
+  }
+}

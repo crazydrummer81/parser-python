@@ -1,0 +1,61 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-apple-apple-watch-magnetic-charging-cable-1m-mu9g2zma-zkmu9g2zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-ri7/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "APPLE"
+  ],
+  "product_name": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)",
+  "product_code": "80061",
+  "product_price": {
+    "full": 15990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/88/8893b0aa-3e52-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0aa-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0ab-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0ac-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/88/8893b0ad-3e52-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона APPLE Apple Watch Magnetic Charging Cable (1m) MU9G2ZM/A (ZKMU9G2ZMA)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

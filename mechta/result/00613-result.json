@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-endur-sprintred/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL Endurance SPRINT(red)",
+  "product_code": "78712",
+  "product_price": {
+    "full": 21990,
+    "discounted": 16990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/ab/ab169287-fd2a-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Endurance SPRINT(red)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/ab/ab169287-fd2a-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Endurance SPRINT(red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ab/ab169288-fd2a-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Endurance SPRINT(red)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/ab/ab169289-fd2a-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Endurance SPRINT(red)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "красный",
+      "Вес без упаковки (нетто), кг": "0.02",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

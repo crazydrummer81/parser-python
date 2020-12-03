@@ -1,0 +1,157 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-xiaomi-mi-mix3-128gb-black/",
+  "product_category": {
+    "name": "XIAOMI",
+    "url": "/section/xiaomi-mik/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "XIAOMI"
+  ],
+  "product_name": "Телефон сотовый XIAOMI Mi Mix3 128GB Black",
+  "product_code": "79455",
+  "product_price": {
+    "full": 248990,
+    "discounted": 159990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5f/5ffb7013-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5f/5ffb7013-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5f/5ffb7014-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5f/5ffb7015-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5f/5ffb7016-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5f/5ffb7017-2b7e-11e9-a21c-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Защита от воды и пыли": "нет"
+    },
+    "Процессор": {
+      "Модель процессора": "Qualcomm Snapdragon 845",
+      "Процессор, (МГц, количество ядер)": "2800/ 1700 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,39 (16,2 см)",
+      "Разрешение дисплея, пикс": "2340х1080",
+      "Технология изготовления дисплея": "AMOLED/403 PPI/Always-On Display/Яркость 430 нит"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Память": {
+      "Встроенная память, Гб": "128",
+      "Объем оперативной памяти, Гб": "6",
+      "Тип карты памяти": "нет слота для карт памяти"
+    },
+    "Видеокарта": {
+      "Графический процессор": "Adreno 630"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "есть",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "есть, Type-C",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть",
+      "GPS": "есть, Glonass/ Galileo/ BeiDou/ QZSS"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+12",
+      "Режим видеосъемки": "4K 60fps/1080p 60fps/720p Super Slo-Mo 960fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "24+2",
+      "Особенности тыловой камеры": " f/1.8/ Автофокус Dual Pixel"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "3200",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)",
+      "Беспроводная зарядка": "да, включена в комплектацию",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "керамика"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "оптическая",
+      "Встроенное оборудование и функции": "Полноэкранный магнитный слайдер",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, стереодинамик"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "нет, в комплекте переходник USB Type-C на 3.5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,8х7,5х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.22"
+    },
+    "Разное": {
+      "Бренд": "XIAOMI",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Комплектация": "Беспроводная зарядка/ Адаптер/Кабель USB Type-C",
+      "Поддержка казахского языка": "есть"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/870/8706a147234a776a884374973f343532.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">Слайдер с безграничным дисплеем Инновационный смартфон с безграничным дисплеем</h2> <p style=\"text-align: center;\"> Mi MIX 3 расширяет границы безграничного дисплея с соотношением площади экрана к площади корпуса 93.4%. Благодаря конструкции, скрывающей двойную фронтальную камеру, практически всю переднюю поверхность смартфона занимает дисплей. Инновационный механизм магнитного слайдера работает как новый, даже после 300 000 тестовых открытий. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/311/3117ca38c4046c041564bb0c7a9567af.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">Новая эра взаимодействия с безграничным дисплеем</h2> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> Откройте будущее.<br/> Откройте, чтобы посмотреть погоду.<br/> Откройте, чтобы включить диктофон.<br/> Откройте, чтобы ответить на сообщение.<br/> Выбор действия при открытии.<br/> Откройте, чтобы запустить избранное приложение. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/243/243d38255355da5bbab9b97cbd1a2c85.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">За потрясающим дисплеем скрывается необыкновенный фото опыт: Высочайшая оценка по версии DxOMark 108 баллов</h2> <p style=\"text-align: center;\"> Потрясающие снимки ночных пейзажей недоступны для мобильных устройств? Пиксели 1.4 мкм + автофокус Dual Pixel представляют собой идеальное сочетание для съемки ночных пейзажей. Эта камера оснащена функциями, позволяющими делать восхитительные снимки при любом освещении. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bd3/bd3d5c48139f92c052be4d11b4e8db43.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">Флагманский процессор Qualcomm® Snapdragon™ 845</h2> <p style=\"text-align: center;\"> 6 ГБ оперативной памяти позволяют переключаться между приложениями без малейших задержек. Snapdragon™ 845 - это высококлассный процессор от компании Qualcomm®. Когда речь идет о плавности в играх, ни один процессор не сможет сравниться с этим монстром. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/7d3/7d384ab79fcc3a392e86a7b3c75b701f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">Беспроводная зарядка 10 Вт. Увеличение эффективности зарядки на 30% Беспроводное зарядное устройство поставляется вместе с телефоном</h2> <p style=\"text-align: center;\"> Заряжайте быстрее. Совместимость со всеми зарядными устройствами стандарта Qi.<br/> Используйте беспроводные устройства в аэропорту, кафе и других местах. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a63/a63a945643748f447a0318dbc4729e4c.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h2></h2> <h2 style=\"text-align: center;\">Самая мощная двойная камера от Xiaomi Венец развития фотографии с использованием ИИ</h2> <p style=\"text-align: center;\"> Точнейший анализ объектов в кадре позволяет в реальном времени <br/> добавлять эффект боке и с легкостью запечатлеть на снимке всю красоту момента. </p> </div> </div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/fe2/fe28e4b245b5762fb7d97ced7fddb5e3.jpg\"/></div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_text\"> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_text\"> </div> </div> <div class=\"aa_markvthree ifleft\"> <div class=\"aa_markvthree_text\"> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/870/8706a147234a776a884374973f343532.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/311/3117ca38c4046c041564bb0c7a9567af.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/243/243d38255355da5bbab9b97cbd1a2c85.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/bd3/bd3d5c48139f92c052be4d11b4e8db43.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/7d3/7d384ab79fcc3a392e86a7b3c75b701f.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/a63/a63a945643748f447a0318dbc4729e4c.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      },
+      {
+        "url": "/upload/iblock/fe2/fe28e4b245b5762fb7d97ced7fddb5e3.jpg",
+        "alt": "Телефон сотовый XIAOMI Mi Mix3 128GB Black"
+      }
+    ]
+  }
+}

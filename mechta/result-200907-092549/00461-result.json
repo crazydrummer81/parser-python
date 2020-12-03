@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/chehol-dlya-telefona-borasco-dlya-samsung-galaxy-s10-prozrachnyy-36447-dd3/",
+  "product_category": {
+    "name": "BoraSCO",
+    "url": "/section/borasco-wkr/",
+    "parent_name": "Чехлы",
+    "parent_url": "/section/chehly/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Чехлы",
+    "BoraSCO"
+  ],
+  "product_name": "Чехол для телефона BoraSCO Книжка Samsung A51 Blue (38542)",
+  "product_code": "80477",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/83/83daef65-4bb4-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Чехол для телефона BoraSCO Книжка Samsung A51 Blue (38542)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/83/83daef65-4bb4-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Чехол для телефона BoraSCO Книжка Samsung A51 Blue (38542)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A51"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "синий",
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BoraSCO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

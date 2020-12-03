@@ -1,0 +1,93 @@
+{
+  "source_url": "https://www.mechta.kz/product/radiostancii-motorola-t92/",
+  "product_category": {
+    "name": "MOTOROLA",
+    "url": "/section/motorola-gtq/",
+    "parent_name": "Радиостанции",
+    "parent_url": "/section/radiostancii-jdr/"
+  },
+  "product_name": "Радиостанции MOTOROLA TLKR T92 H2O",
+  "product_code": "72652",
+  "product_price": {
+    "full": 48190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/45/455bf69d-f046-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf69d-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf69e-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf69f-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf6a0-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf6a1-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf6a2-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/45/455bf6a3-f046-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Радиостанции MOTOROLA TLKR T92 H2O"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Рабочая частота, МГц": "446-446.1",
+      "Количество каналов": "8 + 121 код",
+      "Количество раций в комплекте": "2",
+      "Количество сигналов вызова": "20",
+      "Мощность передатчика, Вт": "0.5",
+      "Радиус действия, км": "10"
+    },
+    "Экран": {
+      "Технология изготовления дисплея": "LCD"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "800",
+      "Тип аккумулятора": "Ni-Mh (никель-металлгидридный)",
+      "Время работы от аккумулятора, ч": "16"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Блокировка клавиатуры": "есть",
+      "Подтверждение окончания передачи": "есть",
+      "Режим мониторинга/сканирования": "есть"
+    },
+    "Информационные функции": {
+      "Индикация уровня заряда": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "17,8х6,1х3,8",
+      "Цвет": "черный с желтым",
+      "Вес без упаковки (нетто), кг": "0.56"
+    },
+    "Разное": {
+      "Бренд": "MOTOROLA",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Крепление на ремень": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

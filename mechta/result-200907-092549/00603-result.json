@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.mechta.kz/product/portativnoe-zaryadnoe-ustroystvo-canyon-power-bank-quick-charger-30-black-10-000mah-cnd-tpbqc10b/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-89l/",
+    "parent_name": "Портативные Power Bank",
+    "parent_url": "/section/portativnye-power-bank/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Зарядные устройства",
+    "Портативные Power Bank",
+    "CANYON"
+  ],
+  "product_name": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)",
+  "product_code": "82688",
+  "product_price": {
+    "full": 12990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3d/3dee2ed0-af5b-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ed0-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ed1-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ed2-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/3d/3dee2ed3-af5b-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Портативное зарядное устройство CANYON Power bank Quick charger 3.0 Black 10 000mAh (CND-TPBQC10B)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Ёмкость, мАч": "10000",
+      "Число USB портов": "2",
+      "Индикатор уровня зарядки": "есть"
+    },
+    "Питание": {
+      "Тип аккумулятора": "Li-lon (литий-ионный)",
+      "Время зарядки ": "7 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "металл"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "6,9х1,5х13,7",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.21"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Макс. выходное напряжение": "5В/2,0А"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

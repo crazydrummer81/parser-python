@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-marshall-major-iii-white/",
+  "product_category": {
+    "name": "MARSHALL",
+    "url": "/section/marshall-qsm/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники MARSHALL Major III (white)",
+  "product_code": "80941",
+  "product_price": {
+    "full": 34990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c1/c1fbb6e4-64ab-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Наушники MARSHALL Major III (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e4-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e5-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e6-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники MARSHALL Major III (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.8",
+      "Штекер": "3.5 мм (mini-jack) - наушники, микрофон ",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "40 мм",
+      "Чувствительность, дБ": "99"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.17",
+      "Вес в упаковке (брутто), кг": "0.52",
+      "Габариты в упаковке (ВхШхГ), см": "16х16х9"
+    },
+    "Разное": {
+      "Бренд": "MARSHALL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

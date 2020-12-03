@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-olto-udlinitel-dlya-naushnikov-ac-200-black/",
+  "product_category": {
+    "name": "OLTO",
+    "url": "/section/olto-lod/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "OLTO"
+  ],
+  "product_name": "Кабель OLTO Удлинитель для наушников AC-200 black",
+  "product_code": "260001857",
+  "product_price": {
+    "full": 990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/81/813706bb-ba84-11ea-a22f-005056b6dbd7.jpeg",
+    "alt": "Кабель OLTO Удлинитель для наушников AC-200 black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/81/813706bb-ba84-11ea-a22f-005056b6dbd7.jpeg",
+      "alt": "Кабель OLTO Удлинитель для наушников AC-200 black"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "2",
+      "Штекер": "3.5 мм (mini-jack)"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес в упаковке (брутто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "OLTO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

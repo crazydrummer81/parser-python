@@ -1,0 +1,44 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-belkin-lighning-12m-white/",
+  "product_category": {
+    "name": "BELKIN",
+    "url": "/section/belkin-3g9/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона BELKIN Lighning 1.2m white",
+  "product_code": "81166",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/39/3928ee63-6324-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона BELKIN Lighning 1.2m white"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/39/3928ee63-6324-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона BELKIN Lighning 1.2m white"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.2",
+      "Штекер": "Lightning / USB 2.0 Type-A",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "BELKIN",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t115-bt-coral/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL T115 BT (coral)",
+  "product_code": "00535",
+  "product_price": {
+    "full": 14990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/63/63571b92-1191-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T115 BT (coral)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b92-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (coral)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b93-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (coral)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b94-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (coral)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b95-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (coral)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/63/63571b96-1191-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T115 BT (coral)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Длина кабеля, м": "0.8",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "102",
+      "Защита от воды и пыли": "нет"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2 часа ",
+      "Емкость аккумулятора, мАч": "160",
+      "Время работы от аккумулятора, ч": "8 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и резина"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "коралловый",
+      "Вес без упаковки (нетто), кг": "0.19"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Наличие регулятора громкости": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

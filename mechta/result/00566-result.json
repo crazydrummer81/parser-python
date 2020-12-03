@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-zx-110-white/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-jrs/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники SONY MDR ZX 110 (white)",
+  "product_code": "71292",
+  "product_price": {
+    "full": 6990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/70/7031d0e5-b311-11e7-80c0-1866daf08915.jpeg",
+    "alt": "Наушники SONY MDR ZX 110 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/70/7031d0e5-b311-11e7-80c0-1866daf08915.jpeg",
+      "alt": "Наушники SONY MDR ZX 110 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "12 - 22000",
+      "Чувствительность наушников, дБ/В": "98"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

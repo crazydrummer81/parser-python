@@ -1,0 +1,55 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-harper-hb-217-white/",
+  "product_category": {
+    "name": "HARPER",
+    "url": "/section/harper-l1p/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники HARPER HB 217 (white)",
+  "product_code": "78377",
+  "product_price": {
+    "full": 7990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/bd/bd95a841-f151-11e8-a21a-005056b6dbd7.jpeg",
+    "alt": "Наушники HARPER HB 217 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/bd/bd95a841-f151-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 217 (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/bd/bd95a842-f151-11e8-a21a-005056b6dbd7.jpeg",
+      "alt": "Наушники HARPER HB 217 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "нет",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "105"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.13",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "HARPER",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-dlya-telefona-samsung-eo-ic100bwegru-white/",
+  "product_category": {
+    "name": "SAMSUNG",
+    "url": "/section/samsung-36q/",
+    "parent_name": "Проводные гарнитуры",
+    "parent_url": "/section/provodnye-garnitury/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Проводные гарнитуры",
+    "SAMSUNG"
+  ],
+  "product_name": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)",
+  "product_code": "260000023",
+  "product_price": {
+    "full": 8990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/14/14a3d75f-4989-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d75f-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d760-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d761-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d762-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d763-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/14/14a3d764-4989-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Наушники для телефона SAMSUNG EO-IC100BWEGRU (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "вставные (вкладыши)",
+      "Тип подключения": "проводной",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.018",
+      "Вес в упаковке (брутто), кг": "0.04",
+      "Габариты в упаковке (ВхШхГ), см": "16х6х3"
+    },
+    "Разное": {
+      "Бренд": "SAMSUNG",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

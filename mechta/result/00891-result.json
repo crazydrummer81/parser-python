@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-vsp-usb-1a-chernoe-20642/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp-2xk/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов VSP USB, 1A черное (20642)",
+  "product_code": "72360",
+  "product_price": {
+    "full": 1590,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8c/8cb068ed-fcf1-11e7-80cb-1866daf08915.jpeg",
+    "alt": "Зарядное устройство для телефонов VSP USB, 1A черное (20642)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8c/8cb068ed-fcf1-11e7-80cb-1866daf08915.jpeg",
+      "alt": "Зарядное устройство для телефонов VSP USB, 1A черное (20642)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "5В/ 1А"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Китай",
+      "Длина кабеля": "нет"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-inkax-micro-usb-3-usb--31a-sd-26/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax-a4n/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов INKAX Micro USB (3 USB) ( 3,1A) (СD-26)",
+  "product_code": "77254",
+  "product_price": {
+    "full": 4990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5f/5fa33293-e1ac-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов INKAX Micro USB (3 USB) ( 3,1A) (СD-26)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5f/5fa33293-e1ac-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов INKAX Micro USB (3 USB) ( 3,1A) (СD-26)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5f/5fa33294-e1ac-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов INKAX Micro USB (3 USB) ( 3,1A) (СD-26)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "я удален": "3,1 A"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.2"
+    },
+    "Разное": {
+      "Бренд": "INKAX",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

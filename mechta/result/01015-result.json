@@ -1,0 +1,66 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-plantronics-backbeat-fit-2100-212203-99-chernyy/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics-ljg/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники PLANTRONICS BACKBEAT FIT 2100 (212203-99) (черный)",
+  "product_code": "82319",
+  "product_price": {
+    "full": 49980,
+    "discounted": 27990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/09/0943c499-a397-11e9-a221-005056b6dbd7.jpeg",
+    "alt": "Наушники PLANTRONICS BACKBEAT FIT 2100 (212203-99) (черный)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/09/0943c499-a397-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT FIT 2100 (212203-99) (черный)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/09/0943c49a-a397-11e9-a221-005056b6dbd7.jpeg",
+      "alt": "Наушники PLANTRONICS BACKBEAT FIT 2100 (212203-99) (черный)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "13.5",
+      "Чувствительность, дБ": "94"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "2",
+      "Время работы от аккумулятора, ч": "7"
+    },
+    "Корпус": {
+      "Материал корпуса": "силикон и пластик"
+    },
+    "Звук": {
+      "Микрофон": "есть, встроенный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный с красным",
+      "Вес без упаковки (нетто), кг": "0.028"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/170/170f62ead0dec8e7ee8ab91444a495cd.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/6c0/6c0b4b3844d1a39568fa902aef2ef7d5.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/2cd/2cd0a0ed2975ae42521f81cad6d971a3.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/676/676082d042ac40bd30981b481681a5ac.jpg\"/></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/e20/e201c1bb407bfaba119a7a39ad6ed1c6.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/e20/e201c1bb407bfaba119a7a39ad6ed1c6.jpg",
+        "alt": "Наушники PLANTRONICS BACKBEAT FIT 2100 (212203-99) (черный)"
+      }
+    ]
+  }
+}

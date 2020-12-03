@@ -1,0 +1,46 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-canyon-cne-cha02b-usb-output/",
+  "product_category": {
+    "name": "CANYON",
+    "url": "/section/canyon-tf9/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов CANYON CNE-CHA02B USB output",
+  "product_code": "80098",
+  "product_price": {
+    "full": 2990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/3b/3bc5f63d-3f34-11e9-a21e-005056b6dbd7.jpeg",
+    "alt": "Зарядное устройство для телефонов CANYON CNE-CHA02B USB output"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/3b/3bc5f63d-3f34-11e9-a21e-005056b6dbd7.jpeg",
+      "alt": "Зарядное устройство для телефонов CANYON CNE-CHA02B USB output"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Макс. входное напряжение": "5В"
+    },
+    "Опции": {
+      "Дополнительные опции": "Количество выходных разъемов - 2"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "оранжевый с черным",
+      "Вес без упаковки (нетто), кг": "0.05",
+      "Габариты в упаковке (ВхШхГ), см": "4,3х8,6х7"
+    },
+    "Разное": {
+      "Бренд": "CANYON",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

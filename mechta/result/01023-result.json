@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-olmio-solid-type-c-12m-kapuchino/",
+  "product_category": {
+    "name": "OLMIO",
+    "url": "/section/olmio/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_name": "Кабель для телефона OLMIO SOLID Type-C 1.2m (капучино)",
+  "product_code": "81381",
+  "product_price": {
+    "full": 2190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c5/c514b524-67d4-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона OLMIO SOLID Type-C 1.2m (капучино)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c5/c514b524-67d4-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона OLMIO SOLID Type-C 1.2m (капучино)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c5/c514b525-67d4-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона OLMIO SOLID Type-C 1.2m (капучино)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1.2",
+      "Штекер": "USB тип A / USB Type-C",
+      "Тип кабеля (шнура)": "кабель питания"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "кофейный",
+      "Вес без упаковки (нетто), кг": "0.01"
+    },
+    "Разное": {
+      "Бренд": "OLMIO",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

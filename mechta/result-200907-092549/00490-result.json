@@ -1,0 +1,65 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-t500-bt-blue/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "JBL"
+  ],
+  "product_name": "Наушники JBL T500 BT (blue)",
+  "product_code": "80542",
+  "product_price": {
+    "full": 24990,
+    "discounted": 19990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/c1/c1fbb6e7-64ab-11e9-a220-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL T500 BT (blue)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e7-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e8-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (blue)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/c1/c1fbb6e9-64ab-11e9-a220-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL T500 BT (blue)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Штекер": "нет",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Чувствительность наушников, дБ/В": "100",
+      "Диаметр мембран, мм": "32 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "голубой",
+      "Вес без упаковки (нетто), кг": "0.15",
+      "Вес в упаковке (брутто), кг": "0.3",
+      "Габариты в упаковке (ВхШхГ), см": "20.5х22.5х5"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

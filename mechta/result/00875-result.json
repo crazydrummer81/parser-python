@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-panasonic-rp-tcm-115-gc-k/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-sub/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_name": "Наушники PANASONIC RP TCM 115 GC K",
+  "product_code": "76857",
+  "product_price": {
+    "full": 3990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/99/999aef74-af6a-11e8-a218-005056b6dbd7.jpeg",
+    "alt": "Наушники PANASONIC RP TCM 115 GC K"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/99/999aef74-af6a-11e8-a218-005056b6dbd7.jpeg",
+      "alt": "Наушники PANASONIC RP TCM 115 GC K"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Тип подключения": "проводной",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "10 - 24000",
+      "Чувствительность наушников, дБ/В": "109"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.02",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

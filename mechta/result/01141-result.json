@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-vsp-flex-dlya-apple-iphone-6-13932/",
+  "product_category": {
+    "name": "VSP",
+    "url": "/section/vsp/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_name": "Защитная пленка для дисплея VSP Flex для Apple iPhone 6 (13932)",
+  "product_code": "71849",
+  "product_price": {
+    "full": 2190,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/b6/b67550c1-d40d-11e7-80c8-1866daf08915.jpeg",
+    "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 6 (13932)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/b6/b67550c1-d40d-11e7-80c8-1866daf08915.jpeg",
+      "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 6 (13932)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/b6/b67550c2-d40d-11e7-80c8-1866daf08915.jpeg",
+      "alt": "Защитная пленка для дисплея VSP Flex для Apple iPhone 6 (13932)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Apple",
+      "Для моделей": "IPhone 6"
+    },
+    "Разное": {
+      "Бренд": "VSP",
+      "Страна производитель": "Россия"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "source_url": "https://www.mechta.kz/product/smart-chasy-wonlex-q50/",
+  "product_category": {
+    "name": "WONLEX",
+    "url": "/section/wonlex/",
+    "parent_name": "Детские часы с GPS",
+    "parent_url": "/section/detskie-chasy-s-gps/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Гаджеты",
+    "Детские часы с GPS",
+    "WONLEX"
+  ],
+  "product_name": "Детские смарт часы WONLEX Q50",
+  "product_code": "68054",
+  "product_price": {
+    "full": 9470,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/1e/1ea3056c-2a6c-11e7-80c6-2c768a5d3553.jpeg",
+    "alt": "Детские смарт часы WONLEX Q50"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/1e/1ea3056c-2a6c-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q50"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1e/1ea3056d-2a6c-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q50"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1e/1ea3056e-2a6c-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q50"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/1e/1ea3056f-2a6c-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q50"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/68/6801d9b0-2a6f-11e7-80c6-2c768a5d3553.jpeg",
+      "alt": "Детские смарт часы WONLEX Q50"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Режимы дисплея": "GPS-трекер, шагомер, SOS-вызов, прослушивание "
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "0.96 (2,4 см)",
+      "Сенсорный дисплей": "нет",
+      "Технология изготовления дисплея": "OLED"
+    },
+    "SIM карта": {
+      "SIM-карта": "одна, Micro-SIM"
+    },
+    "Типы передачи данных": {
+      "USB": "micro-USB",
+      "GPS": "есть"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "400",
+      "Работа от аккумулятора, ч": "от 24 до 72 часов (вазависимости от режима работы)"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик и силикон"
+    },
+    "Функции": {
+      "Акселерометр": "есть",
+      "Вибрация": "нет"
+    },
+    "Звук": {
+      "Встроенный микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "5,2х3,1х1,2",
+      "Цвет": "уточняйте у менеджера",
+      "Вес без упаковки (нетто), кг": "0.04"
+    },
+    "Разное": {
+      "Бренд": "WONLEX",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "LBS": "есть",
+      "Поддержка голосовой связи": "есть, входящие и исходящие",
+      "Процессор": "MediaTek MTK 6261",
+      "Совместимость ": "IOS / Android"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

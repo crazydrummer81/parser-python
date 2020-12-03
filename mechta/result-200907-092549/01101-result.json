@@ -1,0 +1,49 @@
+{
+  "source_url": "https://www.mechta.kz/product/kabel-dlya-telefona-inkax-type-c-ck-31-type-c/",
+  "product_category": {
+    "name": "INKAX",
+    "url": "/section/inkax/",
+    "parent_name": "Кабели",
+    "parent_url": "/section/kabeli/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Кабели",
+    "INKAX"
+  ],
+  "product_name": "Кабель для телефона INKAX TYPE-C (CK-31-TYPE-C)",
+  "product_code": "77242",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f4/f46399bd-ddb0-11e8-a219-005056b6dbd7.jpeg",
+    "alt": "Кабель для телефона INKAX TYPE-C (CK-31-TYPE-C)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f4/f46399bd-ddb0-11e8-a219-005056b6dbd7.jpeg",
+      "alt": "Кабель для телефона INKAX TYPE-C (CK-31-TYPE-C)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Длина кабеля, м": "1",
+      "Штекер": "USB Type C",
+      "Тип кабеля (шнура)": "телефонный"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "INKAX"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

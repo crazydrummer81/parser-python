@@ -1,0 +1,82 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-wh-ch-510-black/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "SONY"
+  ],
+  "product_name": "Наушники SONY WH CH 510 (black)",
+  "product_code": "00268",
+  "product_price": {
+    "full": 24990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/76/768a06ff-05c6-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Наушники SONY WH CH 510 (black)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/76/768a06ff-05c6-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 510 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/76/768a0700-05c6-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 510 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/76/768a0701-05c6-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 510 (black)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/76/768a0702-05c6-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Наушники SONY WH CH 510 (black)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Радиус действия, м": "10",
+      "Штекер": "USB Type C",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000",
+      "Диаметр мембран, мм": "30"
+    },
+    "Питание": {
+      "Время зарядки аккумулятора, ч": "4 ч.30 мин",
+      "Время работы от аккумулятора, ч": "до 35 часов"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик, кожзам"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.132"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\"></h2> <h2 style=\"text-align: center;\">Длительная работа,качественный звук</h2> <p style=\"text-align: center;\"> </p> <h2 style=\"text-align: center;\">С беспроводными легкими наушниками WH-CH510, которые могут достаточно долго работать от аккумулятора, можно наслаждаться прослушиванием музыки весь день напролет.</h2> <h2></h2> <p style=\"text-align: center;\"> </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/072/072bbebdb9f53b4b71e9f3142b93c290.jpg\"/></div> <div class=\"aa_markfull_text\"><h2 style=\"text-align: center;\">Эти легкие наушники имеют поворотные чашки, поэтому их удобно перевозить в сумке. А благодаря мягким амбушюрам и тонкой регулируемой головной стяжке они не только комфортные, но еще и отлично выглядят.<br/> </h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/325/325024f69d4a11138908b810da3679c4.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Работа от аккумулятора в течение дня и быстрая зарядка</h2> <h2 style=\"text-align: center;\"> Аккумулятор обеспечивает целых 35 часов работы, его хватит даже на самую долгую поездку. Разрядились наушники? После 10-минутной быстрой зарядки вы сможете слушать любимую музыку еще целых 90 минут. <br/> <br/> </h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/587/58703b70144082ec4c55015dc4489fdd.jpg\"/></div> <div class=\"aa_markfull_text\"><h2></h2> <h2 style=\"text-align: center;\">Возьмите музыку с собой</h2> <p style=\"text-align: center;\"> </p> <h2 style=\"text-align: center;\">Наушники WH-CH510 не только легкие и компактные. Благодаря поворотным чашкам их удобно и безопасно перевозить в сумке.</h2></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/7be/7bede9027b0f76ed6f5e1f01bab632d1.jpg\"/></div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/7be/7bede9027b0f76ed6f5e1f01bab632d1.jpg",
+        "alt": "Наушники SONY WH CH 510 (black)"
+      }
+    ]
+  }
+}

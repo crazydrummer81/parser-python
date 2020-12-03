@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-marshall-major-2-white/",
+  "product_category": {
+    "name": "MARSHALL",
+    "url": "/section/marshall-qsm/",
+    "parent_name": "Проводные",
+    "parent_url": "/section/provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Проводные",
+    "MARSHALL"
+  ],
+  "product_name": "Наушники MARSHALL Major 2 (white)",
+  "product_code": "70670",
+  "product_price": {
+    "full": 29990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/69/69477245-96db-11e7-80bd-005056c00008.jpeg",
+    "alt": "Наушники MARSHALL Major 2 (white)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/69/69477245-96db-11e7-80bd-005056c00008.jpeg",
+      "alt": "Наушники MARSHALL Major 2 (white)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "накладные",
+      "Тип подключения": "проводной, отсоединяемый",
+      "Длина кабеля, м": "1.8",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "10 - 20000"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "белый"
+    },
+    "Разное": {
+      "Бренд": "MARSHALL",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

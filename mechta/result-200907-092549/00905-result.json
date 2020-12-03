@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.mechta.kz/product/blyutuz-garnitura-plantronics-explorer110r/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "PLANTRONICS"
+  ],
+  "product_name": "Блютуз гарнитура PLANTRONICS Explorer110/R",
+  "product_code": "47681",
+  "product_price": {
+    "full": 19990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/5b/5ba61a8c-9c6c-11e7-80bd-005056c00008.jpeg",
+    "alt": "Блютуз гарнитура PLANTRONICS Explorer110/R"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/5b/5ba61a8c-9c6c-11e7-80bd-005056c00008.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer110/R"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5b/5ba61a8d-9c6c-11e7-80bd-005056c00008.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer110/R"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/5b/5ba61a8e-9c6c-11e7-80bd-005056c00008.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer110/R"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "есть"
+    },
+    "Питание": {
+      "Время в режиме разговора, ч": "7",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный)"
+    },
+    "Функции": {
+      "Ожидание/удержание вызова": "есть",
+      "Ответить/закончить разговор": "есть",
+      "Повтор последнего номера": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15х9,8х3,2",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.01",
+      "Вес в упаковке (брутто), кг": "0.1"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай",
+      "Индикатор состояния ": "есть"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://www.mechta.kz/product/zaryadnoe-ustroystvo-dlya-telefonov-apple-a1400-5vt-usb-output-zkmd813zma/",
+  "product_category": {
+    "name": "APPLE",
+    "url": "/section/apple-h25/",
+    "parent_name": "Зарядка от сети",
+    "parent_url": "/section/zaryadka-ot-seti/"
+  },
+  "product_name": "Зарядное устройство для телефонов APPLE A1400 5Вт USB output (ZKMD813ZMA)",
+  "product_code": "45026",
+  "product_price": {
+    "full": 9490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/f6/f6954ac5-b20e-11e6-8a1e-2c768a5d3551.jpeg",
+    "alt": "Зарядное устройство для телефонов APPLE A1400 5Вт USB output (ZKMD813ZMA)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/f6/f6954ac5-b20e-11e6-8a1e-2c768a5d3551.jpeg",
+      "alt": "Зарядное устройство для телефонов APPLE A1400 5Вт USB output (ZKMD813ZMA)"
+    }
+  ],
+  "product_params": {
+    "Цвет, размеры и вес": {
+      "Цвет": "белый",
+      "Вес без упаковки (нетто), кг": "0.02",
+      "Вес в упаковке (брутто), кг": "0.04"
+    },
+    "Разное": {
+      "Бренд": "APPLE",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

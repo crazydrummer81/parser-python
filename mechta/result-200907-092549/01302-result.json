@@ -1,0 +1,62 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-panasonic-kx-ts-2350/",
+  "product_category": {
+    "name": "PANASONIC",
+    "url": "/section/panasonic-7oy/",
+    "parent_name": "Проводные телефоны",
+    "parent_url": "/section/telefony-provodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Телефоны и радиостанции",
+    "Стационарные телефоны",
+    "Проводные телефоны",
+    "PANASONIC"
+  ],
+  "product_name": "Телефон PANASONIC KX TS 2350",
+  "product_code": "101799",
+  "product_price": {
+    "full": 6490,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/46/464531a9-38d1-11e0-9222-001676a0f702.jpeg",
+    "alt": "Телефон PANASONIC KX TS 2350"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/46/464531a9-38d1-11e0-9222-001676a0f702.jpeg",
+      "alt": "Телефон PANASONIC KX TS 2350"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/03/0302dc5c-23c3-11e6-a0e3-2c768a5d3551.jpeg",
+      "alt": "Телефон PANASONIC KX TS 2350"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Автоответчик": "нет",
+      "Определитель номера": "нет",
+      "Память принятых вызовов": "нет",
+      "Телефонная книга": "нет",
+      "Возможность настенной установки": "есть",
+      "Повторный набор номера": "есть",
+      "Спикерфон": "нет",
+      "Тональный набор": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный, темно-синий, светло-серый, красный, белый",
+      "Вес в упаковке (брутто), кг": "0.61",
+      "Габариты в упаковке (ВхШхГ), см": "20х20.5х7.3"
+    },
+    "Разное": {
+      "Бренд": "PANASONIC",
+      "Гарантия": "3 года",
+      "Страна производитель": "Малайзия"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

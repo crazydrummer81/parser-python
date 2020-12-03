@@ -1,0 +1,182 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-a12-64gb-blue/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO A12 64GB Blue",
+  "product_code": "260002446",
+  "product_price": {
+    "full": 79990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/8b/8be9bab9-e10c-11ea-a230-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO A12 64GB Blue"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9bab9-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9baba-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9babb-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9babc-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9babd-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9babe-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9babf-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/8b/8be9bac0-e10c-11ea-a230-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A12 64GB Blue"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6765V (P35)",
+      "Процессор, (МГц, количество ядер)": "2300 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,22 (15,8 см)",
+      "Разрешение дисплея, пикс": "1520х720",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac 5 ГГц",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "13+2",
+      "Режим видеосъемки": "1080p 30fps/720p 30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "5",
+      "Особенности фронтальной камеры": " f/2.4",
+      "Особенности тыловой камеры": " f/2.2 / 2.2/ AF/ Вспышка "
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4230",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "есть"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "15,6х7,5х0,8",
+      "Цвет": "синий",
+      "Вес без упаковки (нетто), кг": "0,165"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/f94/f94beb38a3dd026607b08b9f6b11a3af.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/123/12387bb7c56faca4803f5ae7646fb9cf.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Захватывающий дисплей</span></b><br/> Большой экран площадью 15.79 см позволит ощутить всю красоту визуальных эффектов при просмотре развлекательных шоу или во время игры. Кроме того, благодаря фильтрации синего света OPPO A12 защитит ваши глаза от усталости на протяжении всего дня. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/931/931308d7fd6049adc2032d6ac07e4852.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Откройте ваш путь</span></b><br/> Удобная разблокировка при помощи сканера отпечатков на задней панели или надежной интеллектуальной системы распознавания лиц, которая работает на основе 128 биометрических точек. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/c86/c86bf09bf3ecd6eeacca041f7617da6d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Используйте одной рукой</span></b><br/> OPPO A12 имеет эргономичный дизайн и плавные, элегантные изгибы корпуса. Размер экрана позволяет легко использовать смартфон даже одной рукой. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/dd4/dd409797892c5a3a89de6d69954e339e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Добавьте яркости в свою жизнь</span></b><br/> Дизайн задней крышки выглядит как идеально ограненный бриллиант, блестящий на солнце. Каждый угол отражает различный спектр цвета и света завораживающей текстуры. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8e7/8e779517fd2473740ee74a02dfa97f72.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">AI бьютификация</span></b><br/> Функция AI бьютификации определяет тип и тон кожи, возраст и пол, а также применяет индивидуальное решение, которое позволит вам выглядеть естественно. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/8bf/8bf5a5fdd9a0185280837198eb2707bd.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Портретный режим с эффектом боке</span></b><br/> Благодаря эффекту боке в портретном режиме будьте уверены, что все взгляды прикованы к вам, независимо от того, что происходит на заднем фоне. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/85d/85dad98cf751ef076a6cc24a2fd307d6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Режим Dazzle Color</span></b><br/> Режим Dazzle Color поможет вам сохранить все естественные цвета на ваших фотографиях. Еда выглядит вкуснее, зелень – пышнее, а все элементы кажутся живыми. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/b97/b97c7a56f12814af7ab4ff401c059766.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Восьмиядерный процессор</span></b><br/> OPPO A12 оснащен восьмиядерным процессором класса 12 нм, который обеспечивает плавность игрового процесса и просмотра видео. Благодаря оперативной памяти объемом 3Гб и большому объему хранения файлов вы можете одновременно использовать несколько приложений, а также сохранить большое количество фотографий, песен и приложений. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/fd6/fd67d245f13280e81f36831a940a7978.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Заряд на весь день</span></b><br/> С аккумулятором емкостью 4230 мА·ч вы можете смотреть HD-видео на протяжении 17 часов или играть в игры на протяжении 8 часов. Вам больше не стоит беспокоиться о частой зарядке батареи. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/063/0638e776e1399de04740d1b78de8072b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <b></b> <p style=\"text-align: center;\"> <b><span style=\"color: #464646;\">Технология Dirac</span></b><br/> Технология Dirac автоматически переключается между режимами Smart Audio для оптимизации качества звука в зависимости от того, что вы делаете - играете в игры, слушаете музыку или смотрите видео. Что бы вы ни слушали, это будет настоящий, захватывающий опыт. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/123/12387bb7c56faca4803f5ae7646fb9cf.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/931/931308d7fd6049adc2032d6ac07e4852.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/c86/c86bf09bf3ecd6eeacca041f7617da6d.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/dd4/dd409797892c5a3a89de6d69954e339e.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/8e7/8e779517fd2473740ee74a02dfa97f72.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/8bf/8bf5a5fdd9a0185280837198eb2707bd.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/85d/85dad98cf751ef076a6cc24a2fd307d6.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/b97/b97c7a56f12814af7ab4ff401c059766.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/fd6/fd67d245f13280e81f36831a940a7978.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/063/0638e776e1399de04740d1b78de8072b.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      },
+      {
+        "url": "/upload/iblock/f94/f94beb38a3dd026607b08b9f6b11a3af.jpg",
+        "alt": "Телефон сотовый OPPO A12 64GB Blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "source_url": "https://www.mechta.kz/product/telefon-sotovyy-oppo-a31-mystery-black/",
+  "product_category": {
+    "name": "OPPO",
+    "url": "/section/oppo/",
+    "parent_name": "Смартфоны",
+    "parent_url": "/section/smartfony/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Смартфоны",
+    "OPPO"
+  ],
+  "product_name": "Телефон сотовый OPPO A31 Mystery Black",
+  "product_code": "260000813",
+  "product_price": {
+    "full": 89990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/6f/6fd9b3f6-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+    "alt": "Телефон сотовый OPPO A31 Mystery Black"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3f6-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3f7-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3f8-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3f9-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3fa-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3fb-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/6f/6fd9b3fc-7e1e-11ea-a22d-005056b6dbd7.jpeg",
+      "alt": "Телефон сотовый OPPO A31 Mystery Black"
+    }
+  ],
+  "product_params": {
+    "Процессор": {
+      "Модель процессора": "Mediatek MT6765",
+      "Процессор, (МГц, количество ядер)": "2300/ 1800 МГц, 8 ядер"
+    },
+    "Экран": {
+      "Диагональ экрана, дюйм": "6,5 (16,5 см)",
+      "Разрешение дисплея, пикс": "1600х720 HD+",
+      "Технология изготовления дисплея": "IPS",
+      "Количество цветов дисплея": "16 млн."
+    },
+    "Память": {
+      "Встроенная память, Гб": "64",
+      "Объем оперативной памяти, Гб": "4",
+      "Тип карты памяти": "microSD",
+      "Максимальная емкость карты памяти, Гб": "256 (отдельный слот, помимо 2-х sim карт)"
+    },
+    "Видеокарта": {
+      "Графический процессор": "PowerVR GE8320"
+    },
+    "SIM карта": {
+      "SIM-карта": "две, Nano-SIM"
+    },
+    "Стандарт": {
+      "Стандарты сети": "2G, 3G, 4G LTE"
+    },
+    "Операционная система ": {
+      "Мобильная ОС": "Android"
+    },
+    "Типы передачи данных": {
+      "NFC": "нет",
+      "Поддержка 4G (LTE)": "есть",
+      "USB": "1 x Micro USB 2.0",
+      "Bluetooth": "5.0",
+      "Wi-Fi": "есть, 802.11a/b/g/n/ac",
+      "GPS": "есть, Glonass/ A-GPS/ BeiDou"
+    },
+    "Фотокамера": {
+      "Разрешение фотокамеры, Мпикс": "12+2+2",
+      "Режим видеосъемки": "есть 1080p,30fps",
+      "Фронтальная камера (для видеозвонков), Мпикс": "8",
+      "Особенности тыловой камеры": "Тройная камера/ Эффект боке/ Макросъемка/ Вспышка"
+    },
+    "Питание": {
+      "Емкость аккумулятора, мАч": "4230",
+      "Тип аккумулятора": "Li-Pol (литий-полимерный) несъемный ",
+      "Беспроводная зарядка": "нет",
+      "Быстрая зарядка": "нет"
+    },
+    "Корпус": {
+      "Материал корпуса": "пластик"
+    },
+    "Функции": {
+      "Система стабилизации изображения": "цифровая ",
+      "Cканер отпечатка пальца": "есть",
+      "Распознавание лица": "есть"
+    },
+    "Звук": {
+      "Встроенные динамики": "есть, один"
+    },
+    "Интерфейсы": {
+      "Разъем для наушников": "есть, 3,5 мм"
+    },
+    "Цвет, размеры и вес": {
+      "Габариты устройства (ВхШхГ), см": "16,3х7,5х0,8",
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0,180"
+    },
+    "Разное": {
+      "Бренд": "OPPO",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": " <div class=\"aa_markfull_text\"><h3></h3> <h3 style=\"text-align: center;\">Тройная Ai камера </h3> <h3 style=\"text-align: center;\">Каждый момент в фокусе</h3> <p style=\"text-align: center;\"> Экран с диагональю 6,5\" (16,5 см) и вырезом в форме капли | Аккумулятор емкостью 4230 мА·ч </p></div> <div class=\"aa_markfull_img\"><img src=\"/upload/iblock/79a/79abfc1fd5f8f3cc3071af0b286e6dce.jpg\"/></div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/d9b/d9b49a39e6963be6277bc2fd749ac1a6.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Твоя красота в фокусе</h3> <p style=\"text-align: center;\"> <b>Эффект боке</b><br/> Аппаратные эффекты боке позволяют без труда выделить человека на портрете, размыв фон. Кроме того, мы проанализировали сотни фотографий и трендов и создали пять новых портретных стилей, которые помогут тебе подчеркнуть свою индивидуальность. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a3f/a3f8b56294e2f0856e632f49746b4643.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Новый уровень селфи</h3> <p style=\"text-align: center;\"> <b>Фронтальная камера на 8 Мп с интеллектуальной коррекцией изображения</b><br/> Мечтаешь о естественных и красивых селфи? Фронтальная камера OPPO A31 с разрешением 8 Мп и технологией интеллектуальной коррекции снимков автоматически определяет возраст и пол человека в кадре, а потом, с учетом этих данных, улучшает изображение. Теперь твои селфи станут еще более индивидуальными и естественными. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/802/8020914508b27ee8dcaf87d140358d5d.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Вглядись в мир</h3> <p style=\"text-align: center;\"> <b>Макрообъектив</b><br/> Вокруг столько незаметной красоты — разгляди ее на фотографиях! Со специальным объективом OPPO A31 стало очень просто запечатлеть капли утренней росы или распустившиеся цветы. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/a62/a626ee5644990f804a7a613cf522ce7e.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Добавь красок в свою жизнь</h3> <p style=\"text-align: center;\"> <b>Режим Dazzle Color</b><br/> Алгоритм обработки цветов делает фотографии более красочными. В режиме Dazzle Color благодаря сочным оттенкам преображаются не только цветы — становится выразительнее вся фотография. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/72d/72df5ad2cfbdfa521d39748585db555f.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Эффект погружения</h3> <p style=\"text-align: center;\"> <b>Безопасный для глаз экран с диагональю 6,5 дюйма и вырезом в форме капли</b><br/> Новый вырез в форме капли OPPO A31 на 31,4% меньше, чем раньше. Это позволило увеличить экран, так что игры и видеоролики будут захватывающими как никогда. Кроме того, OPPO A31 будет защищать твое зрение, отфильтровывая вредный синий свет. От телефона не придется отрываться из-за усталости глаз. </p> </div> </div> <div class=\"aa_markvtwo ifleft\"> <div class=\"aa_markvtwo_img\" style=\"background-image: url('/upload/iblock/bc4/bc4723f1398bc56bdf6c117e146c068b.jpg')\"></div> <div class=\"aa_markvtwo_text\"> <h3></h3> <h3 style=\"text-align: center;\">Заряд аккумулятора на целый день</h3> <p style=\"text-align: center;\"> <b>Аккумулятор емкостью 4230 мА·ч</b><br/> С такой емкостью можно смотреть видео, играть в игры и слушать музыку весь день напролет. При непрерывном просмотре видео в HD-качестве аккумулятор без проблем продержится до 14 часов,а при взаимодействии с игровым контентом — до 7 часов. </p> </div> </div> ",
+    "images": [
+      {
+        "url": "/upload/iblock/d9b/d9b49a39e6963be6277bc2fd749ac1a6.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/a3f/a3f8b56294e2f0856e632f49746b4643.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/802/8020914508b27ee8dcaf87d140358d5d.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/a62/a626ee5644990f804a7a613cf522ce7e.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/72d/72df5ad2cfbdfa521d39748585db555f.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/bc4/bc4723f1398bc56bdf6c117e146c068b.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      },
+      {
+        "url": "/upload/iblock/79a/79abfc1fd5f8f3cc3071af0b286e6dce.jpg",
+        "alt": "Телефон сотовый OPPO A31 Mystery Black"
+      }
+    ]
+  }
+}

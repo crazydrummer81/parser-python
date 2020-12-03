@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-sony-mdr-as-600-bt-orange/",
+  "product_category": {
+    "name": "SONY",
+    "url": "/section/sony-h1r/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Наушники",
+    "Беспроводные",
+    "SONY"
+  ],
+  "product_name": "Наушники SONY MDR AS 600 BT (orange)",
+  "product_code": "37081",
+  "product_price": {
+    "full": 23990,
+    "discounted": 16990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/2a/2a9e7a77-2921-11e5-9a0e-2c768a5d3551.jpeg",
+    "alt": "Наушники SONY MDR AS 600 BT (orange)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/2a/2a9e7a77-2921-11e5-9a0e-2c768a5d3551.jpeg",
+      "alt": "Наушники SONY MDR AS 600 BT (orange)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "внутриканальные (вакуумные)",
+      "Диапазон воспроизводимых частот, Гц": "20 - 20000"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "оранжевый",
+      "Вес в упаковке (брутто), кг": "0.16",
+      "Габариты в упаковке (ВхШхГ), см": "15х9х7"
+    },
+    "Разное": {
+      "Бренд": "SONY",
+      "Гарантия": "1 год"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

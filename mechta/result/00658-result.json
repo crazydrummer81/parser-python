@@ -1,0 +1,42 @@
+{
+  "source_url": "https://www.mechta.kz/product/zashchitnaya-plenka-dlya-displeya-coverme-samsung-galaxy-a50-steklo-3d/",
+  "product_category": {
+    "name": "CoverMe",
+    "url": "/section/coverme/",
+    "parent_name": "Защитные плёнки",
+    "parent_url": "/section/zashchitnye-plenki/"
+  },
+  "product_name": "Защитная пленка для дисплея CoverMe Samsung Galaxy A50 стекло 3D",
+  "product_code": "00171",
+  "product_price": {
+    "full": 1990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/db/db132934-100f-11ea-a22b-005056b6dbd7.jpeg",
+    "alt": "Защитная пленка для дисплея CoverMe Samsung Galaxy A50 стекло 3D"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/db/db132934-100f-11ea-a22b-005056b6dbd7.jpeg",
+      "alt": "Защитная пленка для дисплея CoverMe Samsung Galaxy A50 стекло 3D"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Для телефонов": "Samsung",
+      "Для моделей": "Galaxy A50"
+    },
+    "Цвет, размеры и вес": {
+      "Вес в упаковке (брутто), кг": "0.02"
+    },
+    "Разное": {
+      "Бренд": "CoverMe",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

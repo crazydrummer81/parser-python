@@ -1,0 +1,76 @@
+{
+  "source_url": "https://www.mechta.kz/product/blyutuz-garnitura-plantronics-explorer500r/",
+  "product_category": {
+    "name": "PLANTRONICS",
+    "url": "/section/plantronics/",
+    "parent_name": "Беспроводные гарнитуры  Bluetooth",
+    "parent_url": "/section/besprovodnye-garnitury-bluetooth/"
+  },
+  "product_category_chain": [
+    "Смартфоны и гаджеты",
+    "Аксессуары для смартфонов",
+    "Гарнитуры",
+    "Беспроводные гарнитуры  Bluetooth",
+    "PLANTRONICS"
+  ],
+  "product_name": "Блютуз гарнитура PLANTRONICS Explorer500/R",
+  "product_code": "41886",
+  "product_price": {
+    "full": 21990,
+    "discounted": 0
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/18/18b2a2aa-4d69-11e6-9405-2c768a5d3551.jpeg",
+    "alt": "Блютуз гарнитура PLANTRONICS Explorer500/R"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/18/18b2a2aa-4d69-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer500/R"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/18/18b2a2ab-4d69-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer500/R"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/18/18b2a2ac-4d69-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer500/R"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/18/18b2a2ad-4d69-11e6-9405-2c768a5d3551.jpeg",
+      "alt": "Блютуз гарнитура PLANTRONICS Explorer500/R"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Радиус действия в помещении, м": "10"
+    },
+    "Типы передачи данных": {
+      "Bluetooth": "4.1"
+    },
+    "Питание": {
+      "Время в режиме ожидания, ч": "288",
+      "Время в режиме разговора, ч": "7",
+      "Тип аккумулятора": "Li-lon (литий-ионный)"
+    },
+    "Функции": {
+      "Голосовой набор": "есть",
+      "Ожидание/удержание вызова": "есть",
+      "Ответить/закончить разговор": "есть",
+      "Повтор последнего номера": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "черный",
+      "Вес без упаковки (нетто), кг": "0.07"
+    },
+    "Разное": {
+      "Бренд": "PLANTRONICS",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}

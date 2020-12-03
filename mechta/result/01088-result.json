@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.mechta.kz/product/naushniki-jbl-everest-v310-bt-silver/",
+  "product_category": {
+    "name": "JBL",
+    "url": "/section/jbl-wdw/",
+    "parent_name": "Беспроводные",
+    "parent_url": "/section/besprovodnye/"
+  },
+  "product_name": "Наушники JBL Everest V310 BT (silver)",
+  "product_code": "78717",
+  "product_price": {
+    "full": 54990,
+    "discounted": 46990
+  },
+  "main_image": {
+    "url": "/export/1cbitrix/import_files/84/84184110-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+    "alt": "Наушники JBL Everest V310 BT (silver)"
+  },
+  "additional_images": [
+    {
+      "url": "/export/1cbitrix/import_files/84/84184110-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest V310 BT (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184111-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest V310 BT (silver)"
+    },
+    {
+      "url": "/export/1cbitrix/import_files/84/84184112-fdbf-11e8-a21b-005056b6dbd7.jpeg",
+      "alt": "Наушники JBL Everest V310 BT (silver)"
+    }
+  ],
+  "product_params": {
+    "Основные характеристики": {
+      "Тип наушников": "полноразмерные",
+      "Тип подключения": "беспроводной (bluetooth)",
+      "Длина кабеля, м": "1.2",
+      "Штекер": "3.5 мм (mini-jack)",
+      "Диапазон воспроизводимых частот, Гц": "10 - 22000",
+      "Чувствительность наушников, дБ/В": "96"
+    },
+    "Звук": {
+      "Микрофон": "есть"
+    },
+    "Цвет, размеры и вес": {
+      "Цвет": "серебристый",
+      "Вес без упаковки (нетто), кг": "0.23",
+      "Вес в упаковке (брутто), кг": "0.8"
+    },
+    "Разное": {
+      "Бренд": "JBL",
+      "Гарантия": "1 год",
+      "Страна производитель": "Китай"
+    }
+  },
+  "product_description": {
+    "content": "",
+    "images": []
+  }
+}
