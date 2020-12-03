@@ -287,8 +287,8 @@ if __name__ == '__main__':
 
 	result_file_path = 'result.json'
 	result_folder = 'result-' + current_time + '/'
-	start_index = 500
-	end_index = 1000
+	start_index = 0
+	end_index = 180
 	try:
 		mkdir(result_folder)
 	except:
@@ -299,6 +299,7 @@ if __name__ == '__main__':
 		if counter < start_index: continue
 		if counter > end_index: break
 		parser = Client(url.strip(), result_folder + f'{counter:05d}' + '-' + result_file_path)
+		sleep(2)
 		print(f'{counter:05d}')
 		print(url)
 		if (parser.run()): count3d += 1
