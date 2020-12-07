@@ -15,11 +15,19 @@ import requests
 import bs4
 from selenium import webdriver
 # chomedriver_path = 'D:\Distr\Coding\Parsing\geckodriver.exe'
-firefox_profile = webdriver.FirefoxProfile()
-firefox_profile.set_preference('permissions.default.image', 2)
-firefox_profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'false')
-driver = webdriver.Firefox(firefox_profile=firefox_profile)
-# driver = webdriver.Firefox()
+
+# получаем список имен скачанных файлов
+dl_files_list = listdir('./download/')
+# вытаскиваем от туда артикулы
+dl_sku_list = [re.search(r'арт_(.*?)\.zip',item).group(1) for item in dl_files_list]
+print('ITEMS: %s' % len(dl_sku_list))
+
+if not False:
+	firefox_profile = webdriver.FirefoxProfile()
+	firefox_profile.set_preference('permissions.default.image', 2)
+	firefox_profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'false')
+	driver = webdriver.Firefox(firefox_profile=firefox_profile)
+	# driver = webdriver.Firefox()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('wb')
@@ -220,32 +228,28 @@ class Client:
 				print(e)
 
 if __name__ == '__main__':
-	# получаем список имен скачанных файлов
-	dl_files_list = listdir('./download')
-	print(dl_files_list)
-	exit()
-
 
 	# Берем json из файла и загоняем в словарь
-	user_login = 'mamirov3d+dg-home.ru@gmail.com'
+	user_login = 'mamirov3d+dg-home.ru-001@gmail.com'
 	user_psw = 'xbQI7240'
 	source_file_path = 'product-pages-urls.json'
 	with open(source_file_path, 'r', encoding='utf-8') as f:
 		pages = json.load(f)
 	# print(pages)
 
-	# Логинимся по первой ссылке
-	driver.get(pages[0])
-	login_button = driver.find_element_by_css_selector("a.sing_in")
-	login_button.click()
-	input_login = driver.find_element_by_css_selector("input[name=USER_LOGIN]")
-	input_login.send_keys(user_login)
-	input_psw = driver.find_element_by_css_selector("input[name=USER_PASSWORD]")
-	input_psw.send_keys(user_psw)
-	form = driver.find_element_by_css_selector("form.popup-form.popup-form-login")
-	form.submit()
-	print('Login to site and enter something to continue: ')
-	a123 = input()
+	if not False:
+		# Логинимся по первой ссылке
+		driver.get(pages[0])
+		login_button = driver.find_element_by_css_selector("a.sing_in")
+		login_button.click()
+		input_login = driver.find_element_by_css_selector("input[name=USER_LOGIN]")
+		input_login.send_keys(user_login)
+		input_psw = driver.find_element_by_css_selector("input[name=USER_PASSWORD]")
+		input_psw.send_keys(user_psw)
+		form = driver.find_element_by_css_selector("form.popup-form.popup-form-login")
+		form.submit()
+		print('Login to site and enter something to continue: ')
+		a123 = input()
 
 	# вытаскиваем ссылки на продукты со страниц массива
 	if False:
@@ -282,22 +286,43 @@ if __name__ == '__main__':
 					print(e)
 
 	result_file_path = 'result.json'
-	result_folder = 'result-' + current_time + '/'
+	# result_folder = 'result-' + current_time + '/'
+	result_folder = 'result-final/'
 	start_index = 0
-	end_index = 180
+	end_index = 2000
+	max_clicks = 130
 	try:
 		mkdir(result_folder)
 	except:
 		print('FODER EXISTS')
 
+	count_allready_dl = 0
 	count3d = 0
 	for counter, url in enumerate(pages):
 		if counter < start_index: continue
 		if counter > end_index: break
-		parser = Client(url.strip(), result_folder + f'{counter:05d}' + '-' + result_file_path)
+
+		#todo СВЕРИТЬ JSON-ФАЙЛ И СКАЧАНЫЕ ФАЙЛЫ, ЕСЛИ ФАЙЛ СКАЧАН, ПРОПУСКЕМ
+		target_filename = result_folder + f'{counter:05d}' + '-' + result_file_path
+		try:
+			with open(target_filename, 'r', encoding='utf-8') as f:
+				product = json.load(f)
+			print(product['product_code'])
+			if f and (product['product_code'] in dl_sku_list): 
+				count_allready_dl += 1
+				print('3D-модель продукта %s скачана.\nСкачано %s моделей.' % (product['product_code'], count_allready_dl))
+				continue
+		except:
+			print ('Файла %s не существует пока' % target_filename)
+		
+
+		parser = Client(url.strip(), target_filename)
 		sleep(2)
-		print(f'{counter:05d}')
+		print(f'---> {counter:05d} <---')
 		print(url)
 		if (parser.run()): count3d += 1
 		print('CLICKED: %s' % count3d)
-		time.sleep(0.1)
+		if count3d > max_clicks:
+			print('Прокликано %s ссылок. Пока остановимся...' % max_clicks)
+			break
+		sleep(0.1)
