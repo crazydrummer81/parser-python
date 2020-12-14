@@ -19,7 +19,7 @@ from selenium import webdriver
 # получаем список имен скачанных файлов
 dl_files_list = listdir('./download/')
 # вытаскиваем от туда артикулы
-dl_sku_list = [re.search(r'арт_(.*?)\.zip',item).group(1) for item in dl_files_list]
+dl_sku_list = [re.search(r'арт_(.*?)\.zip',item).group(1).strip() for item in dl_files_list]
 print('ITEMS: %s' % len(dl_sku_list))
 
 if not False:
@@ -88,7 +88,7 @@ class Client:
 
 		chain = []
 		for item in category_tree:
-			name = re.sub(r'[^a-zA-Zа-яА-Я]+', '', item.text)
+			name = re.sub(r'[^a-zA-Zа-яА-Я ]+', '', item.text).strip()
 			url = item.get_attribute('href')
 			chain.append({'name' : name, 'url': url})
 		self.ParseResult['product_category_chain'] = chain
@@ -153,7 +153,7 @@ class Client:
 
 	# Парсинг свойств товара
 	def parse_params(self):
-		product_characteristics = []
+		product_characteristics = {}
 		descr_tabs_nodes = driver.find_elements_by_css_selector('.desc-tabs--content')
 		for tab_node in descr_tabs_nodes:
 			# Находим из всех вкладок ту, для которй есть название "Характеристики"
@@ -165,7 +165,7 @@ class Client:
 					key = prop_node.find_element_by_css_selector('.chars-item--field').get_attribute('innerText').strip()
 					key = re.sub(r'\s*:', '', key)
 					value = prop_node.find_element_by_css_selector('.chars-item--right').get_attribute('innerText').strip()
-					product_characteristics.append({key: value})
+					product_characteristics[key] = value
 
 		self.ParseResult['product_characteristics'] = product_characteristics
 
@@ -183,6 +183,7 @@ class Client:
 	
 		images_img = re.findall(r'<img.*src\s*=\s*[\"\'](.*?)[\"\']', descr_html)
 		images_bg = re.findall(r'url\([\'\"\ ]?(.*?)[\'\"\ ]?\)', descr_html)
+		descr_html = re.sub(r'\s+', ' ', descr_html).strip() #! Не тестировал
 		images_arr = images_bg + images_img
 		images = []
 		for image in images_arr:
@@ -230,7 +231,7 @@ class Client:
 if __name__ == '__main__':
 
 	# Берем json из файла и загоняем в словарь
-	user_login = 'mamirov3d+dg-home.ru-001@gmail.com'
+	user_login = 'mamirov3d+dg-home.ru-003@gmail.com'
 	user_psw = 'xbQI7240'
 	source_file_path = 'product-pages-urls.json'
 	with open(source_file_path, 'r', encoding='utf-8') as f:
@@ -288,9 +289,9 @@ if __name__ == '__main__':
 	result_file_path = 'result.json'
 	# result_folder = 'result-' + current_time + '/'
 	result_folder = 'result-final/'
-	start_index = 0
+	start_index = 1503
 	end_index = 2000
-	max_clicks = 130
+	max_clicks = 2000
 	try:
 		mkdir(result_folder)
 	except:
