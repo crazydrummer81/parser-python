@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -52,7 +52,7 @@
     "Количество ножек": "Одна",
     "Вид наполнения": "Поролон"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nКресло Swan Chair классическая форма созданная Арне Якобсеном в 1958 г. не теряет актуальности и сейчас. Элегантность форм и удобство - вот отличительная черта этой модели ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Кресло Swan Chair классическая форма созданная Арне Якобсеном в 1958 г. не теряет актуальности и сейчас. Элегантность форм и удобство - вот отличительная черта этой модели",
   "product_preview_text": "",
   "product_code": "177998",
   "product_detail_text_images": []

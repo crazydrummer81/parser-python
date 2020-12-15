@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -60,7 +60,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Четыре"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nБлагодаря стильному и лаконичному дизайну у него есть все шансы стать незаменимым помощником во время трапез за семейным обеденным столом. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Благодаря стильному и лаконичному дизайну у него есть все шансы стать незаменимым помощником во время трапез за семейным обеденным столом.",
   "product_preview_text": "",
   "product_code": "050100",
   "product_detail_text_images": []

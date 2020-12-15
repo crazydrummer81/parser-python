@@ -2628,3 +2628,31 @@ JavaScript error: , line 0: uncaught exception: out of memory
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1607921875498	geckodriver	INFO	Listening on 127.0.0.1:50461
+1607921876043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mansu\\AppData\\Local\\Temp\\rust_mozprofilecozb99"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607921879039	Marionette	INFO	Listening on port 50466
+1607921879216	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607921972510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:80266
+ajax@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:77118
+w._evalUrl@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:78210
+Re@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:47286
+append@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:48574
+html/<@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:49666
+z@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:31766
+html@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:49344
+w.fn.load/<@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:82678
+u@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:27457
+fireWith@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:28202
+k@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:77651
+n/<@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:79907

@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -29,8 +29,8 @@
     "/pic/159260/kreslo_julius_chair__3__big.jpg",
     "/pic/159260/kreslo_julius_chair__4__big.jpg",
     "/pic/159260/kreslo_julius_chair__5__big.jpg",
-    "/upload/iblock/f36/kreslo_julius_chair.jpg",
-    "/upload/resize_cache/iblock/2f4/1300_1300_1/kreslo_julius.jpg"
+    "/upload/resize_cache/iblock/2f4/1300_1300_1/kreslo_julius.jpg",
+    "/upload/iblock/f36/kreslo_julius_chair.jpg"
   ],
   "product_characteristics": {
     "Бренд": "DG-HOME",
@@ -55,7 +55,7 @@
     "Вид подлокотников": "с подлокотниками, мягкие",
     "Крутящееся сиденье": "Нет"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nДля приятного отдыха в уютной комнате идеально подойдет мягкое и комфортное кресло. Правильно подобранное кресло не только станет местом расслабления или досуга, но и дополнит собой интерьерное решение.\n<br>Элегантное кресло с локоничным дизайном и изящными ножками непременно полюбится всем. Металлические ножки придают креслу легкий, парящий вид. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Для приятного отдыха в уютной комнате идеально подойдет мягкое и комфортное кресло. Правильно подобранное кресло не только станет местом расслабления или досуга, но и дополнит собой интерьерное решение. <br>Элегантное кресло с локоничным дизайном и изящными ножками непременно полюбится всем. Металлические ножки придают креслу легкий, парящий вид.",
   "product_preview_text": "",
   "product_code": "DG-258718",
   "product_detail_text_images": []

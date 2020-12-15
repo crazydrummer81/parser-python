@@ -28,12 +28,14 @@ for i, filename in enumerate(files):
 		with open(source_folder+filename, 'r', encoding='utf-8') as fs:
 			source_dict = json.load(fs)
 		props = source_dict['product_characteristics']
-		fixed_props = {}
-		for prop in props:
-			key = [key for key in prop.keys()][0]
-			value = prop[key]
-			fixed_props[key] = value
-		source_dict['product_characteristics'] = fixed_props
+		if type(props) is not dict:
+			fixed_props = {}
+			for prop in props:
+				# if i == 16: print(prop)
+				key = [key for key in prop.keys()][0]
+				value = prop[key]
+				fixed_props[key] = value
+				source_dict['product_characteristics'] = fixed_props
 		with open(result_folder+filename, 'w', encoding='utf-8') as ft:
 			json.dump(source_dict, ft, indent=2, sort_keys=False, ensure_ascii=False)
 

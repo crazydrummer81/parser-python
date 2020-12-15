@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://dg-home.ru/catalog/stulya/"
     },
     {
-      "name": "Барныестулья",
+      "name": "Барные стулья",
       "url": "https://dg-home.ru/catalog/barnye_stulya/"
     }
   ],
@@ -64,7 +64,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Четыре"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nБарный стул Marais Color 2 — олицетворение винтажного стиля, его грациозные линии создают ощущение легкости и невесомости. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Барный стул Marais Color 2 — олицетворение винтажного стиля, его грациозные линии создают ощущение легкости и невесомости.",
   "product_preview_text": "",
   "product_code": "051440",
   "product_detail_text_images": []

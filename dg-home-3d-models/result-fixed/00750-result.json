@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -62,7 +62,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Четыре"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nСтул Return — роскошный вариант для любого современного и стильного офиса. Он подходит для тех, кто внимателен к своему имиджу и не хочет упасть в грязь лицом. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Return — роскошный вариант для любого современного и стильного офиса. Он подходит для тех, кто внимателен к своему имиджу и не хочет упасть в грязь лицом.",
   "product_preview_text": "",
   "product_code": "049949",
   "product_detail_text_images": []

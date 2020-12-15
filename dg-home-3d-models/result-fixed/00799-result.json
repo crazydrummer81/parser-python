@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -62,7 +62,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Четыре"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nСтул Civil — это простой дизайн и комфорт, стиль и изящество элитного дерева. Этот стул будет прекрасно смотреться не только в офисе или кабинете, но и отлично впишется в интерьер вашей квартиры. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Civil — это простой дизайн и комфорт, стиль и изящество элитного дерева. Этот стул будет прекрасно смотреться не только в офисе или кабинете, но и отлично впишется в интерьер вашей квартиры.",
   "product_preview_text": "",
   "product_code": "050130",
   "product_detail_text_images": []

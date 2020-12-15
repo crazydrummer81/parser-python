@@ -10,6 +10,7 @@ from os import listdir
 # import cssutils
 from datetime import datetime
 from time import sleep
+from translit import transliterate
 
 import requests
 import bs4

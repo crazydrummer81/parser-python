@@ -6,6 +6,7 @@ from time import sleep
 # from dicttoxml import dicttoxml
 from datetime import datetime
 import re
+from translit import transliterate
 
 now = datetime.now()
 current_time = now.strftime("%y%m%d-%H%M%S")
@@ -25,7 +26,7 @@ if not os.path.isdir(result_folder):
 	os.mkdir(result_folder)
 
 files = os.listdir(source_folder)
-limit = 10000
+limit = 21
 
 prop_keys = [
 	'Бренд',
@@ -85,10 +86,10 @@ for i, filename in enumerate(files):
 			else:
 				model_url = ''
 
-			if len(source_dict['product_category_chain']) >= 5:
-				last_cat = source_dict['product_category_chain'][len(source_dict['product_category_chain'])-1]['name']
-			else:
-				last_cat = ''
+			# if len(source_dict['product_category_chain']) >= 6:
+			# 	last_cat = source_dict['product_category_chain'][len(source_dict['product_category_chain'])-1]['name']
+			# else:
+			# 	last_cat = ''
 
 			target_dict = {
 				"IE_XML_ID" : '"%s"' % source_dict['product_code'],
@@ -96,27 +97,53 @@ for i, filename in enumerate(files):
 				"3D_MODEL": model_url,
 				# "URL": source_dict['source_url'].replace('https://dg-home.ru/', '/'),
 				"NAME": source_dict['product_name'],
+				"NAME_ALIAS": transliterate(source_dict['product_name']).lower(),
 				"IMAGE": image_prefix + source_dict['pruduct_detail_image'],
 				"PRICE_OLD": "%s" % source_dict['product_price']['old_price'],
 				"PRICE_NEW": "%s" % source_dict['product_price']['new_price'],
-				"IC_GROUP0": source_dict['product_category_chain'][2]['name'],
-				"IC_GROUP1": source_dict['product_category_chain'][3]['name'],
-				# "IC_GROUP2": source_dict['product_category_chain'][4]['name'] if len(source_dict['product_category_chain']) >=4 else '',
-				"IC_GROUP2": last_cat,
-				"MORE_IMAGES": ';'.join([(image_prefix + url) for url in source_dict['additional_images']]),
+				# "IC_GROUUP3": last_cat,
+				# "MORE_IMAGES": ';'.join([(image_prefix + url) for url in source_dict['additional_images']]),
 				"DETAIL_TEXT": re.sub(r'\s+', ' ', source_dict['product_detail_text']).strip() 
 			}
+
+			for i in range(6):
+				# print(i,cat)
+				if i < len(source_dict['product_category_chain']):
+					value = source_dict['product_category_chain'][i]['name'] \
+						.replace('Барныестулья', 'Барные')\
+						.replace('Барные стулья', 'Барные')\
+						.replace('Настенный декор', 'Настенный')\
+						.replace('Объмный декор', 'Объемный')\
+						.replace('Журнальные и кофейные столы', 'Журнальные')\
+						.replace('Обеденные столы', 'Обеденные')\
+						.replace('Рабочие  столы', 'Письменные')\
+						.replace('Полки вешалки крючки', 'Вешалки')
+					target_dict["IC_GROUP%s" % i] = value
+					target_dict["IC_GROUP%s_ALIAS" % i] = transliterate(value).lower()
+					# target_dict["IC_GROUP_3D%s" % i] = value
+				else:
+					target_dict["IC_GROUP%s" % i] = ''
+					target_dict["IC_GROUP%s_ALIAS" % i] = ''
+					# target_dict["IC_GROUP_3D%s" % i] = ''
+
 			for prop in prop_keys:
 				# print (prop)
 				if prop in source_dict['product_characteristics']:
 					target_dict[prop] = source_dict['product_characteristics'][prop]
+					if prop in ['Вес', 'Высота сиденья', 'Высота ножек']:
+						target_dict[prop] = target_dict[prop].replace(' ', '').replace('.', ',').replace('DG-HOME', '')
 				else:
 					target_dict[prop] = ''
-			target_dict['CURRENCY']
-			csv_line_list = [value for value in target_dict.values()]
+			target_dict['CURRENCY'] = 'RUR'
+			target_dict['Бренд'] = target_dict['Бренд'].replace('DG-HOME', '')
+
+			
 			# print(csv_line_list)
-			csv_line = delimiter.join(csv_line_list)
-			result_csv += csv_line + '\n'
+			for img in source_dict['additional_images']:
+				target_dict['MORE_IMAGES'] = image_prefix + img
+				csv_line_list = [value for value in target_dict.values()]
+				csv_line = delimiter.join(csv_line_list)
+				result_csv += csv_line + '\n'
 			
 csv_headers = '^'.join(target_dict.keys())
 result_filename = 'dg-home-3d-%s.csv' % current_time

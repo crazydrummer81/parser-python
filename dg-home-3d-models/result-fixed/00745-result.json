@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -58,7 +58,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Четыре"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nСтул Lounge High — это удобный, простой и одновременно оригинальный и необычный предмет интерьера, который открывает новые возможности виду своей универсальности. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Lounge High — это удобный, простой и одновременно оригинальный и необычный предмет интерьера, который открывает новые возможности виду своей универсальности.",
   "product_preview_text": "",
   "product_code": "050157",
   "product_detail_text_images": []

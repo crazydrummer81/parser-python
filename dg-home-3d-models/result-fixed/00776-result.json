@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -65,7 +65,7 @@
     "Крутящееся сиденье": "Да",
     "Количество ножек": "Одна"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nСвои основные идеи финн Ээро Сааринен черпал в аскетичном подходе к дизайну, воплощая их в наиболее эффективных конструкционных решениях. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Свои основные идеи финн Ээро Сааринен черпал в аскетичном подходе к дизайну, воплощая их в наиболее эффективных конструкционных решениях.",
   "product_preview_text": "",
   "product_code": "050173",
   "product_detail_text_images": []

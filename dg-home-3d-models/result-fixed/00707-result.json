@@ -6,7 +6,7 @@
       "url": "https://dg-home.ru/"
     },
     {
-      "name": "КаталогDGHome",
+      "name": "Каталог DGHome",
       "url": "https://dg-home.ru/catalog/"
     },
     {
@@ -64,7 +64,7 @@
     "Крутящееся сиденье": "Нет",
     "Количество ножек": "Одна"
   },
-  "product_detail_text": "\n<header class=\"desc-tabs--content-title tablet-only\"> Описание</header>\nСтул Tulip белый с бежевой подушкой&nbsp;&nbsp;- уникальный дизайн, качественные материалы, удобство и стиль. Этот предмет интерьера покорит любого и станет прекрасным дополнением в ваш дом. Ещё больше выбор в нашем разделе Стулья на сайте dg-home.ru. ",
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Tulip белый с бежевой подушкой&nbsp;&nbsp;- уникальный дизайн, качественные материалы, удобство и стиль. Этот предмет интерьера покорит любого и станет прекрасным дополнением в ваш дом. Ещё больше выбор в нашем разделе Стулья на сайте dg-home.ru.",
   "product_preview_text": "",
   "product_code": "094010",
   "product_detail_text_images": []
