@@ -2656,3 +2656,14 @@ u@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?15637750128692
 fireWith@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:28202
 k@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:77651
 n/<@https://dg-home.ru/bitrix/js/dghome/jquery3/jquery-3.3.1.min.js?156377501286926:2:79907
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1608035876247	Marionette	INFO	Stopped listening on port 50466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
