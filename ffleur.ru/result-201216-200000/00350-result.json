@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "БРОВИ",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК И БРОВЕЙ",
+      "url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/"
+    }
+  ],
+  "name": "Тени для век и бровей Eyebrow 2 in 1, цвет №2",
+  "id": "427",
+  "price": {
+    "new_price": 0,
+    "old_price": 180
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/90a/90a43cd6f7e8c657ec272258b69d0646.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4,5 г",
+      "Артикул": "EB 01",
+      "Цвет теней Eyebrow 2 in 1": "№2"
+    }
+  },
+  "detail_text": "<p> Нежная бархатистая текстура матовых теней в сочетании с аппликаторами разной формы аккуратно и естественно подкорректируют форму бровей, а также помогут создать легкую вуаль цвета на веках. Содержат витамин Е. </p> <br>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/233/36_36_1/233dfdc5a3f229505380dfb6b174fdaf.jpg",
+  "accessories_ids": [
+    "417",
+    "408",
+    "120"
+  ],
+  "related_ids": [
+    "698",
+    "431"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/teni_dlya_vek_i_brovey_eyebrow_2_in_1.html"
+}

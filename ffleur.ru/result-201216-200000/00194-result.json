@@ -1,0 +1,42 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "АКСЕССУАРЫ",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "АППЛИКАТОРЫ",
+      "url": "http://ffleur.ru/catalog/aksessuary/applikatory/"
+    }
+  ],
+  "name": "Набор аппликаторов Clean AP820",
+  "id": "522",
+  "price": {
+    "new_price": 0,
+    "old_price": 90
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/72e/1200_1200_140cd750bba9870f18aada2478b24840a/72e16f5afd72181fa9eed3ee29b7be82.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/bb8/bb85890c4520f70014a9bc257d7a04c7.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Артикул": "AP820"
+    }
+  },
+  "detail_text": "<p> Набор включает аппликаторы разной формы, что помогает точно и аккуратно создать безупречный макияж любой сложности. Особенность упаковки позволяет легко комбинировать количество и виды аппликаторов, сохраняя их гигиеничность. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/applikatory/nabor_applikatorov_clean_AP820.html"
+}

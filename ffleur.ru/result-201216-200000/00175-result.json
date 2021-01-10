@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "CС Cream Complex Correct, тон №2",
+  "id": "559",
+  "price": {
+    "new_price": 0,
+    "old_price": 225
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/ff8/ff8512db8669036641f72b6b4ef701ab.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "30 мл",
+      "Артикул": "СС26",
+      "Тон CС Cream Complex Correct": "№2"
+    }
+  },
+  "detail_text": "<p> СС крем имеет легкую текстуру, ровно ложится, корректирует тон кожи. При этом лицо становится более свежим, а поры и мелкие морщины – практически незаметными. </p> <p> Применение СС крема поможет вам добиться по-настоящему безупречного мейкапа, одновременно обеспечивая уход за нежной кожей лица и шеи. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>ВЫРАВНИВАЕТ ТОН </li>\n\t<li>УВЛАЖНЯЕТ И ОСВЕЖАЕТ </li>\n\t<li>УХОД ЗА КОЖЕЙ</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/uf/176/17630dc6cb7908013ccf5afdc198a38e.jpg",
+  "accessories_ids": [
+    "139",
+    "120"
+  ],
+  "related_ids": [
+    "184",
+    "555"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/cs_cream_complex_correct.html"
+}

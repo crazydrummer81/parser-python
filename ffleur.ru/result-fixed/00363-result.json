@@ -1,0 +1,50 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Брови",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "Тушь для бровей",
+      "url": "http://ffleur.ru/catalog/brovi/tush_dlya_brovey/"
+    }
+  ],
+  "name": "Моделирующая тушь и карандаш для бровей Brow Sculpt Mascara & Pencil Art, BME17 Medium",
+  "id": "686",
+  "price": {
+    "new_price": 0,
+    "old_price": 200,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/f31/1200_1200_140cd750bba9870f18aada2478b24840a/f31abe9fe5b4c8f4c17ab4a54d0c249a.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "2.4 мл, 0.35 г",
+      "Артикул": "BME 17",
+      "Цвет туши для бровей Brow Sculpt Mascara & Pencil Art": "Medium"
+    }
+  },
+  "detail_text": "<p> Это многофункциональное средство. Карандаш имеет специальную треугольную форму для прорисовки изгиба бровей. Мягкая текстура обеспечивает естественный цвет. </p> <p> Тушь позволяет корректировать и стилизовать форму бровей, обеспечивает макияжу стойкость и фиксацию. Тушь можно использовать соло или поверх карандаша для бровей – для усиления эффекта и более насыщенного макияжа. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/612/36_36_1/61221c6a8c48c1fc14e21ce8f62098ef.jpg",
+  "accessories_ids": [],
+  "related_ids": [],
+  "source_url": "http://ffleur.ru/catalog/brovi/tush_dlya_brovey/modeliruyushchaya_tush_i_karandash_dlya_brovey_brow_sculpt_mascara_pencil_art_BME17.html",
+  "name_base": "Моделирующая тушь и карандаш для бровей Brow Sculpt Mascara & Pencil Art",
+  "code": "BME 17 - Medium",
+  "oc_product_id": 411,
+  "images_path": "brovi/tush-dlja-brovei/686",
+  "additional_images_filenames": [],
+  "detail_image_filename": "686-Modeliruusczaja-tush-i-karandash-dlja-brovei-Brow-Sculpt-Mascara--Pencil-Art-BME17-Medium-1.jpg",
+  "variant_image_filename": "686-Cvet-tushi-dlja-brovei-Brow-Sculpt-Mascara--Pencil-Art-Medium.jpg"
+}

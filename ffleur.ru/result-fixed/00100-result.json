@@ -1,0 +1,61 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Пудра и тональные средства",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра компактная Super Stay, тон №6",
+  "id": "134",
+  "price": {
+    "new_price": 0,
+    "old_price": 130,
+    "kzt": 750
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/bf4/1200_1200_140cd750bba9870f18aada2478b24840a/bf49d3ef0fb3462d3b5c5e530de91556.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/c00/1200_1200_140cd750bba9870f18aada2478b24840a/c00f9ab8e88195f6d1db47e40de2c0d0.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "РР88",
+      "Тон пудры Super Stay": "№6"
+    }
+  },
+  "detail_text": "<p> Благодаря невесомой текстуре пудра идеально ложится на кожу и делает ее естественно однородной и матовой. Нежная, словно шелк, пудра преображает тон кожи, оставаясь совершенно незаметной. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Выравнивает тон</li>\n\t<li>Бархатная кожа</li>\n\t<li>Сияющий цвет лица</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/f3f/36_36_1/f3f53e1e1dca17ff20f96e0022fdc0b6.jpg",
+  "accessories_ids": [
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "154",
+    "167"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_kompaktnaya_super_stay.html",
+  "name_base": "Пудра компактная Super Stay",
+  "code": "РР88 - №6",
+  "oc_product_id": 148,
+  "images_path": "lico/pudra-i-tonalnye-sredstva/134",
+  "additional_images_filenames": [
+    "134-Pudra-kompaktnaja-Super-Stay-ton-No6-2.jpg"
+  ],
+  "detail_image_filename": "134-Pudra-kompaktnaja-Super-Stay-ton-No6-1.jpg",
+  "variant_image_filename": "134-Ton-pudry-Super-Stay-No6.jpg"
+}

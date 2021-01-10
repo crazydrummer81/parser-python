@@ -1,0 +1,50 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра Compact Face Base, тон №1",
+  "id": "539",
+  "price": {
+    "new_price": 0,
+    "old_price": 90
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/9b0/9b03904be2cf2fb252e375cae203c240.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/e0b/e0b01bc0ab6d8063f1d9187872546c39.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "PP638",
+      "Тон пудры Compact Face Base": "№1"
+    }
+  },
+  "detail_text": "<p> Имеет высокую стойкость и выраженный матирующий эффект, маскирует проблемные места. </p> <p> Благодаря мелкому помолу и однородной структуре пудра ложится тонко, выглядит естественно и экономно расходуется. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/uf/d16/d16ad67fbe5739efb0bc2ca1f06856e6.jpg",
+  "accessories_ids": [
+    "559",
+    "555",
+    "184"
+  ],
+  "related_ids": [
+    "134"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_compact_face_base.html"
+}

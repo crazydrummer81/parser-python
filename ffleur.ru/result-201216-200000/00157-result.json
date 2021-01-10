@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "УХОД",
+      "url": "http://ffleur.ru/catalog/litso/ukhod/"
+    }
+  ],
+  "name": "Праймер для лица Rimer Plus Hydrating",
+  "id": "533",
+  "price": {
+    "new_price": 0,
+    "old_price": 250
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/8ff/1200_1200_140cd750bba9870f18aada2478b24840a/8ff4c4b43560184e7aa235dd630414c3.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "75 мл",
+      "Артикул": "PR98"
+    }
+  },
+  "detail_text": "<p> Праймер, содержащий Алое Вера и экстракт огурца, усиливает способность кожи удерживать влагу. Увлажняет без жирного блеска. Экстракт зеленого чая снимает раздражение, увеличивает эластичность кожи. </p> <p> Встряхните бутылку 10 секунд и распылите немного праймера на лицо, чтобы подготовить кожу к нанесению макияжа, мгновенно освежить цвет лицо или придать коже естественное сияние. Использовать до нанесения макияжа. </p> <p> <b>Предупреждение:</b> избегать попадания в глаза. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "563",
+    "559",
+    "555",
+    "534"
+  ],
+  "related_ids": [
+    "532"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/ukhod/praymer_dlya_litsa_rimer_plus_hydrating.html"
+}

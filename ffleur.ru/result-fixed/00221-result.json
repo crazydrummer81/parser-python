@@ -1,0 +1,54 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Губы",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "Бальзам для губ",
+      "url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/"
+    }
+  ],
+  "name": "Бальзам для губ My Kiss, LB62 вкус Watermelon",
+  "id": "592",
+  "price": {
+    "new_price": 0,
+    "old_price": 90,
+    "kzt": 580
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/a83/a836f1bfca080b53e64a15b24c75e875.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "LB62",
+      "Вкус": "Watermelon"
+    }
+  },
+  "detail_text": "<p> Увлажняющий уход для губ. Отлично защищает от обветривания и способствует быстрому восстановлению. Его нежная, комфортная текстура быстро наносится и прекрасно впитывается в кожу. Бальзам удобен для ежедневного применения. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "602",
+    "386",
+    "597"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/balzam_dlya_gub_my_kiss.html",
+  "name_base": "Бальзам для губ My Kiss",
+  "code": "LB62 - Watermelon",
+  "oc_product_id": 269,
+  "images_path": "guby/balzam-dlja-gub/592",
+  "additional_images_filenames": [],
+  "detail_image_filename": "592-Balzam-dlja-gub-My-Kiss-LB62-vkus-Watermelon-1.jpg"
+}

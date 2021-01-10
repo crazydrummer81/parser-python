@@ -1,0 +1,60 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Glitter Quad, цвет №2",
+  "id": "650",
+  "price": {
+    "new_price": 0,
+    "old_price": 330,
+    "kzt": 1890
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/d52/d52f905b0d187cdad2c677f69360eed4.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5.2 г",
+      "Артикул": "E494",
+      "Цвет": "№2"
+    }
+  },
+  "detail_text": "<p> Эффектные тени с сочным глиттерным блеском имеют невесомую текстуру. Можно смешивать цвета и создавать новые. Легкое нанесение и высокая стойкость позволяют оставаться в форме весь день. Создай свой яркий образ! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/d52/36_36_1/d52f905b0d187cdad2c677f69360eed4.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "671",
+    "630",
+    "438",
+    "644",
+    "668",
+    "442",
+    "663",
+    "453"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_glitter_quad.html",
+  "name_base": "Тени для век Glitter Quad",
+  "code": "E494 - №2",
+  "oc_product_id": 374,
+  "images_path": "glaza/teni-dlja-vek/650",
+  "additional_images_filenames": [],
+  "detail_image_filename": "650-Teni-dlja-vek-Glitter-Quad-cvet-No2-1.jpg",
+  "variant_image_filename": "650-Cvet-No2.jpg"
+}

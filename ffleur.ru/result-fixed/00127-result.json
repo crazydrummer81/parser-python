@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Пудра и тональные средства",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра Loving Care Foundation, PP612 тон №10",
+  "id": "167",
+  "price": {
+    "new_price": 0,
+    "old_price": 195,
+    "kzt": 1010
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/c60/1200_1200_140cd750bba9870f18aada2478b24840a/c60b6ca183ded1229d18c0c66855bd03.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/111/1200_1200_140cd750bba9870f18aada2478b24840a/111cb1ee30d2f531676ab45e0ad94f86.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/bf6/1200_1200_140cd750bba9870f18aada2478b24840a/bf6ad6f6981c21c328e8a0bddd19ec5b.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "11,7 г",
+      "Артикул": "PP-612",
+      "Тон пудры Loving Care Foundation": "№10"
+    }
+  },
+  "detail_text": "<p> Пудра дает ровный, матовый финиш, при этом позволяя коже дышать. Аргановое масло борется с возрастными изменениями, у него сильные увлажняющие, питательные и регенерирующие функции. Кофеин повышает упругость кожи, улучшает микроциркуляцию в тканях. UV фильтр защищает от вредного воздействия солнечных лучей. Легкая шелковистая текстура пудры маскирует мелкие несовершенства, оставаясь совершенно незаметной! </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Маскирует несовершенства</li>\n\t<li>Не закупоривает поры</li>\n\t<li>Шелковистая текстура</li>\n\t<li>Естественный тон</li>\n\t<li>Матовый финиш</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/2ff/36_36_1/2ff862ee17c8d54752be26e767ff2423.jpg",
+  "accessories_ids": [
+    "276",
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "134",
+    "154"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_loving_care_foundation_PP612.html",
+  "name_base": "Пудра Loving Care Foundation",
+  "code": "PP-612 - №10",
+  "oc_product_id": 175,
+  "images_path": "lico/pudra-i-tonalnye-sredstva/167",
+  "additional_images_filenames": [
+    "167-Pudra-Loving-Care-Foundation-PP612-ton-No10-2.jpg",
+    "167-Pudra-Loving-Care-Foundation-PP612-ton-No10-3.jpg"
+  ],
+  "detail_image_filename": "167-Pudra-Loving-Care-Foundation-PP612-ton-No10-1.jpg",
+  "variant_image_filename": "167-Ton-pudry-Loving-Care-Foundation-No10.jpg"
+}

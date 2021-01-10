@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Color Planchet, цвет №4",
+  "id": "668",
+  "price": {
+    "new_price": 0,
+    "old_price": 190
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/a8a/a8ac363f637c49d65bb99df114c15a3b.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "7.2 г",
+      "Артикул": "EP123",
+      "Цвет": "№4"
+    }
+  },
+  "detail_text": "<p> В палитру входят 12 незаменимых нейтральных оттенков, которые несомненно подойдут Вам. Тени содержат эмоленты и витамин Е для мягкого нанесения, легко поддаются растушевке и хорошо сочетаются. </p> <p> Минеральная слюда придает естественный шиммер. Удобно брать с собой. Не бойтесь экспериментировать! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/a8a/36_36_1/a8ac363f637c49d65bb99df114c15a3b.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "497",
+    "672",
+    "671",
+    "637",
+    "630",
+    "438",
+    "625",
+    "492"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_color_planchet.html"
+}

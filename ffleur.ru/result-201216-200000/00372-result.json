@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "АКСЕССУАРЫ",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "КИСТЬ ДЛЯ МАКИЯЖА",
+      "url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/"
+    }
+  ],
+  "name": "Набор профессиональных кистей для макияжа в тубе 6 шт Elegant BF106",
+  "id": "702",
+  "price": {
+    "new_price": 0,
+    "old_price": 800
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/155/155c719cceb0992a34e582c357e8a0cb.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/fa6/fa6a2c0f784b1327b9dfe1a84f9311f8.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Артикул": "BF106"
+    }
+  },
+  "detail_text": "<p> Элегантный набор кистей для точного профессионального нанесения макияжа и экономичного расхода косметических продуктов. Кисти и косметичка изготовлены из качественных материалов, набивка ворса плотная. </p> <p> Набор включает: </p> <ul> <li>кисть для пудры и румян</li> <li>кисть для жидких тональных средств</li> <li>кисть для нанесения помады</li> <li>кисть для нанесения консилера</li> <li>кисть для оформления и расчесывания бровей</li> <li>кисть для нанесения теней </li> </ul> <p> Кисти не вызывают раздражение и аллергию. Прекрасно моются и быстро сохнут.<br> Набор хорош для небольшого подарка! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "559",
+    "555",
+    "448",
+    "438",
+    "184"
+  ],
+  "related_ids": [
+    "701",
+    "700"
+  ],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/nabor_kistey_dlya_makiyazha_elegant.html"
+}

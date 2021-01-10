@@ -1,0 +1,56 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Хайлайтер Highlighting Powder, тон №2",
+  "id": "543",
+  "price": {
+    "new_price": 0,
+    "old_price": 140,
+    "kzt": 810
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/509/509b34e2465da2b0a44a3115c145df86.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "PP44",
+      "Тон хайлайтера Highlighting Powder": "№2"
+    }
+  },
+  "detail_text": "<p> Пудра, с эффектом хайлайтера, благодаря светоотражающим частицам дает неяркий блеск, максимально приближенный к естественному сиянию здоровой и молодой кожи. </p> <p> Легкая и деликатная, ее можно нанести на все лицо как основу или только на выступающие черты лица. Осветляет кожу можно использовать в повседневном макияже. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/uf/6bb/6bb90673d81080662f10edd0c357d545.jpg",
+  "accessories_ids": [
+    "559",
+    "532"
+  ],
+  "related_ids": [
+    "563"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/khaylayter_highlighting_powder.html",
+  "name_base": "Хайлайтер Highlighting Powder",
+  "code": "PP44 - №2",
+  "oc_product_id": 213,
+  "images_path": "lico/rumjana-i-hailaitery/543",
+  "additional_images_filenames": [],
+  "detail_image_filename": "543-Hailaiter-Highlighting-Powder-ton-No2-1.jpg",
+  "variant_image_filename": "543-Ton-hailaitera-Highlighting-Powder-No2.jpg"
+}

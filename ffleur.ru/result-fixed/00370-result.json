@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Аксессуары",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "Кисть для макияжа",
+      "url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/"
+    }
+  ],
+  "name": "Кисть для макияжа BF101",
+  "id": "700",
+  "price": {
+    "new_price": 0,
+    "old_price": 190,
+    "kzt": 1090
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/02e/02eb24f71aa7d7774e6c18aeb6362ced.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Артикул": "BF101"
+    }
+  },
+  "detail_text": "<p> Большая плотная круглая кисть из мягкого синтетического ворса обеспечивает гладкое и равномерное нанесение всех видов пудр.&nbsp; </p> <p> Обмакните кисть в контейнер с пудрой и стряхните излишки. Сначала нанесите средство на центр лба, затем на скулы, подбородок, легко пройдитесь кистью с пудрой по носу и щекам. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "702",
+    "701",
+    "521"
+  ],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/kist_dlya_makiyazha_BF101.html",
+  "name_base": "Кисть для макияжа BF101",
+  "code": "BF101",
+  "oc_product_id": 418,
+  "images_path": "aksessuary/kist-dlja-makijazha/700",
+  "additional_images_filenames": [],
+  "detail_image_filename": "700-Kist-dlja-makijazha-BF101-1.jpg"
+}

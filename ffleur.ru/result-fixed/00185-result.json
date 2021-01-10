@@ -1,0 +1,65 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна Natural Glow, тон №1",
+  "id": "713",
+  "price": {
+    "new_price": 0,
+    "old_price": 140,
+    "kzt": 810
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/18f/1200_1200_140cd750bba9870f18aada2478b24840a/18f1cf09d1e9d8f7cee328cb8e46b930.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/f0e/1200_1200_140cd750bba9870f18aada2478b24840a/f0efaa9caa8474aca048c2fe1cb7bed7.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/36b/1200_1200_140cd750bba9870f18aada2478b24840a/36b25b68ad60b9976798a8089f80f849.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "4.5 г",
+      "Артикул": "В926",
+      "Тон румян Natural Glow": "№1"
+    }
+  },
+  "detail_text": "<p> Румяна легко наносятся и прекрасно растушевываются. Позволяют освежить цвет лица , а также изящно подчеркнуть скулы. </p> <p> Витамин Е увлажняет кожу и способствует выработке коллагена. Подходят для всех типов кожи и экономично расходуются. Кисть в комплекте. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/5f2/36_36_1/5f2f52f53b803af3b9e881d7a8fa8dc1.jpg",
+  "accessories_ids": [
+    "671",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "460",
+    "467",
+    "570"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_natural_glow.html",
+  "name_base": "Румяна Natural Glow",
+  "code": "В926 - №1",
+  "oc_product_id": 233,
+  "images_path": "lico/rumjana-i-hailaitery/713",
+  "additional_images_filenames": [
+    "713-Rumjana-Natural-Glow-ton-No1-2.jpg",
+    "713-Rumjana-Natural-Glow-ton-No1-3.jpg"
+  ],
+  "detail_image_filename": "713-Rumjana-Natural-Glow-ton-No1-1.jpg",
+  "variant_image_filename": "713-Ton-rumjan-Natural-Glow-No1.jpg"
+}

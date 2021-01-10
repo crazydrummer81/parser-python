@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "BB Cream Face Control, тон №2",
+  "id": "555",
+  "price": {
+    "new_price": 0,
+    "old_price": 140
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/b60/b6046bf1178c5781c0b7c23de4145492.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "30 мл",
+      "Артикул": "ВВ33",
+      "Тон BB Cream Face Control": "№2"
+    }
+  },
+  "detail_text": "<p> Текстура у ВВ крема легкая, нежная. Интенсивное увлажнение и активное питание кожи, красивое сияние и безупречный тон. Словом, он сделает все для того, чтобы лицо выглядело восхитительно свежим. </p> <p> Он заметно выравнивает кожу, маскирует проблемные моменты и деликатно подсвечивает лицо. Защищает от вредного воздействия ультрафиолета. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>БЕЗУПРЕЧНЫЙ ТОН</li>\n\t<li>УВЛАЖНЯЕТ И ОСВЕЖАЕТ</li>\n\t<li>МАСКИРУЕТ И ВЫРАВНИВАЕТ</li>\n\t<li>БЕЗ ТАЛЬКА И ПАРАБЕНОВ</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/uf/e6c/e6cd11441187bd3016f2d101e158d351.jpg",
+  "accessories_ids": [
+    "139",
+    "120"
+  ],
+  "related_ids": [
+    "559",
+    "184"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/bb_cream_face_control.html"
+}

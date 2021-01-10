@@ -1,0 +1,45 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "БРОВИ",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "КАРАНДАШ ДЛЯ БРОВЕЙ",
+      "url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/"
+    }
+  ],
+  "name": "Карандаш для микроблейдинга бровей Tatoo Brow Microblading Ink Pen, Blond",
+  "id": "690",
+  "price": {
+    "new_price": 0,
+    "old_price": 150
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/865/865436c9bcf630e4f81d80c0c1ef9011.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "0.8 г",
+      "Артикул": "BR143",
+      "Цвет карандаша Tatoo Brow Microblading Ink Pen": "Blond"
+    }
+  },
+  "detail_text": "<p> Создавай превосходные брови за несколько секунд каждый день! Особенный микро-вилковый заостренный аппликатор создает форму бровей ровными, точными штрихами. Брови выглядят натуральными, наполненными, ухоженными. </p> <p> Наносить, начиная от широкой части, заполняя короткими штрихами к излёту бровей, придавая желаемую форму. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d13/36_36_1/d13bd11179fc66a72ceb52a64afaba47.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "694"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/karandash_dlya_mikrobleydinga_brovey_tatoo_brow_microblading_ink_pen.html"
+}

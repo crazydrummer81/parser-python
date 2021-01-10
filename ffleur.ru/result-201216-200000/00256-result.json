@@ -1,0 +1,59 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени-фольга Metal Foil, цвет №1",
+  "id": "438",
+  "price": {
+    "new_price": 0,
+    "old_price": 185
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/081/1200_1200_140cd750bba9870f18aada2478b24840a/081eadbaa442f7de84ed24eec1656ca1.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/18e/1200_1200_140cd750bba9870f18aada2478b24840a/18ee913942752873eadd78bd51e2bddc.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/8f2/1200_1200_140cd750bba9870f18aada2478b24840a/8f2cda11c3437711a7e5c488ba410bad.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "1,3 г",
+      "Артикул": "EMF01",
+      "Цвет теней Metal Foil": "№1"
+    }
+  },
+  "detail_text": "<p> Тени с эффектом фольги – металлическое сияние усиливается в разы. Нежная текстура позволяет растушевывать цвет, регулируя плотность или прозрачность. Оставляет на коже мягкое сияние. Можно комбинировать несколько оттенков или носить по отдельности. Легко наносятся спонжем или пальцем на все веко, внутренние уголки глаз, в качестве подводки. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Многомерный металлический блеск</li>\n\t<li>Ультра пигментированный</li>\n\t<li>Подстраивается под кожу</li>\n\t<li>Длительная стойкость </li>\n\t<li>Легкое нанесение</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d9c/36_36_1/d9c15566082793c28d0e324daa66edb4.jpg",
+  "accessories_ids": [
+    "448",
+    "417",
+    "409"
+  ],
+  "related_ids": [
+    "671",
+    "644",
+    "453",
+    "497",
+    "647",
+    "637",
+    "487",
+    "650"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_folga_metal_foil.html"
+}

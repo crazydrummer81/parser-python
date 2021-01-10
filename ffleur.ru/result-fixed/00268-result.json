@@ -1,0 +1,68 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Color Bar Palette, цвет №4",
+  "id": "448",
+  "price": {
+    "new_price": 0,
+    "old_price": 230,
+    "kzt": 1320
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/49e/1200_1200_140cd750bba9870f18aada2478b24840a/49eb649ae6e4547021475d5dcb76bcdc.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/432/1200_1200_140cd750bba9870f18aada2478b24840a/4321d801ddd0c26df0c7c893e1e6f2c3.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "30 г",
+      "Артикул": "EP 12",
+      "Цвет": "№4"
+    }
+  },
+  "detail_text": "<p> Импровизируй, комбинируй и создавай новый образ с палеткой теней COLOR BAR. 12 тонов с разными эффектами: необходимые базовые оттенки из нейтральной гаммы, сияющие светлые как хайлайтеры, мерцающие и блестящие для любого настроения – всегда под рукой! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/49e/36_36_1/49eb649ae6e4547021475d5dcb76bcdc.jpg",
+  "accessories_ids": [
+    "410",
+    "408",
+    "276"
+  ],
+  "related_ids": [
+    "647",
+    "625",
+    "453",
+    "438",
+    "663",
+    "492",
+    "630",
+    "668"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_color_bar_palette.html",
+  "name_base": "Тени для век Color Bar Palette",
+  "code": "EP 12 - №4",
+  "oc_product_id": 316,
+  "images_path": "glaza/teni-dlja-vek/448",
+  "additional_images_filenames": [
+    "448-Teni-dlja-vek-Color-Bar-Palette-cvet-No4-2.jpg"
+  ],
+  "detail_image_filename": "448-Teni-dlja-vek-Color-Bar-Palette-cvet-No4-1.jpg",
+  "variant_image_filename": "448-Cvet-No4.jpg"
+}

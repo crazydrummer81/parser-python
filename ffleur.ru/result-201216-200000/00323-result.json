@@ -1,0 +1,54 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Procolor, цвет №1",
+  "id": "647",
+  "price": {
+    "new_price": 0,
+    "old_price": 400
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/c22/c224347c027285847b857b90f675a920.png",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/527/52748f3a3798aeaae4e8b2ef2a1b4818.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "14.8 г",
+      "Артикул": "E312",
+      "Цвет": "№1"
+    }
+  },
+  "detail_text": "<p> Набор для создания макияжа любой сложности. 12 модных оттенков (от натуральных теплых до холодных), вариация текстур (от матовых до ультрамерцающих). </p> <p> Легко наносятся, а их высокая стойкость гарантирует сохранение макияжа в течение всего дня. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/c22/36_36_1/c224347c027285847b857b90f675a920.png",
+  "accessories_ids": [],
+  "related_ids": [
+    "487",
+    "625",
+    "650",
+    "644",
+    "630",
+    "663",
+    "671",
+    "497"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_procolor.html"
+}

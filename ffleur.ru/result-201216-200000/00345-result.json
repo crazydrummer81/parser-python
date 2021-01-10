@@ -1,0 +1,53 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Burgundy Blast",
+  "id": "672",
+  "price": {
+    "new_price": 0,
+    "old_price": 400
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/f03/f0306d12fe0ace6413811536293e7f69.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/383/3834328bb8112dafacd4a65b495a07cf.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "15.3 г",
+      "Артикул": "E359"
+    }
+  },
+  "detail_text": "<p> Палитра BURGUNDY BLAST содержит 4 матовых и 5 шиммерных тонов от персикового и коричневого до глубокого бордового. Пигментированная формула теней легко растушевывается и хорошо наносится на веко. </p> <p> Тени – веганские. В палетке есть все необходимое для создание сезонного макияжа глаз. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "625",
+    "671",
+    "668",
+    "497",
+    "637",
+    "650",
+    "663",
+    "644"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_burgundy_blast.html"
+}

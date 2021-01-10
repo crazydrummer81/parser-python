@@ -1,0 +1,47 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "БРОВИ",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК И БРОВЕЙ",
+      "url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/"
+    }
+  ],
+  "name": "Тени для век и бровей Trio, №2",
+  "id": "431",
+  "price": {
+    "new_price": 0,
+    "old_price": 190
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/c7e/1200_1200_140cd750bba9870f18aada2478b24840a/c7e7743588a5a479ad46b1c776927334.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/0b1/1200_1200_140cd750bba9870f18aada2478b24840a/0b16a7c4fbf3407352fab581c8b3f5a1.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "EB 06",
+      "Цвет теней Trio": "№2"
+    }
+  },
+  "detail_text": "<p> Матовые тени легко наносятся и хорошо растушевываются. В состав теней входят натуральные масла и воски, которые обеспечивают деликатный уход за кожей век и бровей. Индивидуальная упаковка. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/1c5/36_36_1/1c5fbb811f92c50de27c5039fee268a9.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "698",
+    "427"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/teni_dlya_vek_i_brovey_trio.html"
+}

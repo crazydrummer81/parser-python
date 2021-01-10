@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ПОДВОДКА ДЛЯ ГЛАЗ",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Color Line, E518 цвет Silver",
+  "id": "410",
+  "price": {
+    "new_price": 0,
+    "old_price": 240
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/6e5/1200_1200_140cd750bba9870f18aada2478b24840a/6e5b269a9cb663e550c1b8d0c3289c63.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5,1мл",
+      "Артикул": "E 518",
+      "Цвет подводки": "Silver"
+    }
+  },
+  "detail_text": "<p> Цветные стрелки – классика креативного макияжа! Подводка легко наносится и быстро высыхает, хорошо прокрашивая межресничные зоны. С инновационной формулой цвета и защитой от влаги макияж будет держаться весь день! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d67/36_36_1/d67bc2ffe085d3429577472d48760630.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "188"
+  ],
+  "related_ids": [
+    "409",
+    "417",
+    "408"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_color_line_E518.html"
+}

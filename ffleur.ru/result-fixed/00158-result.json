@@ -1,0 +1,58 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Уход",
+      "url": "http://ffleur.ru/catalog/litso/ukhod/"
+    }
+  ],
+  "name": "Фиксатор макияжа Fix Make-Up",
+  "id": "534",
+  "price": {
+    "new_price": 0,
+    "old_price": 250,
+    "kzt": 1430
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/5e4/5e4cdfdc859590ea4e3a839cb398c9ef.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "75 мл",
+      "Артикул": "FIX86"
+    }
+  },
+  "detail_text": "<p> Фиксатор макияжа сделает вашу кожу безупречной, сияющей и свежей на протяжении всего дня! Он наполнен увлажняющими, заряжающими энергией и фиксирующими ингредиентами, которые увеличивают стойкость макияжа и увлажняют кожу. </p> <p> Встряхните бутылку 10 секунд и нанесите фиксатор на лицо в качестве финального этапа. </p> <p> <b>Предупреждение:</b> избегать попадания в глаза. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "563",
+    "559",
+    "555",
+    "533"
+  ],
+  "related_ids": [
+    "104",
+    "533",
+    "532"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/ukhod/fiksator_makiyazha_fix_make_up.html",
+  "name_base": "Фиксатор макияжа Fix Make-Up",
+  "code": "FIX86",
+  "oc_product_id": 206,
+  "images_path": "lico/uhod/534",
+  "additional_images_filenames": [],
+  "detail_image_filename": "534-Fiksator-makijazha-Fix-Make-Up-1.jpg"
+}

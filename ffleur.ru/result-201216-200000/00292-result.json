@@ -1,0 +1,54 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "КАРАНДАШИ",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век и бровей Powder, цвет Blond Brown",
+  "id": "516",
+  "price": {
+    "new_price": 0,
+    "old_price": 60
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/7e4/1200_1200_140cd750bba9870f18aada2478b24840a/7e4477da93e56ba35ed0b13c3d600834.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/260/1200_1200_140cd750bba9870f18aada2478b24840a/260218cde3f077fb8750432fe297bc1d.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "0,5 г",
+      "Артикул": "ES 412",
+      "Цвет карандаша": "Blond Brown"
+    }
+  },
+  "detail_text": "<p> Особенная пудровая текстура обеспечивает мягкое нанесение. Оригинальная форма грифеля позволяет придать бровям идеальную форму. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/0b4/36_36_1/0b4eb06837683edd7806206e10000380.jpg",
+  "accessories_ids": [
+    "448",
+    "431",
+    "276"
+  ],
+  "related_ids": [
+    "681",
+    "520",
+    "509",
+    "510"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_i_brovey_powder.html"
+}

@@ -1,0 +1,54 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра Puff Foundation, тон №1",
+  "id": "154",
+  "price": {
+    "new_price": 0,
+    "old_price": 265
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/123/1200_1200_140cd750bba9870f18aada2478b24840a/1233ddd7d246aeb6123798536cb14527.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/199/1200_1200_140cd750bba9870f18aada2478b24840a/19961eb5ea0f4b63428aab945e960931.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/15b/1200_1200_140cd750bba9870f18aada2478b24840a/15b9bc7f512171c53d33cf235bf5007c.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/5f0/1200_1200_140cd750bba9870f18aada2478b24840a/5f0ea6f94c3e3b9aaad951e9f60120b7.jpg",
+    "http://ffleur.ru/upload/iblock/a3e/a3ed009ab7e776fef2aefb3de43cdc8c.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "11,7 г",
+      "Артикул": "PP-624",
+      "Тон пудры Puff Foundation": "№1"
+    }
+  },
+  "detail_text": "<p> Воздушная текстура пудры не закупоривает поры и позволяет коже дышать. Масло ши и витамин Е, входящие в состав, улучшают тургор кожи, разглаживают морщинки и освежают цвет лица. </p> <p> Создает бархатистый, безупречный цвет лица на весь день! </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Матовый финиш</li>\n\t<li>Позволяет коже дышать</li>\n\t<li>Масло ши + витамин E</li>\n\t<li>Безупречный цвет лица</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/1ac/36_36_1/1ac4c1c84055a9deb0102706dd9b86a3.jpg",
+  "accessories_ids": [
+    "276",
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "167",
+    "134"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_puff_foundation.html"
+}

@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Effective Look, цвет №1",
+  "id": "671",
+  "price": {
+    "new_price": 0,
+    "old_price": 400,
+    "kzt": 2290
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/98d/98db51398636494b640d8d25bb7cbd33.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/f6b/f6b84d7f87ba2aefd1247fb7da033f39.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10.24 г",
+      "Артикул": "EP188",
+      "Цвет": "№1"
+    }
+  },
+  "detail_text": "<p> Универсальная палетка для макияжа глаз должна быть у каждой! Она поможет быстро создать эффектный образ. Ультракремовая текстура легко ложится на веко и многократно усиливает яркость и цвет. С этими тенями макияж глаз выглядит просто невероятно! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/98d/36_36_1/98db51398636494b640d8d25bb7cbd33.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "630",
+    "625",
+    "663",
+    "647",
+    "668",
+    "448",
+    "438",
+    "644"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_effective_look.html",
+  "name_base": "Тени для век Effective Look",
+  "code": "EP188 - №1",
+  "oc_product_id": 391,
+  "images_path": "glaza/teni-dlja-vek/671",
+  "additional_images_filenames": [
+    "671-Teni-dlja-vek-Effective-Look-cvet-No1-2.jpg"
+  ],
+  "detail_image_filename": "671-Teni-dlja-vek-Effective-Look-cvet-No1-1.jpg",
+  "variant_image_filename": "671-Cvet-No1.jpg"
+}

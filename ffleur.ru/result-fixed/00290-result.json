@@ -1,0 +1,66 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Карандаши",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век и бровей Powder, цвет Black",
+  "id": "516",
+  "price": {
+    "new_price": 0,
+    "old_price": 60,
+    "kzt": 360
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/0e9/0e98fa9e58b29f3b5334faa2b303863e.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/e5c/1200_1200_140cd750bba9870f18aada2478b24840a/e5c6f99ba910d4c90d5d3bf1b7f324cf.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/fdd/1200_1200_140cd750bba9870f18aada2478b24840a/fdd00df4f783d57460fe9dc51e3a8ea8.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "0,5 г",
+      "Артикул": "ES 412",
+      "Цвет карандаша": "Black"
+    }
+  },
+  "detail_text": "<p> Особенная пудровая текстура обеспечивает мягкое нанесение. Оригинальная форма грифеля позволяет придать бровям идеальную форму. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/33d/36_36_1/33d2191629c3c35c73ae1a400bd3545b.jpg",
+  "accessories_ids": [
+    "448",
+    "431",
+    "276"
+  ],
+  "related_ids": [
+    "681",
+    "520",
+    "509",
+    "510"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_i_brovey_powder.html",
+  "name_base": "Карандаш для век и бровей Powder",
+  "code": "ES 412 - Black",
+  "oc_product_id": 338,
+  "images_path": "glaza/karandashi/516",
+  "additional_images_filenames": [
+    "516-Karandash-dlja-vek-i-brovei-Powder-cvet-Black-2.jpg",
+    "516-Karandash-dlja-vek-i-brovei-Powder-cvet-Black-3.jpg"
+  ],
+  "detail_image_filename": "516-Karandash-dlja-vek-i-brovei-Powder-cvet-Black-1.jpg",
+  "variant_image_filename": "516-Cvet-karandasha-Black.jpg"
+}

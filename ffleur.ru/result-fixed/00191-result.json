@@ -1,0 +1,62 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Подводка для глаз",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Deep Eyeliner E10D",
+  "id": "408",
+  "price": {
+    "new_price": 0,
+    "old_price": 240,
+    "kzt": 1120
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/960/1200_1200_140cd750bba9870f18aada2478b24840a/96099e0d429d39f13e6226780bc45dc0.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/449/1200_1200_140cd750bba9870f18aada2478b24840a/449da794d202e4e756bde4fc26f6f309.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "5,1 мл",
+      "Цвет": "Черный",
+      "Артикул": "E 10D"
+    }
+  },
+  "detail_text": "<p> Устойчивая формула и глубокий цвет создают интенсивный и графичный макияж. Эта подводка для глаз идеально наносится благодаря удобной кисточке, устойчива к влаге. Индивидуальная упаковка. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "448",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "410",
+    "417",
+    "409"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_deep_eyeliner_E10D.html",
+  "name_base": "Подводка для глаз Deep Eyeliner E10D",
+  "code": "E 10D",
+  "oc_product_id": 239,
+  "images_path": "glaza/podvodka-dlja-glaz/408",
+  "additional_images_filenames": [
+    "408-Podvodka-dlja-glaz-Deep-Eyeliner-E10D-2.jpg"
+  ],
+  "detail_image_filename": "408-Podvodka-dlja-glaz-Deep-Eyeliner-E10D-1.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна Soft Blush, тон №1",
+  "id": "565",
+  "price": {
+    "new_price": 0,
+    "old_price": 120,
+    "kzt": 690
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/538/5384140b311dfbdab1c6cdecf8f2a1fc.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/e73/e73db6835f20293307fa2a1c6ca5e7b0.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "В819",
+      "Тон румян Soft Blush": "№1"
+    }
+  },
+  "detail_text": "<p> Румяна обладают нежной невесомой текстурой и покрывают кожу шелковистым слоем. Они обеспечивают матовый эффект и хорошую стойкость в течение длительного времени. </p> <p> Наносятся легкими движениями, ложатся естественно, румянец выглядит абсолютно натуральным. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/uf/3be/3be46eca49ac0f4977ce4feb22b1e9d8.jpg",
+  "accessories_ids": [
+    "630",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "467",
+    "570",
+    "713",
+    "460"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_soft_blush.html",
+  "name_base": "Румяна Soft Blush",
+  "code": "В819 - №1",
+  "oc_product_id": 228,
+  "images_path": "lico/rumjana-i-hailaitery/565",
+  "additional_images_filenames": [
+    "565-Rumjana-Soft-Blush-ton-No1-2.jpg"
+  ],
+  "detail_image_filename": "565-Rumjana-Soft-Blush-ton-No1-1.jpg",
+  "variant_image_filename": "565-Ton-rumjan-Soft-Blush-No1.jpg"
+}

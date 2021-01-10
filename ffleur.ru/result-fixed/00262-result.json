@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Soft Breeze Palette, цвет №1",
+  "id": "442",
+  "price": {
+    "new_price": 0,
+    "old_price": 130,
+    "kzt": 750
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/e08/1200_1200_140cd750bba9870f18aada2478b24840a/e08bca67fbd169c4ca9078f17643e25e.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "6,5 г",
+      "Артикул": "EP 06",
+      "Цвет": "№1"
+    }
+  },
+  "detail_text": "<p> Гармонично подобранные оттенки и восхитительное мерцание выгодно подчеркнут женскую красоту. Разнообразие представленных в палетке тонов позволяет экспериментировать со стилями и техниками мейкапа. Шелковистые тени хорошо наносятся, равномерно растушевываются, обеспечивают стойкий безупречный макияж глаз. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/e08/36_36_1/e08bca67fbd169c4ca9078f17643e25e.jpg",
+  "accessories_ids": [
+    "410",
+    "188",
+    "120"
+  ],
+  "related_ids": [
+    "438",
+    "453",
+    "487",
+    "497",
+    "663",
+    "448",
+    "625",
+    "644"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_soft_breeze_palette.html",
+  "name_base": "Тени для век Soft Breeze Palette",
+  "code": "EP 06 - №1",
+  "oc_product_id": 310,
+  "images_path": "glaza/teni-dlja-vek/442",
+  "additional_images_filenames": [],
+  "detail_image_filename": "442-Teni-dlja-vek-Soft-Breeze-Palette-cvet-No1-1.jpg",
+  "variant_image_filename": "442-Cvet-No1.jpg"
+}

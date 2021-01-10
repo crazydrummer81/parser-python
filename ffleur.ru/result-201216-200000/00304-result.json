@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Professional Colors, цвет №2",
+  "id": "625",
+  "price": {
+    "new_price": 0,
+    "old_price": 220
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/6e3/1200_1200_140cd750bba9870f18aada2478b24840a/6e35c8e67a6056e807f9572eb2233bfa.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "8 г",
+      "Артикул": "E119",
+      "Цвет": "№2"
+    }
+  },
+  "detail_text": "<p> Профессиональная палитра тонов для тех, кто любит жить ярко и ценит безупречное качество. Их отличает нежная текстура и великолепная стойкость. Они ровно ложатся и хорошо растушевываются. Содержат увлажняющие компоненты. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/6e3/36_36_1/6e35c8e67a6056e807f9572eb2233bfa.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "672",
+    "644",
+    "497",
+    "663",
+    "448",
+    "438",
+    "487",
+    "492"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_professional_colors.html"
+}

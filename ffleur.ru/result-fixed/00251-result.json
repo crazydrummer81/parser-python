@@ -1,0 +1,59 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Подводка для глаз",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Color Line, E518 цвет Blue",
+  "id": "410",
+  "price": {
+    "new_price": 0,
+    "old_price": 240,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/607/1200_1200_140cd750bba9870f18aada2478b24840a/60704467028d8c8c1584f719ba95e564.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5,1мл",
+      "Артикул": "E 518",
+      "Цвет подводки": "Blue"
+    }
+  },
+  "detail_text": "<p> Цветные стрелки – классика креативного макияжа! Подводка легко наносится и быстро высыхает, хорошо прокрашивая межресничные зоны. С инновационной формулой цвета и защитой от влаги макияж будет держаться весь день! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/1d5/36_36_1/1d5251fba86bafe29377cda0ef73e071.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "188"
+  ],
+  "related_ids": [
+    "409",
+    "417",
+    "408"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_color_line_E518.html",
+  "name_base": "Подводка для глаз Color Line",
+  "code": "E 518 - Blue",
+  "oc_product_id": 299,
+  "images_path": "glaza/podvodka-dlja-glaz/410",
+  "additional_images_filenames": [],
+  "detail_image_filename": "410-Podvodka-dlja-glaz-Color-Line-E518-cvet-Blue-1.jpg",
+  "variant_image_filename": "410-Cvet-podvodki-Blue.jpg"
+}

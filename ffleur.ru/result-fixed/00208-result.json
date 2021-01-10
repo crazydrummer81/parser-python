@@ -1,0 +1,60 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Губы",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "Бальзам для губ",
+      "url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/"
+    }
+  ],
+  "name": "Juicy Lip Balm, LG19 вкус Strawberry",
+  "id": "386",
+  "price": {
+    "new_price": 0,
+    "old_price": 90,
+    "kzt": 530
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/3d6/1200_1200_140cd750bba9870f18aada2478b24840a/3d61f87ab4474cd49e763f5de3e06dc7.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/1e1/1200_1200_140cd750bba9870f18aada2478b24840a/1e1d0770c527320ca8e18ab85cba1019.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/342/1200_1200_140cd750bba9870f18aada2478b24840a/3425f46a02206f8be0dc644581569677.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "3,8 г",
+      "Артикул": "LG 19",
+      "Вкус": "Strawberry"
+    }
+  },
+  "detail_text": "<p> Бальзам заботится о нежной коже губ со вкусом, насыщает ее влагой, препятствует появлению сухости, интенсивно питает и избавляет от шелушений. Он образует идеальное покрытие и нежный блеск. Эффективные увлажняющие компоненты: воск карнауба и масло какао восстанавливают и защищают кожу губ. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "597",
+    "602",
+    "592"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/juicy_lip_balm.html",
+  "name_base": "Juicy Lip Balm",
+  "code": "LG 19 - Strawberry",
+  "oc_product_id": 256,
+  "images_path": "guby/balzam-dlja-gub/386",
+  "additional_images_filenames": [
+    "386-Juicy-Lip-Balm-LG19-vkus-Strawberry-2.jpg",
+    "386-Juicy-Lip-Balm-LG19-vkus-Strawberry-3.jpg"
+  ],
+  "detail_image_filename": "386-Juicy-Lip-Balm-LG19-vkus-Strawberry-1.jpg"
+}

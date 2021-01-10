@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ПОДВОДКА ДЛЯ ГЛАЗ",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Color Line,E518 цвет Purple",
+  "id": "410",
+  "price": {
+    "new_price": 0,
+    "old_price": 240
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/f0c/1200_1200_140cd750bba9870f18aada2478b24840a/f0c4b273ba0d56e9546622f37e5936eb.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5,1мл",
+      "Артикул": "E 518",
+      "Цвет подводки": "Purple"
+    }
+  },
+  "detail_text": "<p> Цветные стрелки – классика креативного макияжа! Подводка легко наносится и быстро высыхает, хорошо прокрашивая межресничные зоны. С инновационной формулой цвета и защитой от влаги макияж будет держаться весь день! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/uf/7ab/7ab98409b929613ee9aab2c5d4aaf7ce.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "188"
+  ],
+  "related_ids": [
+    "409",
+    "417",
+    "408"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_color_line_E518.html"
+}

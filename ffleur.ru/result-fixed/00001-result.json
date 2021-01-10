@@ -1,0 +1,60 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Уход",
+      "url": "http://ffleur.ru/catalog/litso/ukhod/"
+    }
+  ],
+  "name": "Сквалановое масло Squalane Plant Extract",
+  "id": "104",
+  "price": {
+    "new_price": 0,
+    "old_price": 600,
+    "kzt": 6840
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/3d9/3d966fe31f40d7d4b22f5a01f2cde61a.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/266/26629472a8e2f5fcb7d9a4a13b110c62.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Эксклюзив",
+      "Объём/вес нетто (1 шт.)": "30 мл",
+      "Артикул": "SQ88"
+    }
+  },
+  "detail_text": "<div class=\"h3 ff-medium\"> ЛУЧШЕЕ СРЕДСТВО ПРОТИВ СТАРЕНИЯ КОЖИ </div> <p> Натуральное масло для глубокого увлажнения и омоложения вашей кожи. Экстракт сквалана восстанавливает липиды эпидермиса, способствуя тем самым сохранению влаги. Ускоряет регенерацию, стимулирует антиоксидантные процессы. </p> <p> Оливковое масло и масло жожоба повышают эластичность кожи и способствуют разглаживанию мелких морщин. Быстро впитывается в кожу, не оставляя маслянистости. Помогает предотвратить возрастные пятна и УФ повреждения кожи. </p> <p> <b>Способ применения:</b> на очищенную кожу нанести небольшое количество и нежно помассировать. Можно добавить несколько капель в крем для улучшения его действия. </p>",
+  "detail_text_images": [],
+  "preview_text": "<p>\n</p>\n <b>Лучшее средство против старения кожи!</b>\n<p>\n</p>\n<ul>\n\t<li>Омоложение</li>\n\t<li>Восстановление</li>\n\t<li>Глубокое увлажнение</li>\n\t<li>Регенерация кожи</li>\n</ul>",
+  "variant_image": "",
+  "accessories_ids": [
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "533",
+    "532",
+    "534"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/ukhod/skvalanovoe_maslo_squalane_plant_extract.html",
+  "name_base": "Сквалановое масло Squalane Plant Extract",
+  "code": "SQ88",
+  "oc_product_id": 49,
+  "images_path": "lico/uhod/104",
+  "additional_images_filenames": [
+    "104-Skvalanovoe-maslo-Squalane-Plant-Extract-2.jpg"
+  ],
+  "detail_image_filename": "104-Skvalanovoe-maslo-Squalane-Plant-Extract-1.jpg"
+}

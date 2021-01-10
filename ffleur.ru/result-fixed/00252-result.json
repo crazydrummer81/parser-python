@@ -1,0 +1,59 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Подводка для глаз",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Color Line, E518 цвет Dark blue",
+  "id": "410",
+  "price": {
+    "new_price": 0,
+    "old_price": 240,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/a32/1200_1200_140cd750bba9870f18aada2478b24840a/a3238f5e53a2ae63ededf1aed51e326f.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5,1мл",
+      "Артикул": "E 518",
+      "Цвет подводки": "Dark blue"
+    }
+  },
+  "detail_text": "<p> Цветные стрелки – классика креативного макияжа! Подводка легко наносится и быстро высыхает, хорошо прокрашивая межресничные зоны. С инновационной формулой цвета и защитой от влаги макияж будет держаться весь день! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/566/36_36_1/5669fa28a80a11c9f14f0cec28e7a375.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "188"
+  ],
+  "related_ids": [
+    "409",
+    "417",
+    "408"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_color_line_E518.html",
+  "name_base": "Подводка для глаз Color Line",
+  "code": "E 518 - Dark blue",
+  "oc_product_id": 300,
+  "images_path": "glaza/podvodka-dlja-glaz/410",
+  "additional_images_filenames": [],
+  "detail_image_filename": "410-Podvodka-dlja-glaz-Color-Line-E518-cvet-Dark-blue-1.jpg",
+  "variant_image_filename": "410-Cvet-podvodki-Dark-blue.jpg"
+}

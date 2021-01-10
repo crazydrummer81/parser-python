@@ -1,0 +1,59 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век палитра E (Light brown), E155 цвет №139",
+  "id": "487",
+  "price": {
+    "new_price": 0,
+    "old_price": 220,
+    "kzt": 1320
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/a93/1200_1200_140cd750bba9870f18aada2478b24840a/a939a68ece4483687e0f2c26f37cd4c4.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "13,5 г",
+      "Артикул": "E 155",
+      "Палитра теней для век": "№139"
+    }
+  },
+  "detail_text": "<p> Пять гармонично подобранных оттенков. Нежная шелковистая текстура легко наносится и растушевывается с помощью аппликатора до полутонов. Перламутр придает особое сияние. Содержат масла жожоба и масло оливы. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d65/36_36_1/d651db1199d6ff8e2aa7272e1a7b4dd5.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "438",
+    "492",
+    "672",
+    "442",
+    "644",
+    "650",
+    "668",
+    "625"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_palitra_E155_e_light_brown.html",
+  "name_base": "Тени для век палитра E (Light brown)",
+  "code": "E 155 - №139",
+  "oc_product_id": 324,
+  "images_path": "glaza/teni-dlja-vek/487",
+  "additional_images_filenames": [],
+  "detail_image_filename": "487-Teni-dlja-vek-palitra-E-Light-brown-E155-cvet-No139-1.jpg",
+  "variant_image_filename": "487-Palitra-tenei-dlja-vek-No139.jpg"
+}
