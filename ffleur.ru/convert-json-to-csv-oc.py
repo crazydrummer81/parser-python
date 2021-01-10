@@ -25,7 +25,7 @@ if not os.path.isdir(result_folder):
 	os.mkdir(result_folder)
 
 files = os.listdir(source_folder)
-limit = 21000
+limit = 5000
 csv_headers = [
 	'product_id',
 	'name(ru-ru)',
@@ -99,14 +99,24 @@ categories = {
 result_csv = ''
 # image_prefix = '/upload/mh'
 # model_prefix = '/upload/3d_models/'
+img_base_path = 'catalog/'
 product_id = 50 - 2
 additional_images = []
-options = {}
+options = []
 options_db = []
 options_list = []
 option_id = 100 - 1
 option_sort = 10
 option_sort_step = 10
+options_db_values = []
+option_value_id = 376
+options_value_sort = 10
+options_value_sort_step = 10
+previous_pid = ''
+options_last = {}
+product_options_list = []
+product_attributes = []
+
 
 for i, filename in enumerate(files):
 	if i >= limit: break
@@ -185,13 +195,17 @@ for i, filename in enumerate(files):
 			except:
 				product_variant_value = ''
 
+			option_name = product_variant_name + (' ' + source_dict['name_base']\
+				if product_variant_name in ['Цвет', 'Вкус', 'Цвет карандаша', 'Тон румян из набора 2 тона', 'Палитра теней для век'] else '')
 			if product_variant_name:
-				option_name = product_variant_name + (' ' + source_dict['name_base'] if product_variant_name in ['Цвет', 'Вкус'] else '')
 				oc_product_id = str(source_dict['oc_product_id'])
-				if oc_product_id not in list(options.keys()):
-					options[oc_product_id] = []
-				options[oc_product_id].append({
-					'product_id': '%s' % source_dict['oc_product_id'],
+				base_id = oc_product_id if source_dict['id'] != previous_pid else base_id
+				# if oc_product_id not in list(options.keys()):
+				# 	options[oc_product_id] = options_last
+				options.append({
+					# 'product_id': '%s' % source_dict['oc_product_id'],
+					# 'product_id': '%s' % oc_product_id,
+					'product_id': oc_product_id,
 					'option': option_name,
 					'option_value': product_variant_value,
 					'quantity': '1000',
@@ -213,6 +227,36 @@ for i, filename in enumerate(files):
 						'name(ru-ru)': option_name
 					})
 					option_sort += option_sort_step
+					options_value_sort = 10
+				
+				try: variant_image_filename = source_dict['variant_image_filename']
+				except: variant_image_filename = ''
+				options_db_values.append({
+					'option_value_id': f'{option_value_id}',
+					'option_id': f'{option_id}',
+					'image': img_base_path + source_dict['images_path'] + '/' + variant_image_filename,
+					'sort_order': f'{options_value_sort}',
+					'name(ru-ru)': product_variant_value
+				})
+				option_value_id += 1
+				options_value_sort += options_value_sort_step
+
+			if option_name: product_options_list.append({
+				'product_id': f'{product_id}',
+				'option': option_name,
+				'default_option_value': '',
+				'required': 'true'
+			})
+
+			try: product_attributes.append({
+				'product_id': f'{product_id}',
+				'attribute_group': 'Основные',
+				'attribute': 'Объём/вес нетто (1 шт.)',
+				'text(ru-ru)': source_dict['characteristics']['Прочие']['Объём/вес нетто (1 шт.)']
+			})
+			except: pass
+
+			previous_pid = source_dict['id']
 
 if not True:			
 	csv_headers = delimiter.join(target_dict.keys())
@@ -226,14 +270,55 @@ if not True:
 
 if True:
 	options_csv_list = []
-	for pid in list(options.keys()):
-		for option in options[pid]:
-			# print(option)
-			options_csv_list.append(delimiter.join(list(option.values())))
+	product_family = {}
+	last_name = ''
+	pid = options[0]['product_id']
+	product_family[pid] = []
+	i = -1
+	for option in options:
+		if last_name == option['option']:
+			i += 1
+			product_family[pid].append(option)
+		else:
+			for j in range(1, i+1):
+				product_family[str(int(pid)+j)] = product_family[pid]
 
-	result_options_filename = 'ffleur.kz-options-%s.csv' % current_time
+			i = 0
+			pid = option['product_id']
+			product_family[pid] = [option]
+		
+		last_name = option['option']
+		last_id = option['product_id']
+	res = []
+	for fam_id in product_family.keys():
+		for product in product_family[fam_id]:
+			product['product_id'] = fam_id
+			res.append(delimiter.join(product.values()))
+	result_options_filename = 'ffleur.kz-options-values-%s.csv' % current_time
 	with open(result_folder+result_options_filename, 'w', encoding='utf-8') as ft:
-		ft.write('\n'.join(options_csv_list))
+		ft.write('\n'.join(res))
+
+if True:
+	# product_options_dict
+	result_filename = 'ffleur.kz-products-options-%s.csv' % current_time
+	# result_options_db_filename = 'ffleur.kz-options-db.csv'
+	p_options_list = []
+	for option in product_options_list:
+		p_options_list.append( delimiter.join(list(option.values())) )
+
+	with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
+		ft.write('\n'.join(p_options_list))
+
+if True:
+	# product_options_dict
+	result_filename = 'ffleur.kz-products-attributes-%s.csv' % current_time
+	# result_options_db_filename = 'ffleur.kz-options-db.csv'
+	p_attrs_list = []
+	for option in product_attributes:
+		p_attrs_list.append( delimiter.join(list(option.values())) )
+
+	with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
+		ft.write('\n'.join(p_attrs_list))
 
 # print(options_db)
 if True:
@@ -245,3 +330,25 @@ if True:
 
 	with open(result_folder+result_options_db_filename, 'w', encoding='utf-8') as ft:
 		ft.write('\n'.join(options_db_list))
+
+# print(options_db_values)
+if True:
+	result_options_db_values_filename = 'ffleur.kz-options-db-values-%s.csv' % current_time
+	# result_options_db_filename = 'ffleur.kz-options-db.csv'
+	options_db_values_list = []
+	for option_dict in options_db_values:
+		options_db_values_list.append( delimiter.join(list(option_dict.values())) )
+
+	with open(result_folder+result_options_db_values_filename, 'w', encoding='utf-8') as ft:
+		ft.write('\n'.join(options_db_values_list))
+
+# print(options_db_values)
+# if True:
+# 	result_products_options_filename = 'ffleur.kz-options-%s.csv' % current_time
+# 	# result_options_db_filename = 'ffleur.kz-options-db.csv'
+# 	options_db_values_list = []
+# 	for option_dict in options_db_values:
+# 		options_db_values_list.append( delimiter.join(list(option_dict.values())) )
+
+# 	with open(result_folder+result_products_options_filename, 'w', encoding='utf-8') as ft:
+# 		ft.write('\n'.join(options_db_values_list))

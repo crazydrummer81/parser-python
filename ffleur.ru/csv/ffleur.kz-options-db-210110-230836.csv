@@ -9,8 +9,8 @@
 108^select^90^Тон основы
 109^select^100^Тон хайлайтера
 110^select^110^Тон румян Mosaic
-111^select^120^Тон румян из набора 2 тона
-112^select^130^Тон румян из набора 2 тона
+111^select^120^Тон румян из набора 2 тона Румяна набор 2 тона с кистью
+112^select^130^Тон румян из набора 2 тона Румяна набор 2 тона с кистью Natural
 113^select^140^Тон пудры Compact Face Base
 114^select^150^Тон хайлайтера Highlighting Powder
 115^select^160^Тон пудры Matte Compliment
@@ -31,12 +31,12 @@
 130^select^310^Цвет Тени для век Soft Breeze Palette
 131^select^320^Цвет Тени для век Color Bar Palette
 132^select^330^Цвет Тени для век Harmony
-133^select^340^Палитра теней для век
-134^select^350^Палитра теней для век
-135^select^360^Палитра теней для век
-136^select^370^Цвет карандаша
-137^select^380^Цвет карандаша
-138^select^390^Цвет карандаша
+133^select^340^Палитра теней для век Тени для век палитра E (Light brown)
+134^select^350^Палитра теней для век Тени для век палитра F (Blue light)
+135^select^360^Палитра теней для век Тени для век палитра G (Pink violet)
+136^select^370^Цвет карандаша Карандаш для век и бровей с расческой
+137^select^380^Цвет карандаша Карандаш для век и бровей Powder
+138^select^390^Цвет карандаша Карандаш для век автоматический Master Drama Pencil
 139^select^400^Цвет Тени для век Professional Colors
 140^select^410^Цвет Тени для век Glam Look
 141^select^420^Цвет теней Mono
@@ -46,7 +46,7 @@
 145^select^460^Цвет теней Liquid Metal
 146^select^470^Цвет Тени для век Color Planchet
 147^select^480^Цвет Тени для век Effective Look
-148^select^490^Цвет карандаша
+148^select^490^Цвет карандаша Карандаш для век Master Pencil
 149^select^500^Цвет теней Eyebrow 2 in 1
 150^select^510^Цвет теней Trio
 151^select^520^Цвет туши для бровей Brow Sculpt Mascara & Pencil Art
