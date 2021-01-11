@@ -1,0 +1,55 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Карандаши",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век и бровей с расческой, коричневый",
+  "id": "509",
+  "price": {
+    "new_price": 0,
+    "old_price": 60,
+    "kzt": 360
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/7ed/1200_1200_140cd750bba9870f18aada2478b24840a/7edd226d9f68b85dc4796bcf85e6fd8b.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "1,2 г",
+      "Артикул": "7616",
+      "Цвет карандаша": "Brown"
+    }
+  },
+  "detail_text": "<p> Карандаш позволит точно и аккуратно подчеркнуть выразительность глаз, а также подкорректировать форму бровей. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/602/36_36_1/6029e4b18b2466b3027d77c334850e2b.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "520",
+    "516",
+    "510",
+    "681"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_i_brovey_s_rascheskoy.html",
+  "name_base": "Карандаш для век и бровей с расческой",
+  "code": "7616 - Brown",
+  "oc_product_id": 335,
+  "images_path": "glaza/karandashi/509",
+  "additional_images_filenames": [],
+  "detail_image_filename": "509-Karandash-dlja-vek-i-brovei-s-rasczeskoi-koricznevyi-1.jpg",
+  "variant_image_filename": "509-Cvet-karandasha-Brown.jpg"
+}

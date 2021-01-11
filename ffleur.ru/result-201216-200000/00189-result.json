@@ -1,0 +1,54 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "РУМЯНА И ХАЙЛАЙТЕРЫ",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна Natural Glow, тон №5",
+  "id": "713",
+  "price": {
+    "new_price": 0,
+    "old_price": 140
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/1eb/1200_1200_140cd750bba9870f18aada2478b24840a/1eb1081fb255c5d4705121c624346627.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/52f/1200_1200_140cd750bba9870f18aada2478b24840a/52f3ae8b05eb90e8632e57c2c2c900ea.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/9f9/1200_1200_140cd750bba9870f18aada2478b24840a/9f9f50f75f512e8c579c3dad82da8db0.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "4.5 г",
+      "Артикул": "В926",
+      "Тон румян Natural Glow": "№5"
+    }
+  },
+  "detail_text": "<p> Румяна легко наносятся и прекрасно растушевываются. Позволяют освежить цвет лица , а также изящно подчеркнуть скулы. </p> <p> Витамин Е увлажняет кожу и способствует выработке коллагена. Подходят для всех типов кожи и экономично расходуются. Кисть в комплекте. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/2dc/36_36_1/2dc50110b3549980fadb48609fda7764.jpg",
+  "accessories_ids": [
+    "671",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "460",
+    "467",
+    "570"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_natural_glow.html"
+}

@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра воздушная, тон №4",
+  "id": "139",
+  "price": {
+    "new_price": 0,
+    "old_price": 380
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/be5/1200_1200_140cd750bba9870f18aada2478b24840a/be54ac500e928dcf576008a9c6e897b1.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/0c8/1200_1200_140cd750bba9870f18aada2478b24840a/0c8ca7600aa5709a9e6890af0a323af9.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/22f/1200_1200_140cd750bba9870f18aada2478b24840a/22f94c4078d5480e17b4eae751d3c539.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/cda/1200_1200_140cd750bba9870f18aada2478b24840a/cda488882bf15a403cb1cdf7e0c7dfdb.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/a1c/1200_1200_140cd750bba9870f18aada2478b24840a/a1c986c55bba45b12eadfc1362f5db47.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "25 г",
+      "Артикул": "9830",
+      "Тон пудры воздушной": "№4"
+    }
+  },
+  "detail_text": "<p> Рассыпчатая пудра позволяет создать ровное естественное покрытие. Экстракт гамамелиса сужает широкие поры, выравнивая рельеф кожи. Кроме того, он контролирует работу желез сальной секреции, предотвращая излишний жирный блеск. Светоотражающие пигменты создают эффект сияния кожи. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Сужает поры</li>\n\t<li>Выравнивает кожу</li>\n\t<li>Воздушная текстура</li>\n\t<li>Убирает жирный блеск</li>\n\t<li>Эффект сияния кожи</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/709/36_36_1/709816c0e9247f76fe008564cab859e2.jpg",
+  "accessories_ids": [
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "120"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_vozdushnaya_airlight_compact_foundation.html"
+}

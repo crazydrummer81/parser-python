@@ -1,0 +1,48 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Аксессуары",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "Косметичка",
+      "url": "http://ffleur.ru/catalog/aksessuary/kosmetichka/"
+    }
+  ],
+  "name": "Косметичка текстильная CSB01",
+  "id": "699",
+  "price": {
+    "new_price": 0,
+    "old_price": 150,
+    "kzt": 870
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/eb4/eb44eae0dcd90fcded5b17340ab3e8be.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Артикул": "CSB01"
+    }
+  },
+  "detail_text": "<p> Фирменная косметичка в стиле прованс для твоих любимых косметических средств. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/kosmetichka/kosmetichka_tekstilnaya_CSB01.html",
+  "name_base": "Косметичка текстильная CSB01",
+  "code": "CSB01",
+  "oc_product_id": 142,
+  "images_path": "aksessuary/kosmeticzka/699",
+  "additional_images_filenames": [],
+  "detail_image_filename": "699-Kosmeticzka-tekstilnaja-CSB01-1.jpg"
+}

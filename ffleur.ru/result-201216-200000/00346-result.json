@@ -1,0 +1,47 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "КАРАНДАШИ",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век Master Pencil, цвет Black",
+  "id": "681",
+  "price": {
+    "new_price": 0,
+    "old_price": 110
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/ce7/ce73569bf0ec766de0148b2e9d5c932d.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "1.25 г",
+      "Артикул": "ES 539",
+      "Цвет карандаша": "Black"
+    }
+  },
+  "detail_text": "<p> Идеальный карандаш для любого макияжа!Мягкая текстура карандаша позволяет нарисовать классические стрелки одним движением. </p> <p> Спонжиком сделай растушевку в технике smoky eyes, а точилкой легко заточить его. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/33d/36_36_1/33d2191629c3c35c73ae1a400bd3545b.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "509",
+    "510",
+    "520",
+    "516"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_master_pencil.html"
+}

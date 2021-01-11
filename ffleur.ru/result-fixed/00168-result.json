@@ -1,0 +1,62 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Пудра и тональные средства",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра Matte Compliment, тон №3",
+  "id": "548",
+  "price": {
+    "new_price": 0,
+    "old_price": 246,
+    "kzt": 1410
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/a5f/a5f7f7d9a1ac9b9ce7f7f7889aa99f47.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/131/131d6bde7cc1a30b72c92e22184ead7f.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "6 г",
+      "Артикул": "PP35",
+      "Тон пудры Matte Compliment": "№3"
+    }
+  },
+  "detail_text": "<p> Пудра дает ровный, матовый финиш, при этом позволяя коже дышать. </p> <p> Аргановое масло борется с возрастными изменениями, у него сильные увлажняющие, питательные и регенерирующие функции. Кофеин повышает упругость кожи, улучшает микроциркуляцию в тканях. UV фильтр защищает от вредного воздействия солнечных лучей. </p> <p> Легкая шелковистая текстура пудры маскирует мелкие несовершенства, оставаясь совершенно незаметной! </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>МАТОВЫЙ ФИНИШ</li>\n\t<li>УВЛАЖНЕНИЕ</li>\n\t<li>ПИТАНИЕ</li>\n\t<li>ЛЕГКАЯ ТЕКСТУРА</li>\n\t<li>ЕСТЕСТВЕННЫЙ ТОН</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/uf/798/798e844580cda614170d19fb5daca784.jpg",
+  "accessories_ids": [
+    "276",
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "120",
+    "134",
+    "154"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_matte_compliment.html",
+  "name_base": "Пудра Matte Compliment",
+  "code": "PP35 - №3",
+  "oc_product_id": 216,
+  "images_path": "lico/pudra-i-tonalnye-sredstva/548",
+  "additional_images_filenames": [
+    "548-Pudra-Matte-Compliment-ton-No3-2.jpg"
+  ],
+  "detail_image_filename": "548-Pudra-Matte-Compliment-ton-No3-1.jpg",
+  "variant_image_filename": "548-Ton-pudry-Matte-Compliment-No3.jpg"
+}

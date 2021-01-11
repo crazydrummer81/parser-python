@@ -1,0 +1,56 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Губы",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "Помада",
+      "url": "http://ffleur.ru/catalog/guby/pomada/"
+    }
+  ],
+  "name": "Помада «Repair Lip Care» увлажняющая, L248 цвет №4",
+  "id": "283",
+  "price": {
+    "new_price": 0,
+    "old_price": 170,
+    "kzt": 980
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/358/1200_1200_140cd750bba9870f18aada2478b24840a/35891501f69359e65c026f4efacac67e.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "L248",
+      "Цвет помады Repair Lip Care": "№4"
+    }
+  },
+  "detail_text": "Регенерирующая помада с питательными маслами и витаминами! Масло авокадо устраняет сухость и смягчает кожу губ. Масло камелии японской обеспечивает глубокое увлажнение и тонизирует. Масло миндаля и макадамии омолаживает кожу губ и способствует её восстановлению. Чистейшие пигменты обеспечивают великолепный цвет мгновенно!",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Интенсивное увлажнение</li>\n\t<li>Регенерация кожи</li>\n\t<li>Восстановление тонуса</li>\n\t<li>Питание и уход</li>\n\t<li>Чистый цвет</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d16/36_36_1/d163855576b42b53dc149c3efc774bde.jpg",
+  "accessories_ids": [
+    "188",
+    "120",
+    "104"
+  ],
+  "related_ids": [
+    "276"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/pomada/pomada_repair_lip_care_uvlazhnyayushchaya.html",
+  "name_base": "Помада «Repair Lip Care» увлажняющая",
+  "code": "L248 - №4",
+  "oc_product_id": 246,
+  "images_path": "guby/pomada/283",
+  "additional_images_filenames": [],
+  "detail_image_filename": "283-Pomada-Repair-Lip-Care-uvlazhnjausczaja-L248-cvet-No4-1.jpg",
+  "variant_image_filename": "283-Cvet-pomady-Repair-Lip-Care-No4.jpg"
+}

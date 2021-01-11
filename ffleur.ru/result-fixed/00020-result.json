@@ -1,0 +1,61 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Губы",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "Помада",
+      "url": "http://ffleur.ru/catalog/guby/pomada/"
+    }
+  ],
+  "name": "Помада длительного действия «Фруктовый соблазн»,L24 цвет №01 Красная роза/ перл.",
+  "id": "276",
+  "price": {
+    "new_price": 0,
+    "old_price": 220,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/e9d/1200_1200_140cd750bba9870f18aada2478b24840a/e9d8aadd14d1141a137d1c534f06f983.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/1a6/1200_1200_140cd750bba9870f18aada2478b24840a/1a6e2aa89736631a63b7e70ea1f3e69c.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "L24",
+      "Цвет помады L24": "№01 Красная роза/ перл."
+    }
+  },
+  "detail_text": "<p> Входящее в состав аргановое масло, содержащее жирные кислоты омега-6 и омега-9, обладает восстанавливающими свойствами. Повышает упругость и эластичность губ. Сафролоровое масло превосходно защищает губы, смягчает и предохраняет кожу от высыхания. Насыщенная формула помады обеспечивает стойкость и яркий цвет на протяжении всего дня. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Увлажняет </li>\n\t<li>Смягчает губы</li>\n\t<li>Повышает упругость</li>\n\t<li>Восстанавливает кожу губ </li>\n\t<li>Длительное действие</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/a0a/36_36_1/a0a6bb6855c91017fcc26c33740bc33c.jpg",
+  "accessories_ids": [
+    "188",
+    "120",
+    "104"
+  ],
+  "related_ids": [
+    "283"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/pomada/pomada_dlitelnogo_deystviya_fruktovyy_soblazn_L24.html",
+  "name_base": "Помада длительного действия «Фруктовый соблазн»",
+  "code": "L24 - №01 Красная роза/ перл.",
+  "oc_product_id": 68,
+  "images_path": "guby/pomada/276",
+  "additional_images_filenames": [
+    "276-Pomada-dlitelnogo-deistvija-Fruktovyi-soblaznL24-cvet-No01-Krasnaja-roza-perl.-2.jpg"
+  ],
+  "detail_image_filename": "276-Pomada-dlitelnogo-deistvija-Fruktovyi-soblaznL24-cvet-No01-Krasnaja-roza-perl.-1.jpg",
+  "variant_image_filename": "276-Cvet-pomady-L24-No01-Krasnaja-roza-perl..jpg"
+}

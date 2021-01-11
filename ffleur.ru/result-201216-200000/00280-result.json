@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век палитра F (Blue light), E155 цвет №128",
+  "id": "492",
+  "price": {
+    "new_price": 0,
+    "old_price": 220
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/6f3/1200_1200_140cd750bba9870f18aada2478b24840a/6f3830bf7f06a26b4007922acad8d092.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "13,5 г",
+      "Артикул": "E 155",
+      "Палитра теней для век": "№128"
+    }
+  },
+  "detail_text": "<p> Пять гармонично подобранных оттенков. Нежная шелковистая текстура легко наносится и растушевывается с помощью аппликатора до полутонов. Перламутр придает особое сияние. Содержат масла жожоба и масло оливы. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/5da/36_36_1/5dac0260c7ca0025d17bbf68583cf535.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "625",
+    "497",
+    "668",
+    "453",
+    "672",
+    "487",
+    "438",
+    "637"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_palitra_E155_f_blue_light.html"
+}

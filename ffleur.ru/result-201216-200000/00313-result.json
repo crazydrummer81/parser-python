@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Mono, цвет №3",
+  "id": "637",
+  "price": {
+    "new_price": 0,
+    "old_price": 120
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/eb9/1200_1200_140cd750bba9870f18aada2478b24840a/eb9708fadc47ba40bbfe95350f71385e.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "1.8 г",
+      "Артикул": "E233",
+      "Цвет теней Mono": "№3"
+    }
+  },
+  "detail_text": "<p> Текстура теней мягкая, бархатистая, хорошо пигментированная. Они легко наносятся и растушевываются до легкого дымчатого эффекта. Тени не осыпаются, экономично расходуются, делают образ женственным, а взгляд – притягательным и загадочным! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/405/36_36_1/405e76aa57b13880e20958f469d23f35.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "630",
+    "650",
+    "647",
+    "671",
+    "663",
+    "448",
+    "668",
+    "487"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_mono.html"
+}

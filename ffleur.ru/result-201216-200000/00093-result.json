@@ -1,0 +1,47 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "АКСЕССУАРЫ",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "КИСТЬ ДЛЯ МАКИЯЖА",
+      "url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/"
+    }
+  ],
+  "name": "Кисть для макияжа Make Up Master BF317",
+  "id": "521",
+  "price": {
+    "new_price": 0,
+    "old_price": 210
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/28e/28e41e47fc16cd7aa2655ba11c8467ac.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/1c7/1c7fbd1d7466fc5fa10d9c8fde6d0e28.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Артикул": "BF 317"
+    }
+  },
+  "detail_text": "<p> С помощью этой кисти ты сможешь профессионально растушевать любое пудровое и кремовое средство так, чтобы покрытие выглядело безупречно. Гипоаллергенный ворс - густой и плотный. Ты получишь истинное удовольствие от удобства нанесения. Защитный футляр сохраняет форму и чистоту кисти. </p> <p> Не важно каким ты пользуешься продуктом - важно, какая у тебя кисть! </p> <br>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "700",
+    "701",
+    "702"
+  ],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/kist_dlya_makiyazha_make_up_master_BF317.html"
+}

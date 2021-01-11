@@ -1,0 +1,61 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна набор 2 тона с кистью Natural, B712 тон №20",
+  "id": "467",
+  "price": {
+    "new_price": 0,
+    "old_price": 155,
+    "kzt": 890
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/a6d/a6d5af12f35dec48a35a4618059af7ea.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/a61/1200_1200_140cd750bba9870f18aada2478b24840a/a61d8298ab54112382a80432012193de.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "5,8 г",
+      "Артикул": "В 712",
+      "Тон румян из набора 2 тона": "№20"
+    }
+  },
+  "detail_text": "<p> Румяна придают лицу естественный румянец и подчеркивают линию скул. Изготовлены с добавлением экстракта Алоэ и витамина Е, благодаря чему они прекрасно ложатся на кожу, предохраняя ее от вредных воздействий окружающей среды. Каждый цвет можно использовать по отдельности или смешивать, добиваясь нужного оттенка. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/0e9/36_36_1/0e988962acf08a629f2b17e5d4e92f4f.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "188"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_nabor_2_tona_s_kistyu_natural.html",
+  "name_base": "Румяна набор 2 тона с кистью Natural",
+  "code": "В 712 - №20",
+  "oc_product_id": 202,
+  "images_path": "lico/rumjana-i-hailaitery/467",
+  "additional_images_filenames": [
+    "467-Rumjana-nabor-2-tona-s-kistu-Natural-B712-ton-No20-3.jpg",
+    "467-Rumjana-nabor-2-tona-s-kistu-Natural-B712-ton-No20-4.jpg"
+  ],
+  "detail_image_filename": "467-Rumjana-nabor-2-tona-s-kistu-Natural-B712-ton-No20-2.jpg",
+  "variant_image_filename": "467-Ton-rumjan-iz-nabora-2-tona-No20.jpg"
+}

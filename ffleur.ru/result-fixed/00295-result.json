@@ -1,0 +1,56 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Карандаши",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век автоматический Master Drama Pencil, Black",
+  "id": "520",
+  "price": {
+    "new_price": 0,
+    "old_price": 80,
+    "kzt": 470
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/c0c/1200_1200_140cd750bba9870f18aada2478b24840a/c0c891aa7c681ecdc0ea03eaf5309da8.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "0,25г",
+      "Артикул": "ES 458",
+      "Цвет карандаша": "Black"
+    }
+  },
+  "detail_text": "<p> Автоматический карандаш отлично подойдет для рисования стрелок или дымчатого макияжа. Имеет мягкую текстуру, благодаря чему аккуратно и легко наносится на кожу век. При этом обладает стойкостью, поэтому не отпечатывается и не растекается в течение дня. Содержит масло какао. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/33d/36_36_1/33d2191629c3c35c73ae1a400bd3545b.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "509",
+    "510",
+    "516",
+    "681"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_avtomaticheskiy_master_drama_pencil.html",
+  "name_base": "Карандаш для век автоматический Master Drama Pencil",
+  "code": "ES 458 - Black",
+  "oc_product_id": 343,
+  "images_path": "glaza/karandashi/520",
+  "additional_images_filenames": [],
+  "detail_image_filename": "520-Karandash-dlja-vek-avtomaticzeskii-Master-Drama-Pencil-Black-2.jpg",
+  "variant_image_filename": "520-Cvet-karandasha-Black.jpg"
+}

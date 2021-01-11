@@ -1,0 +1,63 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Пудра и тональные средства",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Fit Skin Concealer, тон №4",
+  "id": "172",
+  "price": {
+    "new_price": 0,
+    "old_price": 185,
+    "kzt": 1060
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/db1/1200_1200_140cd750bba9870f18aada2478b24840a/db19d7514880afe1d9721e937f85b69f.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/e9e/1200_1200_140cd750bba9870f18aada2478b24840a/e9eec432c4d25b5f0fde3d21fa88d8f1.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/88a/1200_1200_140cd750bba9870f18aada2478b24840a/88a2e1c3d0d64499b4f444d02ad5cab5.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "9 г",
+      "Артикул": "CN 38",
+      "Тон консилера": "№4"
+    }
+  },
+  "detail_text": "<p> Консилер очень удобен в использовании. Маскирует расширенные поры, идеально скрывает недостатки кожи, пигментные пятна, покраснения, акне, круги под глазами. Средство хорошо держится, не размазывается.Легко наносится. Масло жожоба отлично увлажняет кожу. Подстраивается под тон кожи, полностью сливаясь с ней. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Масло жожоба увлажняет </li>\n\t<li>Превосходное покрытие</li>\n\t<li>Маскирует несовершенства</li>\n\t<li>Легко наносится</li>\n\t<li>Не сушит кожу</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/379/36_36_1/3794e141dea69a503cd43f83bc742afc.jpg",
+  "accessories_ids": [
+    "139",
+    "120"
+  ],
+  "related_ids": [
+    "120",
+    "184"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/fit_skin_concealer.html",
+  "name_base": "Fit Skin Concealer",
+  "code": "CN 38 - №4",
+  "oc_product_id": 181,
+  "images_path": "lico/pudra-i-tonalnye-sredstva/172",
+  "additional_images_filenames": [
+    "172-Fit-Skin-Concealer-ton-No4-2.jpg",
+    "172-Fit-Skin-Concealer-ton-No4-3.jpg"
+  ],
+  "detail_image_filename": "172-Fit-Skin-Concealer-ton-No4-1.jpg",
+  "variant_image_filename": "172-Ton-konsilera-No4.jpg"
+}

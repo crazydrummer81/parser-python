@@ -1,0 +1,58 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Подводка для глаз",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка-маркер Precision Line ES834",
+  "id": "417",
+  "price": {
+    "new_price": 0,
+    "old_price": 190,
+    "kzt": 810
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/1a1/1a1ef5c8f72ab630071cd02fcc5ec42d.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "1 г",
+      "Цвет": "Черный",
+      "Артикул": "ES 834"
+    }
+  },
+  "detail_text": "<p> С помощью подводки делаем модные стрелки: яркие клубные или тонкие, кокетливые! Аппликатор позволяет получить четкую, интенсивного цвета линию, остающуюся идеальной в течение дня. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "453",
+    "431",
+    "276"
+  ],
+  "related_ids": [
+    "410",
+    "409",
+    "408"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_marker_precision_line_ES834.html",
+  "name_base": "Подводка-маркер Precision Line ES834",
+  "code": "ES 834",
+  "oc_product_id": 240,
+  "images_path": "glaza/podvodka-dlja-glaz/417",
+  "additional_images_filenames": [],
+  "detail_image_filename": "417-Podvodka-marker-Precision-Line-ES834-1.jpg"
+}

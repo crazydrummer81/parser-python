@@ -1,0 +1,55 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Уход",
+      "url": "http://ffleur.ru/catalog/litso/ukhod/"
+    }
+  ],
+  "name": "Праймер для лица Base Lux",
+  "id": "532",
+  "price": {
+    "new_price": 0,
+    "old_price": 180,
+    "kzt": 470
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/0f8/0f8b5c0086bbbe85b40135ccc5a34663.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "15 мл",
+      "Артикул": "PR69"
+    }
+  },
+  "detail_text": "<p> Праймер BASE LUX моментально преображает кожу: выравнивает тон, визуально делает поры менее заметными, матирует и делает ее бархатной и необычайно нежной, продлевает стойкость макияжа, не утяжеляя его. </p> <p> После нанесения праймера подождите немного, что бы он зафиксировался – так макияж ляжет лучше и продержится дольше. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "559",
+    "555",
+    "120"
+  ],
+  "related_ids": [
+    "533"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/ukhod/praymer_dlya_litsa_base_lux.html",
+  "name_base": "Праймер для лица Base Lux",
+  "code": "PR69",
+  "oc_product_id": 204,
+  "images_path": "lico/uhod/532",
+  "additional_images_filenames": [],
+  "detail_image_filename": "532-Praimer-dlja-lica-Base-Lux-1.jpg"
+}

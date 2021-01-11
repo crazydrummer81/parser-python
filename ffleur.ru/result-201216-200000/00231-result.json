@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГУБЫ",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "БАЛЬЗАМ ДЛЯ ГУБ",
+      "url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/"
+    }
+  ],
+  "name": "Бальзам для губ My Doll, LB80 №3",
+  "id": "602",
+  "price": {
+    "new_price": 0,
+    "old_price": 90
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/d59/d591a85b98f41d8edadda79258c970ad.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/25d/25d045d4748584fe455c8920a933255e.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "3.8 г",
+      "Артикул": "LB80",
+      "Цвет": "№3"
+    }
+  },
+  "detail_text": "<p> Бальзам обеспечивает приятную мягкость, питает и защищает губы от обветривания. Карнаубский войск и масло какао, входящие в состав, обладают смягчающими, увлажняющими и антисептическими свойствами. Имеет приятный, вкусный аромат. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/d59/36_36_1/d591a85b98f41d8edadda79258c970ad.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "597",
+    "386",
+    "592"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/balzam_dlya_gub_my_doll.html"
+}

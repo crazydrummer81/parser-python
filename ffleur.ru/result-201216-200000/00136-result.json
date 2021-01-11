@@ -1,0 +1,53 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Основа под макияж Nude Perfect Make Up 6 in 1, тон №3",
+  "id": "184",
+  "price": {
+    "new_price": 0,
+    "old_price": 170
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/408/1200_1200_140cd750bba9870f18aada2478b24840a/4088725a6df82010ecd7783ee4b01161.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/e97/1200_1200_140cd750bba9870f18aada2478b24840a/e97f498e1d18faa87492fb675368431e.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/02e/1200_1200_140cd750bba9870f18aada2478b24840a/02e447b482ba4c812c781a8cda322eed.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "30 мл",
+      "Артикул": "FT 17",
+      "Тон основы": "№3"
+    }
+  },
+  "detail_text": "<p> Увлажняющая формула обогащена коллагеном, Алое Вера, маслом жожоба, витамином Е, которые смягчают и защищают нежную кожу в течение всего дня. Легкая невидимая текстура создает безупречный вид, выравнивает цвет и структуру кожи, что соответствует популярному nude-макияжу. Кожа выглядит естественно матовой, словно бархат! </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Увлажняет и питает</li>\n\t<li>Сливается с тоном кожи</li>\n\t<li>Легкое натуральное покрытие</li>\n\t<li>Здоровый свежий вид</li>\n\t<li>Длительный эффект</li>\n\t<li>Безупречный цвет лица</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/ecd/36_36_1/ecda5397f3e929e6e577ec6b0e44bc83.jpg",
+  "accessories_ids": [
+    "276",
+    "139",
+    "104"
+  ],
+  "related_ids": [
+    "172",
+    "120"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/osnova_pod_makiyazh_nude_perfect_make_up_6_in_1.html"
+}

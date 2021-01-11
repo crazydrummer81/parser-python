@@ -1,0 +1,53 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "РУМЯНА И ХАЙЛАЙТЕРЫ",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Палетка румян Cheek Tonick Collection",
+  "id": "570",
+  "price": {
+    "new_price": 0,
+    "old_price": 370
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/1d3/1d30633d2d66347f29fc454c655ee206.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/6c2/6c2698a637455840e4486d3f19c2c745.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "19.5 г",
+      "Артикул": "В955"
+    }
+  },
+  "detail_text": "<p> Палетка румян 6 тонов для любого макияжа, цвета кожи, волос. Румяна равномерно распределяются. Минеральная слюда с перламутровым шиммером усиливает мягкость продукта и дает подсвечивающий эффект. Содержат антиоксиданты, эмоленты, витамин Е. </p> <p> Отличный выбор для поиска своего образа. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "448",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "713",
+    "460",
+    "565",
+    "467"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/paletka_rumyan_cheek_tonick_collection.html"
+}

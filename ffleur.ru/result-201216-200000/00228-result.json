@@ -1,0 +1,47 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГУБЫ",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "БАЛЬЗАМ ДЛЯ ГУБ",
+      "url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/"
+    }
+  ],
+  "name": "Бальзам для губ My Magic, LB71 вкус Grapefruit",
+  "id": "597",
+  "price": {
+    "new_price": 0,
+    "old_price": 90
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/d9a/d9ab45ebcd620664d02449faf8275819.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "6 г",
+      "Артикул": "LB71",
+      "Вкус": "Grapefruit"
+    }
+  },
+  "detail_text": "<p> Бальзам обладает успокаивающим и смягчающим эффектом, предотвращает появление воспалений и шелушений, увлажняет и питает кожу. Наносить отдельно или под губную помаду. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "602",
+    "592",
+    "386"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/balzam_dlya_gub/balzam_dlya_gub_my_magic.html"
+}

@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Карандаши",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш для век и бровей Powder, цвет Dark Brown",
+  "id": "516",
+  "price": {
+    "new_price": 0,
+    "old_price": 60,
+    "kzt": 360
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/582/1200_1200_140cd750bba9870f18aada2478b24840a/582273c62dce1b09687d3b6ff05d21be.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/6d5/1200_1200_140cd750bba9870f18aada2478b24840a/6d512af6940ee8b792c6a2dd1b13e6f6.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "0,5 г",
+      "Артикул": "ES 412",
+      "Цвет карандаша": "Dark Brown"
+    }
+  },
+  "detail_text": "<p> Особенная пудровая текстура обеспечивает мягкое нанесение. Оригинальная форма грифеля позволяет придать бровям идеальную форму. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/b68/36_36_1/b688e77598fa7e7ab43efe8e19b9bbb7.jpg",
+  "accessories_ids": [
+    "448",
+    "431",
+    "276"
+  ],
+  "related_ids": [
+    "681",
+    "520",
+    "509",
+    "510"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_dlya_vek_i_brovey_powder.html",
+  "name_base": "Карандаш для век и бровей Powder",
+  "code": "ES 412 - Dark Brown",
+  "oc_product_id": 341,
+  "images_path": "glaza/karandashi/516",
+  "additional_images_filenames": [
+    "516-Karandash-dlja-vek-i-brovei-Powder-cvet-Dark-Brown-2.jpg"
+  ],
+  "detail_image_filename": "516-Karandash-dlja-vek-i-brovei-Powder-cvet-Dark-Brown-1.jpg",
+  "variant_image_filename": "516-Cvet-karandasha-Dark-Brown.jpg"
+}

@@ -1,0 +1,63 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Harmony, №2",
+  "id": "453",
+  "price": {
+    "new_price": 0,
+    "old_price": 100,
+    "kzt": 580
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/f01/f016bed357a551af1d4f74b2ba18cf36.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5,5 г",
+      "Артикул": "EP 193",
+      "Цвет": "№2"
+    }
+  },
+  "detail_text": "<p> Гармоничное сочетание трех оттенков в одной палитре позволяет идеально подчеркнуть форму глаз и выделить их цвет. Мягкая, насыщенная текстура позволяет добиться плавных переходов от темного оттенка к более светлому. Каприлик питает, смягчает и увлажняет кожу. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/f01/36_36_1/f016bed357a551af1d4f74b2ba18cf36.jpg",
+  "accessories_ids": [
+    "509",
+    "184"
+  ],
+  "related_ids": [
+    "671",
+    "438",
+    "448",
+    "630",
+    "672",
+    "668",
+    "650",
+    "663"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_harmony.html",
+  "name_base": "Тени для век Harmony",
+  "code": "EP 193 - №2",
+  "oc_product_id": 319,
+  "images_path": "glaza/teni-dlja-vek/453",
+  "additional_images_filenames": [],
+  "detail_image_filename": "453-Teni-dlja-vek-Harmony-No2-1.jpg",
+  "variant_image_filename": "453-Cvet-No2.jpg"
+}

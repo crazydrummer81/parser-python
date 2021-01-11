@@ -1,0 +1,44 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "АКСЕССУАРЫ",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "КИСТЬ ДЛЯ МАКИЯЖА",
+      "url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/"
+    }
+  ],
+  "name": "Кисти для профессионального макияжа набор 5 шт в упаковке Visagiste BF105",
+  "id": "701",
+  "price": {
+    "new_price": 0,
+    "old_price": 350
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/660/1200_1200_140cd750bba9870f18aada2478b24840a/660f9701f14402264e50d62e69d5ea31.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Артикул": "BF105"
+    }
+  },
+  "detail_text": "<p> Кисти для домашнего и профессионального макияжа не требуют специальных навыков, с ними вы можете лёгко создавать самые разные образы. </p> <p> Набор состоит из 5 кистей: </p> <ul> <li>кисть для румян и пудры</li> <li>кисть для&nbsp; тональной основы</li> <li>кисть для нанесения и растушевки теней</li> <li>кисть для расчесывания бровей и ресниц</li> <li>кисть для нанесения помады, которая позволяет работать с жирной, а также жидкой косметикой</li> </ul> <p> Кисти можно часто мыть, они быстро сохнуть, длительное время сохраняя свою форму. Не вызывают аллергии. Отличаются мягкостью, но при этом сохраняют упругость, что позволяет легко наносить макияж. </p> <p> Начните уже сегодня создавать свои безупречные образы! </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "700",
+    "702"
+  ],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/kist_dlya_makiyazha/kisti_dlya_makiyazha_visagiste_BF105.html"
+}

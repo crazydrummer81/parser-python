@@ -1,0 +1,64 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Shimmering Shine, цвет №3",
+  "id": "644",
+  "price": {
+    "new_price": 0,
+    "old_price": 160,
+    "kzt": 920
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/89b/89b650c8bcf1b890773bdfab04e01ae4.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/f45/f4586f78e9f568414400b80920b000f0.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "1.5 г",
+      "Артикул": "E251",
+      "Цвет теней Shimmering Shine": "№3"
+    }
+  },
+  "detail_text": "<p> Мельчайшие частички перламутра дают красивое мерцание, делая глаза визуально моложе. Благодаря силиконовым компонентам тени имеют невесомую текстуру, легко наносятся и равномерно ложатся. </p> <p> Натуральный увлажнитель повышает мягкость, а витамин Е ухаживает за кожей век. Экономичный расход. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/c2e/36_36_1/c2e8fa046ea6ca7ba2e032b82dea1b73.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "647",
+    "668",
+    "630",
+    "442",
+    "650",
+    "438",
+    "453",
+    "663"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_shimmering_shine.html",
+  "name_base": "Тени для век Shimmering Shine",
+  "code": "E251 - №3",
+  "oc_product_id": 367,
+  "images_path": "glaza/teni-dlja-vek/644",
+  "additional_images_filenames": [
+    "644-Teni-dlja-vek-Shimmering-Shine-cvet-No3-2.jpg"
+  ],
+  "detail_image_filename": "644-Teni-dlja-vek-Shimmering-Shine-cvet-No3-1.jpg",
+  "variant_image_filename": "644-Cvet-tenei-Shimmering-Shine-No3.jpg"
+}

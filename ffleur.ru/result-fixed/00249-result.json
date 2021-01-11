@@ -1,0 +1,56 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Подводка для глаз",
+      "url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/"
+    }
+  ],
+  "name": "Подводка для глаз Perfect Eyeliner E508",
+  "id": "409",
+  "price": {
+    "new_price": 0,
+    "old_price": 240,
+    "kzt": 950
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/7f3/1200_1200_140cd750bba9870f18aada2478b24840a/7f340f6931feaabb9e6d0db1a6f9c6be.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "5,5 мл",
+      "Цвет": "Черный",
+      "Артикул": "E 508"
+    }
+  },
+  "detail_text": "<p> Водостойкая подводка для глаз гигиенична и удобна в применении. Дает четкую линию, интенсивный цвет, не раздражает кожу вокруг глаз. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [
+    "431",
+    "120"
+  ],
+  "related_ids": [
+    "408",
+    "417",
+    "410"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/podvodka_dlya_glaz/podvodka_dlya_glaz_perfect_eyeliner_E508.html",
+  "name_base": "Подводка для глаз Perfect Eyeliner E508",
+  "code": "E 508",
+  "oc_product_id": 297,
+  "images_path": "glaza/podvodka-dlja-glaz/409",
+  "additional_images_filenames": [],
+  "detail_image_filename": "409-Podvodka-dlja-glaz-Perfect-Eyeliner-E508-1.jpg"
+}

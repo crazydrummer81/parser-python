@@ -1,0 +1,62 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Хайлайтер Shimmer Illuminator, тон №2",
+  "id": "188",
+  "price": {
+    "new_price": 0,
+    "old_price": 185,
+    "kzt": 1060
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/f5d/1200_1200_140cd750bba9870f18aada2478b24840a/f5dd324a56f6b1184cb5fd00d88a89e0.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/94a/1200_1200_140cd750bba9870f18aada2478b24840a/94a8c424430c4d7cb3933c10f5054103.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/c0d/1200_1200_140cd750bba9870f18aada2478b24840a/c0debf3c40d09ce4b8ac062217d96eef.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "4,5 г",
+      "Артикул": "SH18",
+      "Тон хайлайтера": "№2"
+    }
+  },
+  "detail_text": "<p> Шиммер со светоотражающими частицами предназначен для придания коже сияния и скульптурирования лица. Подчеркивая им определенные черты, можно сделать выразительными те или иные достоинства лица или скрыть недостатки. Дарит коже здоровое естественное мерцание - мягкое и шелковистое. Атласная и невесомая текстура легко скользит по коже. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Нанесение: на скулы, центр лба, подбородок, под брови, над губой</li>\n\t<li>Светоотражающие частицы</li>\n\t<li>Скульптурирование лица</li>\n\t<li>Перламутровое сияние</li>\n\t<li>Притягивает взгляд</li>\n\t<li>Осветляет лицо</li>\n\t<li>Элегантное мерцание </li>\n\t<li>Мягкая текстура</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/4db/36_36_1/4db1e6e52ab759f14cad3ea307dbd286.jpg",
+  "accessories_ids": [
+    "438",
+    "120"
+  ],
+  "related_ids": [
+    "193"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/khaylayter_shimmer_illuminator.html",
+  "name_base": "Хайлайтер Shimmer Illuminator",
+  "code": "SH18 - №2",
+  "oc_product_id": 187,
+  "images_path": "lico/rumjana-i-hailaitery/188",
+  "additional_images_filenames": [
+    "188-Hailaiter-Shimmer-Illuminator-ton-No2-2.jpg",
+    "188-Hailaiter-Shimmer-Illuminator-ton-No2-3.jpg"
+  ],
+  "detail_image_filename": "188-Hailaiter-Shimmer-Illuminator-ton-No2-1.jpg",
+  "variant_image_filename": "188-Ton-hailaitera-No2.jpg"
+}

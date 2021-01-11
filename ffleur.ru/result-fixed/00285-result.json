@@ -1,0 +1,59 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век палитра G (Pink violet), E155 цвет №201",
+  "id": "497",
+  "price": {
+    "new_price": 0,
+    "old_price": 220,
+    "kzt": 1320
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/db3/1200_1200_140cd750bba9870f18aada2478b24840a/db3a511920bbd3d1b0a54c618ceb1759.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "13,5 г",
+      "Артикул": "E 155",
+      "Палитра теней для век": "№201"
+    }
+  },
+  "detail_text": "<p> Пять гармонично подобранных оттенков. Нежная шелковистая текстура легко наносится и растушевывается с помощью аппликатора до полутонов. Перламутр придает особое сияние. Содержат масла жожоба и масло оливы. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/b51/36_36_1/b512d6b6802fdae9673751a132e91e2b.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "671",
+    "442",
+    "438",
+    "453",
+    "647",
+    "625",
+    "672",
+    "663"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_palitra_E155_g_pink_violet.html",
+  "name_base": "Тени для век палитра G (Pink violet)",
+  "code": "E 155 - №201",
+  "oc_product_id": 333,
+  "images_path": "glaza/teni-dlja-vek/497",
+  "additional_images_filenames": [],
+  "detail_image_filename": "497-Teni-dlja-vek-palitra-G-Pink-violet-E155-cvet-No201-1.jpg",
+  "variant_image_filename": "497-Palitra-tenei-dlja-vek-No201.jpg"
+}

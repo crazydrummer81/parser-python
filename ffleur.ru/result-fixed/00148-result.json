@@ -1,0 +1,56 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Румяна и хайлайтеры",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна набор 2 тона с кистью, B712 тон №50",
+  "id": "460",
+  "price": {
+    "new_price": 0,
+    "old_price": 155,
+    "kzt": 890
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/18d/18d1ad256103acafb97efcf35b2562c7.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "5,8 г",
+      "Артикул": "В 712",
+      "Тон румян из набора 2 тона": "№50"
+    }
+  },
+  "detail_text": "<p> Румяна придают лицу естественный румянец и подчеркивают линию скул. Изготовлены с добавлением экстракта Алоэ и витамина Е, благодаря чему они прекрасно ложатся на кожу, предохраняя ее от вредных воздействий окружающей среды. Каждый цвет можно использовать по отдельности или смешивать, добиваясь нужного оттенка. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/c66/36_36_1/c666657b449d26030095c06f2df1e355.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "188"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_nabor_2_tona_s_kistyu_rose_B712.html",
+  "name_base": "Румяна набор 2 тона с кистью",
+  "code": "В 712 - №50",
+  "oc_product_id": 196,
+  "images_path": "lico/rumjana-i-hailaitery/460",
+  "additional_images_filenames": [],
+  "detail_image_filename": "460-Rumjana-nabor-2-tona-s-kistu-B712-ton-No50-1.jpg",
+  "variant_image_filename": "460-Ton-rumjan-iz-nabora-2-tona-No50.jpg"
+}

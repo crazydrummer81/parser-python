@@ -1,0 +1,48 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГУБЫ",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "ПОМАДА",
+      "url": "http://ffleur.ru/catalog/guby/pomada/"
+    }
+  ],
+  "name": "Помада увлажняющая Silky Perfection Lipstick, L240 цвет №504",
+  "id": "583",
+  "price": {
+    "new_price": 0,
+    "old_price": 170
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/908/1200_1200_140cd750bba9870f18aada2478b24840a/9084dd7b375a230093d49df00d5dc4b0.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "L240",
+      "Цвет помады Silky Perfection Lipstick": "№504"
+    }
+  },
+  "detail_text": "<p> Увлажняющая кремовая помада имеет уникальный ухаживающий состав. Питательные масла семян камелии японской и шиповника оказывают укрепляющее и регенерирующее воздействие, витамин Е и сквалан успокаивают чувствительную кожу губ, разглаживая её. </p> <p> Превосходно ложится, придавая губам равномерный интенсивный цвет и изысканную бархатистость. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>КРЕМОВАЯ ПОМАДА</li>\n\t<li>ПИТАТЕЛЬНЫЕ МАСЛА</li>\n\t<li>СКВАЛАН</li>\n\t<li>ВИТАМИН Е</li>\n\t<li>БАРХАТНЫЙ ЦВЕТ</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/4c6/36_36_1/4c6f7d1c96017b3d9fe36dccf604eed9.jpg",
+  "accessories_ids": [
+    "188",
+    "120",
+    "104"
+  ],
+  "related_ids": [
+    "276"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/pomada/pomada_uvlazhnyayushchaya_silky_perfection_lipstick.html"
+}

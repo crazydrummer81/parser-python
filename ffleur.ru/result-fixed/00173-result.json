@@ -1,0 +1,57 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Лицо",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "Пудра и тональные средства",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "BB Cream Face Control, тон №4",
+  "id": "555",
+  "price": {
+    "new_price": 0,
+    "old_price": 140,
+    "kzt": 810
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/a4d/a4d91556d3a2d9fdb47fed07ef23b379.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "30 мл",
+      "Артикул": "ВВ33",
+      "Тон BB Cream Face Control": "№4"
+    }
+  },
+  "detail_text": "<p> Текстура у ВВ крема легкая, нежная. Интенсивное увлажнение и активное питание кожи, красивое сияние и безупречный тон. Словом, он сделает все для того, чтобы лицо выглядело восхитительно свежим. </p> <p> Он заметно выравнивает кожу, маскирует проблемные моменты и деликатно подсвечивает лицо. Защищает от вредного воздействия ультрафиолета. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>БЕЗУПРЕЧНЫЙ ТОН</li>\n\t<li>УВЛАЖНЯЕТ И ОСВЕЖАЕТ</li>\n\t<li>МАСКИРУЕТ И ВЫРАВНИВАЕТ</li>\n\t<li>БЕЗ ТАЛЬКА И ПАРАБЕНОВ</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/uf/4ed/4edf68d51b84f8342ae40fe7297083f9.jpg",
+  "accessories_ids": [
+    "139",
+    "120"
+  ],
+  "related_ids": [
+    "559",
+    "184"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/bb_cream_face_control.html",
+  "name_base": "BB Cream Face Control",
+  "code": "ВВ33 - №4",
+  "oc_product_id": 221,
+  "images_path": "lico/pudra-i-tonalnye-sredstva/555",
+  "additional_images_filenames": [],
+  "detail_image_filename": "555-BB-Cream-Face-Control-ton-No4-1.jpg",
+  "variant_image_filename": "555-Ton-BB-Cream-Face-Control-No4.jpg"
+}

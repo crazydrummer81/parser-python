@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра Two Way Cake 2 in 1, TK12 тон №3",
+  "id": "120",
+  "price": {
+    "new_price": 0,
+    "old_price": 420
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/95c/1200_1200_140cd750bba9870f18aada2478b24840a/95c570aee5b0c468263bf644389760eb.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/143/1200_1200_140cd750bba9870f18aada2478b24840a/1431b31dd05349783c07ba5869fc1fe5.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/33b/1200_1200_140cd750bba9870f18aada2478b24840a/33b7feb76ef260d04cf681feb7cce654.jpg",
+    "http://ffleur.ru/upload/iblock/f36/f3602b0d3507d51ea3452b6efd8190a3.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "10,77 г",
+      "Артикул": "ТК 12",
+      "Тон пудры Two Way Cake": "№3"
+    }
+  },
+  "detail_text": "<p> Пудра разработана для двух видов использования- сухим и влажным спонжем. Она придаст лицу ровный цвет, здоровый вид и свежесть. Содержит масло сквалана, которое увлажняет, предотвращает раздражение, не образует комедонов и повышает эластичность кожи. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Гладкая кожа</li>\n\t<li>Глубокое увлажнение</li>\n\t<li>Стойкость весь день</li>\n\t<li>Sodium hualuronate </li>\n\t<li>Squalane</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/405/36_36_1/405b95bd37c383debd7876b9dc21532e.jpg",
+  "accessories_ids": [
+    "276"
+  ],
+  "related_ids": [
+    "154",
+    "167"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_two_way_cake_2_in_1.html"
+}

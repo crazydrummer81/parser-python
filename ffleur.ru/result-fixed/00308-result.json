@@ -1,0 +1,60 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Глаза",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "Тени для век",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Glam Look, цвет №2",
+  "id": "630",
+  "price": {
+    "new_price": 0,
+    "old_price": 200,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/537/537d0d465795c5e420b6e95dbc43415e.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "5.5 г",
+      "Артикул": "E224",
+      "Цвет": "№2"
+    }
+  },
+  "detail_text": "<p> Текстура теней воздушная, невесомая и очень комфортная. Благодаря высокой концентрации пигментов, они красиво подсветят веки, легко наносятся, равномерно растушевываются, обеспечивают хорошую стойкость и цветопередачу. Состав теней содержит ухаживающие масла и витамин Е. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/537/36_36_1/537d0d465795c5e420b6e95dbc43415e.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "453",
+    "668",
+    "644",
+    "671",
+    "438",
+    "442",
+    "637",
+    "497"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_glam_look.html",
+  "name_base": "Тени для век Glam Look",
+  "code": "E224 - №2",
+  "oc_product_id": 356,
+  "images_path": "glaza/teni-dlja-vek/630",
+  "additional_images_filenames": [],
+  "detail_image_filename": "630-Teni-dlja-vek-Glam-Look-cvet-No2-1.jpg",
+  "variant_image_filename": "630-Cvet-No2.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Fit Skin Concealer, тон №3",
+  "id": "172",
+  "price": {
+    "new_price": 0,
+    "old_price": 185
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/e42/1200_1200_140cd750bba9870f18aada2478b24840a/e4262b9c5bdb55e60f8c5ae77f612f38.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/e9e/1200_1200_140cd750bba9870f18aada2478b24840a/e9eec432c4d25b5f0fde3d21fa88d8f1.jpg",
+    "http://ffleur.ru/upload/resize_cache/iblock/88a/1200_1200_140cd750bba9870f18aada2478b24840a/88a2e1c3d0d64499b4f444d02ad5cab5.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "9 г",
+      "Артикул": "CN 38",
+      "Тон консилера": "№3"
+    }
+  },
+  "detail_text": "<p> Консилер очень удобен в использовании. Маскирует расширенные поры, идеально скрывает недостатки кожи, пигментные пятна, покраснения, акне, круги под глазами. Средство хорошо держится, не размазывается.Легко наносится. Масло жожоба отлично увлажняет кожу. Подстраивается под тон кожи, полностью сливаясь с ней. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Масло жожоба увлажняет </li>\n\t<li>Превосходное покрытие</li>\n\t<li>Маскирует несовершенства</li>\n\t<li>Легко наносится</li>\n\t<li>Не сушит кожу</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/afb/36_36_1/afb05d286b4df74f5b472187b69b7537.jpg",
+  "accessories_ids": [
+    "139",
+    "120"
+  ],
+  "related_ids": [
+    "120",
+    "184"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/fit_skin_concealer.html"
+}

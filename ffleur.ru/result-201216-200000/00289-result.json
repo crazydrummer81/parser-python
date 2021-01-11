@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "КАРАНДАШИ",
+      "url": "http://ffleur.ru/catalog/glaza/karandashi/"
+    }
+  ],
+  "name": "Карандаш автоматический с встроенной точилкой",
+  "id": "510",
+  "price": {
+    "new_price": 0,
+    "old_price": 60
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/02f/02ffa40d09a65b50832593d62532afde.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/724/724d504615ba1c0c5c22ef23304919b1.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "0,6 г",
+      "Цвет": "Черный",
+      "Артикул": "ES 406"
+    }
+  },
+  "detail_text": "<p> Благодаря нежной текстуре карандаш мягко ложится, позволяет подчеркнуть естественную линию и интенсивность цвета. Наличие специальной V-образной точилки обеспечивает идеальное состояние карандаша. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [
+    "509",
+    "516",
+    "520",
+    "681"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/karandashi/karandash_avtomaticheskiy_s_vstroennoy_tochilkoy.html"
+}

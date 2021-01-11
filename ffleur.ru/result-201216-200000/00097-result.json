@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "ПУДРА И ТОНАЛЬНЫЕ СРЕДСТВА",
+      "url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/"
+    }
+  ],
+  "name": "Пудра компактная Super Stay, тон №3",
+  "id": "134",
+  "price": {
+    "new_price": 0,
+    "old_price": 130
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/58a/1200_1200_140cd750bba9870f18aada2478b24840a/58a89d0b02adcd7fdea64dfad6c3b7d5.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/resize_cache/iblock/c00/1200_1200_140cd750bba9870f18aada2478b24840a/c00f9ab8e88195f6d1db47e40de2c0d0.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "РР88",
+      "Тон пудры Super Stay": "№3"
+    }
+  },
+  "detail_text": "<p> Благодаря невесомой текстуре пудра идеально ложится на кожу и делает ее естественно однородной и матовой. Нежная, словно шелк, пудра преображает тон кожи, оставаясь совершенно незаметной. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Выравнивает тон</li>\n\t<li>Бархатная кожа</li>\n\t<li>Сияющий цвет лица</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/4a8/36_36_1/4a8b55c9724fd9612ff743118c597e81.jpg",
+  "accessories_ids": [
+    "184",
+    "104"
+  ],
+  "related_ids": [
+    "154",
+    "167"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/pudra_i_tonalnye_sredstva/pudra_kompaktnaya_super_stay.html"
+}

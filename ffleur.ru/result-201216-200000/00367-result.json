@@ -1,0 +1,45 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "БРОВИ",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК И БРОВЕЙ",
+      "url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/"
+    }
+  ],
+  "name": "Тени для век и бровей Perfect Brow Kit, цвет №1",
+  "id": "698",
+  "price": {
+    "new_price": 0,
+    "old_price": 190
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/3bc/3bc8694b2815652bef4199421b4d15c6.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4.60 г",
+      "Артикул": "EB07",
+      "Цвет": "№1"
+    }
+  },
+  "detail_text": "<p> Используйте пигментированные тени для полного прокрашивания бровей и придания объема.&nbsp; </p> <p> Нанесите хайлайтер под бровь. После теней используйте воск для фиксации бровей с помощью кисти. Содержит Алоэ Вера. Для бровей любой формы и цвета. Без парабенов. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/iblock/3bc/36_36_1/3bc8694b2815652bef4199421b4d15c6.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "427",
+    "431"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/teni_dlya_brovey/teni_dlya_vek_i_brovey_perfect_brow_kit.html"
+}

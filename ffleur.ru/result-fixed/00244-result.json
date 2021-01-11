@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Губы",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "Карандаш для губ",
+      "url": "http://ffleur.ru/catalog/guby/karandash_dlya_gub/"
+    }
+  ],
+  "name": "Карандаш для губ Lip Control, цвет №12",
+  "id": "618",
+  "price": {
+    "new_price": 0,
+    "old_price": 100,
+    "kzt": 580
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/c0f/c0f8e77ac245df2bc04113707500f64b.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "0.36 г",
+      "Артикул": "LP15",
+      "Цвет карандаша для губ Lip Control": "№12"
+    }
+  },
+  "detail_text": "<p> Автоматический карандаш очень комфортно, мягко и точно описывает форму губ и подчеркивает их цвет. Контур позволяет помаде держаться дольше и не растекаться. Формула водостойкая, длительного действия. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/d14/36_36_1/d1411d06fcc29c25a86f8ec6f0e6853d.jpg",
+  "accessories_ids": [],
+  "related_ids": [],
+  "source_url": "http://ffleur.ru/catalog/guby/karandash_dlya_gub/karandash_dlya_gub_lip_control.html",
+  "name_base": "Карандаш для губ Lip Control",
+  "code": "LP15 - №12",
+  "oc_product_id": 292,
+  "images_path": "guby/karandash-dlja-gub/618",
+  "additional_images_filenames": [],
+  "detail_image_filename": "618-Karandash-dlja-gub-Lip-Control-cvet-No12-1.jpg",
+  "variant_image_filename": "618-Cvet-karandasha-dlja-gub-Lip-Control-No12.jpg"
+}

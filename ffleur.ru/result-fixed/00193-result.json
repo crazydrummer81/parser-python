@@ -1,0 +1,51 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Аксессуары",
+      "url": "http://ffleur.ru/catalog/aksessuary/"
+    },
+    {
+      "name": "Зеркало",
+      "url": "http://ffleur.ru/catalog/aksessuary/zerkalo/"
+    }
+  ],
+  "name": "Зеркало складное",
+  "id": "523",
+  "price": {
+    "new_price": 0,
+    "old_price": 200,
+    "kzt": 1150
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/080/0809431b236144121e88a5dd7f3147ed.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/44b/44b7fad33d00caf0ac91904c341e5e75.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Артикул": "MIR02"
+    }
+  },
+  "detail_text": "",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "",
+  "accessories_ids": [],
+  "related_ids": [],
+  "source_url": "http://ffleur.ru/catalog/aksessuary/zerkalo/zerkalo_skladnoe.html",
+  "name_base": "Зеркало складное",
+  "code": "MIR02",
+  "oc_product_id": 241,
+  "images_path": "aksessuary/zerkalo/523",
+  "additional_images_filenames": [
+    "523-Zerkalo-skladnoe-2.jpg"
+  ],
+  "detail_image_filename": "523-Zerkalo-skladnoe-1.jpg"
+}

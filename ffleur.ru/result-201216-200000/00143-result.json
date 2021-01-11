@@ -1,0 +1,48 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "РУМЯНА И ХАЙЛАЙТЕРЫ",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна Mosaic, тон №3",
+  "id": "193",
+  "price": {
+    "new_price": 0,
+    "old_price": 175
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/78c/1200_1200_140cd750bba9870f18aada2478b24840a/78c56e5b060e59bbdcdd29d79a3f69a0.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "12,7 г",
+      "Артикул": "В 608",
+      "Тон румян Mosaic": "№3"
+    }
+  },
+  "detail_text": "<p> Благодаря гармонично подобранным оттенкам, румянец смотрится максимально естественно. Содержит экстракт Алое Вера. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Алое вера</li>\n\t<li>Естественный макияж </li>\n\t<li>Модные оттенки</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/dca/36_36_1/dca7cd911dbecdb8a56ae8cbd2a9a4f7.jpg",
+  "accessories_ids": [
+    "438",
+    "276",
+    "120"
+  ],
+  "related_ids": [
+    "188"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_mosaic.html"
+}

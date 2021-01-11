@@ -1,0 +1,57 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Брови",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "Карандаш для бровей",
+      "url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/"
+    }
+  ],
+  "name": "Карандаш для микроблейдинга бровей Tatoo Brow Microblading Ink Pen, Dark Brown",
+  "id": "690",
+  "price": {
+    "new_price": 0,
+    "old_price": 150,
+    "kzt": 860
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/109/1097d0c08721c3d5dd0f522a454f9ecb.jpg",
+  "additional_images": [
+    "http://ffleur.ru/upload/iblock/533/5334ff075d66cd3e6459dfc8b03f298f.jpg"
+  ],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Хит продаж",
+      "Объём/вес нетто (1 шт.)": "0.8 г",
+      "Артикул": "BR143",
+      "Цвет карандаша Tatoo Brow Microblading Ink Pen": "Dark Brown"
+    }
+  },
+  "detail_text": "<p> Создавай превосходные брови за несколько секунд каждый день! Особенный микро-вилковый заостренный аппликатор создает форму бровей ровными, точными штрихами. Брови выглядят натуральными, наполненными, ухоженными. </p> <p> Наносить, начиная от широкой части, заполняя короткими штрихами к излёту бровей, придавая желаемую форму. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/538/36_36_1/538ca9a350f3c868df90dd89d351f424.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "694"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/karandash_dlya_mikrobleydinga_brovey_tatoo_brow_microblading_ink_pen.html",
+  "name_base": "Карандаш для микроблейдинга бровей Tatoo Brow Microblading Ink Pen",
+  "code": "BR143 - Dark Brown",
+  "oc_product_id": 138,
+  "images_path": "brovi/karandash-dlja-brovei/690",
+  "additional_images_filenames": [
+    "690-Karandash-dlja-mikrobleidinga-brovei-Tatoo-Brow-Microblading-Ink-Pen-Dark-Brown-2.jpg"
+  ],
+  "detail_image_filename": "690-Karandash-dlja-mikrobleidinga-brovei-Tatoo-Brow-Microblading-Ink-Pen-Dark-Brown-1.jpg",
+  "variant_image_filename": "690-Cvet-karandasha-Tatoo-Brow-Microblading-Ink-Pen-Dark-Brown.jpg"
+}

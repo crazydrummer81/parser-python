@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "Ffleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "Брови",
+      "url": "http://ffleur.ru/catalog/brovi/"
+    },
+    {
+      "name": "Карандаш для бровей",
+      "url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/"
+    }
+  ],
+  "name": "Карандаш для бровей с щёточкой Brow + Brush Pencil, Black",
+  "id": "694",
+  "price": {
+    "new_price": 0,
+    "old_price": 130,
+    "kzt": 750
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/d79/d7964b2ccacee22e742b251e168923e4.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "0.3 г",
+      "Артикул": "BR152",
+      "Цвет карандаша Brow + Brush Pencil": "Black"
+    }
+  },
+  "detail_text": "<p> Карандаш имеет нежирную пудровую текстуру. Специальный треугольной формы грифель позволяет рисовать и широкие, и тонкие линии - хвостик или нижнюю границу брови. Расход при данной текстуре не большой. </p> <p> При нанесении не царапает кожу, ложится и растушевывается без комочков. Особенно порадует мягкая встроенная щеточка для ухода за бровями. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/aa3/36_36_1/aa3fc5a9f71c9ccf261d9e4b1fc6f520.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "690"
+  ],
+  "source_url": "http://ffleur.ru/catalog/brovi/karandash_dlya_brovey/karandash_dlya_brovey_s_shchyetochkoy_brow_brush_pencil.html",
+  "name_base": "Карандаш для бровей с щёточкой Brow + Brush Pencil",
+  "code": "BR152 - Black",
+  "oc_product_id": 414,
+  "images_path": "brovi/karandash-dlja-brovei/694",
+  "additional_images_filenames": [],
+  "detail_image_filename": "694-Karandash-dlja-brovei-s-sczetoczkoi-Brow--Brush-Pencil-Black-1.jpg",
+  "variant_image_filename": "694-Cvet-karandasha-Brow--Brush-Pencil-Black.jpg"
+}

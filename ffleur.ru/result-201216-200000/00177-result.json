@@ -1,0 +1,49 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ЛИЦО",
+      "url": "http://ffleur.ru/catalog/litso/"
+    },
+    {
+      "name": "РУМЯНА И ХАЙЛАЙТЕРЫ",
+      "url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/"
+    }
+  ],
+  "name": "Румяна Beauty Monster Face Color Perfecting Palette, тон №1",
+  "id": "563",
+  "price": {
+    "new_price": 0,
+    "old_price": 200
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/d0b/1200_1200_140cd750bba9870f18aada2478b24840a/d0b799a63b3efc7ba3164b6eac474fd9.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "10 г",
+      "Артикул": "FC53",
+      "Тон румян Beauty Monster Face Color Perfecting Palette": "№1"
+    }
+  },
+  "detail_text": "<p> Палетка содержит 4 продукта, которые можно комбинировать и использовать отдельно. Бронзатор, румяна и два хайлайтера с теплым и холодным подтоном с невесомыми текстурами и концентрацией перламутра добавят легкую вуаль света. </p> <p> Используйте в технике стробинга, чтобы придать коже сияние и подчеркнуть рельеф лица, или локально для расстановки акцентов в макияже. </p>",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>СКУЛЬПТУРА ЛИЦА</li>\n\t<li>\n\tХАЙЛАЙТЕР </li>\n\t<li>\n\tРУМЯНА</li>\n\t<li>\n\tБРОНЗАТОР</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/uf/c8e/c8e2a466a4fcb902989515fa581d6b7e.jpg",
+  "accessories_ids": [
+    "559",
+    "532"
+  ],
+  "related_ids": [
+    "555",
+    "543"
+  ],
+  "source_url": "http://ffleur.ru/catalog/litso/rumyana_i_khaylaytery/rumyana_beauty_monster_face_color_perfecting_palette.html"
+}

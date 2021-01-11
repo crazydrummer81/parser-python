@@ -1,0 +1,48 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГУБЫ",
+      "url": "http://ffleur.ru/catalog/guby/"
+    },
+    {
+      "name": "ПОМАДА",
+      "url": "http://ffleur.ru/catalog/guby/pomada/"
+    }
+  ],
+  "name": "Помада «Repair Lip Care» увлажняющая, L248 цвет №6",
+  "id": "283",
+  "price": {
+    "new_price": 0,
+    "old_price": 170
+  },
+  "detail_image": "http://ffleur.ru/upload/resize_cache/iblock/d3d/1200_1200_140cd750bba9870f18aada2478b24840a/d3d0af029c2968fb377944e51393ac06.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Объём/вес нетто (1 шт.)": "4 г",
+      "Артикул": "L248",
+      "Цвет помады Repair Lip Care": "№6"
+    }
+  },
+  "detail_text": "Регенерирующая помада с питательными маслами и витаминами! Масло авокадо устраняет сухость и смягчает кожу губ. Масло камелии японской обеспечивает глубокое увлажнение и тонизирует. Масло миндаля и макадамии омолаживает кожу губ и способствует её восстановлению. Чистейшие пигменты обеспечивают великолепный цвет мгновенно!",
+  "detail_text_images": [],
+  "preview_text": "<ul>\n\t<li>Интенсивное увлажнение</li>\n\t<li>Регенерация кожи</li>\n\t<li>Восстановление тонуса</li>\n\t<li>Питание и уход</li>\n\t<li>Чистый цвет</li>\n</ul>",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/704/36_36_1/70425648da27cd999c6ed46064aca27e.jpg",
+  "accessories_ids": [
+    "188",
+    "120",
+    "104"
+  ],
+  "related_ids": [
+    "276"
+  ],
+  "source_url": "http://ffleur.ru/catalog/guby/pomada/pomada_repair_lip_care_uvlazhnyayushchaya.html"
+}

@@ -1,0 +1,52 @@
+{
+  "category_chain": [
+    {
+      "name": "FFleur официальный сайт",
+      "url": "http://ffleur.ru/"
+    },
+    {
+      "name": "Каталог товаров",
+      "url": "http://ffleur.ru/catalog/"
+    },
+    {
+      "name": "ГЛАЗА",
+      "url": "http://ffleur.ru/catalog/glaza/"
+    },
+    {
+      "name": "ТЕНИ ДЛЯ ВЕК",
+      "url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/"
+    }
+  ],
+  "name": "Тени для век Liquid Metal, цвет №11",
+  "id": "663",
+  "price": {
+    "new_price": 0,
+    "old_price": 110
+  },
+  "detail_image": "http://ffleur.ru/upload/iblock/84d/84dbef572241643dc7a1cc1f267ddfa8.jpg",
+  "additional_images": [],
+  "characteristics": {
+    "Прочие": {
+      "Наши предложения": "Новинка",
+      "Объём/вес нетто (1 шт.)": "12 г",
+      "Артикул": "EL161",
+      "Цвет теней Liquid Metal": "№11"
+    }
+  },
+  "detail_text": "<p> Кремовые тени с металлическим эффектом дарят векам неповторимое ощущение свежести. Они легко наносятся одним движением и равномерно покрывают веко металлическим сиянием. </p> <p> Удивительное сочетание насыщенного цвета и интенсивного блеска! Цвет сохраняется до 12 часов. </p>",
+  "detail_text_images": [],
+  "preview_text": "",
+  "variant_image": "http://ffleur.ru/upload/resize_cache/uf/741/36_36_1/74155d49ae1a3ca740fd09a46428f4c7.jpg",
+  "accessories_ids": [],
+  "related_ids": [
+    "448",
+    "492",
+    "672",
+    "650",
+    "438",
+    "497",
+    "630",
+    "442"
+  ],
+  "source_url": "http://ffleur.ru/catalog/glaza/teni_dlya_vek/teni_dlya_vek_liquid_metal.html"
+}
