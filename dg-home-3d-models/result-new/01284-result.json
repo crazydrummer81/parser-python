@@ -1,0 +1,76 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_dub/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Журнальные и кофейные столы",
+      "url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/"
+    }
+  ],
+  "product_name": "Журнальный столик деревянный фигурный дуб \"Пень\" от Odingeniy",
+  "product_price": {
+    "new_price": 59000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127831/stol_pen_dub__1__big.jpg",
+  "additional_images": [
+    "/pic/127831/stol_pen_dub__2__big.jpg",
+    "/pic/127831/stol_pen_dub__3__big.jpg",
+    "/pic/127831/stol_pen_dub__4__big.jpg",
+    "/upload/resize_cache/iblock/8e9/1300_1300_1/Facetune_19_03_2018_18_43_01_min.jpg",
+    "/upload/resize_cache/iblock/108/1300_1300_1/IMG_7352_min.JPG",
+    "/upload/resize_cache/iblock/54f/1300_1300_1/IMG_0338.JPG",
+    "/upload/iblock/c39/52FE8A4D_C951_40C6_957C_5358E5BD3721_min.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-14106b",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый",
+    "Материал": "МДФ, дерево",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Россия",
+    "Вес": "30",
+    "Цвет каркаса": "Дуб",
+    "Куда поставить": "в гостиную, в кабинет, в прихожую, в спальню",
+    "Тип (назначение, особенности)": "интерьерные",
+    "Форма": "фигурные",
+    "Тип трансформации": "нераскладной"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Важным элементом гостиной, дополняющим интерьерные и стилистические решения, выступает журнальный стол. Он отлично подходит не только в качестве элемента дизайна, но и обладает высокой функциональностью, выполняя функции прикроватного столика, удобного пространства для сервировки и места для хранения. <br>Оригинальный журнальный столик безупречного качества и интересной формы! Отверстие закрыто прозрачным или матовым стеклом на выбор Возможны другие отделки Установка не требуется",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_belenyi_dub/",
+      "name": "Журнальный столик дизайнерский фигурный беленый дуб 97 см \"Пень\" от Odingeniy",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_venge/",
+      "name": "Журнальный столик черный фигурный венге \"Пень\" от Odingeniy",
+      "offer_name": "венге, черный"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_oreh/",
+      "name": "Журнальный столик деревянный фигурный орех \"Пень\" от Odingeniy",
+      "offer_name": "орех, коричневый"
+    }
+  ],
+  "product_code": "178455",
+  "product_detail_text_images": []
+}

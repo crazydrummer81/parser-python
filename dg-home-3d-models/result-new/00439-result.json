@@ -1,0 +1,94 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/_kreslo_baby_bear/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло детское серое Baby Bear 2",
+  "product_price": {
+    "new_price": 85000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/111803/_kreslo_baby_bear__1__big.jpg",
+  "additional_images": [
+    "/pic/111803/_kreslo_baby_bear__2__big.jpg",
+    "/pic/111803/_kreslo_baby_bear__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-ACH09-1",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Серый",
+    "Материал": "Ткань, дерево",
+    "Стиль": "Современный, Арт-деко",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Baby Bear",
+    "Вес": "34",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в столовую, в детскую, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Дизайнерские",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "высокая",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> BABY BEAR больше, чем дизайнерское кресло,Оно наполняет комнату дружелюбием и удобными изгибами.&nbsp;&nbsp;Благодаря своей естественной элегантности его пушистый, похожий на медведь силуэт вызывает одновременно мягкость и комфорт. Кресло BABY BEAR 2 серое.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_11/",
+      "name": "Кресло Contour 2 бежевое",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_8/",
+      "name": "Кресло дизайнерское голубое Contour 2",
+      "offer_name": "голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_13/",
+      "name": "Кресло дизайнерское желтое Contour 2",
+      "offer_name": "желтый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_9/",
+      "name": "Кресло дизайнерское салатовое Contour 2",
+      "offer_name": "зеленый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_7/",
+      "name": "Кресло дизайнерское оранжевое Contour 2",
+      "offer_name": "оранжевый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_10/",
+      "name": "Кресло дизайнерское серое Contour 2",
+      "offer_name": "серый (Ткань)"
+    }
+  ],
+  "product_code": "DG-128954",
+  "product_detail_text_images": []
+}

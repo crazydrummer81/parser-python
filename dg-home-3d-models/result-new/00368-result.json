@@ -1,0 +1,91 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_harry_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло дизайнерское серое Harry",
+  "product_price": {
+    "new_price": 94100,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64176/kreslo_harry_3__1__big.jpg",
+  "additional_images": [
+    "/pic/64176/kreslo_harry_3__2__big.jpg",
+    "/pic/64176/kreslo_harry_3__3__big.jpg",
+    "/pic/64176/kreslo_harry_3__4__big.jpg",
+    "/pic/64176/kreslo_harry_3__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-009517",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Серый",
+    "Материал": "дерево, ткань",
+    "Стиль": "Классический, Современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Harry",
+    "Вес": "24",
+    "Особенности": "с ножками",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Бежевый",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "интерьерные",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Кто знает, может быть, кресло Harry получило свое имя в честь принца Гарри, ведь первое, что приходит на ум, когда видишь его, — королевский комфорт и ощущение благородной расслабленности. Спинка под правильным углом, устойчивые солидные ножки, подлокотники из прочного дуба или Коричневыйа, мягкая обивка из ткани нейтральных, «природных» оттенков. в таком кресле легко можно расслабиться, потеряв счет времени.<br> <br> <br> &nbsp;&nbsp;&nbsp;&nbsp; В правильно подобранном интерьере кресло Harry заиграет новыми красками: п... Кресло Harry серое.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_11/",
+      "name": "Кресло Contour 2 бежевое",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_8/",
+      "name": "Кресло дизайнерское голубое Contour 2",
+      "offer_name": "голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_9/",
+      "name": "Кресло дизайнерское салатовое Contour 2",
+      "offer_name": "зеленый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_7/",
+      "name": "Кресло дизайнерское оранжевое Contour 2",
+      "offer_name": "оранжевый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_10/",
+      "name": "Кресло дизайнерское серое Contour 2",
+      "offer_name": "серый (Ткань)"
+    }
+  ],
+  "product_code": "050365",
+  "product_detail_text_images": []
+}

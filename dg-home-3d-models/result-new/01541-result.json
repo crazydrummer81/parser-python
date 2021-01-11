@@ -1,0 +1,59 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_kvartet/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Квартет\"",
+  "product_price": {
+    "new_price": 30000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127144/panno_kvartet__1__big.jpg",
+  "additional_images": [
+    "/pic/127144/panno_kvartet__2__big.jpg",
+    "/pic/127144/panno_kvartet__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P65",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "чёрный, белый",
+    "Материал": "бумага",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "11",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p><span>Панно \"Квартет\" — это настенное панно из бумаги&nbsp;в&nbsp;раме из шпонированного МДФ&nbsp;под стеклом. Цвет рамы черный с текстурой дерева, цвет панно - белый. Подложка выполнена из фанеры обтянутой черным&nbsp;холстом. Данное панно можно повесить как вертикально так и горизонтально.</span><br>Размер: 1200 х 800 х 50 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_fantaziia_2/",
+      "name": "Панно \"Фантазия 2\"",
+      "offer_name": "чёрный"
+    }
+  ],
+  "product_code": "173090",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,83 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_kachalka_tsikl/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло-качалка \"Цикл\" от Odingeniy",
+  "product_price": {
+    "new_price": 87000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127729/kreslo_kachalka_tsikl__1__big.jpg",
+  "additional_images": [
+    "/pic/127729/kreslo_kachalka_tsikl__2__big.jpg",
+    "/pic/127729/kreslo_kachalka_tsikl__3__big.jpg",
+    "/upload/iblock/5dd/IMG_8071.JPG",
+    "/upload/iblock/036/IMG_8072.JPG",
+    "/upload/iblock/dd3/IMG_8073.JPG",
+    "/upload/iblock/9a5/IMG_8075.JPG",
+    "/upload/resize_cache/iblock/ead/1300_1300_1/IMG_7283.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-15105",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "белый",
+    "Материал": "МДФ, шпон, эмаль",
+    "Стиль": "Современный, скандинавский",
+    "Страна производства": "Россия",
+    "Коллекция": "Цикл",
+    "Вес": "35",
+    "Особенности": "без ножек",
+    "Куда поставить": "в прихожую, в спальню, в детскую, в гостиную",
+    "Тип (назначение, особенности)": "кресло-качалка",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "твердая",
+    "Сиденье": "жесткое",
+    "Вид подлокотников": "без подлокотников",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Уникальное креативное кресло-качалка, выполненное в натуральном шпоне!<br> Возможны другие отделки<br> Установка не требуется",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_belyi/",
+      "name": "Кресло ALMA белое - белый (кожа). \nРазмеры 71x78x74 см",
+      "offer_name": "белый (кожа). \nРазмеры 71x78x74 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_biriuzovyi/",
+      "name": "Кресло Alma бирюзовое - бирюзовый (Ткань). \nРазмеры 71x74x78 см",
+      "offer_name": "бирюзовый (Ткань). \nРазмеры 71x74x78 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_molochnyi/",
+      "name": "Кресло ALMA молочное - молочный (Ткань). \nРазмеры 71x78x74 см",
+      "offer_name": "молочный (Ткань). \nРазмеры 71x78x74 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_temno_seryi/",
+      "name": "Кресло ALMA на круглом основании темно-серое - серый (Ткань). \nРазмеры 71x78x74 см",
+      "offer_name": "серый (Ткань). \nРазмеры 71x78x74 см"
+    }
+  ],
+  "product_code": "178285",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,115 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_louix_s_podushkoi_4/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Louix с подушкой Жёлтый",
+  "product_price": {
+    "new_price": 17420,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55897/stul_louix_s_podushkoi_4__1__big.jpg",
+  "additional_images": [
+    "/pic/55897/stul_louix_s_podushkoi_4__2__big.jpg",
+    "/pic/55897/stul_louix_s_podushkoi_4__3__big.jpg",
+    "/pic/55897/stul_louix_s_podushkoi_4__4__big.jpg",
+    "/pic/55897/stul_louix_s_podushkoi_4__5__big.jpg",
+    "/pic/55897/stul_louix_s_podushkoi_4__6__big.jpg",
+    "/pic/55897/stul_louix_s_podushkoi_4__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021398",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "желтый",
+    "Материал": "дерево, металл, экокожа",
+    "Стиль": "лофт, ретро",
+    "Страна производства": "Китай",
+    "Вес": "10",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "экокожа",
+    "Цвет каркаса": "Желтый",
+    "Куда поставить": "в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Мощность 1 лампы": "0, 05",
+    "Материал каркаса": "металл",
+    "Форма": "Овальная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "медальон",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "с подлокотниками, жесткие",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Все модели мебельной коллекции Louix выполнены в индустриальном стиле, который все больше становится константой среди современных европейских интерьеров.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_7/",
+      "name": "Стул венский металлический белый Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_12/",
+      "name": "Стул венский металлический голубой Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_10/",
+      "name": "Стул венский металлический желтый Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_14/",
+      "name": "Стул венский металлический зеленый Marais Color",
+      "offer_name": "зеленый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_aged_1/",
+      "name": "Стул венский металлический состаренный Marais Aged",
+      "offer_name": "коричневый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_13/",
+      "name": "Стул венский металлический красный Marais Color",
+      "offer_name": "красный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_11/",
+      "name": "Стул венский металлический оранжевый Marais Color",
+      "offer_name": "оранжевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_8/",
+      "name": "Стул венский металлический серый Marais Color",
+      "offer_name": "серый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_9/",
+      "name": "Стул венский металлический черный Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "050009",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,69 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_chernyi_filon2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул мягкий бежевый с черным каркасом Filon2",
+  "product_price": {
+    "new_price": 20944,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/84230/stul_chernyi_filon2__1__big.jpg",
+  "additional_images": [
+    "/pic/84230/stul_chernyi_filon2__2__big.jpg",
+    "/pic/84230/stul_chernyi_filon2__3__big.jpg",
+    "/pic/84230/stul_chernyi_filon2__4__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Домашняя обстановка",
+    "Код товара": "DO-GC24-NE",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый",
+    "Материал": "дерево, ткань",
+    "Стиль": "классический",
+    "Страна производства": "КИТАЙ",
+    "Коллекция": "Art-noir",
+    "Вес": "10",
+    "Особенности": "без подушек",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул из коллекции Art-noir",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_tulip_belyi__seryi_1/",
+      "name": "Стул Tulip белый / светло-серый",
+      "offer_name": "белый, серый (экокожа)"
+    }
+  ],
+  "product_code": "115698",
+  "product_detail_text_images": []
+}

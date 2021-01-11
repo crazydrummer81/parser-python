@@ -1,0 +1,114 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_joni_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул белый со спинкой и сиденьем светлый орех Joni",
+  "product_price": {
+    "new_price": 21800,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55929/stul_joni_2__1__big.jpg",
+  "additional_images": [
+    "/pic/55929/stul_joni_2__2__big.jpg",
+    "/pic/55929/stul_joni_2__3__big.jpg",
+    "/pic/55929/stul_joni_2__4__big.jpg",
+    "/pic/55929/stul_joni_2__5__big.jpg",
+    "/pic/55929/stul_joni_2__6__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021327",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево, металл",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Joni",
+    "Вес": "7",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Белый",
+    "Куда поставить": "в гостиную, для комнаты, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "дизайнерский, обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Joni — это дизайнерский стул, скомбинированный из традиционных атрибутов этого типа изделия, а также пары свежих штрихов.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_7/",
+      "name": "Стул венский металлический белый Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_12/",
+      "name": "Стул венский металлический голубой Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_10/",
+      "name": "Стул венский металлический желтый Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_14/",
+      "name": "Стул венский металлический зеленый Marais Color",
+      "offer_name": "зеленый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_aged_1/",
+      "name": "Стул венский металлический состаренный Marais Aged",
+      "offer_name": "коричневый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_13/",
+      "name": "Стул венский металлический красный Marais Color",
+      "offer_name": "красный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_11/",
+      "name": "Стул венский металлический оранжевый Marais Color",
+      "offer_name": "оранжевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_8/",
+      "name": "Стул венский металлический серый Marais Color",
+      "offer_name": "серый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_9/",
+      "name": "Стул венский металлический черный Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "050041",
+  "product_detail_text_images": []
+}

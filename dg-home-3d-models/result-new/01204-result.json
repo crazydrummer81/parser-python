@@ -1,0 +1,58 @@
+{
+  "source_url": "https://dg-home.ru/catalog/banketki/skamia_tomoko_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Банкетки",
+      "url": "https://dg-home.ru/catalog/banketki/"
+    }
+  ],
+  "product_name": "Скамья Tomoko светло-коричневая",
+  "product_price": {
+    "new_price": 28756,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/67109/skamia_tomoko_1__1__big.jpg",
+  "additional_images": [
+    "/pic/67109/skamia_tomoko_1__2__big.jpg",
+    "/pic/67109/skamia_tomoko_1__3__big.jpg",
+    "/pic/67109/skamia_tomoko_1__4__big.jpg",
+    "/pic/67109/skamia_tomoko_1__5__big.jpg",
+    "/pic/67109/skamia_tomoko_1__6__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-003365",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерский интерьер",
+    "Вес": "13.3",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Банкетки",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Скамья Tomoko совершенно уникальна по своему дизайну — она представляет собой причудливую комбинацию скамьи и стула. С середины сиденья на скамье имеется спинка, а также легкая вогнутость, благодаря чему на скамье сидеть очень комфортно.В В Дизайн олицетворяет бесподобную и органичную комбинацию сдержанности и в тоже время креативности.В <br> <br> Дизайнер скамьи Шон Дикс, чьи работы известны во всех прогрессивных странах, любит создавать неповторимый дизайн, в котором воплощена не то...",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/rabochie_kresla/kreslo_eames_style_hb_soft_pad_executive_chair_ea_219_kremovaia_kozha/",
+      "name": "Кресло Eames Style на колесиках кремовая кожа",
+      "offer_name": "Бежевый (кожа)"
+    }
+  ],
+  "product_code": "051220",
+  "product_detail_text_images": []
+}

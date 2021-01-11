@@ -1,0 +1,70 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_joy_s_nizkoi_spinkoi/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло Joy серое",
+  "product_price": {
+    "new_price": 34800,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/37385/kreslo_joy_s_nizkoi_spinkoi__1__big.jpg",
+  "additional_images": [
+    "/pic/37385/kreslo_joy_s_nizkoi_spinkoi__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Garda Decor",
+    "Код товара": "GD-HD2109782-12945-3",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Серый",
+    "Материал": "Ткань, дерево",
+    "Стиль": "Модерн, Ампир, Барокко, Классический, Французский",
+    "Страна производства": "Китай",
+    "Коллекция": "Joy",
+    "Вес": "30",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "интерьерные",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> ткань - шенилл 100% полиэстер, ножки - махагон",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_amelie_french_country_chair_korichnevyi_veliur/",
+      "name": "Кресло маленькое коричневое со стяжкой Amelie French Country Chair",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_amelie_french_country_chair_tiomno-_korichnevyi_veliur/",
+      "name": "Кресло маленькое темно-коричневое со стяжкой Amelie",
+      "offer_name": "коричневый (Ткань)"
+    }
+  ],
+  "product_code": "033666",
+  "product_detail_text_images": []
+}

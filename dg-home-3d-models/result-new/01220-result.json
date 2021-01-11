@@ -1,0 +1,74 @@
+{
+  "source_url": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_luisa_seriy/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Пуфы",
+      "url": "https://dg-home.ru/catalog/pufy_i_ottomanki/"
+    }
+  ],
+  "product_name": "Пуф Luisa разноцветный",
+  "product_price": {
+    "new_price": 22000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/111773/puf_luisa_seriy__1__big.jpg",
+  "additional_images": [
+    "/upload/iblock/8ab/musthave_residence_pouf_couture_by_lorenza_bozzoli2.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-PF27",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "черный, розовый, разноцветный",
+    "Материал": "Ткань, дерево",
+    "Стиль": "Модерн, Современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Fringe",
+    "Вес": "10",
+    "Особенности": "без ножек",
+    "Цвет каркаса": "Серый",
+    "Куда поставить": "в гостиную, в столовую, в офис, в детскую, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Форма": "круглые",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Вид спинки": "Нет спинки",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Пуф Luisa с отделкой из бахромы придаст кокетства вашему интерьеру.<br> Цвет бахромы может быть любой.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_biruza/",
+      "name": "Пуф Sangry 2 Бирюзовый бирюзовый",
+      "offer_name": "Бирюзовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_bordo/",
+      "name": "Пуф Sangry 2 Бордовый бордовый",
+      "offer_name": "Бордовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry2_seryi/",
+      "name": "Пуф Sangry 2 серый",
+      "offer_name": "Серый"
+    }
+  ],
+  "product_code": "DG-128913",
+  "product_detail_text_images": []
+}

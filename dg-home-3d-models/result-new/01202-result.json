@@ -1,0 +1,61 @@
+{
+  "source_url": "https://dg-home.ru/catalog/banketki/skamia_barcelona_shirina_199_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Банкетки",
+      "url": "https://dg-home.ru/catalog/banketki/"
+    }
+  ],
+  "product_name": "Скамья Barcelona красная",
+  "product_price": {
+    "new_price": 86112,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/67100/skamia_barcelona_shirina_199_2__1__big.jpg",
+  "additional_images": [
+    "/pic/67100/skamia_barcelona_shirina_199_2__2__big.jpg",
+    "/pic/67100/skamia_barcelona_shirina_199_2__3__big.jpg",
+    "/pic/67100/skamia_barcelona_shirina_199_2__4__big.jpg",
+    "/pic/67100/skamia_barcelona_shirina_199_2__5__big.jpg",
+    "/pic/67100/skamia_barcelona_shirina_199_2__6__big.jpg",
+    "/upload/iblock/8d6/IMG_5756.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-003302",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "красный",
+    "Материал": "кожа, металл",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерский интерьер",
+    "Вес": "23.7",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Банкетки",
+    "Мощность 1 лампы": "0, 01",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Как так могло получиться, что дизайн, созданный 80 лет назад, до сих пор остается иконой стиля современной мебели?<br> &nbsp;&nbsp;&nbsp;&nbsp; Серия мебели arcelona разрабатывалась для испанской королевской семьи, однако оказалась невостребованной. Дизайн был результатом сотрудничества Лили Рейх и Людвига Миса ван Дер Роэ. В 1960-е годы эта мебель заняла свое заслуженное и почетное место в кабинетах банков, крупных компаний по всему миру и стала иконой стиля.<br> <br> <br> &nbsp;&nbsp;&nbsp;&nbsp;Дизайнерская скамья arcelona ширина ... Скамья Barcelona красная.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/rabochie_kresla/kreslo_eames_style_hb_soft_pad_executive_chair_ea_219_kremovaia_kozha/",
+      "name": "Кресло Eames Style на колесиках кремовая кожа",
+      "offer_name": "Бежевый (кожа)"
+    }
+  ],
+  "product_code": "051211",
+  "product_detail_text_images": []
+}

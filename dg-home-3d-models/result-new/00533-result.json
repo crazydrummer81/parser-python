@@ -1,0 +1,79 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_barcelona_1_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло Barcelona 1 Р красное",
+  "product_price": {
+    "new_price": 105700,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64141/kreslo_barcelona_1_1__1__big.jpg",
+  "additional_images": [
+    "/pic/64141/kreslo_barcelona_1_1__2__big.jpg",
+    "/pic/64141/kreslo_barcelona_1_1__3__big.jpg",
+    "/pic/64141/kreslo_barcelona_1_1__4__big.jpg",
+    "/pic/64141/kreslo_barcelona_1_1__5__big.jpg",
+    "/pic/64141/kreslo_barcelona_1_1__6__big.jpg",
+    "/pic/64141/kreslo_barcelona_1_1__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-003196",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "красный",
+    "Материал": "Кожа",
+    "Стиль": "Хай-Тек, Современный, Скандинавский, Лофт",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Barcelona",
+    "Вес": "28.5",
+    "Особенности": "с ножками",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "кожа",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Дизайнерские",
+    "Дизайнер (бренд) оригинала": "Ludwig Mies van der Rohe",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая, с каретной стяжкой",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Две"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Как так могло получиться, что кресло, созданное 80 лет назад, до сих пор остается для современной мебели иконой стиля? Кресло Barcelona разрабатывалось для испанской королевской семьи, однако не оказалось востребованным, но нашло своего потребителя уже в новейшее время.<br> Дизайн кресла был результатом сотрудничества Лили Рейх и Людвига Миса ван дер Роэ. В 1960-е годы это кресло заняло свое заслуженное и почетное место в кабинетах банков, крупных компаний по всему миру и стало иконой.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_amelie_french_country_chair_korichnevyi_veliur/",
+      "name": "Кресло маленькое коричневое со стяжкой Amelie French Country Chair",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_amelie_french_country_chair_tiomno-_korichnevyi_veliur/",
+      "name": "Кресло маленькое темно-коричневое со стяжкой Amelie",
+      "offer_name": "коричневый (Ткань)"
+    }
+  ],
+  "product_code": "050330",
+  "product_detail_text_images": []
+}

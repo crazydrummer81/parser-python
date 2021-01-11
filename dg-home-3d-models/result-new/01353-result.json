@@ -1,0 +1,86 @@
+{
+  "source_url": "https://dg-home.ru/catalog/formy_dlya_zapekaniya/forma_dlia_zapekaniia_alice_red_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Посуда",
+      "url": "https://dg-home.ru/catalog/posuda/"
+    },
+    {
+      "name": "Посуда для приготовления пищи",
+      "url": "https://dg-home.ru/catalog/prigotovlenie_pishchi/"
+    },
+    {
+      "name": "Посуда для духовки",
+      "url": "https://dg-home.ru/catalog/posuda_dlya_dukhovki/"
+    },
+    {
+      "name": "Формы для запекания",
+      "url": "https://dg-home.ru/catalog/formy_dlya_zapekaniya/"
+    }
+  ],
+  "product_name": "Форма для запекания \"Alice red\"",
+  "product_price": {
+    "new_price": 1000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/149411/forma_dlia_zapekaniia_alice_red_1__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Greengate",
+    "Код товара": "LEV-STWPIEASALI1006",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Красный",
+    "Материал": "Фарфор",
+    "Стиль": "Классический, Современный",
+    "Страна производства": "Дания",
+    "Коллекция": "Alice",
+    "Вес": "0.246",
+    "Куда поставить": "На стол, в кухню, в столовую, в кафе, ресторан, на дачу",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Все формы для запекания Alice red датского бренда Greengate выполнены из жаропрочного керамогранита, поэтому выпечка пропекается равномерно и быстро. В уходе они неприхотливы: загрязнения легко очищаются как вручную, так и в посудомоечной машине. Порционные формы, рамекины – находка для любителей жульенов, французских кишей и десертов крем-брюлле.<br> Базовая коллекция Alice создана для идеального сочетания посуды ранних и будущих коллекций Greengate. Впервые появилась в каталогах в 2016 году и с тех пор завоевала миллионы сердец своей универсальностью, насыщенными цветами и разнообразием посудной линейки. Сочный красный цвет Alice red традиционно выигрышно смотрится не только в праздничный зимний период, но и летом, когда яркие краски фруктов, овощей и ягод выгодно подчеркивают сервировку. Сочетать красную посуду Грингейт с изделиями других коллекций не составит особого труда, ведь оттеняя ее серым, можно выгодно подчеркнуть ягодную яркость, а добавив элементы с золотой отделкой, придать сервировке праздничный оттенок.<br> Диаметр – 10,5 см<br> Страна-производитель – Дания",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_beloe/",
+      "name": "Зеркало напольное в полный рост белое с гвоздиками",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_beloe/",
+      "name": "Зеркало напольное в полный рост белое",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sero-rozovoe/",
+      "name": "Зеркало напольное в полный рост серо-розовое с гвоздиками",
+      "offer_name": "бронза, розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_perlamutrovoe/",
+      "name": "Зеркало напольное в полный рост розовое",
+      "offer_name": "розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_serebro/",
+      "name": "Зеркало напольное в полный рост серебристое",
+      "offer_name": "серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sinee/",
+      "name": "Зеркало напольное в полный рост синее с гвоздиками",
+      "offer_name": "синий"
+    }
+  ],
+  "product_code": "224062",
+  "product_detail_text_images": []
+}

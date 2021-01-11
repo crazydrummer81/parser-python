@@ -1,0 +1,55 @@
+{
+  "source_url": "https://dg-home.ru/catalog/banketki/skamia_copine_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Банкетки",
+      "url": "https://dg-home.ru/catalog/banketki/"
+    }
+  ],
+  "product_name": "Скамья Copine бежевая",
+  "product_price": {
+    "new_price": 32600,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/67102/skamia_copine_3__1__big.jpg",
+  "additional_images": [
+    "/pic/67102/skamia_copine_3__2__big.jpg",
+    "/pic/67102/skamia_copine_3__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-009566",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый",
+    "Материал": "дерево",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерский интерьер",
+    "Вес": "16.3",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Банкетки",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Скамья Copine — это изящная, но долговечная скамья, выполненная из белого дуба или американского Коричневыйа. Выразительная структура дерева подверглась качественной обработке искусных мастеров и представлена на суд требовательного потребителя. Дизайн скамьи выполнил известный американский дизайнер Шон Дикс,В&nbsp;&nbsp;обладатель многих престижных наград в области дизайна. Мебель Шона Дикса минималистична и интеллектуальна, прекрасно обработана и очень функциональна. Она несет в себе чувс... Скамья Copine бежевая.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/rabochie_kresla/kreslo_eames_style_hb_soft_pad_executive_chair_ea_219_kremovaia_kozha/",
+      "name": "Кресло Eames Style на колесиках кремовая кожа",
+      "offer_name": "Бежевый (кожа)"
+    }
+  ],
+  "product_code": "051213",
+  "product_detail_text_images": []
+}

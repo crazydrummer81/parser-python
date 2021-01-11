@@ -1,0 +1,66 @@
+{
+  "source_url": "https://dg-home.ru/catalog/zerkala/zerkalo_jante/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Зеркала",
+      "url": "https://dg-home.ru/catalog/zerkala/"
+    }
+  ],
+  "product_name": "Зеркало настенное венецианское в резной зеркальной раме Jante",
+  "product_price": {
+    "new_price": 15399,
+    "old_price": 23690
+  },
+  "pruduct_detail_image": "/pic/11939/zerkalo_jante__1__big.jpg",
+  "additional_images": [
+    "/pic/11939/zerkalo_jante__2__big.jpg",
+    "/pic/11939/zerkalo_jante__3__big.jpg",
+    "/pic/11939/zerkalo_jante__4__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-D-MR48",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "зеркальный",
+    "Стиль": "классический, французский",
+    "Страна производства": "Китай",
+    "Коллекция": "Витраж",
+    "Вес": "5",
+    "Куда поставить": "в гостиную, в кабинет, в кафе, ресторан, в прихожую, в спальню, в столовую, в офис",
+    "Тип (назначение, особенности)": "настенное",
+    "Посудомоечная машина": "Нет",
+    "Тип багета": "резной",
+    "Багет": "с багетом",
+    "Форма": "фигурные",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Оригинальное и изысканное зеркало Jante в такой же зеркальной раме станет ультрамодным аксессуаром и отличным украшением вашего дома. Очаровательная форма, роскошное исполнение и оптимальный для любой комнаты размер позволят вам сделать помещение еще уютнее и теплее. Прекрасно будет сочетаться как с зеркальной мебелью, так и с любой другой.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_dub/",
+      "name": "Журнальный столик деревянный фигурный дуб \"Пень\" от Odingeniy",
+      "offer_name": "бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_belenyi_dub/",
+      "name": "Журнальный столик дизайнерский фигурный беленый дуб 97 см \"Пень\" от Odingeniy",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/stol_pen_oreh/",
+      "name": "Журнальный столик деревянный фигурный орех \"Пень\" от Odingeniy",
+      "offer_name": "орех, коричневый"
+    }
+  ],
+  "product_code": "DG-004520",
+  "product_detail_text_images": []
+}

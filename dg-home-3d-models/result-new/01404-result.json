@@ -1,0 +1,59 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_vektory/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Векторы\"",
+  "product_price": {
+    "new_price": 14000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127026/panno_vektory__1__big.jpg",
+  "additional_images": [
+    "/pic/127026/panno_vektory__2__big.jpg",
+    "/pic/127026/panno_vektory__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P42",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "шампань",
+    "Материал": "металл",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "10",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p>Панно \"Векторы\" — это настенное панно из металла. Цвет панно шампань. Панно можно повесить как вертикально так и горизонтально.&nbsp;<br>Размер: 900 х 450 х 60 мм</p> <p>Интернет-магазин современного искусства&nbsp;<span>DecoriDom.ru&nbsp;</span>поставляет настенный декор и скульптуры выполненные в стиле Modern Art. </p><p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_zontiki_v_rame/",
+      "name": "Панно \"Зонтики в раме\"",
+      "offer_name": "серебро"
+    }
+  ],
+  "product_code": "173067",
+  "product_detail_text_images": []
+}

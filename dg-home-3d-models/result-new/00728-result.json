@@ -1,0 +1,105 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_jenna_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул бежевый с широкой спинкой Jenna",
+  "product_price": {
+    "new_price": 12500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/56089/stul_jenna_1__1__big.jpg",
+  "additional_images": [
+    "/pic/56089/stul_jenna_1__2__big.jpg",
+    "/pic/56089/stul_jenna_1__3__big.jpg",
+    "/pic/56089/stul_jenna_1__4__big.jpg",
+    "/pic/56089/stul_jenna_1__5__big.jpg",
+    "/pic/56089/stul_jenna_1__6__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0062410",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево, ткань",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Jenna",
+    "Вес": "7.5",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "дизайнерский, обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Дизайнерский стул Jenna будет особенно выигрышно смотреться в уютных помещениях, которые необходимо дополнить мягкими приятными формами и цветами.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_8/",
+      "name": "Барный стул белый со спинкой Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_13/",
+      "name": "Барный стул со спинкой голубой Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_15/",
+      "name": "Барный стул металлический желтый со спинкой Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_14/",
+      "name": "Барный стул со спинкой красный Marais Color",
+      "offer_name": "красный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_12/",
+      "name": "Барный стул со спинкой оранжевый Marais Color",
+      "offer_name": "оранжевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_10/",
+      "name": "Барный стул со спинкой серый Marais Color",
+      "offer_name": "серый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_so_spinkoi_9/",
+      "name": "Барный стул черный со спинкой Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "050201",
+  "product_detail_text_images": []
+}

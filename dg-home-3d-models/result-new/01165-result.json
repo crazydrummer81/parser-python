@@ -1,0 +1,63 @@
+{
+  "source_url": "https://dg-home.ru/catalog/taburety/taburet__wisdom_tooth_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Табуреты",
+      "url": "https://dg-home.ru/catalog/taburety/"
+    }
+  ],
+  "product_name": "Табурет Wisdom Tooth",
+  "product_price": {
+    "new_price": 11690,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64044/taburet__wisdom_tooth_1__1__big.jpg",
+  "additional_images": [
+    "/pic/64044/taburet__wisdom_tooth_1__2__big.jpg",
+    "/pic/64044/taburet__wisdom_tooth_1__3__big.jpg",
+    "/pic/64044/taburet__wisdom_tooth_1__4__big.jpg",
+    "/pic/64044/taburet__wisdom_tooth_1__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021470",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "металл",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "3",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Мощность 1 лампы": "0, 01",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Данная модель табурета известна по всему миру благодаря необычной уникальной форме, с виду напоминающей зуб мудрости. Отсюда и название — с английского wisdom tooth переводится как «зуб мудрости». Этот невероятно удобный стальной табурет, придуманный японским дизайнером Ясу Сасамото, отлично подходит как для какой-нибудь кофейной лавки, так и для уютной семейной кухни.<br> <br> Табурет Wisdom Tooth покрыт особым защитным составом, благодаря которому цветное покрытие не блекнет, приковывая к ...",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_a/",
+      "name": "Табурет деревянный круглый Stool Model A коричневый - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_b/",
+      "name": "Табурет Stool Model B - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    }
+  ],
+  "product_code": "050233",
+  "product_detail_text_images": []
+}

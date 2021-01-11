@@ -1,0 +1,94 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_pierce_/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло Pierce голубое",
+  "product_price": {
+    "new_price": 79290,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/151141/kreslo_pierce___1__big.jpg",
+  "additional_images": [
+    "/pic/151141/kreslo_pierce___2__big.jpg",
+    "/pic/151141/kreslo_pierce___3__big.jpg",
+    "/pic/151141/kreslo_pierce___4__big.jpg",
+    "/pic/151141/kreslo_pierce___5__big.jpg",
+    "/pic/151141/kreslo_pierce___6__big.jpg",
+    "/pic/151141/kreslo_pierce___7__big.jpg",
+    "/pic/151141/kreslo_pierce___8__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0033128",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой",
+    "Материал": "дерево, ткань",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "30",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая, с каретной стяжкой",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Высота сиденья": "56",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Дизайнерское мягкое удобное кресло Pierce с широкой спинкой от Cosmo.<br> <br> <br> Кресло Pierce отличается спокойным цветовым оформлением, которое, однако, придает ему особенную притягательность и красоту. Каретная стяжка на внутренней стороне спинки также служит прекрасным украшением, благодаря которому кресло приобретает легкий оттенок классики и дизайнерских традиций. Компания Cosmo предлагает на выбор три варианта расцветки: оливковый, голубой и бежевый, поэтому вы легко сможете подобрать име. Кресло Pierce голубое.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_11/",
+      "name": "Кресло Contour 2 бежевое",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_8/",
+      "name": "Кресло дизайнерское голубое Contour 2",
+      "offer_name": "голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_13/",
+      "name": "Кресло дизайнерское желтое Contour 2",
+      "offer_name": "желтый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_9/",
+      "name": "Кресло дизайнерское салатовое Contour 2",
+      "offer_name": "зеленый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_7/",
+      "name": "Кресло дизайнерское оранжевое Contour 2",
+      "offer_name": "оранжевый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_10/",
+      "name": "Кресло дизайнерское серое Contour 2",
+      "offer_name": "серый (Ткань)"
+    }
+  ],
+  "product_code": "123448",
+  "product_detail_text_images": []
+}

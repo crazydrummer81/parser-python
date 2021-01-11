@@ -1,0 +1,81 @@
+{
+  "source_url": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_londres_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Пуфы",
+      "url": "https://dg-home.ru/catalog/pufy_i_ottomanki/"
+    }
+  ],
+  "product_name": "Пуф Londres английский флаг",
+  "product_price": {
+    "new_price": 8900,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/58566/puf_londres_1__1__big.jpg",
+  "additional_images": [
+    "/pic/58566/puf_londres_1__2__big.jpg",
+    "/pic/58566/puf_londres_1__3__big.jpg",
+    "/pic/58566/puf_londres_1__4__big.jpg",
+    "/pic/58566/puf_londres_1__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Lazy Life Paris",
+    "Код товара": "CS-F-0036049",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "белый, красный, синий, разноцветный",
+    "Материал": "Хлопок",
+    "Стиль": "Лофт, Модерн, Хай-тек, Современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "2.6",
+    "Особенности": "без ножек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Ткань",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "дизайнерский",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "бескаркасный",
+    "Форма": "Квадратные",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Вид спинки": "Нет спинки",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стильный пуф от бренда Lazy Life. Пуф сделан в стиле британского флага и станет отличным украшением, как в комнате подростка, так и у взрослого ценителя молодежного стиля. <br> Французы постарались на славу создавая этот пуф, ведь сделан он из высококачественных материалов и обеспечит вам как удобство и комфорт, так и долговечность в его использовании. Пуф Londres - одна из наиболее популярнейших моделей этого бренда. Он отлично сочитается с большинством современных стилей, таких как: лофт, хай-тек и многим другим.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_biruza/",
+      "name": "Пуф Sangry 2 Бирюзовый бирюзовый",
+      "offer_name": "Бирюзовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_bordo/",
+      "name": "Пуф Sangry 2 Бордовый бордовый",
+      "offer_name": "Бордовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry2_seryi/",
+      "name": "Пуф Sangry 2 серый",
+      "offer_name": "Серый"
+    }
+  ],
+  "product_code": "051200",
+  "product_detail_text_images": []
+}

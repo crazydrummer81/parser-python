@@ -1,0 +1,62 @@
+{
+  "source_url": "https://dg-home.ru/catalog/banketki/banketka_s_veshalkoi_tsikl/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Банкетки",
+      "url": "https://dg-home.ru/catalog/banketki/"
+    }
+  ],
+  "product_name": "Банкетка Bellona серая с вешалкой",
+  "product_price": {
+    "new_price": 51000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127637/banketka_s_veshalkoi_tsikl__1__big.jpg",
+  "additional_images": [
+    "/pic/127637/banketka_s_veshalkoi_tsikl__2__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__3__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__4__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__5__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__6__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__7__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__8__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__9__big.jpg",
+    "/pic/127637/banketka_s_veshalkoi_tsikl__10__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-17101",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "беленый дуб, серый",
+    "Материал": "МДФ, шпон",
+    "Стиль": "Современный, скандинавский",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Цикл",
+    "Вес": "40",
+    "Куда поставить": "в гостиную, в кабинет, в столовую, в спальню, в прихожую",
+    "Количество мест у товара": "2"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Тумба \"Цикл\" дополнилась вешалкой, и теперь это удобная банкетка в прихожую! Банкетка крепкая, можно сидеть.<br> Высота тумбы 40 см, высота вешалки 180 см<br> Возможны другие отделки<br> Установка не требуется",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/rabochie_kresla/kreslo_eames_style_hb_soft_pad_executive_chair_ea_219_kremovaia_kozha/",
+      "name": "Кресло Eames Style на колесиках кремовая кожа",
+      "offer_name": "Бежевый (кожа)"
+    }
+  ],
+  "product_code": "178307",
+  "product_detail_text_images": []
+}

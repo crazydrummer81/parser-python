@@ -1,0 +1,60 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/koltsa_s_zerkalami_oval/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Кольца с зеркалами овал",
+  "product_price": {
+    "new_price": 30000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/35151/koltsa_s_zerkalami_oval__1__big.jpg",
+  "additional_images": [
+    "/pic/35151/koltsa_s_zerkalami_oval__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P09",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Серебро",
+    "Материал": "Композитный материал",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Vintage",
+    "Вес": "1",
+    "Куда поставить": "в гостиную, в прихожую, в кафе, ресторан, в офис, в спальню, на дачу",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> настенное панно из фрезерованного МДФ с зеркальными вставками. Цвет панно серебро. Данное панно можно повесить как вертикально так и горизонтально.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_gimnast_2/",
+      "name": "Панно \"Гимнаст 2\"",
+      "offer_name": "чёрный, серебро"
+    }
+  ],
+  "product_code": "029935",
+  "product_detail_text_images": []
+}

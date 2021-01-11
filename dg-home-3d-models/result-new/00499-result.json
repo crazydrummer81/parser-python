@@ -1,0 +1,87 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_harrison_/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло кожаное светло-коричневое Harrison",
+  "product_price": {
+    "new_price": 115000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/151145/kreslo_harrison___1__big.jpg",
+  "additional_images": [
+    "/pic/151145/kreslo_harrison___2__big.jpg",
+    "/pic/151145/kreslo_harrison___3__big.jpg",
+    "/pic/151145/kreslo_harrison___4__big.jpg",
+    "/pic/151145/kreslo_harrison___5__big.jpg",
+    "/pic/151145/kreslo_harrison___6__big.jpg",
+    "/pic/151145/kreslo_harrison___7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0033125",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "кожа, дерево",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "42.9",
+    "Особенности": "с ножками",
+    "Материал обивки": "кожа",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Дизайнерское коричневое современное кожаное кресло Harrison (Хэррисон) от&nbsp;&nbsp;Cosmo (Космо).<br> <br> <br> &nbsp;&nbsp;&nbsp;&nbsp; Дизайнеры компании Cosmo не устают радовать нас интересными новинками. Представленное здесь кресло Harrison являет собой традиционную строгую классику, без лишних деталей и чрезмерного оформления. Кресло имеет «пузатую» форму, что придает ему особый уют и комфортность. Благодаря широкой спинке и удобному сиденью вы сможете отдохнуть в нем с максимальным удобством. Кресло выполнено в коричневом ц. Кресло Harrison светло-коричневое.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_belyi/",
+      "name": "Кресло ALMA белое - белый (кожа). \nРазмеры 71x78x74 см",
+      "offer_name": "белый (кожа). \nРазмеры 71x78x74 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_biriuzovyi/",
+      "name": "Кресло Alma бирюзовое - бирюзовый (Ткань). \nРазмеры 71x74x78 см",
+      "offer_name": "бирюзовый (Ткань). \nРазмеры 71x74x78 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_molochnyi/",
+      "name": "Кресло ALMA молочное - молочный (Ткань). \nРазмеры 71x78x74 см",
+      "offer_name": "молочный (Ткань). \nРазмеры 71x78x74 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_temno_seryi/",
+      "name": "Кресло ALMA на круглом основании темно-серое - серый (Ткань). \nРазмеры 71x78x74 см",
+      "offer_name": "серый (Ткань). \nРазмеры 71x78x74 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_alma_sinii/",
+      "name": "Кресло ALMA синее - синий (Ткань). \nРазмеры 71x78x74 см",
+      "offer_name": "синий (Ткань). \nРазмеры 71x78x74 см"
+    }
+  ],
+  "product_code": "123452",
+  "product_detail_text_images": []
+}

@@ -49,12 +49,13 @@ class Client:
 		'product_characteristics' : [],
 		'product_detail_text': None,
 		'product_preview_text': None,
+		'product_offers': None,
 	}
 	isClicked = False
 
 	result_file_path = ''
 
-	def __init__(self, url, result_file_path):
+	def __init__(self, url, result_file_path, need_click):
 		# self.session = requests.session() # Запитывает в себя куки, заголовки и т.д., чтобы не заподозрили
 		# self.session = requests.session() # Запитывает в себя куки, заголовки и т.д., чтобы не заподозрили
 		# self.session.headers = {
@@ -80,7 +81,8 @@ class Client:
 		self.parse_params()
 		self.parse_description()
 		self.parse_description_short()
-		self.click3d()
+		self.parse_offers()
+		if need_click: self.click3d()
 
 	# Парсинг цепочки категории товара
 	def product_category(self):
@@ -197,6 +199,29 @@ class Client:
 		content = ''
 		self.ParseResult['product_preview_text'] = content
 
+	# Пассинг ссылок на торговые предложения
+	def parse_offers(self):
+		try:
+			offers_wrapper_node =  driver.find_element_by_css_selector('.other-colors')
+		except:
+			print('no .other-colors')
+			return
+
+		link_nodes = offers_wrapper_node.find_elements_by_css_selector('a.slideshow--slide')
+		product_offers = []
+		for link_node in link_nodes:
+			href = link_node.get_attribute('href')
+			img_node = link_node.find_element_by_css_selector('img')
+			name = img_node.get_attribute('alt')
+			offer_name = img_node.get_attribute('title')
+			product_offers.append({
+				'href': href,
+				'name': re.sub(r'\s+-\s+.*$', '', name).strip(),
+				'offer_name': re.sub(r' − в наличии', '', offer_name).strip(),
+			})
+
+		self.ParseResult['product_offers'] = product_offers
+
 	def click3d(self):
 		driver.execute_script("const a123 = document.querySelector('.q-panel'); if(a123) a123.style.display = 'none';")
 		driver.execute_script("const b123 = document.querySelector('.modalBuilder'); if (b123) b123.style.display = 'none';")
@@ -209,7 +234,7 @@ class Client:
 			return
 		link.click()
 		self.isClicked = link != None
-		# sleep(1)
+		sleep(1)
 
 	def run(self):
 		logger.debug('='*50)
@@ -289,8 +314,8 @@ if __name__ == '__main__':
 
 	result_file_path = 'result.json'
 	# result_folder = 'result-' + current_time + '/'
-	result_folder = 'result-final/'
-	start_index = 1503
+	result_folder = 'result-new/'
+	start_index = 0
 	end_index = 2000
 	max_clicks = 2000
 	try:
@@ -304,22 +329,25 @@ if __name__ == '__main__':
 		if counter < start_index: continue
 		if counter > end_index: break
 
-		#todo СВЕРИТЬ JSON-ФАЙЛ И СКАЧАНЫЕ ФАЙЛЫ, ЕСЛИ ФАЙЛ СКАЧАН, ПРОПУСКЕМ
+		need_click = False
+		#todo СВЕРИТЬ JSON-ФАЙЛ И СКАЧАНЫЕ ФАЙЛЫ, ЕСЛИ ФАЙЛ СКАЧАН, НЕ КЛИКАЕМ
 		target_filename = result_folder + f'{counter:05d}' + '-' + result_file_path
+		check_dl_filename = 'result-fixed/' + f'{counter:05d}' + '-' + result_file_path
 		try:
-			with open(target_filename, 'r', encoding='utf-8') as f:
+			with open(check_dl_filename, 'r', encoding='utf-8') as f:
 				product = json.load(f)
 			print(product['product_code'])
 			if f and (product['product_code'] in dl_sku_list): 
 				count_allready_dl += 1
 				print('3D-модель продукта %s скачана.\nСкачано %s моделей.' % (product['product_code'], count_allready_dl))
-				continue
+				# continue
 		except:
 			print ('Файла %s не существует пока' % target_filename)
+			need_click = True
 		
 
-		parser = Client(url.strip(), target_filename)
-		sleep(2)
+		parser = Client(url.strip(), target_filename, need_click)
+		sleep(1)
 		print(f'---> {counter:05d} <---')
 		print(url)
 		if (parser.run()): count3d += 1

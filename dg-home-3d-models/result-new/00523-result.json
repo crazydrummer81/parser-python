@@ -1,0 +1,71 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_swan_sinee/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло Swan синее",
+  "product_price": {
+    "new_price": 47000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/133720/kreslo_swan_sinee__1__big.jpg",
+  "additional_images": [
+    "/pic/133720/kreslo_swan_sinee__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "ICON Designe",
+    "Код товара": "IСD-57759",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "синий",
+    "Материал": "металл, ткань",
+    "Стиль": "Скандинавский",
+    "Страна производства": "Россия",
+    "Коллекция": "Swan",
+    "Вес": "20",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, на дачу, в офис, в кабинет",
+    "Тип (назначение, особенности)": "офисные",
+    "Материал каркаса": "металл",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Да",
+    "Количество ножек": "Одна",
+    "Вид наполнения": "Поролон"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Мы в ICON Designe считаем, что мебель должна быть красивой и комфортной в любом пространстве, как например кресло Swan Синее, настоящее воплощение стиля и удобства, - прямое тому доказательство, ведь он прекрасно впишется и в уютные интерьеры дома и строгие интерьеры офиса.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_miatnyi/",
+      "name": "Кресло STEFANI на вращающемся основании светло-голубое - бирюзовый (Ткань). \nРазмеры 73x87x75 см",
+      "offer_name": "бирюзовый (Ткань). \nРазмеры 73x87x75 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_seryi/",
+      "name": "Кресло STEFANI серое - черный (кожа). \nРазмеры 73x87x75 см",
+      "offer_name": "черный (кожа). \nРазмеры 73x87x75 см"
+    }
+  ],
+  "product_code": "177997",
+  "product_detail_text_images": []
+}

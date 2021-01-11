@@ -1,0 +1,57 @@
+{
+  "source_url": "https://dg-home.ru/catalog/banketki/skamia_florence_kozhanaia_shirina_154_5/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Банкетки",
+      "url": "https://dg-home.ru/catalog/banketki/"
+    }
+  ],
+  "product_name": "Скамья Florence красная",
+  "product_price": {
+    "new_price": 90500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/67099/skamia_florence_kozhanaia_shirina_154_5__1__big.jpg",
+  "additional_images": [
+    "/pic/67099/skamia_florence_kozhanaia_shirina_154_5__2__big.jpg",
+    "/pic/67099/skamia_florence_kozhanaia_shirina_154_5__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-001939",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "красный",
+    "Материал": "металл, ткань",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерский интерьер",
+    "Вес": "25",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Банкетки",
+    "Мощность 1 лампы": "0, 01",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Универсальная коллекция Florence включает в себя кресло для отдыха, диван, двухместную и трехместную скамью. Как и многие инновационные проекты, ставшие для мебельной промышленности золотым стандартом, скамья Florence характеризуется объективным перфекционизмом современного дизайна середины XX столетия и архитектуры.<br> <br> <br> Скамья Florence кожаная ширина 154 состоит из отличных, индивидуально сшитых квадратов обивки, приложенной к хромированной стальной констр... Скамья Florence красная.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/rabochie_kresla/kreslo_eames_style_hb_soft_pad_executive_chair_ea_219_kremovaia_kozha/",
+      "name": "Кресло Eames Style на колесиках кремовая кожа",
+      "offer_name": "Бежевый (кожа)"
+    }
+  ],
+  "product_code": "051210",
+  "product_detail_text_images": []
+}

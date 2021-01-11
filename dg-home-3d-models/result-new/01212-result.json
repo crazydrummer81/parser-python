@@ -1,0 +1,81 @@
+{
+  "source_url": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_mich_laim/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Пуфы",
+      "url": "https://dg-home.ru/catalog/pufy_i_ottomanki/"
+    }
+  ],
+  "product_name": "Пуф Mich Лайм",
+  "product_price": {
+    "new_price": 40990,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/77872/puf_mich_laim__1__big.jpg",
+  "additional_images": [
+    "/pic/77872/puf_mich_laim__2__big.jpg",
+    "/pic/77872/puf_mich_laim__3__big.jpg",
+    "/pic/77872/puf_mich_laim__4__big.jpg",
+    "/pic/77872/puf_mich_laim__5__big.jpg",
+    "/pic/77872/puf_mich_laim__6__big.jpg",
+    "/upload/iblock/481/photofacefun_com_1525957372.jpg",
+    "/upload/iblock/42e/37196824_2118194821751675_4070477601775288320_n.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-PF16-1",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Лайм",
+    "Материал": "Ткань",
+    "Стиль": "Совсременный",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Mich",
+    "Вес": "12",
+    "Особенности": "с каретной стяжкой",
+    "Цвет каркаса": "Черный RAL - 9017",
+    "Куда поставить": "в гостиную, в столовую, в офис, в детскую, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Форма": "круглые",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Вид спинки": "Нет спинки",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Представляем вашему вниманию товар Пуф Mich Лайм, который вы можете купить на нашем сайте. <br> Данная модель в цвете Лайм обязательно придется по вкусу любому ценителю современных дизайнерских интерьеров. <br> А в нашем разделе Пуфы и оттоманки представлен огромный выбор аналогов!.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_mich_biruzoviy/",
+      "name": "Пуф Mich бирюзовый",
+      "offer_name": "Бирюзовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_mich_seryi_1/",
+      "name": "Пуф Mich серый",
+      "offer_name": "Серый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_mich_siniy/",
+      "name": "Пуф Mich синий",
+      "offer_name": "Синий"
+    }
+  ],
+  "product_code": "DG-095440",
+  "product_detail_text_images": []
+}

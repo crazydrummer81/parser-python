@@ -1,0 +1,81 @@
+{
+  "source_url": "https://dg-home.ru/catalog/zerkala/zerkalo_idle_time/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Зеркала",
+      "url": "https://dg-home.ru/catalog/zerkala/"
+    }
+  ],
+  "product_name": "Зеркало настенное в зеркальное раме Idle Time",
+  "product_price": {
+    "new_price": 26059,
+    "old_price": 40090
+  },
+  "pruduct_detail_image": "/pic/48333/zerkalo_idle_time__1__big.jpg",
+  "additional_images": [
+    "/pic/48333/zerkalo_idle_time__2__big.jpg",
+    "/pic/48333/zerkalo_idle_time__3__big.jpg",
+    "/pic/48333/zerkalo_idle_time__4__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-D-MR102",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "зеркальный",
+    "Стиль": "американский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Зеркальная",
+    "Вес": "36",
+    "Куда поставить": "в гостиную, в кабинет, в кафе, ресторан, в прихожую, в спальню, в столовую, в офис",
+    "Тип (назначение, особенности)": "настенное",
+    "Посудомоечная машина": "Нет",
+    "Тип багета": "гладкий",
+    "Багет": "с багетом",
+    "Форма": "Прямоугольные",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Зеркала являются незаменимыми элементами декора или элементами интерьера. Большие зеркала способны создавать причудливые эффекты: зрительно увеличивать комнату, создавать иллюзию удлиненной комнаты, углублять ниши.<br> Изысканное зеркало Idle Time добавит глубины и шарма интерьерам различных стилевых решений. Прямоугольная зеркальная поверхность и четыре грани с каждой стороны смотрятся при этом легко, не \"отягощая\" даже сложные интерьерные композиции.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_beloe/",
+      "name": "Зеркало напольное в полный рост белое с гвоздиками",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_beloe/",
+      "name": "Зеркало напольное в полный рост белое",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sero-rozovoe/",
+      "name": "Зеркало напольное в полный рост серо-розовое с гвоздиками",
+      "offer_name": "бронза, розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_perlamutrovoe/",
+      "name": "Зеркало напольное в полный рост розовое",
+      "offer_name": "розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_serebro/",
+      "name": "Зеркало напольное в полный рост серебристое",
+      "offer_name": "серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sinee/",
+      "name": "Зеркало напольное в полный рост синее с гвоздиками",
+      "offer_name": "синий"
+    }
+  ],
+  "product_code": "DG-045335",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,85 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_bontempi_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул мягкий голубой Bontempi",
+  "product_price": {
+    "new_price": 33300,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/56016/stul_bontempi_3__1__big.jpg",
+  "additional_images": [
+    "/pic/56016/stul_bontempi_3__2__big.jpg",
+    "/pic/56016/stul_bontempi_3__3__big.jpg",
+    "/pic/56016/stul_bontempi_3__4__big.jpg",
+    "/pic/56016/stul_bontempi_3__5__big.jpg",
+    "/pic/56016/stul_bontempi_3__6__big.jpg",
+    "/pic/56016/stul_bontempi_3__7__big.jpg",
+    "/upload/iblock/e23/photofacefun_com_1530468660.jpg",
+    "/upload/iblock/5ee/Stul-Bontempi-2.jpg",
+    "/upload/iblock/a9c/IMG_1860.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-009140",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой",
+    "Материал": "дерево, ткань",
+    "Стиль": "лофт, скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Bontempi",
+    "Вес": "14",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "дерево",
+    "Форма": "Овальная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "43",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> При виде стула ontempi невольно возникает желание провести по нему ладонью. Мягкая плюшевая обивка стула будто создана для того, чтобы создавать уют в любом помещении, где бы стул ни расположили.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_bontempi_2/",
+      "name": "Стул мягкий бежевый Bontempi",
+      "offer_name": "коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/_79/",
+      "name": "Стул мягкий серый Bontempi",
+      "offer_name": "серый (Ткань)"
+    }
+  ],
+  "product_code": "050128",
+  "product_detail_text_images": []
+}

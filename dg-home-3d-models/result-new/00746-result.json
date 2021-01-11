@@ -1,0 +1,97 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_lounge_high/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул обеденный с высокой спинкой коричневый Lounge High",
+  "product_price": {
+    "new_price": 28500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55857/stul_lounge_high__1__big.jpg",
+  "additional_images": [
+    "/pic/55857/stul_lounge_high__2__big.jpg",
+    "/pic/55857/stul_lounge_high__3__big.jpg",
+    "/pic/55857/stul_lounge_high__4__big.jpg",
+    "/pic/55857/stul_lounge_high__5__big.jpg",
+    "/pic/55857/stul_lounge_high__6__big.jpg",
+    "/upload/iblock/4cf/STUL-LOUNGE.jpeg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0042888",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево, натуральная кожа",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Lounge",
+    "Вес": "11",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Натуральная кожа",
+    "Цвет каркаса": "Бежевый",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "46",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Lounge High — это удобный, простой и одновременно оригинальный и необычный предмет интерьера, который открывает новые возможности виду своей универсальности.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_2/",
+      "name": "Стул обеденный с высокой спинкой голубой Lounge High",
+      "offer_name": "голубой (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_3/",
+      "name": "Стул обеденный циан Lounge",
+      "offer_name": "голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_2/",
+      "name": "Стул обеденный коричневый Lounge",
+      "offer_name": "коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_3/",
+      "name": "Стул обеденный с высокой спинкой кварц Lounge High",
+      "offer_name": "серый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_1/",
+      "name": "Стул обеденный с высокой спинкой черный Lounge High",
+      "offer_name": "черный (Натуральная кожа)"
+    }
+  ],
+  "product_code": "049969",
+  "product_detail_text_images": []
+}

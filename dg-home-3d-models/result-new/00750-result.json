@@ -1,0 +1,101 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_return_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Return красный",
+  "product_price": {
+    "new_price": 7290,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55837/stul_return_3__1__big.jpg",
+  "additional_images": [
+    "/pic/55837/stul_return_3__2__big.jpg",
+    "/pic/55837/stul_return_3__3__big.jpg",
+    "/pic/55837/stul_return_3__4__big.jpg",
+    "/pic/55837/stul_return_3__5__big.jpg",
+    "/pic/55837/stul_return_3__6__big.jpg",
+    "/pic/55837/stul_return_3__7__big.jpg",
+    "/upload/iblock/c91/photofacefun_com_1543856442.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-005385",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "красный",
+    "Материал": "металл, пластик",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Return",
+    "Вес": "6",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Тип (назначение, особенности)": "обеденный, офисный",
+    "Мощность 1 лампы": "0, 05",
+    "Материал каркаса": "металл",
+    "Форма": "Овальная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "Изогнутая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "45",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Return — роскошный вариант для любого современного и стильного офиса. Он подходит для тех, кто внимателен к своему имиджу и не хочет упасть в грязь лицом.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_2/",
+      "name": "Стул обеденный с высокой спинкой голубой Lounge High - голубой (Натуральная кожа). \nРазмеры 47x93x57 см",
+      "offer_name": "голубой (Натуральная кожа). \nРазмеры 47x93x57 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_3/",
+      "name": "Стул обеденный циан Lounge - голубой (Ткань). \nРазмеры 47x80x54 см",
+      "offer_name": "голубой (Ткань). \nРазмеры 47x80x54 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high/",
+      "name": "Стул обеденный с высокой спинкой коричневый Lounge High - коричневый (Натуральная кожа). \nРазмеры 47x93x57 см",
+      "offer_name": "коричневый (Натуральная кожа). \nРазмеры 47x93x57 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_2/",
+      "name": "Стул обеденный коричневый Lounge - коричневый (Ткань). \nРазмеры 47x80x54 см",
+      "offer_name": "коричневый (Ткань). \nРазмеры 47x80x54 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_3/",
+      "name": "Стул обеденный с высокой спинкой кварц Lounge High - серый (Натуральная кожа). \nРазмеры 47x93x57 см",
+      "offer_name": "серый (Натуральная кожа). \nРазмеры 47x93x57 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_lounge_high_1/",
+      "name": "Стул обеденный с высокой спинкой черный Lounge High - черный (Натуральная кожа). \nРазмеры 47x93x57 см",
+      "offer_name": "черный (Натуральная кожа). \nРазмеры 47x93x57 см"
+    }
+  ],
+  "product_code": "049949",
+  "product_detail_text_images": []
+}

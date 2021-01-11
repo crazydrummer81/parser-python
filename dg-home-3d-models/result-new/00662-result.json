@@ -1,0 +1,89 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_calma_bezhevyi_veliur/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Calma Бежевый Велюр",
+  "product_price": {
+    "new_price": 21600,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/37440/stul_calma_bezhevyi_veliur__1__big.jpg",
+  "additional_images": [
+    "/upload/iblock/f80/3f35c4519d867def9f4550cccdf78dc5_min.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Garda Decor",
+    "Код товара": "GD-DY-408J-V53",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серый",
+    "Материал": "велюр, дерево, ткань",
+    "Стиль": "американский, английский, классический, французский",
+    "Страна производства": "Китай",
+    "Коллекция": "Calma",
+    "Вес": "8",
+    "Особенности": "без подушек",
+    "Материал обивки": "велюр, ткань",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая, с каретной стяжкой",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Состав ткани: 100% ПЭ. Каркас:фанера, сосна, МДФ. Ножки - береза",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_14/",
+      "name": "Полубарный стул белый без спинки 61 см Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_8/",
+      "name": "Полубарный стул голубой 61 см Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_15/",
+      "name": "Полубарный стул желтый 61 см Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_9/",
+      "name": "Полубарный стул светло-зеленый 61 см Marais Color",
+      "offer_name": "зеленый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_12/",
+      "name": "Полубарный стул черный 61 см Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "033683",
+  "product_detail_text_images": []
+}

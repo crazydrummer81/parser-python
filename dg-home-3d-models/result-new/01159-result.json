@@ -1,0 +1,64 @@
+{
+  "source_url": "https://dg-home.ru/catalog/taburety/taburet_machinist_5/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Табуреты",
+      "url": "https://dg-home.ru/catalog/taburety/"
+    }
+  ],
+  "product_name": "Табурет Machinist на белом основании",
+  "product_price": {
+    "new_price": 14600,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64045/taburet_machinist_5__1__big.jpg",
+  "additional_images": [
+    "/pic/64045/taburet_machinist_5__2__big.jpg",
+    "/pic/64045/taburet_machinist_5__3__big.jpg",
+    "/pic/64045/taburet_machinist_5__4__big.jpg",
+    "/pic/64045/taburet_machinist_5__5__big.jpg",
+    "/upload/iblock/2ac/Taburet-Machinist-6.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-003123",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Коричневый, Белый",
+    "Материал": "дерево, металл",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "7.2",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Мощность 1 лампы": "0, 01",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Особую атмосферу и уют в помещении легко создать, используя уникальную и экстравагантную мебель. Лучшие представители таковой — это авторские дизайнерские проекты, такие как модели великолепного табурета Machinist, классики 30-х годов.<br> <br> <br> &nbsp;&nbsp;&nbsp;&nbsp; Сиденье из натуральной ивы патинировано, что придает предмету положенный винтажной мебели оттенок старины. Ножки табурета представляют собой цельную конструкцию в форме колокола; подножки и винтовой механизм, регулирующий высоту сиденья, делают табур...",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_a/",
+      "name": "Табурет деревянный круглый Stool Model A коричневый - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_b/",
+      "name": "Табурет Stool Model B - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    }
+  ],
+  "product_code": "050234",
+  "product_detail_text_images": []
+}

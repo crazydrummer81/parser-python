@@ -1,0 +1,115 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_buch_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Барный стул деревянный с темно-серым сиденьем орех Buch 3",
+  "product_price": {
+    "new_price": 15680,
+    "old_price": 19600
+  },
+  "pruduct_detail_image": "/pic/67177/barnyi_stul_buch_3__1__big.jpg",
+  "additional_images": [
+    "/pic/67177/barnyi_stul_buch_3__2__big.jpg",
+    "/pic/67177/barnyi_stul_buch_3__3__big.jpg",
+    "/pic/67177/barnyi_stul_buch_3__4__big.jpg",
+    "/pic/67177/barnyi_stul_buch_3__5__big.jpg",
+    "/pic/67177/barnyi_stul_buch_3__6__big.jpg",
+    "/upload/iblock/b6a/Barnyy-stul-Buch-3.jpeg",
+    "/upload/iblock/a81/Barnyy-stul-Buch-3-4.jpeg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серый",
+    "Материал": "дерево, ткань",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "7",
+    "Особенности": "без подушек",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Тип (назначение, особенности)": "дизайнерский",
+    "Материал каркаса": "дерево",
+    "Форма": "фигурная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "75",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Барный стул uch III - это высокий 77 сантиметровый гигант, который был создан еще 60 году прошлого столетия и уже успел стать классикой среди барных стульев.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_7/",
+      "name": "Стул венский металлический белый Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_12/",
+      "name": "Стул венский металлический голубой Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_10/",
+      "name": "Стул венский металлический желтый Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_14/",
+      "name": "Стул венский металлический зеленый Marais Color",
+      "offer_name": "зеленый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_aged_1/",
+      "name": "Стул венский металлический состаренный Marais Aged",
+      "offer_name": "коричневый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_13/",
+      "name": "Стул венский металлический красный Marais Color",
+      "offer_name": "красный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_11/",
+      "name": "Стул венский металлический оранжевый Marais Color",
+      "offer_name": "оранжевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_8/",
+      "name": "Стул венский металлический серый Marais Color",
+      "offer_name": "серый (-)"
+    }
+  ],
+  "product_code": "066668",
+  "product_detail_text_images": []
+}

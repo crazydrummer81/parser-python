@@ -1,0 +1,61 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_babochki_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Бабочки 2\"",
+  "product_price": {
+    "new_price": 13000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127205/panno_babochki_2__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P228",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "шампань, разноцветный",
+    "Материал": "дерево, МДФ, стекло",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "7",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p><span>Панно \"Бабочки&nbsp;1\" — это настенное панно из засушенных бабочек&nbsp;в&nbsp;раме из шпонированного МДФ&nbsp;под стеклом. Цвет рамы шампань, паспарту&nbsp;кремового цвета.&nbsp;Подложка выполнена из фанеры обтянутой бежевым&nbsp;холстом.</span><br>Размер: 400 х 600 х 35 мм</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_rybka_1/",
+      "name": "Панно \"Рыбка 1\"",
+      "offer_name": "коричневый, серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_rybka_3/",
+      "name": "Панно \"Рыбка 3\"",
+      "offer_name": "коричневый, серебро"
+    }
+  ],
+  "product_code": "173238",
+  "product_detail_text_images": []
+}

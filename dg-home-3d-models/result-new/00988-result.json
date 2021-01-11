@@ -1,0 +1,82 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_copine_3_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Copine Синий",
+  "product_price": {
+    "new_price": 11340,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55865/stul_copine_3_1__1__big.jpg",
+  "additional_images": [
+    "/pic/55865/stul_copine_3_1__2__big.jpg",
+    "/pic/55865/stul_copine_3_1__3__big.jpg",
+    "/pic/55865/stul_copine_3_1__4__big.jpg",
+    "/pic/55865/stul_copine_3_1__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-008071",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Синий",
+    "Материал": "Дерево, Ткань",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Copine",
+    "Вес": "8",
+    "Особенности": "без подушек",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Бежевый",
+    "Куда поставить": "в гостиную, для комнаты, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "Изогнутая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Copine — это гармоничное сочетание простоты и стильности. Минималистичное решение отсылает нас к модернизму середины ХХ века, продуманность деталей обеспечивает максимальный комфорт.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_cherner_s_obivkoi_/",
+      "name": "Стул деревянный белый дуб с белой кожей Cherner 2",
+      "offer_name": "белый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_cherner_s_obivkoi_5/",
+      "name": "Стул деревянный белый дуб со светло-серой спинкой Cherner 2",
+      "offer_name": "белый, серый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_cherner_s_obivkoi_6/",
+      "name": "Стул деревянный орех с черной кожей Cherner 2",
+      "offer_name": "черный (Натуральная кожа)"
+    }
+  ],
+  "product_code": "049977",
+  "product_detail_text_images": []
+}

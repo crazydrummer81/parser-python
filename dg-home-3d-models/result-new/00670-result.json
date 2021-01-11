@@ -1,0 +1,86 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Барный стул черный Neo",
+  "product_price": {
+    "new_price": 7300,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/67179/barnyi_stul_neo__1__big.jpg",
+  "additional_images": [
+    "/pic/67179/barnyi_stul_neo__2__big.jpg",
+    "/upload/iblock/b22/IMG_5236.JPG",
+    "/upload/iblock/fb6/IMG_2072.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0067425",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "черный",
+    "Материал": "металл, пластик",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "7.5",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Тип (назначение, особенности)": "дизайнерский",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Украсте свой интерьер элегантым барным стулом NEO. Поверьте он превосходно впишется в такие стили, как: минимализм, техно и т.п. Его высота будет притягивать вас, а удобная сидушка подарит просто неописуемые ощущения.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_3/",
+      "name": "Барный стул белый Neo",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_s_miagkoi_obivkoi_7/",
+      "name": "Барный стул с мягкой обивкой синий Neo",
+      "offer_name": "синий (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_2/",
+      "name": "Барный стул черный с ножками хром Neo",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "066670",
+  "product_detail_text_images": []
+}

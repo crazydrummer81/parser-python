@@ -1,0 +1,75 @@
+{
+  "source_url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_oreh/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Туалетные столики",
+      "url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/"
+    }
+  ],
+  "product_name": "Консоль деревянная орех со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+  "product_price": {
+    "new_price": 62900,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127687/komplekt_geometriia_oreh__1__big.jpg",
+  "additional_images": [
+    "/pic/127687/komplekt_geometriia_oreh__2__big.jpg",
+    "/pic/127687/komplekt_geometriia_oreh__3__big.jpg",
+    "/pic/127687/komplekt_geometriia_oreh__4__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-12106b",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "орех, коричневый",
+    "Материал": "дерево, МДФ, стекло",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Геометрия",
+    "Вес": "25",
+    "Особенности": "без зеркала, без ножек, с полками",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в кабинет, в спальню, в прихожую",
+    "Тип (назначение, особенности)": "прикроватные",
+    "Количество полок": "1",
+    "Материал каркаса": "дерево",
+    "Форма": "узкие"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Необычные, современные полка и столик преобразят ваш интерьер! <br>Возможны другие отделки <br>Установка требуется <br>Размеры: верхняя часть - 85 см на 37 см на 24 см; нижняя часть - 85 см на 67 см на 24 см",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_belenyi_dub/",
+      "name": "Консоль деревянная беленый дуб со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_venge/",
+      "name": "Консоль деревянная венге со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "венге"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_dub/",
+      "name": "Консоль деревянная дуб со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "золото, коричневый"
+    }
+  ],
+  "product_code": "178380",
+  "product_detail_text_images": []
+}

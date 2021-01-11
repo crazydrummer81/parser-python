@@ -1,0 +1,80 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_louix_9/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Барный стул голубой с деревянным сиденьем Louix",
+  "product_price": {
+    "new_price": 22300,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51740/barnyi_stul_louix_9__1__big.jpg",
+  "additional_images": [
+    "/pic/51740/barnyi_stul_louix_9__2__big.jpg",
+    "/pic/51740/barnyi_stul_louix_9__3__big.jpg",
+    "/pic/51740/barnyi_stul_louix_9__4__big.jpg",
+    "/pic/51740/barnyi_stul_louix_9__5__big.jpg",
+    "/pic/51740/barnyi_stul_louix_9__6__big.jpg",
+    "/pic/51740/barnyi_stul_louix_9__7__big.jpg",
+    "/upload/iblock/fde/80750_cosmorelax_image.jpeg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021410",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой",
+    "Материал": "дерево, металл",
+    "Стиль": "лофт, минимализм, ретро",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "10.65",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Голубой",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Круглая",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "рюмка",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "74",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Все модели мебельной коллекции Louix выполнены в индустриальном стиле, который все больше становится константой среди современных европейских интерьеров.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_stul_tulip/",
+      "name": "Стул Tulip",
+      "offer_name": "белый (экокожа)"
+    }
+  ],
+  "product_code": "051439",
+  "product_detail_text_images": []
+}

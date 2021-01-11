@@ -1,0 +1,63 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_forma_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Форма 1\"",
+  "product_price": {
+    "new_price": 5500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/126906/panno_forma_1__1__big.jpg",
+  "additional_images": [
+    "/pic/126906/panno_forma_1__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P164",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый, белый",
+    "Материал": "композитный материал",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "7",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p><span>Панно \"Форма 1\" — это настенное панно из композитного материала&nbsp;в&nbsp;раме из шпонированного МДФ&nbsp;под стеклом. Цвет рамы бежевый&nbsp;с текстурой дерева, цвет панно - белый. Подложка выполнена из фанеры обтянутой белым&nbsp;холстом.&nbsp;</span><br>Размер: 300 х 300 х 60 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_forma_2/",
+      "name": "Панно \"Форма 2\"",
+      "offer_name": "бежевый, белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_forma_3/",
+      "name": "Панно \"Форма 3\"",
+      "offer_name": "бежевый, белый"
+    }
+  ],
+  "product_code": "173176",
+  "product_detail_text_images": []
+}

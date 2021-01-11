@@ -1,0 +1,79 @@
+{
+  "source_url": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry2_seryi/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Пуфы",
+      "url": "https://dg-home.ru/catalog/pufy_i_ottomanki/"
+    }
+  ],
+  "product_name": "Пуф Sangry 2 серый",
+  "product_price": {
+    "new_price": 17811,
+    "old_price": 19790
+  },
+  "pruduct_detail_image": "/pic/111404/puf_sangry2_seryi__1__big.jpg",
+  "additional_images": [
+    "/pic/111404/puf_sangry2_seryi__2__big.jpg",
+    "/pic/111404/puf_sangry2_seryi__3__big.jpg",
+    "/pic/111404/puf_sangry2_seryi__4__big.jpg",
+    "/pic/111404/puf_sangry2_seryi__5__big.jpg",
+    "/pic/111404/puf_sangry2_seryi__6__big.jpg",
+    "/upload/iblock/a58/ferm_Living_Pouf_Round_verschiedene_Groessen_grau_Teppich_Ambiente.jpg",
+    "/upload/iblock/017/photofacefun_com_1528625612.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-PF19-3",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Серый",
+    "Материал": "Ткань, дерево",
+    "Стиль": "Модерн, Классический, Современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Sangry",
+    "Вес": "12",
+    "Особенности": "без ножек",
+    "Куда поставить": "в гостиную, в столовую, в офис, в детскую, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Форма": "Прямоугольные",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Вид спинки": "Нет спинки",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Интересная форма и яркая расцветка добавит классическую элегантность к Вашему пространству.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_biruza/",
+      "name": "Пуф Sangry 2 Бирюзовый бирюзовый",
+      "offer_name": "Бирюзовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_bordo/",
+      "name": "Пуф Sangry 2 Бордовый бордовый",
+      "offer_name": "Бордовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_2_siniy/",
+      "name": "Пуф Sangry 2 синий",
+      "offer_name": "Синий"
+    }
+  ],
+  "product_code": "DG-123665",
+  "product_detail_text_images": []
+}

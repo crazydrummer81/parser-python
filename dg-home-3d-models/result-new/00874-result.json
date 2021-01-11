@@ -1,0 +1,94 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_one_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Барный стул One черный",
+  "product_price": {
+    "new_price": 7490,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51020/barnyi_stul_one_2__1__big.jpg",
+  "additional_images": [
+    "/pic/51020/barnyi_stul_one_2__2__big.jpg",
+    "/pic/51020/barnyi_stul_one_2__3__big.jpg",
+    "/pic/51020/barnyi_stul_one_2__4__big.jpg",
+    "/pic/51020/barnyi_stul_one_2__5__big.jpg",
+    "/pic/51020/barnyi_stul_one_2__6__big.jpg",
+    "/pic/51020/barnyi_stul_one_2__7__big.jpg",
+    "/upload/iblock/990/IMG_2875.JPG",
+    "/upload/iblock/6d1/IMG_2876.JPG",
+    "/upload/iblock/a96/IMG_2881.JPG",
+    "/upload/iblock/204/IMG_2932.JPG",
+    "/upload/iblock/74c/Statuetka-Balance-na-kvadratnoy-podstavke.jpeg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-00621",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "черный",
+    "Материал": "металл",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "4.58",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Тип (назначение, особенности)": "дизайнерский",
+    "Дизайнер (бренд) оригинала": "Konstantin Grcic",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Круглая",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "80",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Три"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Легендарный барный стул One отличается стильным и эпатажным внешним видом, при этом он очень удобен в использовании.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77_6/",
+      "name": "Барный стул деревянный с белым сиденьем 77 см орех Allegra",
+      "offer_name": "белый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77_4/",
+      "name": "Барный стул деревянный без спинки темно-серый 77 см Allegra",
+      "offer_name": "коричневый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77/",
+      "name": "Барный стул деревянный с темно-серым кожаным сиденьем 77 см орех Allegra",
+      "offer_name": "коричневый (Натуральная кожа)"
+    }
+  ],
+  "product_code": "051346",
+  "product_detail_text_images": []
+}

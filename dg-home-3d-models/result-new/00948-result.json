@@ -1,0 +1,90 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_vittoria_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Барный стул со спинкой серый Vittoria",
+  "product_price": {
+    "new_price": 26300,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51710/barnyi_stul_vittoria_2__1__big.jpg",
+  "additional_images": [
+    "/pic/51710/barnyi_stul_vittoria_2__2__big.jpg",
+    "/pic/51710/barnyi_stul_vittoria_2__3__big.jpg",
+    "/pic/51710/barnyi_stul_vittoria_2__4__big.jpg",
+    "/pic/51710/barnyi_stul_vittoria_2__5__big.jpg",
+    "/pic/51710/barnyi_stul_vittoria_2__6__big.jpg",
+    "/pic/51710/barnyi_stul_vittoria_2__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021807",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серый",
+    "Материал": "дерево, ткань",
+    "Стиль": "классический",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "10.75",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "высокая",
+    "Тип спинки/изголовья": "мягкая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "76",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> В обстановке английских и ирландских пабов всегда есть что-то чарующее — приглушенный свет, антикварные барные столешницы, деревянная отделка мебели.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77_6/",
+      "name": "Барный стул деревянный с белым сиденьем 77 см орех Allegra",
+      "offer_name": "белый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77_4/",
+      "name": "Барный стул деревянный без спинки темно-серый 77 см Allegra",
+      "offer_name": "коричневый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_allegra_vysota_77/",
+      "name": "Барный стул деревянный с темно-серым кожаным сиденьем 77 см орех Allegra",
+      "offer_name": "коричневый (Натуральная кожа)"
+    }
+  ],
+  "product_code": "051409",
+  "product_detail_text_images": []
+}

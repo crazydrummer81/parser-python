@@ -1,0 +1,62 @@
+{
+  "source_url": "https://dg-home.ru/catalog/taburety/ottomanka_ponti/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Табуреты",
+      "url": "https://dg-home.ru/catalog/taburety/"
+    }
+  ],
+  "product_name": "Оттоманка Ponti от Eichholtz белая",
+  "product_price": {
+    "new_price": 29920,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/75590/ottomanka_ponti__1__big.jpg",
+  "additional_images": [
+    "/pic/75590/ottomanka_ponti__2__big.jpg",
+    "/pic/75590/ottomanka_ponti__3__big.jpg",
+    "/pic/75590/ottomanka_ponti__4__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Eichholtz",
+    "Код товара": "PS-PS13514",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Белый",
+    "Материал": "дерево, ПВХ, ПЭ",
+    "Страна производства": "Нидерланды",
+    "Коллекция": "Eichholtz",
+    "Вес": "12",
+    "Тип (назначение, особенности)": "Банкетки",
+    "Вид спинки": "Без спинки",
+    "Вид подлокотников": "без подлокотников",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Представляем вашему вниманию товар Оттоманка Ponti от Eicholtz, который вы можете купить на нашем сайте. <br> Данная модель в цвете Белый обязательно придется по вкусу любому ценителю современных дизайнерских интерьеров. <br> А в нашем разделе Пуфы и оттоманки представлен огромный выбор аналогов!.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_a/",
+      "name": "Табурет деревянный круглый Stool Model A коричневый - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_b/",
+      "name": "Табурет Stool Model B - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    }
+  ],
+  "product_code": "061279",
+  "product_detail_text_images": []
+}

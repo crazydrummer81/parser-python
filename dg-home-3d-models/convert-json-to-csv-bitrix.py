@@ -8,6 +8,13 @@ from datetime import datetime
 import re
 from translit import transliterate
 
+def csv_join(csv_list, delimiter = '^'):
+	res = ''
+	for item in csv_list:
+		res += delimiter.join(item)
+		res += '\n'
+	return res
+
 now = datetime.now()
 current_time = now.strftime("%y%m%d-%H%M%S")
 print("Current Time =", current_time)
@@ -26,7 +33,7 @@ if not os.path.isdir(result_folder):
 	os.mkdir(result_folder)
 
 files = os.listdir(source_folder)
-limit = 21
+limit = 2500
 
 prop_keys = [
 	'Бренд',
@@ -74,7 +81,13 @@ result_csv = ''
 image_prefix = '/upload/mh'
 model_prefix = '/upload/3d_models/'
 
+part_n = 100
+part_i = 0
+part = []
+parts = []
+
 for i, filename in enumerate(files):
+
 	if i >= limit: break
 	if not os.path.isdir(source_folder+filename):
 		print('-------> '+filename+' <-------')
@@ -106,10 +119,10 @@ for i, filename in enumerate(files):
 				"DETAIL_TEXT": re.sub(r'\s+', ' ', source_dict['product_detail_text']).strip() 
 			}
 
-			for i in range(6):
+			for ic in range(6):
 				# print(i,cat)
-				if i < len(source_dict['product_category_chain']):
-					value = source_dict['product_category_chain'][i]['name'] \
+				if ic < len(source_dict['product_category_chain']):
+					value = source_dict['product_category_chain'][ic]['name'] \
 						.replace('Барныестулья', 'Барные')\
 						.replace('Барные стулья', 'Барные')\
 						.replace('Настенный декор', 'Настенный')\
@@ -118,13 +131,15 @@ for i, filename in enumerate(files):
 						.replace('Обеденные столы', 'Обеденные')\
 						.replace('Рабочие  столы', 'Письменные')\
 						.replace('Полки вешалки крючки', 'Вешалки')
-					target_dict["IC_GROUP%s" % i] = value
-					target_dict["IC_GROUP%s_ALIAS" % i] = transliterate(value).lower()
+					target_dict["IC_GROUP%s" % ic] = value
+					target_dict["IC_GROUP%s_ALIAS" % ic] = transliterate(value).lower()
 					# target_dict["IC_GROUP_3D%s" % i] = value
 				else:
-					target_dict["IC_GROUP%s" % i] = ''
-					target_dict["IC_GROUP%s_ALIAS" % i] = ''
-					# target_dict["IC_GROUP_3D%s" % i] = ''
+					target_dict["IC_GROUP%s" % ic] = ''
+					target_dict["IC_GROUP%s_ALIAS" % ic] = ''
+					# target_dict["IC_GROUP_3D%s" % ic] = ''
+				
+				target_dict["IC_GROUP1"] = '3D-модели'
 
 			for prop in prop_keys:
 				# print (prop)
@@ -139,13 +154,37 @@ for i, filename in enumerate(files):
 
 			
 			# print(csv_line_list)
+			if len(source_dict['additional_images'])  == 0:
+				csv_line_list = [value for value in target_dict.values()]
+				part.append(csv_line_list)
+
 			for img in source_dict['additional_images']:
 				target_dict['MORE_IMAGES'] = image_prefix + img
 				csv_line_list = [value for value in target_dict.values()]
+				part.append(csv_line_list)
 				csv_line = delimiter.join(csv_line_list)
 				result_csv += csv_line + '\n'
+
+			if i%part_n == 0 and i > 0:
+				# print('part_i:', part_i)
+				parts.append(part)
+				part = []
+				part_i += 1
+parts.append(part) # Добавляем последнюю часть
+
 			
 csv_headers = '^'.join(target_dict.keys())
-result_filename = 'dg-home-3d-%s.csv' % current_time
-with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
-	ft.write(csv_headers + '\n' + result_csv + '\n')
+
+if not True:
+	result_filename = 'dg-home-3d-%s.csv' % current_time
+	with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
+		ft.write(csv_headers + '\n' + result_csv + '\n')
+
+if True:
+	print('=============== WRITE PARTS TO FILES ==================')
+	# print(parts); exit()
+	for i, part in enumerate(parts):
+		print(f'---------------- PART {i} ---------------------')
+		result_filename =  f'dg-home-3d-{i:05d}.csv'
+		with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
+			ft.write(csv_headers + '\n' + csv_join(part))

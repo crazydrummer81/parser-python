@@ -1,0 +1,71 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_max_zelenyi/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло MAX зеленое",
+  "product_price": {
+    "new_price": 71136,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/148986/kreslo_max_zelenyi__1__big.jpg",
+  "additional_images": [
+    "/pic/148986/kreslo_max_zelenyi__2__big.jpg",
+    "/pic/148986/kreslo_max_zelenyi__3__big.jpg",
+    "/pic/148986/kreslo_max_zelenyi__4__big.jpg",
+    "/pic/148986/kreslo_max_zelenyi__5__big.jpg",
+    "/pic/148986/kreslo_max_zelenyi__6__big.jpg",
+    "/pic/148986/kreslo_max_zelenyi__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "SITS",
+    "Код товара": "STS-S1417",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "зеленый",
+    "Материал": "металл, ткань",
+    "Страна производства": "Швеция",
+    "Коллекция": "MAX",
+    "Вес": "25",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Черный",
+    "Материал каркаса": "металл",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Ткань Dover, несъемный чехол, Яна Арчера, известного европейского дизайнера, создавшего модель кресла MAX, в мир дизайна привела страсть к скульптуре. Скульптурные линии, легкость стиля – вот что отличает его работы, и кресло MAX не исключение.<br> Это современное кресло из коллекции COCTAIL &amp; DESIGN от SITS – безусловный дизайнерский шедевр. Главные особенности кресла MAX – комфортное сиденье и низкие подлокотники, благодаря которым вы с удобством и пользой проведете время как за рабочим столом, так и в гостиной.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_miatnyi/",
+      "name": "Кресло STEFANI на вращающемся основании светло-голубое - бирюзовый (Ткань). \nРазмеры 73x87x75 см",
+      "offer_name": "бирюзовый (Ткань). \nРазмеры 73x87x75 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_seryi/",
+      "name": "Кресло STEFANI серое - черный (кожа). \nРазмеры 73x87x75 см",
+      "offer_name": "черный (кожа). \nРазмеры 73x87x75 см"
+    }
+  ],
+  "product_code": "192176",
+  "product_detail_text_images": []
+}

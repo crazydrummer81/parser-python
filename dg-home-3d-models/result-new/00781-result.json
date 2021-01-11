@@ -1,0 +1,76 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_jerry_7/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Табурет винтовой полубарный голубой Jerry",
+  "product_price": {
+    "new_price": 9880,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51723/barnyi_stul_jerry_7__1__big.jpg",
+  "additional_images": [
+    "/pic/51723/barnyi_stul_jerry_7__2__big.jpg",
+    "/pic/51723/barnyi_stul_jerry_7__3__big.jpg",
+    "/pic/51723/barnyi_stul_jerry_7__4__big.jpg",
+    "/pic/51723/barnyi_stul_jerry_7__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-005367",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой",
+    "Материал": "дерево",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "5",
+    "Особенности": "без подушек",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Тип (назначение, особенности)": "дизайнерский, полубарный, винтовой",
+    "Дизайнер (бренд) оригинала": "Konstantin Grcic",
+    "Дополнительные опции": "регулировка высоты сиденья",
+    "Материал каркаса": "дерево",
+    "Форма": "Круглая",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "73",
+    "Регулировка высоты сиденья": "Да",
+    "Крутящееся сиденье": "Да",
+    "Количество ножек": "Три"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Игривый и легкий барный стул Jerry — это натуральное дерево в комплекте с прочным пластиком.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_eiffel_3/",
+      "name": "Стул белый пластиковый Eiffel (eames style)",
+      "offer_name": "белый (-)"
+    }
+  ],
+  "product_code": "051422",
+  "product_detail_text_images": []
+}

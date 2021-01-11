@@ -1,0 +1,91 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_louix_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Louix белый",
+  "product_price": {
+    "new_price": 21690,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/56014/stul_louix_3__1__big.jpg",
+  "additional_images": [
+    "/pic/56014/stul_louix_3__2__big.jpg",
+    "/pic/56014/stul_louix_3__3__big.jpg",
+    "/pic/56014/stul_louix_3__4__big.jpg",
+    "/pic/56014/stul_louix_3__5__big.jpg",
+    "/pic/56014/stul_louix_3__6__big.jpg",
+    "/upload/iblock/568/photofacefun_com_1530352511.jpg",
+    "/upload/iblock/a00/photofacefun_com_1530473602.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-004995",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый",
+    "Материал": "дерево, металл",
+    "Стиль": "лофт, ретро",
+    "Страна производства": "Китай",
+    "Вес": "10",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Белый",
+    "Куда поставить": "в гостиную, для комнаты, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "дизайнерский, обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Овальная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "медальон",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "с подлокотниками, жесткие, деревянные",
+    "Высота сиденья": "46",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Все модели мебельной коллекции Louix выполнены в индустриальном стиле, который все больше становится константой среди современных европейских интерьеров.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_14/",
+      "name": "Полубарный стул белый без спинки 61 см Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_8/",
+      "name": "Полубарный стул голубой 61 см Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_15/",
+      "name": "Полубарный стул желтый 61 см Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/stul_mc-010_12/",
+      "name": "Полубарный стул черный 61 см Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "050126",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_snezhnyi_uzor/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Снежный узор\"",
+  "product_price": {
+    "new_price": 16500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/126971/panno_snezhnyi_uzor__1__big.jpg",
+  "additional_images": [
+    "/pic/126971/panno_snezhnyi_uzor__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P280",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый",
+    "Материал": "МДФ",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "4.8",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p>Панно \"Снежный узор\" — это настенное панно из фрезерованного МДФ. Цвет панно бежевый с белой патиной.&nbsp;<br>Размер: 800 х 800 х 40 мм</p> <p>Интернет-магазин современного искусства&nbsp;<span>DecoriDom.ru&nbsp;</span>поставляет настенный декор и скульптуры выполненные в стиле Modern Art. </p><p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_tri_slona_chernaia_rama/",
+      "name": "Панно \"Три слона (черная рама)\"",
+      "offer_name": "Серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_tri_slona_2_chernaia_rama/",
+      "name": "Панно \"Три слона 2 (черная рама)\"",
+      "offer_name": "чёрный, серебро"
+    }
+  ],
+  "product_code": "173290",
+  "product_detail_text_images": []
+}

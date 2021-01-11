@@ -1,0 +1,64 @@
+{
+  "source_url": "https://dg-home.ru/catalog/taburety/taburet_jerry_7/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Табуреты",
+      "url": "https://dg-home.ru/catalog/taburety/"
+    }
+  ],
+  "product_name": "Табурет Jerry Красный",
+  "product_price": {
+    "new_price": 9500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64043/taburet_jerry_7__1__big.jpg",
+  "additional_images": [
+    "/pic/64043/taburet_jerry_7__2__big.jpg",
+    "/pic/64043/taburet_jerry_7__3__big.jpg",
+    "/pic/64043/taburet_jerry_7__4__big.jpg",
+    "/upload/iblock/fdf/IMG_4056.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-005364",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "красный",
+    "Материал": "дерево, металл",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "3.75",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Мощность 1 лампы": "0, 01",
+    "Количество мест у товара": "1",
+    "Высота сиденья": "43-48"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Мебель, которая дарит настроение и позитивные эмоции, всегда востребована. Так и табурет Jerry обязательно привлечет внимание своим удивительным строением. Великолепное сочетание натурального дерева и прочного пластика. Предметы, которые проектирует немецкий дизайнер Константин Грчич, отличает креативный подход к работе с современными материалами, что и демонстрирует табурет Jerry. Он изготовлен из бука и полипропилена и представлен в четырех цветах. Маленькое круглое сиденье из...",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_a/",
+      "name": "Табурет деревянный круглый Stool Model A коричневый - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/taburety/taburet_eames_stool_model_b/",
+      "name": "Табурет Stool Model B - Коричневый (нет). \nРазмеры 30x40x30 см",
+      "offer_name": "Коричневый (нет). \nРазмеры 30x40x30 см"
+    }
+  ],
+  "product_code": "050232",
+  "product_detail_text_images": []
+}

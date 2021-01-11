@@ -1,0 +1,80 @@
+{
+  "source_url": "https://dg-home.ru/catalog/zerkala/zerkalo_tablero_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Зеркала",
+      "url": "https://dg-home.ru/catalog/zerkala/"
+    }
+  ],
+  "product_name": "Зеркало настенное в фигурной серой раме Tablero большое",
+  "product_price": {
+    "new_price": 10500,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/10015/zerkalo_tablero_1__1__big.jpg",
+  "additional_images": [
+    "/pic/10015/zerkalo_tablero_1__2__big.jpg",
+    "/pic/10015/zerkalo_tablero_1__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-D-MR35",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серый",
+    "Стиль": "английский, классический, прованс, французский",
+    "Страна производства": "Китай",
+    "Коллекция": "Витраж",
+    "Вес": "2.6",
+    "Куда поставить": "в гостиную, в кабинет, в прихожую, в спальню, в столовую, в офис",
+    "Тип (назначение, особенности)": "настенное",
+    "Посудомоечная машина": "Нет",
+    "Тип багета": "гладкий",
+    "Багет": "с багетом",
+    "Форма": "фигурные",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Оригинальное зеркало Tablero с потертостями является неотъемлемым атрибутом интерьера, выполненного во французском деревенском стиле Прованс. Рама изготовлена из экологически чистого материала. Визуальный эффект старинной древесины придает некое очарование этому предмету декора, делая его более ценным в глазах окружающих.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_beloe/",
+      "name": "Зеркало напольное в полный рост белое с гвоздиками",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_beloe/",
+      "name": "Зеркало напольное в полный рост белое",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sero-rozovoe/",
+      "name": "Зеркало напольное в полный рост серо-розовое с гвоздиками",
+      "offer_name": "бронза, розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_perlamutrovoe/",
+      "name": "Зеркало напольное в полный рост розовое",
+      "offer_name": "розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_serebro/",
+      "name": "Зеркало напольное в полный рост серебристое",
+      "offer_name": "серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sinee/",
+      "name": "Зеркало напольное в полный рост синее с гвоздиками",
+      "offer_name": "синий"
+    }
+  ],
+  "product_code": "DG-003673",
+  "product_detail_text_images": []
+}

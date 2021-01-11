@@ -1,0 +1,85 @@
+{
+  "source_url": "https://dg-home.ru/catalog/divany_i_kushetki/divan_aspen_/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Диваны",
+      "url": "https://dg-home.ru/catalog/divany_i_kushetki/"
+    }
+  ],
+  "product_name": "Диван Aspen прямой голубой",
+  "product_price": {
+    "new_price": 156490,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/151172/divan_aspen___1__big.jpg",
+  "additional_images": [
+    "/pic/151172/divan_aspen___2__big.jpg",
+    "/pic/151172/divan_aspen___3__big.jpg",
+    "/pic/151172/divan_aspen___4__big.jpg",
+    "/pic/151172/divan_aspen___5__big.jpg",
+    "/pic/151172/divan_aspen___6__big.jpg",
+    "/pic/151172/divan_aspen___7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0032998",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой, светлый",
+    "Материал": "дерево, ткань",
+    "Стиль": "модерн",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Элитные",
+    "Вес": "90",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Количество мест": "трехместный",
+    "Дополнительные опции": "без спального места",
+    "Форма": "прямые",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "высокая",
+    "Тип спинки/изголовья": "без подушек",
+    "Сиденье": "мягкое, подушки",
+    "Вид подлокотников": "с подлокотниками, мягкие, узкие",
+    "Высота сиденья": "56",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Предлагаем вашему вниманию: Диван Aspen прямой голубой. Дизайнерский светлый тканевый диван Aspen (Аспен) из хлопка от Cosmo (Космо).<br> Диван Aspen сочетает в себе классическую форму с яркими современными чертами. Диван отличается привлекательным контрастом темного и светлого цветов. По всему периметру дивана проходит красивая строчка, которая служит ему ненавязчивым и оригинальным украшением. На выбор имеются два варианта дивана — голубого и светло-бежевого цвета. Оба оттенка очень легкие и приятные. Необычные подлокотники дивана Aspen также прид.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_chester_bolshoi_naturalnaia_kozha_molochnyi/",
+      "name": "Диван Честерфилд большой прямой бежевый",
+      "offer_name": "бежевый, светлый (Рогожка)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_chester_chesterfield_tiomno-sinii/",
+      "name": "Диван Честерфилд большой прямой бордовый",
+      "offer_name": "бордовый (Велюр, Микровелюр)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_chester_chesterfield_bolshoi_tiomno-sinii/",
+      "name": "Диван Честерфилд большой прямой зеленый",
+      "offer_name": "зеленый (Велюр, Микровелюр)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_chester_bolshoi_naturalnaia_kozha_seryi/",
+      "name": "Диван Честерфилд большой прямой серый",
+      "offer_name": "серый (Велюр, Микровелюр)"
+    }
+  ],
+  "product_code": "123495",
+  "product_detail_text_images": []
+}

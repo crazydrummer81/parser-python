@@ -1,0 +1,71 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/_108/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Журнальные и кофейные столы",
+      "url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/"
+    }
+  ],
+  "product_name": "Журнальный столик деревянный с ящиком и полкой дуб Brekille",
+  "product_price": {
+    "new_price": 28800,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/151109/_108__1__big.jpg",
+  "additional_images": [
+    "/pic/151109/_108__2__big.jpg",
+    "/pic/151109/_108__3__big.jpg",
+    "/pic/151109/_108__4__big.jpg",
+    "/pic/151109/_108__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0070122",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дуб, дерево, МДФ",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Вес": "40",
+    "Особенности": "с ящиками, с полками",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, в кабинет, в прихожую, в спальню",
+    "Количество ящиков": "1",
+    "Количество полок": "1",
+    "Материал каркаса": "металл",
+    "Форма": "Прямоугольные",
+    "Тип трансформации": "нераскладной"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Кофейный стол Brekille больше напоминает собой многофункциональную тумбу, нежели просто столик. Модель очень удобна для использования в интерьере домашней гостиной – на полочках столика можно хранить разнообразные бытовые или личные предметы, например, телефон, журналы, салфетки, пульты, диски с фильмами и многое другое. Поверхность стола отличается внушительным размером, на нем запросто можно устраивать небольшое чаепитие с друзьями или семьей. <br>Материал: МДФ, шпон дуба.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obedennye_stoly/obedennyi_stol_eiffel_diametr_120_3/",
+      "name": "Обеденный стол круглый белый с деревянными ножками 120 см Eiffel - белый. \nРазмеры 120x74,5x120 см",
+      "offer_name": "белый. \nРазмеры 120x74,5x120 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obedennye_stoly/obedennyi_stol_eiffel_diametr_70__1/",
+      "name": "Обеденный стол круглый черный с деревянными ножками 70 см Eiffel - черный. \nРазмеры 70x71x70 см",
+      "offer_name": "черный. \nРазмеры 70x71x70 см"
+    }
+  ],
+  "product_code": "100130",
+  "product_detail_text_images": []
+}

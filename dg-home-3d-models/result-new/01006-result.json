@@ -1,0 +1,102 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_one_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул черный с металлическими ножками, хром One",
+  "product_price": {
+    "new_price": 8790,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55859/stul_one_1__1__big.jpg",
+  "additional_images": [
+    "/pic/55859/stul_one_1__2__big.jpg",
+    "/upload/iblock/d3c/IMG_2895.JPG",
+    "/upload/iblock/678/IMG_4064.JPG",
+    "/upload/iblock/80d/photofacefun_com_1530558191.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0011590",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "черный",
+    "Материал": "пластик",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, One",
+    "Вес": "5",
+    "Особенности": "без подушек",
+    "Цвет каркаса": "Белый",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "обеденный, офисный",
+    "Дизайнер (бренд) оригинала": "Konstantin Grcic",
+    "Материал каркаса": "пластик",
+    "Форма": "Овальная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "изогнутая, резная",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стильный и модный стул One от немецкого дизайнера Константина Грчича — вариант для тех, кто не может представить себе свой будущий интерьер без новомодных дизайнерских решений.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_8/",
+      "name": "Полубарный стул белый без спинки 66 см Marais Color 2 - белый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "белый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_14/",
+      "name": "Полубарный стул голубой 66 см Marais Color 2 - голубой (-). \nРазмеры 41x66x41 см",
+      "offer_name": "голубой (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_9/",
+      "name": "Полубарный стул желтый 66 см Marais Color 2 - желтый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "желтый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_11/",
+      "name": "Полубарный стул серо-зеленый 66 см Marais Color 2 - зеленый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "зеленый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_10/",
+      "name": "Полубарный стул красный 66 см Marais Color 2 - красный (-). \nРазмеры 41x66x41 см",
+      "offer_name": "красный (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_12/",
+      "name": "Полубарный стул коралловый 66 см Marais Color 2 - оранжевый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "оранжевый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_13/",
+      "name": "Полубарный стул серый Marais Color 2 - серый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "серый (-). \nРазмеры 41x66x41 см"
+    }
+  ],
+  "product_code": "049971",
+  "product_detail_text_images": []
+}

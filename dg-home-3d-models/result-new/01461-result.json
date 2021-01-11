@@ -1,0 +1,59 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_illiuziia_kvadrat/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Иллюзия Квадрат\"",
+  "product_price": {
+    "new_price": 25000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/126860/panno_illiuziia_kvadrat__1__big.jpg",
+  "additional_images": [
+    "/pic/126860/panno_illiuziia_kvadrat__2__big.jpg",
+    "/pic/126860/panno_illiuziia_kvadrat__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P55",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "чёрный",
+    "Материал": "ткань",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "11",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p>Панно \"Иллюзия Квадрат\" — это настенное панно из ткани&nbsp;в&nbsp;раме из МДФ. Цвет рамы черный, цвет панно - черный. Подложка выполнена из зеркала, благодаря чему создается завораживающая иллюзия.<br>Размер: 900 х 900 х 50 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_illiuziia_krug/",
+      "name": "Панно \"Иллюзия Круг\"",
+      "offer_name": "чёрный, белый"
+    }
+  ],
+  "product_code": "173080",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,74 @@
+{
+  "source_url": "https://dg-home.ru/catalog/rabochie_stoly/rabochii_stol_lampa_belyi_i_zheltyi/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Рабочие столы",
+      "url": "https://dg-home.ru/catalog/rabochie_stoly/"
+    }
+  ],
+  "product_name": "Письменный стол белый с желтым декором \"Лампа\" от Odingeniy",
+  "product_price": {
+    "new_price": 92000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__1__big.jpg",
+  "additional_images": [
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__2__big.jpg",
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__3__big.jpg",
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__4__big.jpg",
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__5__big.jpg",
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__6__big.jpg",
+    "/pic/127689/rabochii_stol_lampa_belyi_i_zheltyi__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-14102",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "белый",
+    "Материал": "дерево, МДФ",
+    "Стиль": "американский, ампир, модерн, поп-арт, современный",
+    "Страна производства": "Россия",
+    "Вес": "75",
+    "Особенности": "с ящиками",
+    "Куда поставить": "в гостиную, в спальню",
+    "Количество ящиков": "3",
+    "Форма": "Прямоугольные"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Креативный и оригинальный рабочий стол со сквозным отверстием в форме лампы<br> Возможны другие отделки<br> Установка не требуется Рабочий стол \"Лампа\" белый и желтый от Odingeniy",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_23/",
+      "name": "Туалетный столик с ящиками беленый дуб \"Веджвуд\" Case",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_9/",
+      "name": "Туалетный столик с ящиками темный дуб Case",
+      "offer_name": "коричневый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_11/",
+      "name": "Туалетный столик с ящиками дуб тобакко Case",
+      "offer_name": "коричневый"
+    }
+  ],
+  "product_code": "178410",
+  "product_detail_text_images": []
+}

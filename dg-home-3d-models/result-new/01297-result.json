@@ -1,0 +1,71 @@
+{
+  "source_url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/tumba_lastochka/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Туалетные столики",
+      "url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/"
+    }
+  ],
+  "product_name": "Консоль деревянная, дуб с фигурным основанием и зеленой отделкой \"Ласточка\" от Odingeniy",
+  "product_price": {
+    "new_price": 46000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127810/tumba_lastochka__1__big.jpg",
+  "additional_images": [
+    "/pic/127810/tumba_lastochka__2__big.jpg",
+    "/pic/127810/tumba_lastochka__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-16113",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый, зеленый",
+    "Материал": "дерево, МДФ, стекло",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Россия",
+    "Вес": "30",
+    "Особенности": "без зеркала, без ножек",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в гостиную, в кабинет, в спальню, в прихожую",
+    "Материал каркаса": "дерево",
+    "Форма": "фигурные"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Дизайнерская тумба бренда ODINGENIY станет прекрасным акцентом в вашем интерьере <br>Возможны другие отделки <br>Установка не требуется",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_belenyi_dub/",
+      "name": "Консоль деревянная беленый дуб со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_venge/",
+      "name": "Консоль деревянная венге со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "венге"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/komplekt_geometriia_oreh/",
+      "name": "Консоль деревянная орех со стеклянной столешницей и подвесной полкой \"Геометрия\" Odingeniy",
+      "offer_name": "орех, коричневый"
+    }
+  ],
+  "product_code": "178418",
+  "product_detail_text_images": []
+}

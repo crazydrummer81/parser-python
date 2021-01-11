@@ -1,0 +1,69 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/_101/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Журнальные и кофейные столы",
+      "url": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/"
+    }
+  ],
+  "product_name": "Прикроватный столик деревянный прямоугольный дуб Osaka",
+  "product_price": {
+    "new_price": 5100,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/111321/_101__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0070121",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "дуб сонома, бежевый, черный",
+    "Материал": "дуб, дерево, МДФ, дерево",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Вес": "5",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, в кабинет, в прихожую, в спальню",
+    "Тип (назначение, особенности)": "прикроватные",
+    "Материал каркаса": "металл",
+    "Форма": "прямоугольные, узкие, маленькие",
+    "Тип трансформации": "нераскладной"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Часто дизайнеры прибегают к решению использовать более интересные варианты осветительных приборов и мебели вместо того, чтобы перегружать обстановку лишним декором. И на одном из первых мест по декоративности среди мебели стоят кофейные столы. Кофейный стол Osaka дубовый обладает интересным, стильным дизайном с легким оттенком классического жанра. <br>Материал: МДФ, шпон дуба.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/13rxfs5080m-gold_stol_zhurnalnyi_353550/",
+      "name": "Приставной столик стеклянный круглый с золотым основанием Attraction - золото. \nРазмеры 35x50x35 см",
+      "offer_name": "золото. \nРазмеры 35x50x35 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/13rxfs5080l-gold_stol_zhurnalnyi_353570/",
+      "name": "Приставной столик круглый резной с основанием розовое золото Attraction - золото. \nРазмеры 35x70x35 см",
+      "offer_name": "золото. \nРазмеры 35x70x35 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kofeynye_i_zhurnalnye_stoly/13rxfs5080l-silver_stol_zhurnalnyi_353570/",
+      "name": "Приставной столик круглый резной 35 см Attraction Silver - хром, черный. \nРазмеры 35x70x35 см",
+      "offer_name": "хром, черный. \nРазмеры 35x70x35 см"
+    }
+  ],
+  "product_code": "100123",
+  "product_detail_text_images": []
+}

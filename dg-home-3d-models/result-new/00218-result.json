@@ -1,0 +1,83 @@
+{
+  "source_url": "https://dg-home.ru/catalog/divany_i_kushetki/divan_metropolitan_light_brown/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Диваны",
+      "url": "https://dg-home.ru/catalog/divany_i_kushetki/"
+    }
+  ],
+  "product_name": "Диван Metropolitan прямой светло-коричневый",
+  "product_price": {
+    "new_price": 151808,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/22456/divan_metropolitan_light_brown__1__big.jpg",
+  "additional_images": [
+    "/pic/22456/divan_metropolitan_light_brown__2__big.jpg",
+    "/pic/22456/divan_metropolitan_light_brown__3__big.jpg",
+    "/pic/22456/divan_metropolitan_light_brown__4__big.jpg",
+    "/pic/22456/divan_metropolitan_light_brown__5__big.jpg",
+    "/pic/22456/divan_metropolitan_light_brown__6__big.jpg",
+    "/pic/22456/divan_metropolitan_light_brown__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "MHLIVING",
+    "Код товара": "MH-0006096",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Бежевый, светлый",
+    "Материал": "дерево, ткань",
+    "Стиль": "Современный, Модерн, Хай-тек, Арт-деко",
+    "Страна производства": "Китай",
+    "Коллекция": "Metropolitan, Элитные",
+    "Вес": "65",
+    "Особенности": "с ножками",
+    "Материал обивки": "Ткань",
+    "Цвет каркаса": "Бежевый",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет, в гостиницу",
+    "Количество мест": "трехместный",
+    "Дополнительные опции": "без спального места",
+    "Материал каркаса": "дерево",
+    "Форма": "прямые",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "без подушек",
+    "Вид спинки": "цельная",
+    "Сиденье": "подушки",
+    "Вид подлокотников": "мягкие",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Представляем вашему вниманию товар Диван Metropolitan light brown, который вы можете купить на нашем сайте. <br> Данная модель в цвете Бежевый обязательно придется по вкусу любому ценителю современных дизайнерских интерьеров. <br> А в нашем разделе Диваны представлен огромный выбор аналогов!.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_tufty-time_sofa_blueblue/",
+      "name": "Диван Tufty-Time Sofa угловой модульный синий",
+      "offer_name": "синий (Шерсть, Кашемир)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_tufty_time_sofa_fioletovo_oranzhevaia_sherst_r/",
+      "name": "Диван Tufty-Time Sofa угловой модульный фиолетовый с оранжевым",
+      "offer_name": "фиолетовый, оранжевый (Шерсть, Кашемир)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_tufty_time_sofa_fioletovo_siniaia_sherst_r/",
+      "name": "Диван Tufty-Time Sofa угловой модульный фиолетовый с синим",
+      "offer_name": "фиолетовый, синий (Шерсть, Кашемир)"
+    }
+  ],
+  "product_code": "011229",
+  "product_detail_text_images": []
+}

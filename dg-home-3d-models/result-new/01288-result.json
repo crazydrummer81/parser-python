@@ -1,0 +1,73 @@
+{
+  "source_url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/tumba_puls/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Столы",
+      "url": "https://dg-home.ru/catalog/stoly/"
+    },
+    {
+      "name": "Туалетные столики",
+      "url": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/"
+    }
+  ],
+  "product_name": "Консоль деревянная, дуб сонома со стеклянной столешницей \"Пульс\"",
+  "product_price": {
+    "new_price": 59000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127811/tumba_puls__1__big.jpg",
+  "additional_images": [
+    "/pic/127811/tumba_puls__2__big.jpg",
+    "/pic/127811/tumba_puls__3__big.jpg",
+    "/upload/resize_cache/iblock/e35/1300_1300_1/IMG_7160_min.JPG",
+    "/upload/resize_cache/iblock/c09/1300_1300_1/IMG_7429.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Odingeniy",
+    "Код товара": "OGN-16114",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "бежевый, прозрачный",
+    "Материал": "дерево, МДФ, стекло",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Россия",
+    "Вес": "25",
+    "Особенности": "без зеркала, без ножек",
+    "Цвет каркаса": "Бежевый",
+    "Куда поставить": "в гостиную, в кабинет, в спальню, в прихожую",
+    "Материал каркаса": "дерево",
+    "Форма": "фигурные"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Интересная тумба неожиданной формы от ODINGENIY станет украшением вашего интерьера <br>Возможны другие отделки <br>Установка не требуется",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_23/",
+      "name": "Туалетный столик с ящиками беленый дуб \"Веджвуд\" Case",
+      "offer_name": "беленый дуб, бежевый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_9/",
+      "name": "Туалетный столик с ящиками темный дуб Case",
+      "offer_name": "коричневый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/tualetnye_stoliki_konsoli/case_konsolnyi_stol_11/",
+      "name": "Туалетный столик с ящиками дуб тобакко Case",
+      "offer_name": "коричневый"
+    }
+  ],
+  "product_code": "178419",
+  "product_detail_text_images": []
+}

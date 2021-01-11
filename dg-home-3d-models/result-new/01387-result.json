@@ -1,0 +1,76 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/predmet_dekora_fliegen_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Предмет декора Крылья Fliegen",
+  "product_price": {
+    "new_price": 25000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/12942/predmet_dekora_fliegen_1__1__big.jpg",
+  "additional_images": [
+    "/pic/12942/predmet_dekora_fliegen_1__2__big.jpg",
+    "/pic/12942/predmet_dekora_fliegen_1__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-D-955",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Бежевый",
+    "Материал": "Дерево",
+    "Стиль": "Ампир",
+    "Страна производства": "Китай",
+    "Коллекция": "Крылья",
+    "Вес": "10",
+    "Куда поставить": "в гостиную, в кухню, в столовую, в прихожую, в кафе, ресторан, в офис, в спальню, на дачу, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Изумительно красивый настенный декор Fliegen в виде двух больших крыльев из композитного материала. Идеальный акцент для стильного интерьера, несомненно, привлечет внимание ваших гостей.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylyshki_bronza/",
+      "name": "Панно \"Крылышки (бронза)\" - бронза. \nРазмеры 37x53x6 см",
+      "offer_name": "бронза. \nРазмеры 37x53x6 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylia_zolotye/",
+      "name": "Панно \"Крылья золотые\" - золото. \nРазмеры 75x100x7 см",
+      "offer_name": "золото. \nРазмеры 75x100x7 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylyshki_shampan/",
+      "name": "Панно \"Крылышки (шампань)\" - шампань. \nРазмеры 37x53x6 см",
+      "offer_name": "шампань. \nРазмеры 37x53x6 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylia_shampan/",
+      "name": "Панно \"Крылья шампань\" - шампань. \nРазмеры 75x100x7 см",
+      "offer_name": "шампань. \nРазмеры 75x100x7 см"
+    }
+  ],
+  "product_code": "DG-005055",
+  "product_detail_text_images": []
+}

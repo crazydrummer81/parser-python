@@ -1,0 +1,61 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kartiny/kartina_maslom__venetsiia/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Картины",
+      "url": "https://dg-home.ru/catalog/kartiny/"
+    }
+  ],
+  "product_name": "Картина на холсте 120х90 см \"Венеция\"",
+  "product_price": {
+    "new_price": 30000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/137028/kartina_maslom__venetsiia__1__big.jpg",
+  "additional_images": [
+    "/pic/137028/kartina_maslom__venetsiia__2__big.jpg",
+    "/pic/137028/kartina_maslom__venetsiia__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "EVENHOME",
+    "Код товара": "EH-F-00240",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "голубой, фиолетовый, разноцветный",
+    "Материал": "дерево, ткань",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Картины маслом",
+    "Вес": "4",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет",
+    "Форма": "большие, длинные"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Репродукция в классическом обрамлении благодаря четким деталям и правильно подобранным краскам позволит прочувствовать всю красоту и неповторимость изображенного на ней сюжета, органично впишется в стиль любого интерьера и станет его особым штрихом, подарит чувство умиротворения и тепла, наполнит светом все помещение, подчеркнет изысканный вкус владельца и не останется не замеченным гостями. За счет специальной обработки поверхность изделия отталкивает пыль и загрязнения. Только для сухих помещений.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kartiny/kartina_maslom__venetsiia___2/",
+      "name": "Картина на холсте 120х90 см \"Венеция",
+      "offer_name": "бежевый, желтый, синий, разноцветный"
+    }
+  ],
+  "product_code": "129949",
+  "product_detail_text_images": []
+}

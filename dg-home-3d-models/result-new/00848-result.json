@@ -1,0 +1,85 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/polubarnyi_stul_eiffel_2/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Полубарный стул со спинкой белый Eiffel (eames style)",
+  "product_price": {
+    "new_price": 8100,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51647/polubarnyi_stul_eiffel_2__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0062377",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "белый",
+    "Материал": "дерево, пластик",
+    "Стиль": "скандинавский, современный",
+    "Страна производства": "Китай",
+    "Вес": "7.19",
+    "Особенности": "без подушек",
+    "Цвет каркаса": "Коричневый",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Дизайнер (бренд) оригинала": "Чарльз и Рэй Имз",
+    "Материал каркаса": "дерево",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "2",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "Прямая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "68",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Полубарный стул Eiffel — это инновационная модель, которая стала результатом гармоничного смешения разных стилей. Наиболее ярко в дизайне данной модели прослеживается стиль хай-тек — стильные черный и белый цвета, плавные изгибы, минимальное количество деталей и необыкновенно красивый внешний вид. &nbsp;&nbsp;&nbsp;&nbsp; Хай-тек проявляет себя в данном стуле и в качестве материалов, которые используются для его создания. Спинка и сиденье сделаны из полипропилена — очень легкого, но прочного материала.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_3/",
+      "name": "Барный стул белый Neo",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_s_miagkoi_obivkoi_7/",
+      "name": "Барный стул с мягкой обивкой синий Neo",
+      "offer_name": "синий (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo_2/",
+      "name": "Барный стул черный с ножками хром Neo",
+      "offer_name": "черный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_neo/",
+      "name": "Барный стул черный Neo",
+      "offer_name": "черный"
+    }
+  ],
+  "product_code": "050449",
+  "product_detail_text_images": []
+}

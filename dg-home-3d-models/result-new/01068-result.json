@@ -1,0 +1,80 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_mies_s_podlokotnikami_1/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Mies с подлокотниками",
+  "product_price": {
+    "new_price": 12480,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55996/stul_mies_s_podlokotnikami_1__1__big.jpg",
+  "additional_images": [
+    "/pic/55996/stul_mies_s_podlokotnikami_1__2__big.jpg",
+    "/pic/55996/stul_mies_s_podlokotnikami_1__3__big.jpg",
+    "/pic/55996/stul_mies_s_podlokotnikami_1__4__big.jpg",
+    "/pic/55996/stul_mies_s_podlokotnikami_1__5__big.jpg",
+    "/pic/55996/stul_mies_s_podlokotnikami_1__6__big.jpg",
+    "/pic/55996/stul_mies_s_podlokotnikami_1__7__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021434",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево, металл",
+    "Стиль": "лофт, минимализм, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Mies",
+    "Вес": "7",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, для комнаты, в кабинет, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в спальню, в столовую",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "Изогнутая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "с подлокотниками, жесткие, деревянные",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Стул Mies — это удачный пример совмещения натуральных текстур и ярких цветов. Гармоничное сочетание цветов и материалов позволило ему стать красивым, но совершенно не кричащим.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_buch_3_5/",
+      "name": "Барный стул Buch 3 белый - коричневый (Ткань). \nРазмеры 40x85,5x45 см",
+      "offer_name": "коричневый (Ткань). \nРазмеры 40x85,5x45 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_buch_3_/",
+      "name": "Барный стул белый дуб с серым сиденьем Buch 3 - серый (Ткань). \nРазмеры 40x85,5x45 см",
+      "offer_name": "серый (Ткань). \nРазмеры 40x85,5x45 см"
+    }
+  ],
+  "product_code": "050108",
+  "product_detail_text_images": []
+}

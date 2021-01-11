@@ -1,0 +1,80 @@
+{
+  "source_url": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_3_bordo/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Пуфы",
+      "url": "https://dg-home.ru/catalog/pufy_i_ottomanki/"
+    }
+  ],
+  "product_name": "Пуф Sangry 3 бордовый",
+  "product_price": {
+    "new_price": 14643,
+    "old_price": 16270
+  },
+  "pruduct_detail_image": "/pic/111408/puf_sangry_3_bordo__1__big.jpg",
+  "additional_images": [
+    "/pic/111408/puf_sangry_3_bordo__2__big.jpg",
+    "/pic/111408/puf_sangry_3_bordo__3__big.jpg",
+    "/pic/111408/puf_sangry_3_bordo__4__big.jpg",
+    "/pic/111408/puf_sangry_3_bordo__5__big.jpg",
+    "/upload/iblock/f15/photofacefun_com_1526723979.jpg",
+    "/upload/iblock/734/puf_sangry.jpg",
+    "/upload/iblock/d0e/febrick_round_velvet_pouffe_d42cm-_2_.jpg",
+    "/upload/iblock/a58/ferm_Living_Pouf_Round_verschiedene_Groessen_grau_Teppich_Ambiente.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-PF20-2",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Бордовый",
+    "Материал": "Ткань, дерево",
+    "Стиль": "Модерн, Классический, Современный",
+    "Страна производства": "Россия",
+    "Коллекция": "Дизайнерские, Sangry",
+    "Вес": "7",
+    "Особенности": "без ножек",
+    "Куда поставить": "в гостиную, в столовую, в офис, в детскую, в спальню, на дачу, в кабинет",
+    "Материал каркаса": "дерево",
+    "Форма": "круглые",
+    "Количество мест у товара": "1",
+    "Тип спинки/изголовья": "без спинки",
+    "Вид спинки": "Нет спинки",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Интересная форма и яркая расцветка добавит классическую элегантность к Вашему пространству.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_3_niruza/",
+      "name": "Пуф Sangry 3 бирюзовый",
+      "offer_name": "Бирюзовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_3_seryi/",
+      "name": "Пуф Sangry 3 серый",
+      "offer_name": "Серый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/pufy_i_ottomanki/puf_sangry_3_siniy/",
+      "name": "Пуф Sangry 3 синий",
+      "offer_name": "Синий"
+    }
+  ],
+  "product_code": "DG-123670",
+  "product_detail_text_images": []
+}

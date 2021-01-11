@@ -1,0 +1,71 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_greta_verbliuzhii/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло GRETA коричневое",
+  "product_price": {
+    "new_price": 188435,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/148875/kreslo_greta_verbliuzhii__1__big.jpg",
+  "additional_images": [
+    "/pic/148875/kreslo_greta_verbliuzhii__2__big.jpg",
+    "/pic/148875/kreslo_greta_verbliuzhii__3__big.jpg",
+    "/pic/148875/kreslo_greta_verbliuzhii__4__big.jpg",
+    "/pic/148875/kreslo_greta_verbliuzhii__5__big.jpg",
+    "/pic/148875/kreslo_greta_verbliuzhii__6__big.jpg",
+    "/upload/iblock/943/129417_cosmorelax_image.jpeg",
+    "/upload/iblock/e81/67936_cosmorelax_image.jpeg"
+  ],
+  "product_characteristics": {
+    "Бренд": "SITS",
+    "Код товара": "STS-S1216",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "кожа",
+    "Страна производства": "Швеция",
+    "Коллекция": "GRETA",
+    "Вес": "29",
+    "Особенности": "с ножками",
+    "Материал обивки": "кожа",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "высокая",
+    "Тип спинки/изголовья": "мягкая, с ушами",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "с подлокотниками, мягкие",
+    "Крутящееся сиденье": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Кожа Aniline, несъемный чехол, Есть мебель, которая как и люди, ароматы или пейзажи, заставляет Вас чувствовать Ваш дом. Это и есть GRETA, изящная, но при этом прочная и удивительно удобная. Есть что-то в нежных изгибах ее спинки, в ее красивых деревянных ножках, и в ее комфорте, обеспеченном дополнительной подушкой. Именно это заставляет Вас выбрать GRETA, как только Вы входите в комнату, где она стоит. GRETA – добро пожаловать домой! Кресло GRETA коричневое.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_pudrovo_rozovyi/",
+      "name": "Кресло STEFANI пудрово-розовое - Розовый (Ткань). \nРазмеры 73x85x77 см",
+      "offer_name": "Розовый (Ткань). \nРазмеры 73x85x77 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_stefani_temno_rozovyi/",
+      "name": "Кресло STEFANI темно-розовое - розовый (Ткань). \nРазмеры 73x85x77 см",
+      "offer_name": "розовый (Ткань). \nРазмеры 73x85x77 см"
+    }
+  ],
+  "product_code": "192012",
+  "product_detail_text_images": []
+}

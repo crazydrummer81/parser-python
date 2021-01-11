@@ -1,0 +1,85 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_cross/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Cross светлый орех",
+  "product_price": {
+    "new_price": 9690,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/79504/stul_cross__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Ресторация",
+    "Код товара": "RC-930103",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево",
+    "Стиль": "прованс, французский",
+    "Страна производства": "Россия",
+    "Коллекция": "Cross",
+    "Вес": "7",
+    "Куда поставить": "в гостиную, для комнаты, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "Обеденный",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет",
+    "Форма": "Квадратная"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Каркас - вяз, цвет каркаса - Выветренный дуб, сиденье и спинка необитые, сиденье - фанерка. Стопируемый.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_8/",
+      "name": "Полубарный стул белый без спинки 66 см Marais Color 2 - белый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "белый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_14/",
+      "name": "Полубарный стул голубой 66 см Marais Color 2 - голубой (-). \nРазмеры 41x66x41 см",
+      "offer_name": "голубой (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_9/",
+      "name": "Полубарный стул желтый 66 см Marais Color 2 - желтый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "желтый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_11/",
+      "name": "Полубарный стул серо-зеленый 66 см Marais Color 2 - зеленый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "зеленый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_10/",
+      "name": "Полубарный стул красный 66 см Marais Color 2 - красный (-). \nРазмеры 41x66x41 см",
+      "offer_name": "красный (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_12/",
+      "name": "Полубарный стул коралловый 66 см Marais Color 2 - оранжевый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "оранжевый (-). \nРазмеры 41x66x41 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_marais_color_2_13/",
+      "name": "Полубарный стул серый Marais Color 2 - серый (-). \nРазмеры 41x66x41 см",
+      "offer_name": "серый (-). \nРазмеры 41x66x41 см"
+    }
+  ],
+  "product_code": "096883",
+  "product_detail_text_images": []
+}

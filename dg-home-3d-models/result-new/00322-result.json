@@ -1,0 +1,102 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/kreslo_barcelona_3_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло Barcelona 3 Р молочное",
+  "product_price": {
+    "new_price": 101140,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/64098/kreslo_barcelona_3_3__1__big.jpg",
+  "additional_images": [
+    "/pic/64098/kreslo_barcelona_3_3__2__big.jpg",
+    "/pic/64098/kreslo_barcelona_3_3__3__big.jpg",
+    "/pic/64098/kreslo_barcelona_3_3__4__big.jpg",
+    "/pic/64098/kreslo_barcelona_3_3__5__big.jpg",
+    "/pic/64098/kreslo_barcelona_3_3__6__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0011991",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Белый",
+    "Материал": "Кожа, Металл",
+    "Стиль": "Хай-Тек, Современный, Скандинавский, Лофт",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Barcelona",
+    "Вес": "30",
+    "Особенности": "с ножками",
+    "Материал обивки": "кожа",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "Дизайнерские",
+    "Дизайнер (бренд) оригинала": "Ludwig Mies van der Rohe",
+    "Материал каркаса": "металл",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая, с каретной стяжкой",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Две",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Как так могло получиться, что кресло, созданное 80 лет назад, до сих пор остается для современной мебели иконой стиля? Кресло Barcelona разрабатывалось для испанской королевской семьи, однако не оказалось востребованным, но нашло своего потребителя уже в новейшее время.<br> Дизайн кресла был результатом сотрудничества Лили Рейх и Людвига Миса ван дер Роэ.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_rom73/",
+      "name": "Кресло дизайнерское полукруглое велюр солнечный лайм Julius",
+      "offer_name": "Салатовый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_kremovoe_sultan_cream/",
+      "name": "Кресло дизайнерское полукруглое кремовое Julius Cream",
+      "offer_name": "бежевый (велюр, ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_bezhevoe_sultan_cappuchino/",
+      "name": "Кресло дизайнерское полукруглое бежевое Julius Cappuchino",
+      "offer_name": "бежевый, серый (велюр, ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_blue/",
+      "name": "Кресло дизайнерское полукруглое голубое Julius",
+      "offer_name": "Голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_seroe/",
+      "name": "Кресло дизайнерское полукруглое серое Julius",
+      "offer_name": "Серый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair_chernoe/",
+      "name": "Кресло дизайнерское полукруглое черное Julius",
+      "offer_name": "Черный (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_julius_chair/",
+      "name": "Кресло дизайнерское полукруглое розовое Julius",
+      "offer_name": "розовый (Ткань)"
+    }
+  ],
+  "product_code": "050287",
+  "product_detail_text_images": []
+}

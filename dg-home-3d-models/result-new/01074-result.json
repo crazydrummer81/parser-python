@@ -1,0 +1,120 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_marais_6/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул Marais серебряный",
+  "product_price": {
+    "new_price": 14890,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/55821/stul_marais_6__1__big.jpg",
+  "additional_images": [
+    "/pic/55821/stul_marais_6__2__big.jpg",
+    "/pic/55821/stul_marais_6__3__big.jpg",
+    "/pic/55821/stul_marais_6__4__big.jpg",
+    "/upload/iblock/80a/Stul-Marais-Color-CHyernyy.jpg",
+    "/upload/iblock/54a/Stul-Marais-2.jpg",
+    "/upload/iblock/0c0/Stul-Marais-Color-CHyernyy-2.jpg",
+    "/upload/iblock/d81/Stul-Marais-3.jpg",
+    "/upload/iblock/886/IMG_4075.JPG",
+    "/upload/resize_cache/iblock/4b7/1300_1300_1/IMG_4073.JPG"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-003079",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серый",
+    "Материал": "металл",
+    "Стиль": "лофт, минимализм, ретро",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Marais",
+    "Вес": "5.25",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Хром",
+    "Куда поставить": "в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "дизайнерский, обеденный",
+    "Дизайнер (бренд) оригинала": "Xavier Pauchard",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "твердая",
+    "Вид спинки": "изогнутая, резная",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "45",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Сталь и больше ничего. Блестящее применение этого простого материала демонстрирует стул Marais. Тонкая стальная трубка с широкой вертикальной панелью образует спинку, сиденье с едва заметным углублением и несколькими декоративными отверстиями аккуратно приварено к цельному каркасу ножек",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_7/",
+      "name": "Стул венский металлический белый Marais Color",
+      "offer_name": "белый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_12/",
+      "name": "Стул венский металлический голубой Marais Color",
+      "offer_name": "голубой (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_10/",
+      "name": "Стул венский металлический желтый Marais Color",
+      "offer_name": "желтый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_14/",
+      "name": "Стул венский металлический зеленый Marais Color",
+      "offer_name": "зеленый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_aged_1/",
+      "name": "Стул венский металлический состаренный Marais Aged",
+      "offer_name": "коричневый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_13/",
+      "name": "Стул венский металлический красный Marais Color",
+      "offer_name": "красный (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_11/",
+      "name": "Стул венский металлический оранжевый Marais Color",
+      "offer_name": "оранжевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_8/",
+      "name": "Стул венский металлический серый Marais Color",
+      "offer_name": "серый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_marais_color_9/",
+      "name": "Стул венский металлический черный Marais Color",
+      "offer_name": "черный (-)"
+    }
+  ],
+  "product_code": "049933",
+  "product_detail_text_images": []
+}

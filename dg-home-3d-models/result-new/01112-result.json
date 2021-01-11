@@ -1,0 +1,88 @@
+{
+  "source_url": "https://dg-home.ru/catalog/barnye_stulya/barnyi_stul_vintner_3/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    },
+    {
+      "name": "Барные стулья",
+      "url": "https://dg-home.ru/catalog/barnye_stulya/"
+    }
+  ],
+  "product_name": "Стул барный Vintner черный",
+  "product_price": {
+    "new_price": 9880,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/51714/barnyi_stul_vintner_3__1__big.jpg",
+  "additional_images": [
+    "/pic/51714/barnyi_stul_vintner_3__2__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__3__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__4__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__5__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__6__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__7__big.jpg",
+    "/pic/51714/barnyi_stul_vintner_3__8__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0021462",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "коричневый",
+    "Материал": "дерево, металл",
+    "Стиль": "лофт, ретро",
+    "Страна производства": "Китай",
+    "Вес": "10",
+    "Особенности": "без подушек",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в бар, в гостиную, для комнаты, в кафе, ресторан, в отель, в гостиницу, в кухню, в столовую",
+    "Дополнительные опции": "регулировка высоты сиденья",
+    "Материал каркаса": "металл",
+    "Форма": "Круглая",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "Изогнутая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "67",
+    "Регулировка высоты сиденья": "Да",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Часто мебель в индустриальном стиле бывает яркой, красочной и вполне минималистичной. Высота стула регулируется: 101-115 см.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_tulip_/",
+      "name": "Стул пластиковый белый с бежевой подушкой Tulip",
+      "offer_name": "белый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_tulip/",
+      "name": "Стул пластиковый белый с серой подушкой Tulip",
+      "offer_name": "серый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_tulip_13/",
+      "name": "Стул Tulip матовый черный с красной подушкой",
+      "offer_name": "черный (Ткань)"
+    }
+  ],
+  "product_code": "051413",
+  "product_detail_text_images": []
+}

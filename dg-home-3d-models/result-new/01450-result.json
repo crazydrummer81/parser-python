@@ -1,0 +1,59 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_enigma/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Энигма\"",
+  "product_price": {
+    "new_price": 25000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127142/panno_enigma__1__big.jpg",
+  "additional_images": [
+    "/pic/127142/panno_enigma__2__big.jpg",
+    "/pic/127142/panno_enigma__3__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P63",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серебро",
+    "Материал": "МДФ",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "11",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p>Панно \"Энигма\" — это настенное панно из фрезерованного МДФ. Цвет панно серебро. Данное панно можно повесить как вертикально так и горизонтально.<br>Размер: 1500 х 500 х 30 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_perelivy_2/",
+      "name": "Панно \"Переливы 2\"",
+      "offer_name": "серебро"
+    }
+  ],
+  "product_code": "173088",
+  "product_detail_text_images": []
+}

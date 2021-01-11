@@ -1,0 +1,58 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_volny/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Волны\"",
+  "product_price": {
+    "new_price": 33000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127152/panno_volny__1__big.jpg",
+  "additional_images": [
+    "/pic/127152/panno_volny__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P79",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "серебро",
+    "Материал": "МДФ",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "16",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p>Панно \"Волны\" — это настенное панно сделано из МДФ на который нанесена моделирущая паста и затем окрашено. Цвет панно серебро.&nbsp;<br>Размер: 2000 х 800 х 55 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kartiny/kartina_maslom__venetsiia/",
+      "name": "Картина на холсте 120х90 см \"Венеция\"",
+      "offer_name": "голубой, фиолетовый, разноцветный"
+    }
+  ],
+  "product_code": "173101",
+  "product_detail_text_images": []
+}

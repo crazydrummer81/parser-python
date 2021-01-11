@@ -1,0 +1,88 @@
+{
+  "source_url": "https://dg-home.ru/catalog/stulya/stul_pavesino_2_5/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Стулья",
+      "url": "https://dg-home.ru/catalog/stulya/"
+    }
+  ],
+  "product_name": "Стул металлический с желтой спинкой Pavesino 2",
+  "product_price": {
+    "new_price": 12100,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/56038/stul_pavesino_2_5__1__big.jpg",
+  "additional_images": [
+    "/pic/56038/stul_pavesino_2_5__2__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__3__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__4__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__5__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__6__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__7__big.jpg",
+    "/pic/56038/stul_pavesino_2_5__8__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0042780",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "желтый",
+    "Материал": "дерево, металл",
+    "Стиль": "лофт, современный, хай-тек",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские, Pavesino",
+    "Вес": "13",
+    "Особенности": "без подушек",
+    "Тип цоколя": "Е14-1",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, для комнаты, в кухню, в прихожую, в столовую, в дом, на дачу",
+    "Тип (назначение, особенности)": "дизайнерский, обеденный",
+    "Дизайнер (бренд) оригинала": "Sylvia Marlia",
+    "Мощность 1 лампы": "0, 01",
+    "Материал каркаса": "металл",
+    "Форма": "Квадратная",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "деревянная, твердая",
+    "Вид спинки": "Изогнутая",
+    "Сиденье": "жесткое, цельное",
+    "Вид подлокотников": "без подлокотников",
+    "Высота сиденья": "47",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "Четыре"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Простой, классической формы стул Pavesino&nbsp;&nbsp;словно создан дополнять уже готовый интерьер, оттенять его своими строгими, элегантными линиями и формой.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_fletcher_s_podlokotnikami_1/",
+      "name": "Стул деревянный с подлокотниками Dutch 1 Arm",
+      "offer_name": "бежевый (-)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_dutch_2_4/",
+      "name": "Стул деревянный орех с черной кожей Dutch 2",
+      "offer_name": "коричневый (Натуральная кожа)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/stulya/stul_dutch_1_1/",
+      "name": "Стул деревянный орех с черной кожей Dutch 1 Soft",
+      "offer_name": "коричневый (Натуральная кожа)"
+    }
+  ],
+  "product_code": "050150",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,89 @@
+{
+  "source_url": "https://dg-home.ru/catalog/podushki/podushka_rococo_7/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Текстиль",
+      "url": "https://dg-home.ru/catalog/tekstil/"
+    },
+    {
+      "name": "Подушки",
+      "url": "https://dg-home.ru/catalog/podushki/"
+    }
+  ],
+  "product_name": "Подушка Rococo Красный",
+  "product_price": {
+    "new_price": 7100,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/66088/podushka_rococo_7__1__big.jpg",
+  "additional_images": [
+    "/pic/66088/podushka_rococo_7__2__big.jpg",
+    "/pic/66088/podushka_rococo_7__3__big.jpg",
+    "/pic/66088/podushka_rococo_7__4__big.jpg",
+    "/pic/66088/podushka_rococo_7__5__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Cosmo",
+    "Код товара": "CS-F-0020128",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Красный",
+    "Материал": "Ткань",
+    "Стиль": "Современный",
+    "Страна производства": "Китай",
+    "Коллекция": "Орнамент",
+    "Вес": "1.17",
+    "Особенности": "с рисунком",
+    "Тип цоколя": "Е14-1",
+    "Куда поставить": "в гостиную, в офис, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "декоративные",
+    "Посудомоечная машина": "Нет",
+    "Мощность 1 лампы": "0, 01",
+    "Багет": "Нет",
+    "Форма": "Прямоугольные",
+    "Количество мест у товара": "1"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Подушка RococoВ отлично подходит для декорирования гостиных в скандинавском стиле. Она вручную создана из экологичных натуральных материалов, приятных на ощупь. Для своих покупателей компания Cosmo предлагает широкий спектр цветовых вариантов, которые помогут разнообразить любой современный интерьер. Сочные цвета в сочетании с мягкостью изделия угодят любому! <br> <br> Данную модель можно использовать в качестве удобного стульчика для маленьких гостей и оригинального дизайнерского элемента в го...",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_beloe/",
+      "name": "Зеркало напольное в полный рост белое с гвоздиками",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_beloe/",
+      "name": "Зеркало напольное в полный рост белое",
+      "offer_name": "белый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sero-rozovoe/",
+      "name": "Зеркало напольное в полный рост серо-розовое с гвоздиками",
+      "offer_name": "бронза, розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_perlamutrovoe/",
+      "name": "Зеркало напольное в полный рост розовое",
+      "offer_name": "розовый"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_ekokozha_serebro/",
+      "name": "Зеркало напольное в полный рост серебристое",
+      "offer_name": "серебро"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/zerkala/zerkalo_napolnoe_s_gvozdikami_sinee/",
+      "name": "Зеркало напольное в полный рост синее с гвоздиками",
+      "offer_name": "синий"
+    }
+  ],
+  "product_code": "050494",
+  "product_detail_text_images": []
+}

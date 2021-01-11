@@ -1,0 +1,87 @@
+{
+  "source_url": "https://dg-home.ru/catalog/kresla/pjc742-pj842_kreslo_bezhevyi_veliur_69h40h58/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Кресла",
+      "url": "https://dg-home.ru/catalog/kresla/"
+    }
+  ],
+  "product_name": "Кресло мягкое бежевое с фигурными ножками Sereno",
+  "product_price": {
+    "new_price": 19800,
+    "old_price": 33000
+  },
+  "pruduct_detail_image": "/pic/37376/pjc742-pj842_kreslo_bezhevyi_veliur_69h40h58__1__big.jpg",
+  "additional_images": [],
+  "product_characteristics": {
+    "Бренд": "Garda Decor",
+    "Код товара": "GD-PJC742-PJ842",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "Бежевый",
+    "Материал": "велюр, дерево, ткань",
+    "Страна производства": "Китай",
+    "Коллекция": "Дизайнерские",
+    "Вес": "30",
+    "Особенности": "с ножками",
+    "Материал обивки": "велюр, ткань",
+    "Цвет каркаса": "Черный",
+    "Куда поставить": "в гостиную, в кухню, в столовую, в прихожую, в детскую, в спальню, на дачу, в кабинет",
+    "Тип (назначение, особенности)": "интерьерные",
+    "Материал каркаса": "дерево",
+    "Тип трансформации": "нераскладной",
+    "Высота спинки/изголовья": "средняя",
+    "Тип спинки/изголовья": "мягкая, с каретной стяжкой",
+    "Сиденье": "мягкое",
+    "Вид подлокотников": "без подлокотников",
+    "Крутящееся сиденье": "Нет",
+    "Количество ножек": "4"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> бежевый велюр, тёмное дерево (дуб)",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_11/",
+      "name": "Кресло Contour 2 бежевое",
+      "offer_name": "Коричневый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_8/",
+      "name": "Кресло дизайнерское голубое Contour 2",
+      "offer_name": "голубой (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_13/",
+      "name": "Кресло дизайнерское желтое Contour 2",
+      "offer_name": "желтый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_9/",
+      "name": "Кресло дизайнерское салатовое Contour 2",
+      "offer_name": "зеленый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_7/",
+      "name": "Кресло дизайнерское оранжевое Contour 2",
+      "offer_name": "оранжевый (Ткань)"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/kresla/kreslo_contour_2_10/",
+      "name": "Кресло дизайнерское серое Contour 2",
+      "offer_name": "серый (Ткань)"
+    }
+  ],
+  "product_code": "033647",
+  "product_detail_text_images": []
+}

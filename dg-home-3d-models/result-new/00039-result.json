@@ -1,0 +1,78 @@
+{
+  "source_url": "https://dg-home.ru/catalog/divany_i_kushetki/divan_munna_koral/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Мебель",
+      "url": "https://dg-home.ru/catalog/mebel/"
+    },
+    {
+      "name": "Диваны",
+      "url": "https://dg-home.ru/catalog/divany_i_kushetki/"
+    }
+  ],
+  "product_name": "Диван Munna прямой кораловый",
+  "product_price": {
+    "new_price": 143000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/111305/divan_munna_koral__1__big.jpg",
+  "additional_images": [
+    "/pic/111305/divan_munna_koral__2__big.jpg",
+    "/pic/111305/divan_munna_koral__3__big.jpg",
+    "/pic/111305/divan_munna_koral__4__big.jpg",
+    "/pic/111305/divan_munna_koral__5__big.jpg",
+    "/pic/111305/divan_munna_koral__6__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "DG-HOME",
+    "Код товара": "DG-RF-F-SF51",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "розовый",
+    "Материал": "ткань, велюр",
+    "Стиль": "модерн, фьюжн, эклектика",
+    "Страна производства": "Россия",
+    "Коллекция": "Munna, Элитные, Красивые",
+    "Вес": "75",
+    "Требуется ли сборка?": "нет",
+    "Особенности": "без ножек",
+    "Материал обивки": "Велюр, Микровелюр",
+    "Куда поставить": "в гостиную, в столовую, в офис, в спальню, на дачу, в кабинет",
+    "Количество мест": "двухместный",
+    "Дополнительные опции": "без спального места",
+    "Форма": "прямые",
+    "Тип трансформации": "нераскладной",
+    "Количество мест у товара": "1",
+    "Высота спинки/изголовья": "низкая",
+    "Тип спинки/изголовья": "без подушек",
+    "Вид спинки": "цельная",
+    "Сиденье": "мягкое, цельное",
+    "Вид подлокотников": "с подлокотниками, мягкие, узкие",
+    "Регулировка высоты сиденья": "Нет",
+    "Крутящееся сиденье": "Нет",
+    "Вид наполнения": "ППУ"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> Представляем вашему вниманию: Диван Munna прямой кораловый. Диван Munna с отделкой из бахромы придаст кокетства вашему интерьеру.<br> Цвет бахромы может быть любой.",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/divan_barcelona_1/",
+      "name": "Диван Barcelona прямой серый - серый, светлый (экокожа). \nРазмеры 133x79x78 см",
+      "offer_name": "серый, светлый (экокожа). \nРазмеры 133x79x78 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/divany_i_kushetki/_88/",
+      "name": "Диван прямой черный со стежкой Barcelona - черный (экокожа). \nРазмеры 133x79x78 см",
+      "offer_name": "черный (экокожа). \nРазмеры 133x79x78 см"
+    }
+  ],
+  "product_code": "DG-123705",
+  "product_detail_text_images": []
+}

@@ -1,0 +1,73 @@
+{
+  "source_url": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_pevitsa/",
+  "product_category_chain": [
+    {
+      "name": "DGHome",
+      "url": "https://dg-home.ru/"
+    },
+    {
+      "name": "Каталог DGHome",
+      "url": "https://dg-home.ru/catalog/"
+    },
+    {
+      "name": "Декор",
+      "url": "https://dg-home.ru/catalog/dekor/"
+    },
+    {
+      "name": "Настенный декор",
+      "url": "https://dg-home.ru/catalog/dekor_sten/"
+    },
+    {
+      "name": "Объмный декор",
+      "url": "https://dg-home.ru/catalog/obyemnyy_dekor/"
+    }
+  ],
+  "product_name": "Панно \"Певица\"",
+  "product_price": {
+    "new_price": 7000,
+    "old_price": 0
+  },
+  "pruduct_detail_image": "/pic/127017/panno_pevitsa__1__big.jpg",
+  "additional_images": [
+    "/pic/127017/panno_pevitsa__2__big.jpg"
+  ],
+  "product_characteristics": {
+    "Бренд": "Mart Gallery",
+    "Код товара": "MG-D-P28",
+    "Срок гарантии": "12 месяцев",
+    "Цвет": "чёрный, серебро",
+    "Материал": "композитный материал",
+    "Стиль": "Современный",
+    "Страна производства": "Россия",
+    "Вес": "5",
+    "Куда поставить": "в гостиную, в спально, в прихожую, в кухню, в кабинет",
+    "Посудомоечная машина": "Нет",
+    "Багет": "Нет"
+  },
+  "product_detail_text": "<header class=\"desc-tabs--content-title tablet-only\"> Описание</header> <p><span>Панно \"Певица\" — это настенное панно из композитного материала в&nbsp;раме из шпонированного МДФ&nbsp;под стеклом. Цвет рамы черный с текстурой дерева, цвет панно - серебристый металлик. Подложка выполнена из фанеры обтянутой черным холстом, паспарту выполнено из пластика&nbsp;обтянутого бежевым холстом.&nbsp;</span><br>Размер: 300 х 500 х 30 мм</p> <p> Закажите обратный звонок и наш менеджер перезвонит вам в ближайшее время.</p>",
+  "product_preview_text": "",
+  "product_offers": [
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylyshki_bronza/",
+      "name": "Панно \"Крылышки (бронза)\" - бронза. \nРазмеры 37x53x6 см",
+      "offer_name": "бронза. \nРазмеры 37x53x6 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylia_zolotye/",
+      "name": "Панно \"Крылья золотые\" - золото. \nРазмеры 75x100x7 см",
+      "offer_name": "золото. \nРазмеры 75x100x7 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylia/",
+      "name": "Панно \"Крылья (серебро)\" - серебро. \nРазмеры 75x100x7 см",
+      "offer_name": "серебро. \nРазмеры 75x100x7 см"
+    },
+    {
+      "href": "https://dg-home.ru/catalog/obyemnyy_dekor/panno_krylyshki_shampan/",
+      "name": "Панно \"Крылышки (шампань)\" - шампань. \nРазмеры 37x53x6 см",
+      "offer_name": "шампань. \nРазмеры 37x53x6 см"
+    }
+  ],
+  "product_code": "173053",
+  "product_detail_text_images": []
+}
