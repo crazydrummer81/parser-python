@@ -81,7 +81,7 @@ result_csv = ''
 image_prefix = '/upload/mh'
 model_prefix = '/upload/3d_models/'
 
-part_n = 100
+part_n = 2000
 part_i = 0
 part = []
 parts = []
@@ -107,7 +107,7 @@ for i, filename in enumerate(files):
 			target_dict = {
 				"IE_XML_ID" : '"%s"' % source_dict['product_code'],
 				"SKU" :  'MH-%s' % ( ('%s' % source_dict['product_code'] ).replace('DG-', '')),
-				"3D_MODEL": model_url,
+				"3D_MODEL": model_url.replace('MH-', ''),
 				# "URL": source_dict['source_url'].replace('https://dg-home.ru/', '/'),
 				"NAME": source_dict['product_name'],
 				"NAME_ALIAS": transliterate(source_dict['product_name']).lower(),
@@ -118,6 +118,7 @@ for i, filename in enumerate(files):
 				# "MORE_IMAGES": ';'.join([(image_prefix + url) for url in source_dict['additional_images']]),
 				"DETAIL_TEXT": re.sub(r'\s+', ' ', source_dict['product_detail_text']).strip() 
 			}
+			target_dict["IC_GROUP5_ALIAS"] = 'Y' if target_dict['3D_MODEL'] else 'N'
 
 			for ic in range(6):
 				# print(i,cat)
@@ -139,7 +140,14 @@ for i, filename in enumerate(files):
 					target_dict["IC_GROUP%s_ALIAS" % ic] = ''
 					# target_dict["IC_GROUP_3D%s" % ic] = ''
 				
+				target_dict["IC_GROUP0_ALIAS"] = 'html'
 				target_dict["IC_GROUP1"] = '3D-модели'
+				target_dict["IC_GROUP1_ALIAS"] = image_prefix + source_dict['pruduct_detail_image']
+				
+
+				if int(source_dict["product_price"]["old_price"]) == 0:
+					target_dict["PRICE_OLD"] = str(source_dict["product_price"]["new_price"])
+
 
 			for prop in prop_keys:
 				# print (prop)
@@ -149,7 +157,7 @@ for i, filename in enumerate(files):
 						target_dict[prop] = target_dict[prop].replace(' ', '').replace('.', ',').replace('DG-HOME', '')
 				else:
 					target_dict[prop] = ''
-			target_dict['CURRENCY'] = 'RUR'
+			target_dict['CURRENCY'] = 'RUB'
 			target_dict['Бренд'] = target_dict['Бренд'].replace('DG-HOME', '')
 
 			
@@ -175,8 +183,8 @@ parts.append(part) # Добавляем последнюю часть
 			
 csv_headers = '^'.join(target_dict.keys())
 
-if not True:
-	result_filename = 'dg-home-3d-%s.csv' % current_time
+if True:
+	result_filename = 'dg-home-3d-all-%s.csv' % current_time
 	with open(result_folder+result_filename, 'w', encoding='utf-8') as ft:
 		ft.write(csv_headers + '\n' + result_csv + '\n')
 

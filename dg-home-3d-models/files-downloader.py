@@ -15,7 +15,7 @@ class Link:
 		self.filename = matches.group(4)
 		self.url = img_url
 
-urls_fileame = 'images-201210-144141.txt'
+urls_fileame = 'images-210113-003350.txt'
 result_dir = 'D:/busines/SEO/businessprocess.kz/maisonhause.com/parsing/dg-home-3d/images'
 url_prefix = 'https://dg-home.ru'
 
